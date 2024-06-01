@@ -1,0 +1,43 @@
+# Domains to be added only to the pro, pro++ and ultimate list.
+#
+# RULES:
+#  - One domain per line
+#  - The domain should not already be included
+#  - The domain should not be dead 
+#  - If necessary, please leave a comment before the added domains. Comments must start with #.
+#  - Please insert domains under the comment BEGIN. 
+#  - Please ensure that there is a blank line before and after the inserted text block.
+
+# BEGIN
+
+# https://github.com/hagezi/dns-blocklists/issues/2791
+snippets.cdn.mozilla.net
+snippets.allizom.org
+
+# https://github.com/hagezi/dns-blocklists/issues/2733
+stripchat.com
+stripchat.global
+stripchat.red
+strip.chat
+
+# https://github.com/hagezi/dns-blocklists/issues/2725
+onlyscoop.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2724
+cambash.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2721
+strpst.com
+doppiocdn.net
+
+# https://github.com/hagezi/dns-blocklists/issues/2719
+swim-in-place.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2718
+hupuza.com
+
+# EA Error Log
+collector.errors.ea.com
+a-collector.errors.ea.com
+
+# END
