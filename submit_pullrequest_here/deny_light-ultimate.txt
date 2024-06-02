@@ -10,6 +10,10 @@
 
 # BEGIN
 
+# https://github.com/hagezi/dns-blocklists/issues/2828
+footprint.network
+footprint.network.cdn.cloudflare.net
+
 # https://github.com/hagezi/dns-blocklists/issues/2823
 ads-api.x.com
 
