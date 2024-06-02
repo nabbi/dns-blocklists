@@ -21,7 +21,7 @@
 7. [Fake](#fake) - *Protects against internet scams, traps & fakes!*
 8. [Pop-Up Ads](#popupads) - *Protects against annoying and malicious pop-up ads!*
 9. [Threat Intelligence Feeds](#tif) - *Increases security significantly! (Recommended)* : [Full](#tif) - [Medium](#tifmedium) - [IPs](#tifips)
-10. [Newly Registered Domains (external)](#nrd) - *Favoured by threat actors to launch malicious campaigns!* : [14 days](#nrd14) - [30 days](#nrd30)
+10. [Newly Registered Domains](#nrd) - *Favoured by threat actors to launch malicious campaigns!* : [14 days](#nrd14) - [30 days](#nrd30)
 11. [DoH/VPN/TOR/Proxy Bypass](#bypass) - *Prevent methods to bypass your DNS!* : [Full](#bypass_all) - [DoH only](#bypass_dns) - [DoH IPs](#bypass_ips)
 12. [Safesearch not supported](#safesearch) - *Prevent the use of search engines that do not support Safesearch!*
 13. [Dynamic DNS](#dyndns) - *Protects against the malicious use of dynamic DNS services!*
