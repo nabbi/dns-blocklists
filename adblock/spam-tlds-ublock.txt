@@ -9,10 +9,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 30 May 2024 22:40 UTC
-! Version: 2024.0530.2240.32
+! Last modified: 03 Jun 2024 10:43 UTC
+! Version: 2024.0603.1043.26
 ! Syntax: uBlock
-! Number of latin TLDs: 109 - non-latin TLDs: 151
+! Number of latin TLDs: 117 - non-latin TLDs: 151
 !
 ||africa^$doc
 ||agency^$doc,domain=~baam.agency|~battlefield.agency|~robotzebra.agency|~uphotel.agency|~ws.agency
@@ -25,11 +25,13 @@
 ||bid^$doc
 ||bio^$doc
 ||biz^$doc,domain=~beiniz.biz|~bonial.biz|~cloudns.biz|~cyberciti.biz|~dzeta.biz|~epson.biz|~iimwf.biz|~luckysbarbershop.biz|~movabletype.biz|~panasonic.biz|~slussen.biz|~wyborcza.biz|~yoox.biz
+||bj^$doc,domain=~google.bj
 ||boats^$doc
 ||bond^$doc
 ||boston^$doc
 ||boutique^$doc
 ||buzz^$doc,domain=~allthe.buzz|~awful.buzz|~cliq.buzz|~montpellier.buzz|~sideb.buzz|~williamsonday.buzz
+||casa^$doc
 ||center^$doc
 ||cf^$doc,domain=~acap.cf|~google.cf
 ||cfd^$doc,domain=~frcoal.cfd|~freedium.cfd
@@ -42,6 +44,7 @@
 ||dance^$doc
 ||date^$doc,domain=~endoflife.date
 ||degree^$doc,domain=~opf.degree|~three60.degree
+||desi^$doc
 ||digital^$doc,domain=~cariad.digital|~iagl.digital
 ||directory^$doc,domain=~2fa.directory|~passkeys.directory
 ||discount^$doc,domain=~real.discount
@@ -50,12 +53,15 @@
 ||finance^$doc
 ||fishing^$doc
 ||fit^$doc,domain=~appetit.fit|~clubb.fit|~justget.fit|~pridegym.fit|~thebene.fit|~union.fit
+||fo^$doc
 ||foo^$doc,domain=~helloworld.foo
 ||fyi^$doc,domain=~canonn.fyi|~iusearchlinux.fyi|~lunar.fyi|~vercel.fyi
 ||ga^$doc,domain=~google.ga|~mmo.ga
 ||gdn^$doc,domain=~cst.gdn|~pss.gdn
 ||giving^$doc
+||gold^$doc
 ||gq^$doc,domain=~tvgelive.gq
+||gs^$doc
 ||guru^$doc,domain=~bahn.guru|~crontab.guru|~greenlight.guru|~jav.guru|~webcal.guru
 ||hair^$doc
 ||haus^$doc
@@ -104,6 +110,7 @@
 ||st^$doc,domain=~avito.st|~bpa.st|~google.st|~selfh.st
 ||store^$doc,domain=~androeed.store
 ||surf^$doc,domain=~bloom.surf|~glowing.surf|~kayaking.surf|~quran.surf|~s-wings.surf
+||sx^$doc
 ||sz^$doc
 ||tattoo^$doc
 ||tk^$doc,domain=~adistance.tk|~bonzibuddy.tk|~bryla.tk|~bstweaker.tk|~budterence.tk|~censurion.tk|~c-r-t.tk|~cuso.tk|~google.tk|~goshujin.tk|~gotofap.tk|~graph.tk|~kabi.tk|~pube.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
@@ -112,6 +119,7 @@
 ||top^$doc,domain=~1stream.top|~ambr.top|~arjun.top|~audioforyou.top|~awavenue.top|~caitlin.top|~callmebymygender.top|~castlevania.top|~chillx.top|~corriente.top|~gdtot.top|~magocoro.top|~mastodon.top|~nicenature.top|~pdcdn1.top|~pegelinux.top|~pressplay.top|~reminder.top|~reyhub.top|~shucks.top|~strims.top|~suiten.top|~techblog.top|~thedesk.top|~vsdb.top
 ||trade^$doc,domain=~composer.trade|~kite.trade
 ||uno^$doc
+||vlaanderen^$doc
 ||voto^$doc
 ||wang^$doc
 ||website^$doc,domain=~tilde.website

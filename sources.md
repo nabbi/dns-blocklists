@@ -1,5 +1,5 @@
 ### Sources
-*Active sources that are partially used for the compilation of the block lists. Every source has its own license, for the individual licenses see the source files or source repositories:*
+*Active sources that are partially used for the compilation of the block lists. There is no 1:1 transfer of the sources, these merely form the basis for the individual list versions. Every source has its own license, for the individual licenses see the source files or source repositories:*
 ```
 http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip
 https://abpvn.com/android/abpvn.txt
