@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1717282860 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1717368840 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 01 Jun 2024 23:01 UTC
-; Version: 2024.0601.2301.56
+; Last modified: 02 Jun 2024 22:54 UTC
+; Version: 2024.0602.2254.17
 ; Syntax: RPZ
-; Number of entries: 19518
+; Number of entries: 19484
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -639,8 +639,6 @@ eurostreaming.biz CNAME .
 *.eurostreaming.biz CNAME .
 filmesviatorrents.biz CNAME .
 *.filmesviatorrents.biz CNAME .
-filmstreaming.biz CNAME .
-*.filmstreaming.biz CNAME .
 flixgo.biz CNAME .
 *.flixgo.biz CNAME .
 fourfriends.biz CNAME .
@@ -1027,8 +1025,6 @@ cb01.care CNAME .
 *.cb01.care CNAME .
 cineblog01.care CNAME .
 *.cineblog01.care CNAME .
-eurostreaming.care CNAME .
-*.eurostreaming.care CNAME .
 guardaserie.care CNAME .
 *.guardaserie.care CNAME .
 altadefinizione.casa CNAME .
@@ -1755,8 +1751,6 @@ send.cm CNAME .
 *.send.cm CNAME .
 androeed.cn CNAME .
 *.androeed.cn CNAME .
-6.beyondth.cn CNAME .
-*.6.beyondth.cn CNAME .
 8.beyondth.cn CNAME .
 *.8.beyondth.cn CNAME .
 btann.cn CNAME .
@@ -3179,8 +3173,6 @@ classiccinemazone.com CNAME .
 *.classiccinemazone.com CNAME .
 clickonlinebd.com CNAME .
 *.clickonlinebd.com CNAME .
-clipwatching.com CNAME .
-*.clipwatching.com CNAME .
 cloudtorrents.com CNAME .
 *.cloudtorrents.com CNAME .
 club-mst3k.com CNAME .
@@ -3197,12 +3189,6 @@ fh2.cmp-gaming.com CNAME .
 *.fh2.cmp-gaming.com CNAME .
 thepiratebay.co.com CNAME .
 *.thepiratebay.co.com CNAME .
-img.cocosfilms.com CNAME .
-*.img.cocosfilms.com CNAME .
-kubalibre.cocosfilms.com CNAME .
-*.kubalibre.cocosfilms.com CNAME .
-tvt.cocosfilms.com CNAME .
-*.tvt.cocosfilms.com CNAME .
 codeskeys24.com CNAME .
 *.codeskeys24.com CNAME .
 coldplaybootlegs.com CNAME .
@@ -3559,8 +3545,6 @@ divicast.com CNAME .
 *.divicast.com CNAME .
 divinestresser.com CNAME .
 *.divinestresser.com CNAME .
-divxatope.com CNAME .
-*.divxatope.com CNAME .
 divxtotal.com CNAME .
 *.divxtotal.com CNAME .
 divyamodapk.com CNAME .
@@ -7621,8 +7605,6 @@ eurostreaming.cyou CNAME .
 *.eurostreaming.cyou CNAME .
 filmpertutti.cyou CNAME .
 *.filmpertutti.cyou CNAME .
-fmovie.cyou CNAME .
-*.fmovie.cyou CNAME .
 streamingcommunity.cyou CNAME .
 *.streamingcommunity.cyou CNAME .
 tantifilm.cyou CNAME .
@@ -9031,8 +9013,6 @@ bitsparadise.info CNAME .
 *.bitsparadise.info CNAME .
 bitzone.info CNAME .
 *.bitzone.info CNAME .
-blackphoenix.info CNAME .
-*.blackphoenix.info CNAME .
 btgigs.info CNAME .
 *.btgigs.info CNAME .
 casacinema.info CNAME .
@@ -9405,8 +9385,6 @@ buffstream.io CNAME .
 *.buffstream.io CNAME .
 cb01.io CNAME .
 *.cb01.io CNAME .
-cineblog01.io CNAME .
-*.cineblog01.io CNAME .
 cinemahdv2.io CNAME .
 *.cinemahdv2.io CNAME .
 cloudboxes.io CNAME .
@@ -10055,8 +10033,6 @@ bdtv.live CNAME .
 *.bdtv.live CNAME .
 binged.live CNAME .
 *.binged.live CNAME .
-bobd.live CNAME .
-*.bobd.live CNAME .
 bonsaihd.live CNAME .
 *.bonsaihd.live CNAME .
 bossbd.live CNAME .
@@ -11351,8 +11327,6 @@ blackcats-games.net CNAME .
 *.blackcats-games.net CNAME .
 blackhatprotools.net CNAME .
 *.blackhatprotools.net CNAME .
-tracker.blacksparrowmedia.net CNAME .
-*.tracker.blacksparrowmedia.net CNAME .
 blacktiesports.net CNAME .
 *.blacktiesports.net CNAME .
 blitzwarez.net CNAME .
@@ -13591,8 +13565,6 @@ boardscriptz.org CNAME .
 *.boardscriptz.org CNAME .
 boatairproxy.org CNAME .
 *.boatairproxy.org CNAME .
-api.boletera.org CNAME .
-*.api.boletera.org CNAME .
 boommovie.org CNAME .
 *.boommovie.org CNAME .
 bootcity.org CNAME .
@@ -15595,8 +15567,6 @@ wawacity.red CNAME .
 *.wawacity.red CNAME .
 guardaserie.reisen CNAME .
 *.guardaserie.reisen CNAME .
-tracker.bulao.ren CNAME .
-*.tracker.bulao.ren CNAME .
 eurostreaming.rent CNAME .
 *.eurostreaming.rent CNAME .
 guardaserie.rent CNAME .
@@ -18713,8 +18683,6 @@ cb01.vision CNAME .
 *.cb01.vision CNAME .
 eurostreaming.vision CNAME .
 *.eurostreaming.vision CNAME .
-filmpertutti.vision CNAME .
-*.filmpertutti.vision CNAME .
 tantifilm.vision CNAME .
 *.tantifilm.vision CNAME .
 fshare.vn CNAME .
@@ -19513,8 +19481,6 @@ altadefinizione01.zone CNAME .
 *.altadefinizione01.zone CNAME .
 eurostreaming.zone CNAME .
 *.eurostreaming.zone CNAME .
-filmitastreaming.zone CNAME .
-*.filmitastreaming.zone CNAME .
 limetorrents.zone CNAME .
 *.limetorrents.zone CNAME .
 myflixer.zone CNAME .

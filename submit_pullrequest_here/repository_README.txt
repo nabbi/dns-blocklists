@@ -649,7 +649,6 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 - *Use [Pro](#pro) if an admin is available who could unblock something if necessary. My personal recommendation for almost problem-free adblocking.*
 - *Use [Pro++](#proplus) if you are an experienced user, know what you are doing and privacy is important to you. This is an aggressive list and you may need to unblock things more often.*
 - *Use [Ultimate](#ultimate) if Pro++ is not enough for you.*
-- *Use [Ultimate](#ultimate) with [1Hosts Pro](https://github.com/badmojr/1Hosts#1hosts-pro) if Ultimate alone is not enough. You will have to unblock a lot yourself.*
 
 > [!IMPORTANT]
 > *Another recommendation is to combine the main lists with the [Threat Intelligence Feeds](#tif) list if possible. For Adblockers that have problems with the size of the full TIF list, there is a smaller [medium](#tifmedium) version. If you use AdGuard Home or AdGuard DNS, I also recommend using the [Dandelion Sprout's Anti-Malware List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt). There is also an [IPv4 list](#tifips) that can be used in addition to the TIF or TIF medium list.*

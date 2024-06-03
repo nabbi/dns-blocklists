@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 May 2024 23:08 UTC
-# Version: 2024.0525.2308.40
+# Last modified: 02 Jun 2024 22:52 UTC
+# Version: 2024.0602.2252.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1458
+# Number of entries: 1457
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -327,7 +327,6 @@ local=/dnsiskinky.com/
 local=/dnslive.net/
 local=/dnsmax.com/
 local=/dnsname.org/
-local=/dnsnet.info/
 local=/dnsnew.org/
 local=/dnsomatic.com/
 local=/dnspod.cn/
