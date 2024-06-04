@@ -11,6 +11,9 @@
 
 # BEGIN
 
+# https://github.com/hagezi/dns-blocklists/issues/2836
+play-*-*.livetech.shopee.*
+
 # https://github.com/hagezi/dns-blocklists/issues/2833
 *.dontkillmyapp.com
 
