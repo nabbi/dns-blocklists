@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Jun 2024 23:09 UTC
-# Version: 2024.0603.2309.10
+# Last modified: 04 Jun 2024 15:03 UTC
+# Version: 2024.0604.1503.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9722
+# Number of entries: 9712
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -6131,7 +6131,6 @@ local=/oday-warez.com/
 local=/odd-hd.fr/
 local=/yahor.of.by/
 local=/offcloud.com/
-local=/ogboard.com/
 local=/ogladaj.to/
 local=/ohh.io/
 local=/retracker.ohys.net/
@@ -6203,7 +6202,6 @@ local=/onsbd.net/
 local=/onstream.so/
 local=/onstreamapp.com/
 local=/onstreamapp.to/
-local=/socket.onvo.me/
 local=/bestfiles.oo.lv/
 local=/oomoviz.com/
 local=/open.cd/
@@ -6230,14 +6228,12 @@ local=/opensharing.org/
 local=/opentor.org/
 local=/opentracker.cc/
 local=/opentracker.io/
-local=/opentracker.xyz/
 local=/tracker.opentracker.se/
 local=/opentrackers.net/
 local=/opentrackers.org/
 local=/opentrackr.org/
 local=/openwebtorrent.com/
 local=/tracker.openzim.org/
-local=/opgemmje.com/
 local=/tracker.oppaiti.me/
 local=/optimovision.tv/
 local=/rt.optizone.ru/
@@ -6388,7 +6384,6 @@ local=/pelisplus.online/
 local=/pelisplus.org/
 local=/pelisplusgt.com/
 local=/pelisplushd.net/
-local=/pepecine.to/
 local=/pesktop.com/
 local=/petaleech.com/
 local=/peteteo.com/
@@ -6637,7 +6632,6 @@ local=/primewire.ac/
 local=/primewire.ag/
 local=/primewire.buzz/
 local=/primewire.li/
-local=/primewire.mx/
 local=/primewire.tf/
 local=/primewirestatus.org/
 local=/princesas.tv/
@@ -6717,7 +6711,6 @@ local=/psyco.fr/
 local=/psynews.org/
 local=/psyreactor.com/
 local=/psystation.com/
-local=/psytorrents.info/
 local=/ptanime.net/
 local=/pte.nu/
 local=/tracker.pterclub.com/
@@ -6877,7 +6870,6 @@ local=/rapidseedbox.com/
 local=/rapidshare-downloads.com/
 local=/rapidsharemix.com/
 local=/rapidstresser.com/
-local=/rapidtreggy.com/
 local=/rapload.org/
 local=/rarbg.buzz/
 local=/rarbg.cc/
@@ -6993,8 +6985,6 @@ local=/restricted-stresser.info/
 local=/cdn.retget.ru/
 local=/retrovision.tv/
 local=/retrozone.co/
-local=/tor.rev.pm/
-local=/tracker.rev.pm/
 local=/revanced.net/
 local=/revdl.com/
 local=/revdl.net/
