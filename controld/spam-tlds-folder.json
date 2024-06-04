@@ -36,6 +36,13 @@
       }
     },
     {
+      "PK": "*.baby",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.bar",
       "action": {
         "do": 0,
@@ -121,6 +128,13 @@
     },
     {
       "PK": "*.buzz",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.cam",
       "action": {
         "do": 0,
         "status": 1

@@ -59,6 +59,7 @@ https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
 https://phishing-filter.pages.dev/phishing-filter-hosts.txt
 https://radar.cloudflare.com/domains
+https://radar.cloudflare.com/email-security
 https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
 https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/week.csv
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
@@ -118,7 +119,6 @@ https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
 https://raw.githubusercontent.com/cbuijs/ut1/master/cryptojacking/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
-https://raw.githubusercontent.com/cbuijs/ut1/master/malware/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/phishing/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/publicite/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/stalkerware/domains
@@ -199,6 +199,7 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/unknown-domai
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/videoadex-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/volumedata-domains.txt
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+https://raw.githubusercontent.com/LennyFox/Blocklists/master/Block_non_latin_TLDs.txt
 https://raw.githubusercontent.com/logroid/adaway-hosts/master/hosts.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/gambling-hosts.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
@@ -383,6 +384,7 @@ https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 https://raw.githubusercontent.com/xRuffKez/NXPhish/main/nxphish.agh
 https://raw.githubusercontent.com/YanFung/Ads/master/Mobile
 https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/yous/youslist/master/hosts.txt
@@ -411,6 +413,7 @@ https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.data.gouv.fr/fr/datasets/r/d2d9df6d-1cd2-41a8-96f5-684cb3057ecb
 https://www.domcop.com/files/top/top10milliondomains.csv.zip
 https://www.i-dont-care-about-cookies.eu/abp/
+https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.talosintelligence.com/documents/ip-blacklist
 https://www.threatsourcing.com/dnall.txt

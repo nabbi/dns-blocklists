@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1717427160 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1717456140 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 03 Jun 2024 15:06 UTC
-; Version: 2024.0603.1506.18
+; Last modified: 03 Jun 2024 23:09 UTC
+; Version: 2024.0603.2309.10
 ; Syntax: RPZ
-; Number of entries: 19470
+; Number of entries: 19444
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -421,8 +421,6 @@ tnetwork.com.bd CNAME .
 *.tnetwork.com.bd CNAME .
 triangle.com.bd CNAME .
 *.triangle.com.bd CNAME .
-cnc.net.bd CNAME .
-*.cnc.net.bd CNAME .
 enjoy.net.bd CNAME .
 *.enjoy.net.bd CNAME .
 greenbytes.net.bd CNAME .
@@ -4783,8 +4781,6 @@ loadbaba.com CNAME .
 *.loadbaba.com CNAME .
 tracker.loadbt.com CNAME .
 *.tracker.loadbt.com CNAME .
-loketfilm.com CNAME .
-*.loketfilm.com CNAME .
 mw.lonelil.com CNAME .
 *.mw.lonelil.com CNAME .
 watch.lonelil.com CNAME .
@@ -4857,8 +4853,6 @@ magnetdl.com CNAME .
 *.magnetdl.com CNAME .
 mahirbd.com CNAME .
 *.mahirbd.com CNAME .
-tracker.majin2007.com CNAME .
-*.tracker.majin2007.com CNAME .
 majomparade.com CNAME .
 *.majomparade.com CNAME .
 malacka.com CNAME .
@@ -4993,8 +4987,6 @@ mma-torrents.com CNAME .
 *.mma-torrents.com CNAME .
 mmosite.com CNAME .
 *.mmosite.com CNAME .
-mobiplanet4m.com CNAME .
-*.mobiplanet4m.com CNAME .
 modapkcloud.com CNAME .
 *.modapkcloud.com CNAME .
 modapkdown.com CNAME .
@@ -5013,8 +5005,6 @@ modfyp.com CNAME .
 *.modfyp.com CNAME .
 modhihe.com CNAME .
 *.modhihe.com CNAME .
-mods-app.com CNAME .
-*.mods-app.com CNAME .
 modsofapk.com CNAME .
 *.modsofapk.com CNAME .
 modxda.com CNAME .
@@ -5055,8 +5045,6 @@ movielabor.com CNAME .
 *.movielabor.com CNAME .
 moviemaya.com CNAME .
 *.moviemaya.com CNAME .
-movienoe.com CNAME .
-*.movienoe.com CNAME .
 movieorca.com CNAME .
 *.movieorca.com CNAME .
 moviepoka.com CNAME .
@@ -9899,8 +9887,6 @@ filmstreaming.li CNAME .
 *.filmstreaming.li CNAME .
 kat.li CNAME .
 *.kat.li CNAME .
-movieuniverse.li CNAME .
-*.movieuniverse.li CNAME .
 mp3.li CNAME .
 *.mp3.li CNAME .
 pahe.li CNAME .
@@ -10075,8 +10061,6 @@ maxserie.live CNAME .
 *.maxserie.live CNAME .
 movie4u.live CNAME .
 *.movie4u.live CNAME .
-moviedom.live CNAME .
-*.moviedom.live CNAME .
 moviemela.live CNAME .
 *.moviemela.live CNAME .
 movies123.live CNAME .
@@ -10503,8 +10487,6 @@ mkvking.me CNAME .
 *.mkvking.me CNAME .
 tracker.moeking.me CNAME .
 *.tracker.moeking.me CNAME .
-moneybag.me CNAME .
-*.moneybag.me CNAME .
 tracker.monitorit4.me CNAME .
 *.tracker.monitorit4.me CNAME .
 tracker.morethantv.me CNAME .
@@ -13125,8 +13107,6 @@ kinox.nu CNAME .
 *.kinox.nu CNAME .
 newvoyages.mine.nu CNAME .
 *.newvoyages.mine.nu CNAME .
-multicanais.nu CNAME .
-*.multicanais.nu CNAME .
 tracker.optus.nu CNAME .
 *.tracker.optus.nu CNAME .
 pte.nu CNAME .
@@ -14205,8 +14185,6 @@ mobilism.org CNAME .
 *.mobilism.org CNAME .
 modapp.org CNAME .
 *.modapp.org CNAME .
-mononoke-bt.org CNAME .
-*.mononoke-bt.org CNAME .
 moriyashrine.org CNAME .
 *.moriyashrine.org CNAME .
 movdl.org CNAME .
@@ -15633,8 +15611,6 @@ kat.rip CNAME .
 *.kat.rip CNAME .
 monflix.rip CNAME .
 *.monflix.rip CNAME .
-network.rip CNAME .
-*.network.rip CNAME .
 request.rip CNAME .
 *.request.rip CNAME .
 tracker.sheesh.rip CNAME .
@@ -16499,8 +16475,6 @@ tracker.kitaujisub.site CNAME .
 *.tracker.kitaujisub.site CNAME .
 kokodayo.site CNAME .
 *.kokodayo.site CNAME .
-layarlebar24.site CNAME .
-*.layarlebar24.site CNAME .
 lookmovie.site CNAME .
 *.lookmovie.site CNAME .
 lookmovie2.site CNAME .
