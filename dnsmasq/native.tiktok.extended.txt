@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 May 2024 22:56 UTC
-# Version: 2024.0527.2256.51
+# Last modified: 04 Jun 2024 23:15 UTC
+# Version: 2024.0604.2315.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 410
+# Number of entries: 407
 #
 local=/docs-frontier-sg.byteoversea.com/
 local=/frontier.byteoversea.com/
@@ -97,7 +97,6 @@ local=/mcs.snssdk.com/
 local=/mercury-sdk.snssdk.com/
 local=/mon.snssdk.com/
 local=/mon-hl.snssdk.com/
-local=/mon-lf.snssdk.com/
 local=/mssdk.snssdk.com/
 local=/mssdk-bu.snssdk.com/
 local=/open.snssdk.com/
@@ -171,7 +170,6 @@ local=/frontier22-normal.tiktokv.com/
 local=/frontier22-normal-alisg.tiktokv.com/
 local=/frontier22-normal-useast1a.tiktokv.com/
 local=/frontier22-normal-useast2a.tiktokv.com/
-local=/frontier32.tiktokv.com/
 local=/frontier32-normal-useast1a.tiktokv.com/
 local=/frontier32-normal-useast2a.tiktokv.com/
 local=/gecko-phx.tiktokv.com/
@@ -322,7 +320,6 @@ local=/mssdk22-normal.tiktokv.com/
 local=/mssdk22-normal-alisg.tiktokv.com/
 local=/mssdk22-normal-useast1a.tiktokv.com/
 local=/mssdk22-normal-useast2a.tiktokv.com/
-local=/mssdk24.tiktokv.com/
 local=/mssdk24-normal.tiktokv.com/
 local=/mssdk24-normal-alisg.tiktokv.com/
 local=/mssdk24-normal-useast1a.tiktokv.com/

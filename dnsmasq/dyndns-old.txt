@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 02 Jun 2024 22:52 UTC
-# Version: 2024.0602.2252.19
+# Last modified: 04 Jun 2024 22:52 UTC
+# Version: 2024.0604.2252.40
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 1457
+# Number of entries: 1456
 #
 server=/0000000000000000000000.com/
 server=/0rg.us/
@@ -1280,7 +1280,6 @@ server=/spdns.org/
 server=/spdyn.de/
 server=/spectrumnet.bg/
 server=/spelar.se/
-server=/spottt.com/
 server=/sql01.com/
 server=/sqlconcepts.com/
 server=/squirly.info/

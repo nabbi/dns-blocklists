@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Jun 2024 23:05 UTC
-# Version: 2024.0603.2305.00
+# Last modified: 04 Jun 2024 22:50 UTC
+# Version: 2024.0604.2250.23
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 3139
+# Number of entries: 3134
 #
 server=/ns.00dani.me/
 server=/cdn.0ms.dev/
@@ -373,7 +373,6 @@ server=/tor.bravesoftware.com/
 server=/brazilproxy.com/
 server=/brazilproxy.info/
 server=/breakwall.net/
-server=/ag.brianlee.fun/
 server=/bright4good.eco/
 server=/brightvpn.com/
 server=/britishproxy.com/
@@ -596,6 +595,7 @@ server=/proxy.com.de/
 server=/proxy-service.com.de/
 server=/proxy-site.com.de/
 server=/proxyweb.com.es/
+server=/purevpn.com.tw/
 server=/dns.weixin.qq.com.cn/
 server=/surfshark.com.au/
 server=/unblock-proxy.com.de/
@@ -1255,7 +1255,6 @@ server=/vd.i81.ru/
 server=/vpn.i81.ru/
 server=/dns.iamninja.ru/
 server=/dns.ian.rocks/
-server=/dns-public.ibakerserver.pt/
 server=/ibvpn.com/
 server=/webproxy.ich-war-hier.de/
 server=/icitek.com/
@@ -1965,7 +1964,6 @@ server=/protonvpn.ch/
 server=/protonvpn.com/
 server=/protonvpn.net/
 server=/prounlock.org/
-server=/provpn.info/
 server=/provpnaccounts.com/
 server=/prox.pw/
 server=/prox.rocks/
@@ -2105,6 +2103,7 @@ server=/pupilproxy.com/
 server=/puredns.org/
 server=/dns-privacy.puregeni.us/
 server=/purevpn.com/
+server=/purevpn.de/
 server=/purevpn.fr/
 server=/purevpn-tools.com/
 server=/pushokey.com/
@@ -2231,7 +2230,6 @@ server=/safervpn.com/
 server=/safeservedns.com/
 server=/doh.safesurfer.io/
 server=/safetysurf.net/
-server=/safeunblock.com/
 server=/w.q.sagesinst.org/
 server=/vpn.sakhwow.ru/
 server=/cloud.samutz.com/
@@ -2257,7 +2255,6 @@ server=/school-websites.us/
 server=/schoolnewsletter.us/
 server=/schoolproxy.co/
 server=/schooxy.com/
-server=/sciencesimplified.pro/
 server=/gravity.sciencevictory.org/
 server=/dns.scuola.org/
 server=/se3v5tjfff3aet.me/
@@ -2594,7 +2591,6 @@ server=/toptip.cc/
 server=/topvpn.cc/
 server=/topvpnguides.com/
 server=/tor-gateways.de/
-server=/tor2web.fi/
 server=/tor2web.in/
 server=/tor2web.io/
 server=/tor2web.it/
@@ -2626,7 +2622,6 @@ server=/travelvpn.info/
 server=/travelvpn.net/
 server=/consumervpn.trendmicro.com/
 server=/geovpn.trendmicro.com/
-server=/trialproxy.com/
 server=/trickbyte.com/
 server=/trilightzone.org/
 server=/trlone.com/

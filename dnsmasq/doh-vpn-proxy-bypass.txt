@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Jun 2024 23:05 UTC
-# Version: 2024.0603.2305.00
+# Last modified: 04 Jun 2024 22:50 UTC
+# Version: 2024.0604.2250.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3139
+# Number of entries: 3134
 #
 local=/ns.00dani.me/
 local=/cdn.0ms.dev/
@@ -373,7 +373,6 @@ local=/tor.bravesoftware.com/
 local=/brazilproxy.com/
 local=/brazilproxy.info/
 local=/breakwall.net/
-local=/ag.brianlee.fun/
 local=/bright4good.eco/
 local=/brightvpn.com/
 local=/britishproxy.com/
@@ -596,6 +595,7 @@ local=/proxy.com.de/
 local=/proxy-service.com.de/
 local=/proxy-site.com.de/
 local=/proxyweb.com.es/
+local=/purevpn.com.tw/
 local=/dns.weixin.qq.com.cn/
 local=/surfshark.com.au/
 local=/unblock-proxy.com.de/
@@ -1255,7 +1255,6 @@ local=/vd.i81.ru/
 local=/vpn.i81.ru/
 local=/dns.iamninja.ru/
 local=/dns.ian.rocks/
-local=/dns-public.ibakerserver.pt/
 local=/ibvpn.com/
 local=/webproxy.ich-war-hier.de/
 local=/icitek.com/
@@ -1965,7 +1964,6 @@ local=/protonvpn.ch/
 local=/protonvpn.com/
 local=/protonvpn.net/
 local=/prounlock.org/
-local=/provpn.info/
 local=/provpnaccounts.com/
 local=/prox.pw/
 local=/prox.rocks/
@@ -2105,6 +2103,7 @@ local=/pupilproxy.com/
 local=/puredns.org/
 local=/dns-privacy.puregeni.us/
 local=/purevpn.com/
+local=/purevpn.de/
 local=/purevpn.fr/
 local=/purevpn-tools.com/
 local=/pushokey.com/
@@ -2231,7 +2230,6 @@ local=/safervpn.com/
 local=/safeservedns.com/
 local=/doh.safesurfer.io/
 local=/safetysurf.net/
-local=/safeunblock.com/
 local=/w.q.sagesinst.org/
 local=/vpn.sakhwow.ru/
 local=/cloud.samutz.com/
@@ -2257,7 +2255,6 @@ local=/school-websites.us/
 local=/schoolnewsletter.us/
 local=/schoolproxy.co/
 local=/schooxy.com/
-local=/sciencesimplified.pro/
 local=/gravity.sciencevictory.org/
 local=/dns.scuola.org/
 local=/se3v5tjfff3aet.me/
@@ -2594,7 +2591,6 @@ local=/toptip.cc/
 local=/topvpn.cc/
 local=/topvpnguides.com/
 local=/tor-gateways.de/
-local=/tor2web.fi/
 local=/tor2web.in/
 local=/tor2web.io/
 local=/tor2web.it/
@@ -2626,7 +2622,6 @@ local=/travelvpn.info/
 local=/travelvpn.net/
 local=/consumervpn.trendmicro.com/
 local=/geovpn.trendmicro.com/
-local=/trialproxy.com/
 local=/trickbyte.com/
 local=/trilightzone.org/
 local=/trlone.com/

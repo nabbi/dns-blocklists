@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Jun 2024 23:06 UTC
-# Version: 2024.0603.2306.06
+# Last modified: 04 Jun 2024 22:51 UTC
+# Version: 2024.0604.2251.40
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1237
+# Number of entries: 1235
 #
 0.0.0.0 ns.00dani.me
 0.0.0.0 cdn.0ms.dev
@@ -204,7 +204,6 @@
 0.0.0.0 bravedns.com
 0.0.0.0 basic.bravedns.com
 0.0.0.0 free.bravedns.com
-0.0.0.0 ag.brianlee.fun
 0.0.0.0 doh.bt.com
 0.0.0.0 stratus.bugz.fr
 0.0.0.0 c-dns.com
@@ -619,7 +618,6 @@
 0.0.0.0 vd.i81.ru
 0.0.0.0 dns.iamninja.ru
 0.0.0.0 dns.ian.rocks
-0.0.0.0 dns-public.ibakerserver.pt
 0.0.0.0 mask.icloud.com
 0.0.0.0 mask-api.icloud.com
 0.0.0.0 mask-h2.icloud.com
