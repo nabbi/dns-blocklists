@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>DNSSettings</key>
+        <dict>
+          <key>DNSProtocol</key>
+          <string>HTTPS</string>
+          <key>ServerAddresses</key>
+          <array/>
+          <key>ServerURL</key>
+          <string>https://freedns.controld.com/x-hagezi-tif</string>
+        </dict>
+        <key>OnDemandRules</key>
+        <array>
+          <dict>
+            <key>Action</key>
+            <string>EvaluateConnection</string>
+            <key>ActionParameters</key>
+            <array>
+              <dict>
+                <key>DomainAction</key>
+                <string>NeverConnect</string>
+                <key>Domains</key>
+                <array>
+                  <string>fritz.box</string>
+                </array>
+              </dict>
+            </array>
+          </dict>
+          <dict>
+            <key>Action</key>
+            <string>Connect</string>
+            <key>InterfaceTypeMatch</key>
+            <string>WiFi</string>
+          </dict>
+          <dict>
+            <key>Action</key>
+            <string>Connect</string>
+            <key>InterfaceTypeMatch</key>
+            <string>Cellular</string>
+          </dict>
+          <dict>
+            <key>Action</key>
+            <string>Disconnect</string>
+          </dict>
+        </array>
+        <key>PayloadDescription</key>
+        <string>Configures device to use HaGeZi TIF Encrypted DNS over HTTPS</string>
+        <key>PayloadDisplayName</key>
+        <string>HaGeZi TIF</string>
+        <key>PayloadIdentifier</key>
+        <string>hagezi.tif.6c1c8b46-9ca2-4e54-a34e-36ea6bba7bab</string>
+        <key>PayloadType</key>
+        <string>com.apple.dnsSettings.managed</string>
+        <key>PayloadUUID</key>
+        <string>a084a959-cb16-4638-8234-0ddd11859abe</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ProhibitDisablement</key>
+        <false/>
+      </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Configures device to use HaGeZi TIF Encrypted DNS over HTTPS</string>
+    <key>PayloadDisplayName</key>
+    <string>HaGeZi TIF</string>
+    <key>PayloadIdentifier</key>
+    <string>hagezi.tif.7d479269-ce4f-4a4f-ac96-c80f0e972b11</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>2a6dfbb9-16dd-41de-9cd0-9b27dcab1daf</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+  </dict>
+</plist>

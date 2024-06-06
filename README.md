@@ -677,6 +677,9 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 ***Free:***
 
+> [!TIP]
+> *For Apple devices, you can use my [pre-configured mobileconfigs](https://github.com/hagezi/dns-blocklists/tree/main/controld/apple-mobileconfig) or create your own mobileconfig under https://dns.notjakob.com/tool.html*
+
 | Blocklists | DNS-over-HTTPS | DNS-over-TLS/QUIC | Legacy DNS |
 |:-----------|:---------------|:-------------|:-------------|
 | Light | `https://freedns.controld.com/x-hagezi-light` | `x-hagezi-light.freedns.controld.com` | 76.76.2.37<br>76.76.10.37<br>2606:1a40::37<br>2606:1a40:1::37 |

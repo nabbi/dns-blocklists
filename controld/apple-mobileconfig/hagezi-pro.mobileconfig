@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>DNSSettings</key>
+        <dict>
+          <key>DNSProtocol</key>
+          <string>HTTPS</string>
+          <key>ServerAddresses</key>
+          <array/>
+          <key>ServerURL</key>
+          <string>https://freedns.controld.com/x-hagezi-pro</string>
+        </dict>
+        <key>OnDemandRules</key>
+        <array>
+          <dict>
+            <key>Action</key>
+            <string>EvaluateConnection</string>
+            <key>ActionParameters</key>
+            <array>
+              <dict>
+                <key>DomainAction</key>
+                <string>NeverConnect</string>
+                <key>Domains</key>
+                <array>
+                  <string>fritz.box</string>
+                </array>
+              </dict>
+            </array>
+          </dict>
+          <dict>
+            <key>Action</key>
+            <string>Connect</string>
+            <key>InterfaceTypeMatch</key>
+            <string>WiFi</string>
+          </dict>
+          <dict>
+            <key>Action</key>
+            <string>Connect</string>
+            <key>InterfaceTypeMatch</key>
+            <string>Cellular</string>
+          </dict>
+          <dict>
+            <key>Action</key>
+            <string>Disconnect</string>
+          </dict>
+        </array>
+        <key>PayloadDescription</key>
+        <string>Configures device to use HaGeZi Pro Encrypted DNS over HTTPS</string>
+        <key>PayloadDisplayName</key>
+        <string>HaGeZi Pro</string>
+        <key>PayloadIdentifier</key>
+        <string>hagezi.pro.713bdf92-42d7-44eb-8755-c66c6f06463c</string>
+        <key>PayloadType</key>
+        <string>com.apple.dnsSettings.managed</string>
+        <key>PayloadUUID</key>
+        <string>a1c305cc-cf88-47cb-8433-ea46424b5c17</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ProhibitDisablement</key>
+        <false/>
+      </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Configures device to use HaGeZi Pro Encrypted DNS over HTTPS</string>
+    <key>PayloadDisplayName</key>
+    <string>HaGeZi Pro</string>
+    <key>PayloadIdentifier</key>
+    <string>hagezi.pro.3898ab1e-573d-4813-99af-23452debd04c</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>d707c2dd-6db5-499a-a116-c3cbe6c48016</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+  </dict>
+</plist>
