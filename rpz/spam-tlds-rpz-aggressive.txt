@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1717626420 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1717685940 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's The World's Most Abused TLDs - Aggressive
@@ -12,10 +12,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jun 2024 22:27 UTC
-; Version: 2024.0605.2227.16
+; Last modified: 06 Jun 2024 14:59 UTC
+; Version: 2024.0606.1459.21
 ; Syntax: RPZ
-; Number of latin TLDs: 119
+; Number of latin TLDs: 125
 ;
 *.africa CNAME .
 *.agency CNAME .
@@ -91,11 +91,13 @@ $TTL 300
 *.motorcycles CNAME .
 *.mov CNAME .
 *.name CNAME .
+*.navy CNAME .
 *.nf CNAME .
 *.okinawa CNAME .
 *.ooo CNAME .
 *.pet CNAME .
 *.phd CNAME .
+*.photos CNAME .
 *.prof CNAME .
 *.promo CNAME .
 *.quest CNAME .
@@ -111,7 +113,9 @@ $TTL 300
 *.sbs CNAME .
 *.sew CNAME .
 *.shop CNAME .
+*.site CNAME .
 *.skin CNAME .
+*.space CNAME .
 *.st CNAME .
 *.store CNAME .
 *.surf CNAME .
@@ -124,6 +128,7 @@ $TTL 300
 *.top CNAME .
 *.trade CNAME .
 *.uno CNAME .
+*.vip CNAME .
 *.vlaanderen CNAME .
 *.voto CNAME .
 *.wang CNAME .
@@ -132,6 +137,7 @@ $TTL 300
 *.wiki CNAME .
 *.win CNAME .
 *.work CNAME .
+*.world CNAME .
 *.wtf CNAME .
 *.yachts CNAME .
 *.you CNAME .

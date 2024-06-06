@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1717626420 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1717685940 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's The World's Most Abused TLDs
@@ -12,10 +12,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jun 2024 22:27 UTC
-; Version: 2024.0605.2227.16
+; Last modified: 06 Jun 2024 14:59 UTC
+; Version: 2024.0606.1459.21
 ; Syntax: RPZ
-; Number of latin TLDs: 59/119
+; Number of latin TLDs: 63/125
 ;
 *.africa CNAME .
 *.autos CNAME .
@@ -56,7 +56,9 @@ $TTL 300
 *.mom CNAME .
 *.motorcycles CNAME .
 *.name CNAME .
+*.navy CNAME .
 *.okinawa CNAME .
+*.photos CNAME .
 *.promo CNAME .
 *.red CNAME .
 *.rehab CNAME .
@@ -64,6 +66,7 @@ $TTL 300
 *.rugby CNAME .
 *.sale CNAME .
 *.sew CNAME .
+*.site CNAME .
 *.skin CNAME .
 *.sz CNAME .
 *.tattoo CNAME .
@@ -74,5 +77,6 @@ $TTL 300
 *.wang CNAME .
 *.wf CNAME .
 *.win CNAME .
+*.world CNAME .
 *.yachts CNAME .
 *.you CNAME .
