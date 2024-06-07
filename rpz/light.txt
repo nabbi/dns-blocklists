@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1717720860 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1717765500 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Jun 2024 00:41 UTC
-; Version: 2024.0607.0041.45
+; Last modified: 07 Jun 2024 13:05 UTC
+; Version: 2024.0607.1305.02
 ; Syntax: RPZ
-; Number of entries: 130922
+; Number of entries: 130892
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -4095,8 +4095,6 @@ fy4zb.cn CNAME .
 *.fy4zb.cn CNAME .
 fzasx.cn CNAME .
 *.fzasx.cn CNAME .
-gaopinoa.cn CNAME .
-*.gaopinoa.cn CNAME .
 cooper.geelark.cn CNAME .
 *.cooper.geelark.cn CNAME .
 datasink.geelark.cn CNAME .
@@ -30767,6 +30765,8 @@ analytics.corp.dropbox.com CNAME .
 *.analytics.corp.dropbox.com CNAME .
 d.dropbox.com CNAME .
 *.d.dropbox.com CNAME .
+marketing.dropbox.com CNAME .
+*.marketing.dropbox.com CNAME .
 metrics.showcase.dropbox.com CNAME .
 *.metrics.showcase.dropbox.com CNAME .
 telemetry.dropbox.com CNAME .
@@ -50657,8 +50657,6 @@ lowlifeimprovedproxy.com CNAME .
 *.lowlifeimprovedproxy.com CNAME .
 lowlifesalad.com CNAME .
 *.lowlifesalad.com CNAME .
-lowlocket.com CNAME .
-*.lowlocket.com CNAME .
 lowpedalhumidity.com CNAME .
 *.lowpedalhumidity.com CNAME .
 lowseceste.com CNAME .
@@ -54157,8 +54155,6 @@ moksoxos.com CNAME .
 *.moksoxos.com CNAME .
 news.molawyersmedia.com CNAME .
 *.news.molawyersmedia.com CNAME .
-moldyicicle.com CNAME .
-*.moldyicicle.com CNAME .
 moleconcern.com CNAME .
 *.moleconcern.com CNAME .
 molecularhouseholdadmiral.com CNAME .
@@ -57091,8 +57087,6 @@ noeldansleparc.com CNAME .
 *.noeldansleparc.com CNAME .
 nofashot.com CNAME .
 *.nofashot.com CNAME .
-nogometnishop.com CNAME .
-*.nogometnishop.com CNAME .
 noibu.com CNAME .
 *.noibu.com CNAME .
 noiselessplough.com CNAME .
@@ -57643,8 +57637,6 @@ nutshellwhipunderstood.com CNAME .
 *.nutshellwhipunderstood.com CNAME .
 nutsmargaret.com CNAME .
 *.nutsmargaret.com CNAME .
-nuttyorganization.com CNAME .
-*.nuttyorganization.com CNAME .
 notify.nuviad.com CNAME .
 *.notify.nuviad.com CNAME .
 cnt.nuvid.com CNAME .
@@ -58539,8 +58531,6 @@ analytics.omniscientai.com CNAME .
 *.analytics.omniscientai.com CNAME .
 omnitag.omniscientai.com CNAME .
 *.omnitag.omniscientai.com CNAME .
-omniscientspark.com CNAME .
-*.omniscientspark.com CNAME .
 omnitagjs.com CNAME .
 *.omnitagjs.com CNAME .
 omniture.com CNAME .
@@ -68345,8 +68335,6 @@ smetrics.roomservicebycort.com CNAME .
 *.smetrics.roomservicebycort.com CNAME .
 metrics.roomstogo.com CNAME .
 *.metrics.roomstogo.com CNAME .
-roomyreading.com CNAME .
-*.roomyreading.com CNAME .
 roosterfirework.com CNAME .
 *.roosterfirework.com CNAME .
 root-top.com CNAME .
@@ -68517,6 +68505,8 @@ rpsoybm.com CNAME .
 *.rpsoybm.com CNAME .
 analytics.rpxapps.com CNAME .
 *.analytics.rpxapps.com CNAME .
+rqazepammrl.com CNAME .
+*.rqazepammrl.com CNAME .
 rqmob.com CNAME .
 *.rqmob.com CNAME .
 rqnvci.com CNAME .
@@ -69359,8 +69349,6 @@ samsungadhub.com CNAME .
 *.samsungadhub.com CNAME .
 samsungads.com CNAME .
 *.samsungads.com CNAME .
-abtauthprd.samsungcloudsolution.com CNAME .
-*.abtauthprd.samsungcloudsolution.com CNAME .
 diagmon-policy.samsungdm.com CNAME .
 *.diagmon-policy.samsungdm.com CNAME .
 diagmon-serviceapi.samsungdm.com CNAME .
@@ -70959,8 +70947,6 @@ shainsie.com CNAME .
 *.shainsie.com CNAME .
 shakegoldfish.com CNAME .
 *.shakegoldfish.com CNAME .
-shakesuggestion.com CNAME .
-*.shakesuggestion.com CNAME .
 analytics.shaklee.com CNAME .
 *.analytics.shaklee.com CNAME .
 shakre.com CNAME .
@@ -74053,8 +74039,6 @@ metrics.pad.squareup.com CNAME .
 *.metrics.pad.squareup.com CNAME .
 sa.squareup.com CNAME .
 *.sa.squareup.com CNAME .
-squashfriction.com CNAME .
-*.squashfriction.com CNAME .
 squashperiodicmen.com CNAME .
 *.squashperiodicmen.com CNAME .
 squashtalk.com CNAME .
@@ -75851,8 +75835,6 @@ sw1block.com CNAME .
 *.sw1block.com CNAME .
 swaggydestroy.com CNAME .
 *.swaggydestroy.com CNAME .
-swailsbondman.com CNAME .
-*.swailsbondman.com CNAME .
 swallowhairdressercollect.com CNAME .
 *.swallowhairdressercollect.com CNAME .
 swallowpunctual.com CNAME .
@@ -78397,8 +78379,6 @@ n730.timesunion.com CNAME .
 *.n730.timesunion.com CNAME .
 timetableitemvariables.com CNAME .
 *.timetableitemvariables.com CNAME .
-timeterritory.com CNAME .
-*.timeterritory.com CNAME .
 analytics.timetrade.com CNAME .
 *.analytics.timetrade.com CNAME .
 metric.timewarnercable.com CNAME .
@@ -84647,8 +84627,6 @@ vulnerablebreakerstrong.com CNAME .
 *.vulnerablebreakerstrong.com CNAME .
 vulnerableordered.com CNAME .
 *.vulnerableordered.com CNAME .
-analytics.vulnerbug.com CNAME .
-*.analytics.vulnerbug.com CNAME .
 metrics.vulture.com CNAME .
 *.metrics.vulture.com CNAME .
 vungle.com CNAME .
@@ -84853,8 +84831,6 @@ walmartshoping.com CNAME .
 *.walmartshoping.com CNAME .
 walmp.com CNAME .
 *.walmp.com CNAME .
-walmyrivera.com CNAME .
-*.walmyrivera.com CNAME .
 walter-larence.com CNAME .
 *.walter-larence.com CNAME .
 waltergasp.com CNAME .
@@ -87143,8 +87119,6 @@ stats.wwd.com CNAME .
 *.stats.wwd.com CNAME .
 wwhnjrg.com CNAME .
 *.wwhnjrg.com CNAME .
-wwicnmksxd.com CNAME .
-*.wwicnmksxd.com CNAME .
 wwija.com CNAME .
 *.wwija.com CNAME .
 wwinfyzurbw.com CNAME .
@@ -95841,8 +95815,6 @@ analytics.indiblogger.in CNAME .
 *.analytics.indiblogger.in CNAME .
 itiiuan.in CNAME .
 *.itiiuan.in CNAME .
-jmqxise.in CNAME .
-*.jmqxise.in CNAME .
 jqpgxwl.in CNAME .
 *.jqpgxwl.in CNAME .
 jqphuor.in CNAME .
@@ -126905,8 +126877,6 @@ multifbpixels.website CNAME .
 *.multifbpixels.website CNAME .
 notifications.website CNAME .
 *.notifications.website CNAME .
-nymssslyish.website CNAME .
-*.nymssslyish.website CNAME .
 refbanners.website CNAME .
 *.refbanners.website CNAME .
 referrer.website CNAME .
