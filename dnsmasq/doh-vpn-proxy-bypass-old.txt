@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 05 Jun 2024 22:56 UTC
-# Version: 2024.0605.2256.39
+# Last modified: 07 Jun 2024 22:51 UTC
+# Version: 2024.0607.2251.21
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 3132
+# Number of entries: 3131
 #
 server=/ns.00dani.me/
 server=/cdn.0ms.dev/
@@ -1139,7 +1139,6 @@ server=/s1.hancockcountyfoodpantry.com/
 server=/adguard.haneulo.com/
 server=/dns.hanmey.de/
 server=/hanniel.tech/
-server=/dns.haoxuan.xyz/
 server=/happy-vpn.com/
 server=/resolver-eu.haringstad.com/
 server=/hauxcore.de/

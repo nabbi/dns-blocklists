@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1717716360 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1717802580 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Jun 2024 23:26 UTC
-; Version: 2024.0606.2326.21
+; Last modified: 07 Jun 2024 23:23 UTC
+; Version: 2024.0607.2323.23
 ; Syntax: RPZ
-; Number of entries: 61890
+; Number of entries: 61878
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -3049,8 +3049,6 @@ alfapill.com CNAME .
 *.alfapill.com CNAME .
 alfdever.com CNAME .
 *.alfdever.com CNAME .
-alficars.com CNAME .
-*.alficars.com CNAME .
 alfinate.com CNAME .
 *.alfinate.com CNAME .
 alfonsoquintas.com CNAME .
@@ -4587,8 +4585,6 @@ automaxx-de.com CNAME .
 *.automaxx-de.com CNAME .
 automaxx-ws.com CNAME .
 *.automaxx-ws.com CNAME .
-autoreifen-auer.com CNAME .
-*.autoreifen-auer.com CNAME .
 autoreifen-bischoff.com CNAME .
 *.autoreifen-bischoff.com CNAME .
 autoreifen-eggers.com CNAME .
@@ -5111,6 +5107,8 @@ barcaloungerhome.com CNAME .
 *.barcaloungerhome.com CNAME .
 bargainknife.com CNAME .
 *.bargainknife.com CNAME .
+bargashop.com CNAME .
+*.bargashop.com CNAME .
 barkershoes-uk.com CNAME .
 *.barkershoes-uk.com CNAME .
 baronilorena.com CNAME .
@@ -13803,8 +13801,6 @@ elavilamitriptyline.com CNAME .
 *.elavilamitriptyline.com CNAME .
 elavilnews.com CNAME .
 *.elavilnews.com CNAME .
-elbazalijamal.com CNAME .
-*.elbazalijamal.com CNAME .
 eldyshop.com CNAME .
 *.eldyshop.com CNAME .
 elecards.com CNAME .
@@ -14545,6 +14541,8 @@ europamtb.com CNAME .
 *.europamtb.com CNAME .
 europatradecapital.com CNAME .
 *.europatradecapital.com CNAME .
+europe-electro-shop.com CNAME .
+*.europe-electro-shop.com CNAME .
 europe-overnite.com CNAME .
 *.europe-overnite.com CNAME .
 europe-pimco.com CNAME .
@@ -14803,8 +14801,6 @@ ezgetremedies.com CNAME .
 *.ezgetremedies.com CNAME .
 ezgettreatments.com CNAME .
 *.ezgettreatments.com CNAME .
-ezrxplus.com CNAME .
-*.ezrxplus.com CNAME .
 ezsafeoil.com CNAME .
 *.ezsafeoil.com CNAME .
 ezshopmedshere.com CNAME .
@@ -15095,8 +15091,6 @@ faschingskapparelde.com CNAME .
 *.faschingskapparelde.com CNAME .
 fashglamorous.com CNAME .
 *.fashglamorous.com CNAME .
-fashionaarmy.com CNAME .
-*.fashionaarmy.com CNAME .
 fashionablebliss.com CNAME .
 *.fashionablebliss.com CNAME .
 fashionablefast.com CNAME .
@@ -16449,8 +16443,6 @@ game-dynamics.com CNAME .
 *.game-dynamics.com CNAME .
 game-str.com CNAME .
 *.game-str.com CNAME .
-gamebasic-de.com CNAME .
-*.gamebasic-de.com CNAME .
 gamecityz.com CNAME .
 *.gamecityz.com CNAME .
 gameparadies.com CNAME .
@@ -17209,8 +17201,6 @@ getventolin.com CNAME .
 *.getventolin.com CNAME .
 getvoltbox.com CNAME .
 *.getvoltbox.com CNAME .
-getvoltplug.com CNAME .
-*.getvoltplug.com CNAME .
 getvoltsemi.com CNAME .
 *.getvoltsemi.com CNAME .
 getwaklert.com CNAME .
@@ -18523,8 +18513,6 @@ hedgelitepro.com CNAME .
 *.hedgelitepro.com CNAME .
 hedrviagros.com CNAME .
 *.hedrviagros.com CNAME .
-hehomeoff.com CNAME .
-*.hehomeoff.com CNAME .
 heidelbergneparfums.com CNAME .
 *.heidelbergneparfums.com CNAME .
 heidilambertsen.com CNAME .
@@ -19913,6 +19901,8 @@ instrumentnice.com CNAME .
 *.instrumentnice.com CNAME .
 insulin-pharmacy.com CNAME .
 *.insulin-pharmacy.com CNAME .
+insulinoutlet.com CNAME .
+*.insulinoutlet.com CNAME .
 integbeautycare.com CNAME .
 *.integbeautycare.com CNAME .
 integralbroker.com CNAME .
@@ -19981,8 +19971,6 @@ booking.invitation-rent-longterm.com CNAME .
 *.booking.invitation-rent-longterm.com CNAME .
 invitromrt.com CNAME .
 *.invitromrt.com CNAME .
-inwibeast.com CNAME .
-*.inwibeast.com CNAME .
 iontex.com CNAME .
 *.iontex.com CNAME .
 ioriosabrina.com CNAME .
@@ -37749,8 +37737,6 @@ tollfahrrad.com CNAME .
 *.tollfahrrad.com CNAME .
 tolosix.com CNAME .
 *.tolosix.com CNAME .
-toltechomenew.com CNAME .
-*.toltechomenew.com CNAME .
 tommyhilfigerdublin.com CNAME .
 *.tommyhilfigerdublin.com CNAME .
 tommyhilfigerjakke.com CNAME .
@@ -43805,8 +43791,6 @@ beschlaegeprofi.de CNAME .
 *.beschlaegeprofi.de CNAME .
 bessere-reifen.de CNAME .
 *.bessere-reifen.de CNAME .
-bestebike.de CNAME .
-*.bestebike.de CNAME .
 besteckgeschirr.de CNAME .
 *.besteckgeschirr.de CNAME .
 bestelektronicshop.de CNAME .
@@ -45175,6 +45159,8 @@ gold-und-handel.de CNAME .
 *.gold-und-handel.de CNAME .
 goldhandel-degussa.de CNAME .
 *.goldhandel-degussa.de CNAME .
+goldhandel-heute.de CNAME .
+*.goldhandel-heute.de CNAME .
 goldhandel-testsieger.de CNAME .
 *.goldhandel-testsieger.de CNAME .
 goldhandelkontor-testsieger1972.de CNAME .
@@ -45935,8 +45921,6 @@ lanetech.de CNAME .
 *.lanetech.de CNAME .
 lanka-money-transfer.de CNAME .
 *.lanka-money-transfer.de CNAME .
-lantana-handel.de CNAME .
-*.lantana-handel.de CNAME .
 lapistra.de CNAME .
 *.lapistra.de CNAME .
 laptop-akkus.de CNAME .
@@ -46801,8 +46785,6 @@ pillenprodukte.de CNAME .
 *.pillenprodukte.de CNAME .
 pillenrezeptfrei.de CNAME .
 *.pillenrezeptfrei.de CNAME .
-pilzehaus.de CNAME .
-*.pilzehaus.de CNAME .
 pit-vipershop.de CNAME .
 *.pit-vipershop.de CNAME .
 piwt-bewaesserung.de CNAME .
@@ -47413,6 +47395,8 @@ solarplatten24.de CNAME .
 *.solarplatten24.de CNAME .
 solartermin.de CNAME .
 *.solartermin.de CNAME .
+solid-goods.de CNAME .
+*.solid-goods.de CNAME .
 solofa.de CNAME .
 *.solofa.de CNAME .
 solovairschuhe.de CNAME .
@@ -48131,6 +48115,8 @@ windendew.de CNAME .
 *.windendew.de CNAME .
 winke24.de CNAME .
 *.winke24.de CNAME .
+winkler-elektronik.de CNAME .
+*.winkler-elektronik.de CNAME .
 winkler-gartenhandel.de CNAME .
 *.winkler-gartenhandel.de CNAME .
 winkler-modehaus.de CNAME .
@@ -58393,6 +58379,8 @@ helle-klevens.shop CNAME .
 *.helle-klevens.shop CNAME .
 hempel-reifenversand.shop CNAME .
 *.hempel-reifenversand.shop CNAME .
+hendoi.shop CNAME .
+*.hendoi.shop CNAME .
 henkel-reifenhandel.shop CNAME .
 *.henkel-reifenhandel.shop CNAME .
 hennisorchideen.shop CNAME .
