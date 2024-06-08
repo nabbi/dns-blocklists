@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1717799640 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1717845780 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Jun 2024 22:34 UTC
-; Version: 2024.0607.2234.27
+; Last modified: 08 Jun 2024 11:23 UTC
+; Version: 2024.0608.1123.54
 ; Syntax: RPZ
-; Number of entries: 155944
+; Number of entries: 155960
 ;
 delhiboard.ac CNAME .
 *.delhiboard.ac CNAME .
@@ -2793,6 +2793,8 @@ drsandyages.ca CNAME .
 *.drsandyages.ca CNAME .
 dschaeffer.ca CNAME .
 *.dschaeffer.ca CNAME .
+dsfoothills.ca CNAME .
+*.dsfoothills.ca CNAME .
 dtcomptabilite.ca CNAME .
 *.dtcomptabilite.ca CNAME .
 duckrow.ca CNAME .
@@ -7863,6 +7865,8 @@ m3mcullinannoida.co CNAME .
 *.m3mcullinannoida.co CNAME .
 m3mpanipatcity.co CNAME .
 *.m3mpanipatcity.co CNAME .
+maastersinfra.co CNAME .
+*.maastersinfra.co CNAME .
 madaras.co CNAME .
 *.madaras.co CNAME .
 mainage.co CNAME .
@@ -62863,6 +62867,8 @@ judosllyn.com CNAME .
 *.judosllyn.com CNAME .
 judruwough.com CNAME .
 *.judruwough.com CNAME .
+juduegeohwpha.com CNAME .
+*.juduegeohwpha.com CNAME .
 jugerfowells.com CNAME .
 *.jugerfowells.com CNAME .
 juggleeducationfirearm.com CNAME .
@@ -68011,6 +68017,8 @@ lq0nvu70e.com CNAME .
 *.lq0nvu70e.com CNAME .
 lqbzuny.com CNAME .
 *.lqbzuny.com CNAME .
+lqqrwxfic.com CNAME .
+*.lqqrwxfic.com CNAME .
 lr7ndsloie9cnfhqco14lfbjheestrqino2natoe.com CNAME .
 *.lr7ndsloie9cnfhqco14lfbjheestrqino2natoe.com CNAME .
 lraamjguka.com CNAME .
@@ -106467,6 +106475,8 @@ udinorge.com CNAME .
 *.udinorge.com CNAME .
 udinugoo.com CNAME .
 *.udinugoo.com CNAME .
+udkc7.com CNAME .
+*.udkc7.com CNAME .
 udlqdkqdfymq.com CNAME .
 *.udlqdkqdfymq.com CNAME .
 udncoeln.com CNAME .
@@ -108105,6 +108115,8 @@ uzryxfiapfkojb.com CNAME .
 *.uzryxfiapfkojb.com CNAME .
 uzxkuwalnjp.com CNAME .
 *.uzxkuwalnjp.com CNAME .
+uzydpkqtg.com CNAME .
+*.uzydpkqtg.com CNAME .
 v-360kan.com CNAME .
 *.v-360kan.com CNAME .
 v00ske77693f.com CNAME .
@@ -142699,6 +142711,8 @@ chillisport.ro CNAME .
 *.chillisport.ro CNAME .
 digitalcable.ro CNAME .
 *.digitalcable.ro CNAME .
+triodos.ro CNAME .
+*.triodos.ro CNAME .
 vclubshops.ro CNAME .
 *.vclubshops.ro CNAME .
 05et.rocks CNAME .
@@ -153835,6 +153849,8 @@ lfopq.xyz CNAME .
 *.lfopq.xyz CNAME .
 lgepbups.xyz CNAME .
 *.lgepbups.xyz CNAME .
+lgucpdeshnnuxv.xyz CNAME .
+*.lgucpdeshnnuxv.xyz CNAME .
 lhhufwyemfwgob.xyz CNAME .
 *.lhhufwyemfwgob.xyz CNAME .
 libcdn.xyz CNAME .
