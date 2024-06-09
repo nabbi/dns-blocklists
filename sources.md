@@ -10,6 +10,7 @@ https://botvrij.eu/data/ioclist.domain
 https://botvrij.eu/data/ioclist.hostname
 https://botvrij.eu/data/ioclist.ip-dst
 https://builtwith.com/dl/builtwith-top1m.zip
+https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/chinese-filter.txt
 https://cpdbl.net/lists/blocklistde-all.list
 https://cpdbl.net/lists/bruteforce.list
 https://cpdbl.net/lists/etknown.list
@@ -133,6 +134,7 @@ https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/master/alienvault.txt
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/master/threatfox.txt
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList-Notifications.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersABP-Inclusion.txt
