@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 13 May 2024 23:31 UTC
-# Version: 2024.0513.2331.47
+# Last modified: 09 Jun 2024 09:17 UTC
+# Version: 2024.0609.0917.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 228
+# Number of entries: 323
 #
 *.aan.amazon.co.jp
 *.aan.amazon.com
@@ -18,22 +18,64 @@
 *.aan.amazon.in
 *.aan.amazon.it
 *.aax.amazon-adsystem.com
+*.aax-apse-dtb-mobile.amazon-adsystem.com
+*.aax-apse-dtb-mobile-events.amazon-adsystem.com
 *.aax-apse-dtb-web.amazon-adsystem.com
+*.aax-audio.amazon-adsystem.com
 *.aax-cpm.amazon-adsystem.com
 *.aax-dtb-cf.amazon-adsystem.com
+*.aax-dtb-legacy.amazon-adsystem.com
+*.aax-dtb-mobile.amazon-adsystem.com
+*.aax-dtb-mobile-bids-geo.amazon-adsystem.com
+*.aax-dtb-mobile-events.amazon-adsystem.com
 *.aax-dtb-mobile-geo.amazon-adsystem.com
+*.aax-dtb-web.amazon-adsystem.com
+*.aax-dtb-web-bids-geo.amazon-adsystem.com
+*.aax-dtb-web-geo.amazon-adsystem.com
 *.aax-eu.amazon-adsystem.com
+*.aax-eu-dtb-mobile.amazon-adsystem.com
+*.aax-eu-dtb-mobile-events.amazon-adsystem.com
+*.aax-eu-ott.amazon-adsystem.com
+*.aax-eu-ott-events.amazon-adsystem.com
+*.aax-eu-rtb-adx.amazon-adsystem.com
+*.aax-eu-rtb.amazon-adsystem.com
+*.aax-eu-test1.amazon-adsystem.com
 *.aax-fe.amazon-adsystem.com
+*.aax-fe-rtb.amazon-adsystem.com
 *.aax-fe-sin.amazon-adsystem.com
+*.aax-fe-sin-rtb-adx.amazon-adsystem.com
+*.aax-fe-sin-rtb.amazon-adsystem.com
 *.aax-ott.amazon-adsystem.com
 *.aax-ott-c2s.amazon-adsystem.com
 *.aax-ott-sdk.amazon-adsystem.com
 *.aax-us.amazon-adsystem.com
 *.aax-us-east.amazon-adsystem.com
+*.aax-us-east-dtb.amazon-adsystem.com
+*.aax-us-east-dtb-mobile.amazon-adsystem.com
 *.aax-us-east-ott.amazon-adsystem.com
+*.aax-us-east-rtb-adx.amazon-adsystem.com
+*.aax-us-east-rtb.amazon-adsystem.com
+*.aax-us-east-test1.amazon-adsystem.com
+*.aax-us-east-test2.amazon-adsystem.com
+*.aax-us-east-test3.amazon-adsystem.com
+*.aax-us-east-test4.amazon-adsystem.com
+*.aax-us-east-test5.amazon-adsystem.com
+*.aax-us-east-test6.amazon-adsystem.com
 *.aax-us-east-test.amazon-adsystem.com
 *.aax-us-pdx.amazon-adsystem.com
+*.aax-us-pdx-rtb-adx.amazon-adsystem.com
+*.aax-us-pdx-rtb.amazon-adsystem.com
+*.aax-us-west-dtb-mobile.amazon-adsystem.com
+*.aax-us-west-dtb-mobile-events.amazon-adsystem.com
 *.aax-us-west-ott.amazon-adsystem.com
+*.aax-us-west-ott-events.amazon-adsystem.com
+*.aax-us-west-rtb.amazon-adsystem.com
+*.aax-vx-api-us-east-1.amazon-adsystem.com
+*.aax-vx-api-us-west-2.amazon-adsystem.com
+*.aax-vx-eu-eu-west-1.amazon-adsystem.com
+*.aax-vx-fe-us-west-2.amazon-adsystem.com
+*.aax-vx-us-us-east-1.amazon-adsystem.com
+*.aax-vx-us-us-west-2.amazon-adsystem.com
 *.ads-setu-proxy-eu.amazon.com
 *.advertising.a2z.com
 *.advertising.amazon.ae
@@ -57,6 +99,7 @@
 *.advertising-api-eu.amazon.com
 *.alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 *.alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
+*.alt1-3ps.amazon-adsystem.com
 *.api.eu-west-1.aiv-delivery.net
 *.api.us-east-1.aiv-delivery.net
 *.api.us-west-2.aiv-delivery.net
@@ -73,6 +116,10 @@
 *.assoc-msdk-cn.amazon-adsystem.com
 *.assoc-msdk-eu.amazon-adsystem.com
 *.assoc-msdk-us.amazon-adsystem.com
+*.at-beta.amazon-adsystem.com
+*.atfe.amazon-adsystem.com
+*.at-gamma-us-east.amazon-adsystem.com
+*.atue.amazon-adsystem.com
 *.at-us-east.amazon-adsystem.com
 *.aviary.amazon.co.jp
 *.aviary.amazon.com
@@ -91,9 +138,11 @@
 *.da-cdn.amazon-adsystem.com
 *.device-metrics-us-2.amazon.com
 *.device-metrics-us.amazon.com
+*.diagnostic.networking.aws.dev
 *.dra.amazon-adsystem.com
 *.events.app-performance.music.amazon.dev
 *.events.bugsnag.ngm.audible.a2z.com
+*.fls-cn.amazon-adsystem.com
 *.fls-cn.amazon.cn
 *.fls-eu.amazon-adsystem.com
 *.fls-eu.amazon.ae
@@ -125,6 +174,7 @@
 *.forester.a2z.com
 *.identity.browserapps.amazon.de
 *.imdb.amazon-adsystem.com
+*.ir-au.amazon-adsystem.com
 *.ir-br.amazon-adsystem.com
 *.ir-ca.amazon-adsystem.com
 *.ir-cn.amazon-adsystem.com
@@ -136,6 +186,8 @@
 *.ir-jp.amazon-adsystem.com
 *.ir-mx.amazon-adsystem.com
 *.ir-na.amazon-adsystem.com
+*.ir-nl.amazon-adsystem.com
+*.ir-tr.amazon-adsystem.com
 *.ir-uk.amazon-adsystem.com
 *.kinesis.ap-northeast-1.amazonaws.com
 *.kinesis.ap-northeast-2.amazonaws.com
@@ -159,13 +211,41 @@
 *.mads-eu.amazon.com
 *.mads-fe.amazon.com
 *.mas-sdk.amazon-adsystem.com
+*.mas-sdk-cn.amazon-adsystem.com
+*.mas-sdk-eu.amazon-adsystem.com
+*.maws-aax-apse-rtb-adx.amazon-adsystem.com
+*.maws-aax-apse-rtb.amazon-adsystem.com
+*.maws-aax-eu-rtb-adx.amazon-adsystem.com
+*.maws-aax-eu-rtb.amazon-adsystem.com
+*.maws-aax-us-east-rtb-adx.amazon-adsystem.com
+*.maws-aax-us-east-rtb.amazon-adsystem.com
+*.maws-aax-us-east-test4.amazon-adsystem.com
+*.maws-aax-us-pdx-rtb.amazon-adsystem.com
 *.metrics.media-amazon.com
 *.minerva.devices.a2z.com
 *.mobileanalytics.us-east-1.amazonaws.com
+*.msh.amazon.ca
+*.msh.amazon.cn
+*.msh.amazon.co.jp
+*.msh.amazon.com
+*.msh.amazon.com.br
+*.msh.amazon.com.mx
+*.msh.amazon.co.uk
+*.msh.amazon.de
+*.msh.amazon.es
+*.msh.amazon.fr
+*.msh.amazon.in
+*.msh.amazon.it
 *.mshopbugsnag.irm.amazon.dev
 *.new-telemetry.insights.video.a2z.com
+*.origin-sq-tungsten-ts.amazon-adsystem.com
 *.paa-reporting-advertising.amazon
+*.pri1-3ps.amazon-adsystem.com
+*.pri1-id-eu.amazon-adsystem.com
+*.pri1-id-fe.amazon-adsystem.com
+*.pri1-id-us.amazon-adsystem.com
 *.ps-eu.amazon-adsystem.com
+*.ps-fe.amazon-adsystem.com
 *.ps-jp.amazon-adsystem.com
 *.ps-us.amazon-adsystem.com
 *.rcm.amazon.com
@@ -184,9 +264,14 @@
 *.sq-tungsten-ts.amazon-adsystem.com
 *.sq-tungsten-ts-eu.amazon-adsystem.com
 *.sq-tungsten-ts-fe.amazon-adsystem.com
+*.st.amazon-adsystem.com
 *.telemetry.insights.video.a2z.com
 *.tk.amazon-adsystem.com
+*.tk-beta.amazon-adsystem.com
+*.tk-eu.amazon-adsystem.com
+*.tk-gamma.amazon-adsystem.com
 *.ts.amazon-adsystem.com
+*.ts-gamma.amazon-adsystem.com
 *.unagi.amazon.ae
 *.unagi.amazon.ca
 *.unagi.amazon.cn
@@ -220,11 +305,21 @@
 *.vaes-na.amazon-adsystem.com
 *.vaes-na-preprod.amazon-adsystem.com
 *.vfw.amazon-adsystem.com
+*.vfw-ap.amazon-adsystem.com
+*.vfw-ap-gamma.amazon-adsystem.com
 *.vfw-eu.amazon-adsystem.com
+*.vfw-eu-gamma.amazon-adsystem.com
 *.vfw-gamma.amazon-adsystem.com
 *.vfw-us.amazon-adsystem.com
+*.vfw-us-gamma.amazon-adsystem.com
 *.vfw-us-west.amazon-adsystem.com
+*.vfw-us-west-gamma.amazon-adsystem.com
 *.video-ads.a2z.com
+*.vq-eu-west-1.amazon-adsystem.com
+*.vq-fe-us-west-2.amazon-adsystem.com
+*.vq-test-us-east-1.amazon-adsystem.com
+*.vq-us-east-1.amazon-adsystem.com
+*.vq-us-west-2.amazon-adsystem.com
 *.wms-eu.amazon-adsystem.com
 *.wms-fe.amazon-adsystem.com
 *.wms-in.amazon-adsystem.com

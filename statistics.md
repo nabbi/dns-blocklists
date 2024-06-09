@@ -2,7 +2,7 @@
 #### LIGHT
 ```
  Nr | Included | Dead | Removed | URL/File
-  1 |      80% |  14% |      6% | Denylist Personal
+  1 |      81% |  13% |      6% | Denylist Personal
   2 |      99% |   0% |      1% | Basic Extension
   3 |      89% |   9% |      2% | Denylist Community non-Aggressive
 ```
@@ -12,12 +12,12 @@
   1 |     100% |   0% |      0% | Predecessor: Multi Light
   2 |      80% |  14% |      6% | Denylist Personal
   3 |      42% |  42% |     16% | Extracted Wildcard Rules
-  4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
-  5 |      63% |   0% |     37% | Native Tracker Amazon (Devices, Shopping, Video)
+  4 |      18% |   0% |     82% | Native Tracker Apple (iOS, macOS, tvOS)
+  5 |      54% |   0% |     46% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |      75% |   0% |     25% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |      17% |   0% |     83% | Native Tracker TikTok (Fingerprinting)
-  9 |      10% |   0% |     90% | Native Tracker Microsoft (Windows, Office, MSN)
+  9 |      11% |   0% |     89% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      66% |   7% |     27% | Denylist Base
  11 |      99% |   0% |      1% | Basic Extension
  12 |      89% |   9% |      2% | Denylist Community non-Aggressive
@@ -33,8 +33,8 @@
   1 |     100% |   0% |      0% | Predecessor: Multi Normal
   2 |      81% |  14% |      5% | Denylist Personal
   3 |      53% |  43% |      4% | Extracted Wildcard Rules
-  4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
-  5 |      99% |   0% |      1% | Native Tracker Amazon (Devices, Shopping, Video)
+  4 |      40% |   0% |     60% | Native Tracker Apple (iOS, macOS, tvOS)
+  5 |      81% |   0% |     19% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |      81% |   0% |     19% | Native Tracker TikTok (Fingerprinting)
@@ -59,8 +59,8 @@
   1 |     100% |   0% |      0% | Predecessor: Multi Pro
   2 |      82% |  14% |      4% | Denylist Personal
   3 |      53% |  44% |      3% | Extracted Wildcard Rules
-  4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
-  5 |     100% |   0% |      0% | Native Tracker Amazon (Devices, Shopping, Video)
+  4 |      52% |   0% |     48% | Native Tracker Apple (iOS, macOS, tvOS)
+  5 |      98% |   0% |      2% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |     100% |   0% |      0% | Native Tracker TikTok (Fingerprinting)
@@ -88,7 +88,7 @@
   1 |     100% |   0% |      0% | Predecessor: Multi Pro++
   2 |      83% |  14% |      3% | Denylist Personal
   3 |      53% |  44% |      3% | Extracted Wildcard Rules
-  4 |     100% |   0% |      0% | Native Tracker Apple (iOS, macOS, tvOS)
+  4 |      57% |   0% |     43% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |     100% |   0% |      0% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
@@ -119,7 +119,7 @@
  Nr | Included | Dead | Removed | URL/File
   1 |      68% |  30% |      2% | Denylist Community Threat Intelligence Feeds
   2 |     100% |   0% |      0% | Fake
-  3 |      96% |   0% |      4% | https://phishing-filter.pages.dev/phishing-filter-hosts.txt
+  3 |      95% |   0% |      5% | https://phishing-filter.pages.dev/phishing-filter-hosts.txt
   4 |      54% |  45% |      1% | https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
   5 |      31% |  69% |      0% | https://phishing.army/download/phishing_army_blocklist_extended.txt
   6 |     100% |   0% |      0% | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
@@ -133,7 +133,7 @@
  14 |      94% |   4% |      2% | https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt
  15 |      40% |  59% |      1% | https://hosts.tweedge.net/malicious.txt
  16 |      70% |  27% |      3% | https://threatfox.abuse.ch/downloads/hostfile
- 17 |      76% |  23% |      1% | https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt
+ 17 |      77% |  22% |      1% | https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt
  18 |      99% |   0% |      1% | https://urlhaus.abuse.ch/downloads/hostfile
  19 |      27% |  73% |      0% | https://vn-badsite-filter.pages.dev/vn-badsite-filter-hosts.txt
  20 |      65% |  35% |      0% | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
@@ -167,13 +167,13 @@
   3 |     100% |   0% |      0% | Fake
   4 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
   5 |     100% |   0% |      0% | Pop-Up Ads (Malicious)
-  6 |      96% |   0% |      4% | https://phishing-filter.pages.dev/phishing-filter-hosts.txt
+  6 |      95% |   0% |      5% | https://phishing-filter.pages.dev/phishing-filter-hosts.txt
   7 |      17% |  83% |      0% | https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
   8 |      54% |  45% |      1% | https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
   9 |      31% |  69% |      0% | https://phishing.army/download/phishing_army_blocklist_extended.txt
  10 |      38% |  62% |      0% | https://raw.githubusercontent.com/cbuijs/ut1/master/phishing/domains
  11 |      63% |  37% |      0% | https://raw.githubusercontent.com/MikhailKasimov/validin-phish-feed/main/validin-phish-feed.txt
- 12 |      97% |   0% |      3% | https://raw.githubusercontent.com/xRuffKez/NXPhish/main/nxphish.agh
+ 12 |      98% |   0% |      2% | https://raw.githubusercontent.com/xRuffKez/NXPhish/main/nxphish.agh
  13 |     100% |   0% |      0% | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
  14 |      98% |   1% |      1% | https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
  15 |      99% |   0% |      1% | https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams_light.txt
@@ -191,7 +191,7 @@
  27 |      40% |  59% |      1% | https://hosts.tweedge.net/malicious.txt
  28 |      30% |  70% |      0% | https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts
  29 |      70% |  27% |      3% | https://threatfox.abuse.ch/downloads/hostfile
- 30 |      76% |  23% |      1% | https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt
+ 30 |      77% |  22% |      1% | https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt
  31 |      99% |   0% |      1% | https://urlhaus.abuse.ch/downloads/hostfile
  32 |      27% |  73% |      0% | https://vn-badsite-filter.pages.dev/vn-badsite-filter-hosts.txt
  33 |      65% |  35% |      0% | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt

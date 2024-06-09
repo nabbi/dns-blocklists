@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jun 2024 00:48 UTC
-# Version: 2024.0609.0048.38
+# Last modified: 09 Jun 2024 13:06 UTC
+# Version: 2024.0609.1306.20
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 134774
+# Number of entries: 134952
 #
 0.0.0.0 0-02.net
 0.0.0.0 0008d6ba2e.com
@@ -7396,6 +7396,7 @@
 0.0.0.0 abetterinternet.com
 0.0.0.0 abh.jp
 0.0.0.0 abiderestless.com
+0.0.0.0 abiezerrotor.top
 0.0.0.0 abiezertilyer.top
 0.0.0.0 pumpkin.abine.com
 0.0.0.0 abjectionpatheticcoloured.com
@@ -7727,7 +7728,6 @@
 0.0.0.0 achetezfacile.com
 0.0.0.0 achievebeneficial.com
 0.0.0.0 achilles-par.com
-0.0.0.0 achillharpfestival.ie
 0.0.0.0 achmic.com
 0.0.0.0 achuphaube.com
 0.0.0.0 achycompassionate.com
@@ -13069,6 +13069,8 @@
 0.0.0.0 aemediatraffic.com
 0.0.0.0 aemmfiu.cc
 0.0.0.0 metrics.aeon.co
+0.0.0.0 aeoniannagual.top
+0.0.0.0 aeonistmotet.top
 0.0.0.0 aerbgpn.xyz
 0.0.0.0 aerialsargle.top
 0.0.0.0 aeroplaneversion.com
@@ -13386,6 +13388,7 @@
 0.0.0.0 agaso.de
 0.0.0.0 agaswalotchan.com
 0.0.0.0 agatarainpro.com
+0.0.0.0 agauinsist.top
 0.0.0.0 err.agava.ru
 0.0.0.0 agazejagless.com
 0.0.0.0 agcdn.com
@@ -14247,7 +14250,9 @@
 0.0.0.0 aktxwijitaqs.com
 0.0.0.0 akunamapro.com
 0.0.0.0 akutapro.com
+0.0.0.0 akvvkmrqokjkv.top
 0.0.0.0 akyr3h9x5mb.com
+0.0.0.0 akzawlykqarzr.top
 0.0.0.0 ads.al.com
 0.0.0.0 al-adtech.com
 0.0.0.0 cdn.al-adtech.com
@@ -16460,20 +16465,98 @@
 0.0.0.0 telemetry.taskei.amazon.dev
 0.0.0.0 rcm-eu.vdc.amazon.com
 0.0.0.0 ws.amazon.com
+0.0.0.0 alt1-3ps.amazon-adsystem.com
 0.0.0.0 aps.amazon-adsystem.com
+0.0.0.0 ads.aps.amazon-adsystem.com
+0.0.0.0 bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 spp.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 iad.spp.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 pdx.spp.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 stv.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 iad.stv.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 pdx.stv.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 s2s.stv.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 spp.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 iad.spp.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 pdx.spp.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 iad.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 pdx.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 s2s.stv.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 ads-beta.aps.amazon-adsystem.com
 0.0.0.0 bid-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 spp.bid-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 iad.spp.bid-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 cell2001.iad.spp.bid-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 0.0.0.0 stv.bid-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 cell2002.iad.stv.bid-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 s2s.stv.bid-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 event-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 spp.event-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 iad.spp.event-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 cell2001.iad.spp.event-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 stv.event-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 s2s.stv.event-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 bid-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 spp.bid-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 iad.spp.bid-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 cell5001.iad.spp.bid-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 stv.bid-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 iad.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 cell5001.iad.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 pdx.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 cell5002.pdx.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 s2s.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 event-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 spp.event-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 iad.spp.event-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 cell5001.iad.spp.event-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 stv.event-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 iad.stv.event-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 cell5001.iad.stv.event-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 pdx.stv.event-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 cell5002.pdx.stv.event-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 s2s.stv.event-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 beta-c.aps.amazon-adsystem.com
+0.0.0.0 beta-config.aps.amazon-adsystem.com
+0.0.0.0 beta-krypton.aps.amazon-adsystem.com
 0.0.0.0 c.aps.amazon-adsystem.com
 0.0.0.0 client.aps.amazon-adsystem.com
 0.0.0.0 config.aps.amazon-adsystem.com
+0.0.0.0 gamma-config.aps.amazon-adsystem.com
 0.0.0.0 gamma-toolbox.aps.amazon-adsystem.com
+0.0.0.0 api.gamma-toolbox.aps.amazon-adsystem.com
+0.0.0.0 c.gamma-toolbox.aps.amazon-adsystem.com
 0.0.0.0 toolbox.aps.amazon-adsystem.com
+0.0.0.0 c.toolbox.aps.amazon-adsystem.com
 0.0.0.0 video-player.aps.amazon-adsystem.com
 0.0.0.0 assoc-msdk-cn.amazon-adsystem.com
 0.0.0.0 assoc-msdk-eu.amazon-adsystem.com
 0.0.0.0 assoc-msdk-us.amazon-adsystem.com
+0.0.0.0 at-beta.amazon-adsystem.com
+0.0.0.0 at-gamma-us-east.amazon-adsystem.com
 0.0.0.0 at-us-east.amazon-adsystem.com
+0.0.0.0 atfe.amazon-adsystem.com
+0.0.0.0 atue.amazon-adsystem.com
 0.0.0.0 axp.amazon-adsystem.com
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 ap-southeast.3px.axp.amazon-adsystem.com
@@ -16484,18 +16567,42 @@
 0.0.0.0 aes.us-east.3px.axp.amazon-adsystem.com
 0.0.0.0 us-west.3px.axp.amazon-adsystem.com
 0.0.0.0 aes.us-west.3px.axp.amazon-adsystem.com
+0.0.0.0 aes-beta.axp.amazon-adsystem.com
 0.0.0.0 aps.axp.amazon-adsystem.com
+0.0.0.0 ap-southeast.aps.axp.amazon-adsystem.com
+0.0.0.0 web.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0 eu-west.aps.axp.amazon-adsystem.com
+0.0.0.0 mobile.eu-west.aps.axp.amazon-adsystem.com
+0.0.0.0 ott.eu-west.aps.axp.amazon-adsystem.com
+0.0.0.0 strategicpub.eu-west.aps.axp.amazon-adsystem.com
+0.0.0.0 web.eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 us-east.aps.axp.amazon-adsystem.com
+0.0.0.0 mobile.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 ott.us-east.aps.axp.amazon-adsystem.com
+0.0.0.0 strategicpub.us-east.aps.axp.amazon-adsystem.com
+0.0.0.0 web.us-east.aps.axp.amazon-adsystem.com
+0.0.0.0 us-west.aps.axp.amazon-adsystem.com
+0.0.0.0 mobile.us-west.aps.axp.amazon-adsystem.com
+0.0.0.0 ott.us-west.aps.axp.amazon-adsystem.com
+0.0.0.0 strategicpub.us-west.aps.axp.amazon-adsystem.com
+0.0.0.0 ono.axp.amazon-adsystem.com
+0.0.0.0 live-events.ono.axp.amazon-adsystem.com
+0.0.0.0 us-east.live-events.ono.axp.amazon-adsystem.com
+0.0.0.0 aes.us-east.live-events.ono.axp.amazon-adsystem.com
+0.0.0.0 us-west.live-events.ono.axp.amazon-adsystem.com
+0.0.0.0 aes.us-west.live-events.ono.axp.amazon-adsystem.com
 0.0.0.0 rtb.axp.amazon-adsystem.com
 0.0.0.0 apse.rtb.axp.amazon-adsystem.com
+0.0.0.0 adx-bids.apse.rtb.axp.amazon-adsystem.com
 0.0.0.0 useast.rtb.axp.amazon-adsystem.com
+0.0.0.0 gamma.useast.rtb.axp.amazon-adsystem.com
+0.0.0.0 test-cell01.gamma.useast.rtb.axp.amazon-adsystem.com
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 cdn-d.amazon-adsystem.com
 0.0.0.0 cdn-t.amazon-adsystem.com
 0.0.0.0 da-cdn.amazon-adsystem.com
 0.0.0.0 imdb.amazon-adsystem.com
+0.0.0.0 ir-au.amazon-adsystem.com
 0.0.0.0 ir-br.amazon-adsystem.com
 0.0.0.0 ir-ca.amazon-adsystem.com
 0.0.0.0 ir-cn.amazon-adsystem.com
@@ -16507,10 +16614,28 @@
 0.0.0.0 ir-jp.amazon-adsystem.com
 0.0.0.0 ir-mx.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 ir-nl.amazon-adsystem.com
+0.0.0.0 ir-tr.amazon-adsystem.com
 0.0.0.0 ir-uk.amazon-adsystem.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mas-sdk.amazon-adsystem.com
+0.0.0.0 mas-sdk-cn.amazon-adsystem.com
+0.0.0.0 mas-sdk-eu.amazon-adsystem.com
+0.0.0.0 maws-aax-apse-rtb.amazon-adsystem.com
+0.0.0.0 maws-aax-apse-rtb-adx.amazon-adsystem.com
+0.0.0.0 maws-aax-eu-rtb.amazon-adsystem.com
+0.0.0.0 maws-aax-eu-rtb-adx.amazon-adsystem.com
+0.0.0.0 maws-aax-us-east-rtb.amazon-adsystem.com
+0.0.0.0 maws-aax-us-east-rtb-adx.amazon-adsystem.com
+0.0.0.0 maws-aax-us-east-test4.amazon-adsystem.com
+0.0.0.0 maws-aax-us-pdx-rtb.amazon-adsystem.com
+0.0.0.0 origin-sq-tungsten-ts.amazon-adsystem.com
+0.0.0.0 pri1-3ps.amazon-adsystem.com
+0.0.0.0 pri1-id-eu.amazon-adsystem.com
+0.0.0.0 pri1-id-fe.amazon-adsystem.com
+0.0.0.0 pri1-id-us.amazon-adsystem.com
 0.0.0.0 ps-eu.amazon-adsystem.com
+0.0.0.0 ps-fe.amazon-adsystem.com
 0.0.0.0 ps-jp.amazon-adsystem.com
 0.0.0.0 ps-us.amazon-adsystem.com
 0.0.0.0 rcm-eu.amazon-adsystem.com
@@ -16520,18 +16645,33 @@
 0.0.0.0 sq-tungsten-ts.amazon-adsystem.com
 0.0.0.0 sq-tungsten-ts-eu.amazon-adsystem.com
 0.0.0.0 sq-tungsten-ts-fe.amazon-adsystem.com
+0.0.0.0 st.amazon-adsystem.com
 0.0.0.0 tk.amazon-adsystem.com
+0.0.0.0 tk-beta.amazon-adsystem.com
+0.0.0.0 tk-eu.amazon-adsystem.com
+0.0.0.0 tk-gamma.amazon-adsystem.com
 0.0.0.0 ts.amazon-adsystem.com
+0.0.0.0 ts-gamma.amazon-adsystem.com
 0.0.0.0 vaes.amazon-adsystem.com
 0.0.0.0 vaes-eu.amazon-adsystem.com
 0.0.0.0 vaes-eu-preprod.amazon-adsystem.com
 0.0.0.0 vaes-fe.amazon-adsystem.com
 0.0.0.0 vaes-na-preprod.amazon-adsystem.com
 0.0.0.0 vfw.amazon-adsystem.com
+0.0.0.0 vfw-ap.amazon-adsystem.com
+0.0.0.0 vfw-ap-gamma.amazon-adsystem.com
 0.0.0.0 vfw-eu.amazon-adsystem.com
+0.0.0.0 vfw-eu-gamma.amazon-adsystem.com
 0.0.0.0 vfw-gamma.amazon-adsystem.com
 0.0.0.0 vfw-us.amazon-adsystem.com
+0.0.0.0 vfw-us-gamma.amazon-adsystem.com
 0.0.0.0 vfw-us-west.amazon-adsystem.com
+0.0.0.0 vfw-us-west-gamma.amazon-adsystem.com
+0.0.0.0 vq-eu-west-1.amazon-adsystem.com
+0.0.0.0 vq-fe-us-west-2.amazon-adsystem.com
+0.0.0.0 vq-test-us-east-1.amazon-adsystem.com
+0.0.0.0 vq-us-east-1.amazon-adsystem.com
+0.0.0.0 vq-us-west-2.amazon-adsystem.com
 0.0.0.0 wms-eu.amazon-adsystem.com
 0.0.0.0 wms-fe.amazon-adsystem.com
 0.0.0.0 wms-in.amazon-adsystem.com
@@ -17272,6 +17412,7 @@
 0.0.0.0 aneartuilles.top
 0.0.0.0 analytics.anedot.com
 0.0.0.0 anei.tv
+0.0.0.0 anelerheen.top
 0.0.0.0 anemenzemkwkm.top
 0.0.0.0 aneorwd.com
 0.0.0.0 anetkin.biz
@@ -18728,6 +18869,7 @@
 0.0.0.0 ty92p01ad-ext-infcloud.iad.apple.com
 0.0.0.0 vp2pass-dev.iad.apple.com
 0.0.0.0 iadcontent.apple.com
+0.0.0.0 iadmoo.apple.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 cf.iadsdk.apple.com
@@ -18740,13 +18882,9 @@
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 searchads.apple.com
 0.0.0.0 app.searchads.apple.com
-0.0.0.0 securemetrics.apple.com
-0.0.0.0 securemvt.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
-0.0.0.0 supportmetrics.apple.com
 0.0.0.0 usw2-securemetrics.apple.com
 0.0.0.0 weather-analytics-events.apple.com
-0.0.0.0 feedbackws.fe.apple-dns.cn
 0.0.0.0 apple012.com
 0.0.0.0 apple36.xyz
 0.0.0.0 redirect.appleads-trk.com
@@ -24061,6 +24199,7 @@
 0.0.0.0 astrsk.net
 0.0.0.0 cdn.astrsk.net
 0.0.0.0 astutemetrics.com
+0.0.0.0 astylararsines.com
 0.0.0.0 jy.astylararsines.com
 0.0.0.0 analytics.asug.com
 0.0.0.0 asuqjow.in
@@ -25184,6 +25323,7 @@
 0.0.0.0 aymwiq.xyz
 0.0.0.0 aynufyns.xyz
 0.0.0.0 ayrather.com
+0.0.0.0 ayzylwqazormm.top
 0.0.0.0 ar1.aza.io
 0.0.0.0 ssc.azadliq.org
 0.0.0.0 azartplay.com
@@ -25223,6 +25363,7 @@
 0.0.0.0 countly-ctps.westeurope.cloudapp.azure.com
 0.0.0.0 nifty-tracking-westeu-ext.westeurope.cloudapp.azure.com
 0.0.0.0 nifty-tracking-westus-ext.westus.cloudapp.azure.com
+0.0.0.0 collector.azure.cn
 0.0.0.0 analytics.dev.azure.com
 0.0.0.0 azuredjaunt.top
 0.0.0.0 adncdnend.azureedge.net
@@ -27049,6 +27190,7 @@
 0.0.0.0 affiliates.bhphotovideo.com
 0.0.0.0 bhqfnuq.com
 0.0.0.0 bhs4.com
+0.0.0.0 bhutsynaxis.top
 0.0.0.0 bialithicket.com
 0.0.0.0 biancasunlit.com
 0.0.0.0 biancitiao.com
@@ -27726,6 +27868,7 @@
 0.0.0.0 bird-getabid.net
 0.0.0.0 xml.bird-getabid.net
 0.0.0.0 api-analytics.prod.birdapp.com
+0.0.0.0 birdplumose.top
 0.0.0.0 birgga.top
 0.0.0.0 birglucy.xyz
 0.0.0.0 birqmiowxfh.com
@@ -29880,6 +30023,7 @@
 0.0.0.0 bf.buffersling.com
 0.0.0.0 buffethypothesis.com
 0.0.0.0 buffetreboundfoul.com
+0.0.0.0 bugabooreynard.top
 0.0.0.0 bugattest.com
 0.0.0.0 bugleczmoidgxo.com
 0.0.0.0 www.bugleczmoidgxo.com
@@ -30059,6 +30203,7 @@
 0.0.0.0 butalksuw9dj10.com
 0.0.0.0 butcherhashexistence.com
 0.0.0.0 butflatter.com
+0.0.0.0 butinehamal.com
 0.0.0.0 butlerdelegate.com
 0.0.0.0 analytics.butlerhealthsystem.org
 0.0.0.0 butrathakinrol.com
@@ -30508,6 +30653,7 @@
 0.0.0.0 cajqtygrudk.com
 0.0.0.0 cajrijrhov.com
 0.0.0.0 collector.cakeresume.com
+0.0.0.0 cakiestfeted.top
 0.0.0.0 analytics.cal-adapt.org
 0.0.0.0 calamitydisc.com
 0.0.0.0 calamityfortuneaudio.com
@@ -30749,6 +30895,7 @@
 0.0.0.0 capricedes.com
 0.0.0.0 capricewailinguniversity.com
 0.0.0.0 capricornplay.com
+0.0.0.0 caprintulu.top
 0.0.0.0 caprizecaprizeretrievaltattoo.com
 0.0.0.0 caprofitx.com
 0.0.0.0 adn.caprofitx.com
@@ -36648,6 +36795,7 @@
 0.0.0.0 chauckee.net
 0.0.0.0 chaugroo.net
 0.0.0.0 chauinubbins.com
+0.0.0.0 chauioldened.com
 0.0.0.0 chauksoam.xyz
 0.0.0.0 chaunsoops.net
 0.0.0.0 chaursug.xyz
@@ -38510,6 +38658,7 @@
 0.0.0.0 d2ksh1ccat0a7e.cloudfront.net
 0.0.0.0 d2l3f1n039mza.cloudfront.net
 0.0.0.0 d2lahoz916es9g.cloudfront.net
+0.0.0.0 d2lg0swrp15nsj.cloudfront.net
 0.0.0.0 d2lmzq02n8ij7j.cloudfront.net
 0.0.0.0 d2lp70uu6oz7vk.cloudfront.net
 0.0.0.0 d2ltukojvgbso5.cloudfront.net
@@ -40515,6 +40664,7 @@
 0.0.0.0 traffic.prod.cobaltgroup.com
 0.0.0.0 cobblercohog.com
 0.0.0.0 cobweblockerdiana.com
+0.0.0.0 cobwebsimians.top
 0.0.0.0 cobwebzincdelicacy.com
 0.0.0.0 cobworksurview.com
 0.0.0.0 data.americas.coca-cola.com
@@ -40627,6 +40777,7 @@
 0.0.0.0 ads.cogocast.net
 0.0.0.0 assets.cogocast.net
 0.0.0.0 coguan.com
+0.0.0.0 coguepol.top
 0.0.0.0 cohade.uno
 0.0.0.0 cohawaut.com
 0.0.0.0 coherebehalf.com
@@ -41376,7 +41527,6 @@
 0.0.0.0 i-soon.com.cn
 0.0.0.0 iabargentina.com.ar
 0.0.0.0 mwzbp.iask.com.cn
-0.0.0.0 feedbackws.icloud.com.cn
 0.0.0.0 demo.idg.com.au
 0.0.0.0 idvlab.com.br
 0.0.0.0 bqvndd.ifood.com.br
@@ -41916,6 +42066,7 @@
 0.0.0.0 iscep-stories.commencis.com
 0.0.0.0 commentaryinduce.com
 0.0.0.0 commentaryspicedeceived.com
+0.0.0.0 commenttrendle.top
 0.0.0.0 event-tracking-services.global.commerce-connector.com
 0.0.0.0 commercefrugal.com
 0.0.0.0 commercialvalue.org
@@ -45555,6 +45706,7 @@
 0.0.0.0 culrosha.net
 0.0.0.0 cultergoy.com
 0.0.0.0 culterwhether.com
+0.0.0.0 culticmealily.com
 0.0.0.0 smetrics.cultura.com
 0.0.0.0 culturalcollectvending.com
 0.0.0.0 culturaltracking.ru
@@ -45606,6 +45758,7 @@
 0.0.0.0 shtptt.cupshe.com
 0.0.0.0 cupswiss.com
 0.0.0.0 cupulaeveinal.top
+0.0.0.0 curacaocrafty.top
 0.0.0.0 curalate.com
 0.0.0.0 api.curalate.com
 0.0.0.0 api-2.curalate.com
@@ -46759,6 +46912,7 @@
 0.0.0.0 decorationguinea.com
 0.0.0.0 decorationhailstone.com
 0.0.0.0 decordingholo.org
+0.0.0.0 decorefloit.top
 0.0.0.0 decoycreation.com
 0.0.0.0 decpo.xyz
 0.0.0.0 cdn.decpo.xyz
@@ -49350,6 +49504,7 @@
 0.0.0.0 dinomicrummies.com
 0.0.0.0 dinseegny.com
 0.0.0.0 analytics.dio.me
+0.0.0.0 diobolchromes.com
 0.0.0.0 diouy9cvtx.xyz
 0.0.0.0 dioxidtoluyls.com
 0.0.0.0 dipan.com
@@ -49899,6 +50054,7 @@
 0.0.0.0 doggessmumped.com
 0.0.0.0 doggyunderline.com
 0.0.0.0 doghasta.com
+0.0.0.0 doglegshrinks.top
 0.0.0.0 doglobal.net
 0.0.0.0 api-es.doglobal.net
 0.0.0.0 api-luckycoinsdk.doglobal.net
@@ -50069,8 +50225,10 @@
 0.0.0.0 dorkingvoust.com
 0.0.0.0 nukktn.dorko.hu
 0.0.0.0 dormitoryreverend.com
+0.0.0.0 dorothycanzos.com
 0.0.0.0 ii.dorothycanzos.com
 0.0.0.0 dorper.cn
+0.0.0.0 dorpetor.com
 0.0.0.0 analytics.dorseywright.com
 0.0.0.0 content.analytics.dorseywright.com
 0.0.0.0 data.analytics.dorseywright.com
@@ -59961,6 +60119,7 @@
 0.0.0.0 doubleview.online
 0.0.0.0 doubtlesshealthydocument.com
 0.0.0.0 doubtmeasure.com
+0.0.0.0 douceuristana.top
 0.0.0.0 doucheng123.com
 0.0.0.0 adtd.douglas.at
 0.0.0.0 adtd.douglas.be
@@ -61430,6 +61589,7 @@
 0.0.0.0 duplicatebecame.com
 0.0.0.0 duplicatepokeheavy.com
 0.0.0.0 durableordinarilyadministrator.com
+0.0.0.0 duralgomari.com
 0.0.0.0 metrics.durangoboots.com
 0.0.0.0 acceliaad.durasite.net
 0.0.0.0 ala.durasite.net
@@ -62470,6 +62630,7 @@
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 sp.ecosia.org
 0.0.0.0 ecoupons.com
+0.0.0.0 ecphorefooled.com
 0.0.0.0 ecpshapm.xyz
 0.0.0.0 ecrwqu.com
 0.0.0.0 ectyet.top
@@ -63562,6 +63723,7 @@
 0.0.0.0 cdn.enhencer.com
 0.0.0.0 collect.enhencer.com
 0.0.0.0 collect-web.enhencer.com
+0.0.0.0 enhydrachinook.top
 0.0.0.0 enifdlaw.top
 0.0.0.0 enigmaticvoyage.com
 0.0.0.0 pixel-profile-cloud.eniro.com
@@ -64119,6 +64281,7 @@
 0.0.0.0 matomo.prod.erli.tech
 0.0.0.0 erling.online
 0.0.0.0 erlirscid.com
+0.0.0.0 erlkingvenules.top
 0.0.0.0 erluankuan.com
 0.0.0.0 erm5aranwt7hucs.com
 0.0.0.0 erne.co
@@ -64754,6 +64917,7 @@
 0.0.0.0 excitinginstitute.com
 0.0.0.0 excitingstory.click
 0.0.0.0 excitingtub.com
+0.0.0.0 excitonglosts.top
 0.0.0.0 exclaimrefund.com
 0.0.0.0 exclkplat.com
 0.0.0.0 click-v4.exclkplat.com
@@ -66190,6 +66354,7 @@
 0.0.0.0 fictionfittinglad.com
 0.0.0.0 fictiongroin.com
 0.0.0.0 fictionmineralladder.com
+0.0.0.0 fidalgotres.com
 0.0.0.0 fiddleweaselloom.com
 0.0.0.0 activate1.fidelity.com
 0.0.0.0 fctms.fidelity.com
@@ -72744,6 +72909,7 @@
 0.0.0.0 analytics.growthsuite.net
 0.0.0.0 growthtransport.com
 0.0.0.0 metric.groww.in
+0.0.0.0 grozartspeiled.com
 0.0.0.0 grsm.io
 0.0.0.0 asana.grsm.io
 0.0.0.0 hippovideo.grsm.io
@@ -73108,6 +73274,7 @@
 0.0.0.0 gwdobvs.cn
 0.0.0.0 gweluwaggoc.com
 0.0.0.0 gwemwyqugg.com
+0.0.0.0 gwensimar.top
 0.0.0.0 gwggiroo.com
 0.0.0.0 gwivqo.xyz
 0.0.0.0 gwmtracking.com
@@ -73225,6 +73392,7 @@
 0.0.0.0 x5.hagewasi.com
 0.0.0.0 udzucw.haggar.com
 0.0.0.0 hagnutrient.com
+0.0.0.0 hagseeddirt.top
 0.0.0.0 hagweedtoytown.com
 0.0.0.0 lf.hagweedtoytown.com
 0.0.0.0 ct2.hahaue.com
@@ -73813,6 +73981,7 @@
 0.0.0.0 heldciviliandeface.com
 0.0.0.0 matomo.helena.care
 0.0.0.0 heleric.com
+0.0.0.0 helezeiros.com
 0.0.0.0 helftkai.de
 0.0.0.0 heliumads.com
 0.0.0.0 heliumwinebluff.com
@@ -73834,6 +74003,7 @@
 0.0.0.0 try.hellobar.com
 0.0.0.0 www.hellobar.com
 0.0.0.0 analytics.helloclass.ch
+0.0.0.0 helloesdhal.com
 0.0.0.0 tms.hft.hellofresh.com
 0.0.0.0 event-tracking.hellohealthgroup.com
 0.0.0.0 matomo.hellohi.me
@@ -75757,6 +75927,7 @@
 0.0.0.0 husezo.uno
 0.0.0.0 husfly.com
 0.0.0.0 t.huskers.com
+0.0.0.0 huskiesgimpy.top
 0.0.0.0 husky-tomorrow.pro
 0.0.0.0 huskypartydance.com
 0.0.0.0 na-pages.husqvarna.com
@@ -76187,8 +76358,6 @@
 0.0.0.0 ickyrustle.com
 0.0.0.0 iclickcdn.com
 0.0.0.0 iclnxqe.com
-0.0.0.0 acfeedbackws.icloud.com
-0.0.0.0 feedbackws.icloud.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 messaging.metrics.icloud.com
 0.0.0.0 metrics-config.icloud.com
@@ -81977,6 +82146,7 @@
 0.0.0.0 xapi.juicyads.com
 0.0.0.0 juicycash.net
 0.0.0.0 jujcjz.xyz
+0.0.0.0 jujitsutuxedos.top
 0.0.0.0 jukseeng.net
 0.0.0.0 ad.juksr.com
 0.0.0.0 jukukoi.jp
@@ -82188,6 +82358,7 @@
 0.0.0.0 matomo.jymeo.com
 0.0.0.0 jynginedoddle.top
 0.0.0.0 jynthelon.com
+0.0.0.0 jyozavoyyyjbj.top
 0.0.0.0 jypvzd.xyz
 0.0.0.0 jyqkijp.icu
 0.0.0.0 mapp.jysk.nl
@@ -86290,6 +86461,7 @@
 0.0.0.0 luvaihoo.com
 0.0.0.0 luwt.cloud
 0.0.0.0 luxadv.com
+0.0.0.0 luxatedbulten.com
 0.0.0.0 luxcash.ru
 0.0.0.0 luxcdn.com
 0.0.0.0 s.luxcdn.com
@@ -100852,6 +101024,7 @@
 0.0.0.0 pityneedsdads.com
 0.0.0.0 piuyt.com
 0.0.0.0 act.pivotpointsecurity.com
+0.0.0.0 piwfhzzby.com
 0.0.0.0 piwik.pro
 0.0.0.0 adac.piwik.pro
 0.0.0.0 ahk.piwik.pro
@@ -108519,6 +108692,7 @@
 0.0.0.0 ridingdisguisessuffix.com
 0.0.0.0 ridleward.info
 0.0.0.0 ridwmorfitu.com
+0.0.0.0 rieversfidate.com
 0.0.0.0 rifftube.net
 0.0.0.0 riflesurfing.xyz
 0.0.0.0 riftharp.com
@@ -111061,6 +111235,7 @@
 0.0.0.0 sehtjv.com
 0.0.0.0 usage.seibert-media.io
 0.0.0.0 analytics.seier.com
+0.0.0.0 seisorreem.com
 0.0.0.0 seitwert.de
 0.0.0.0 seitzeichen.de
 0.0.0.0 seizecrashsophia.com
@@ -115380,6 +115555,7 @@
 0.0.0.0 spiny.ai
 0.0.0.0 cdn-ext.spiny.ai
 0.0.0.0 sp.spiny.ai
+0.0.0.0 spiraeadurums.com
 0.0.0.0 spiralextratread.com
 0.0.0.0 spiralsad.com
 0.0.0.0 spiraltrot.com
@@ -117603,6 +117779,7 @@
 0.0.0.0 30736.identity.swrve.com
 0.0.0.0 swsegi.xyz
 0.0.0.0 swtest.ru
+0.0.0.0 swuretecali.com
 0.0.0.0 plausible.swush.com
 0.0.0.0 swzydgm.com
 0.0.0.0 sxgeo.city
@@ -126459,6 +126636,7 @@
 0.0.0.0 prod.upsellit.com
 0.0.0.0 www.upsellit.com
 0.0.0.0 www2.upsellit.com
+0.0.0.0 upsendsoxid.com
 0.0.0.0 upsettingfirstobserved.com
 0.0.0.0 analytics.upshow.tv
 0.0.0.0 upsight.com

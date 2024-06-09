@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jun 2024 03:11 UTC
-# Version: 2024.0609.0311.27
+# Last modified: 09 Jun 2024 14:47 UTC
+# Version: 2024.0609.1447.18
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 99172
+# Number of entries: 99239
 #
 *.0.org
 *.0.to
@@ -1913,7 +1913,6 @@
 *.41afdva.net
 *.41bcf8ddc1.com
 *.420909.cn
-*.420buds2go.com
 *.420reap.com
 *.420teleport.com
 *.422race.com
@@ -3461,6 +3460,7 @@
 *.abetterinternet.com
 *.abh.jp
 *.abiderestless.com
+*.abiezerrotor.top
 *.abiezertilyer.top
 *.abimimojo2.com
 *.beacon.abimm.com
@@ -3836,7 +3836,6 @@
 *.achetezfacile.com
 *.achievebeneficial.com
 *.achilles-par.com
-*.achillharpfestival.ie
 *.achmic.com
 *.achuphaube.com
 *.achycompassionate.com
@@ -6000,6 +5999,8 @@
 *.aemmfiu.cc
 *.aenetgvtri.com
 *.metrics.aeon.co
+*.aeoniannagual.top
+*.aeonistmotet.top
 *.analytics-staging.aeonmedia.co
 *.aerbgpn.xyz
 *.aerialsargle.top
@@ -6285,6 +6286,7 @@
 *.agaso.de
 *.agaswalotchan.com
 *.agatarainpro.com
+*.agauinsist.top
 *.err.agava.ru
 *.agazejagless.com
 *.agcdn.com
@@ -7128,7 +7130,9 @@
 *.akunamapro.com
 *.track.akusehat.info
 *.akutapro.com
+*.akvvkmrqokjkv.top
 *.akyr3h9x5mb.com
+*.akzawlykqarzr.top
 *.akzwupanmk.com
 *.akzxmasamcwe.com
 *.ads.al.com
@@ -8317,14 +8321,22 @@
 *.track-it-preprod.dub.xcorp.amazon.com
 *.2632ce734-frontier.amazon-adsystem.com
 *.aax.amazon-adsystem.com
+*.aax-apse-dtb-mobile.amazon-adsystem.com
 *.aax-apse-dtb-mobile-events.amazon-adsystem.com
 *.aax-apse-dtb-web.amazon-adsystem.com
+*.aax-audio.amazon-adsystem.com
 *.aax-cpm.amazon-adsystem.com
 *.aax-dtb-cf.amazon-adsystem.com
+*.aax-dtb-legacy.amazon-adsystem.com
+*.aax-dtb-mobile.amazon-adsystem.com
+*.aax-dtb-mobile-bids-geo.amazon-adsystem.com
 *.aax-dtb-mobile-events.amazon-adsystem.com
 *.aax-dtb-mobile-geo.amazon-adsystem.com
 *.aax-dtb-web.amazon-adsystem.com
+*.aax-dtb-web-bids-geo.amazon-adsystem.com
+*.aax-dtb-web-geo.amazon-adsystem.com
 *.aax-eu.amazon-adsystem.com
+*.aax-eu-dtb-mobile.amazon-adsystem.com
 *.aax-eu-dtb-mobile-events.amazon-adsystem.com
 *.aax-eu-ott.amazon-adsystem.com
 *.aax-eu-ott-events.amazon-adsystem.com
@@ -8342,6 +8354,7 @@
 *.aax-us.amazon-adsystem.com
 *.aax-us-east.amazon-adsystem.com
 *.aax-us-east-dtb.amazon-adsystem.com
+*.aax-us-east-dtb-mobile.amazon-adsystem.com
 *.aax-us-east-ott.amazon-adsystem.com
 *.aax-us-east-rtb.amazon-adsystem.com
 *.aax-us-east-rtb-adx.amazon-adsystem.com
@@ -8355,6 +8368,7 @@
 *.aax-us-pdx.amazon-adsystem.com
 *.aax-us-pdx-rtb.amazon-adsystem.com
 *.aax-us-pdx-rtb-adx.amazon-adsystem.com
+*.aax-us-west-dtb-mobile.amazon-adsystem.com
 *.aax-us-west-dtb-mobile-events.amazon-adsystem.com
 *.aax-us-west-ott.amazon-adsystem.com
 *.aax-us-west-ott-events.amazon-adsystem.com
@@ -8365,6 +8379,7 @@
 *.aax-vx-fe-us-west-2.amazon-adsystem.com
 *.aax-vx-us-us-east-1.amazon-adsystem.com
 *.aax-vx-us-us-west-2.amazon-adsystem.com
+*.alt1-3ps.amazon-adsystem.com
 *.aps.amazon-adsystem.com
 *.assoc-msdk-cn.amazon-adsystem.com
 *.assoc-msdk-eu.amazon-adsystem.com
@@ -8385,6 +8400,7 @@
 *.fls-fe.amazon-adsystem.com
 *.fls-na.amazon-adsystem.com
 *.imdb.amazon-adsystem.com
+*.ir-au.amazon-adsystem.com
 *.ir-br.amazon-adsystem.com
 *.ir-ca.amazon-adsystem.com
 *.ir-cn.amazon-adsystem.com
@@ -8397,11 +8413,25 @@
 *.ir-mx.amazon-adsystem.com
 *.ir-na.amazon-adsystem.com
 *.ir-nl.amazon-adsystem.com
+*.ir-tr.amazon-adsystem.com
 *.ir-uk.amazon-adsystem.com
 *.mads.amazon-adsystem.com
 *.mas-sdk.amazon-adsystem.com
 *.mas-sdk-cn.amazon-adsystem.com
 *.mas-sdk-eu.amazon-adsystem.com
+*.maws-aax-apse-rtb.amazon-adsystem.com
+*.maws-aax-apse-rtb-adx.amazon-adsystem.com
+*.maws-aax-eu-rtb.amazon-adsystem.com
+*.maws-aax-eu-rtb-adx.amazon-adsystem.com
+*.maws-aax-us-east-rtb.amazon-adsystem.com
+*.maws-aax-us-east-rtb-adx.amazon-adsystem.com
+*.maws-aax-us-east-test4.amazon-adsystem.com
+*.maws-aax-us-pdx-rtb.amazon-adsystem.com
+*.origin-sq-tungsten-ts.amazon-adsystem.com
+*.pri1-3ps.amazon-adsystem.com
+*.pri1-id-eu.amazon-adsystem.com
+*.pri1-id-fe.amazon-adsystem.com
+*.pri1-id-us.amazon-adsystem.com
 *.ps-eu.amazon-adsystem.com
 *.ps-fe.amazon-adsystem.com
 *.ps-jp.amazon-adsystem.com
@@ -8428,9 +8458,12 @@
 *.vaes-na-preprod.amazon-adsystem.com
 *.vfw.amazon-adsystem.com
 *.vfw-ap.amazon-adsystem.com
+*.vfw-ap-gamma.amazon-adsystem.com
 *.vfw-eu.amazon-adsystem.com
+*.vfw-eu-gamma.amazon-adsystem.com
 *.vfw-gamma.amazon-adsystem.com
 *.vfw-us.amazon-adsystem.com
+*.vfw-us-gamma.amazon-adsystem.com
 *.vfw-us-west.amazon-adsystem.com
 *.vfw-us-west-gamma.amazon-adsystem.com
 *.vq-eu-west-1.amazon-adsystem.com
@@ -9501,6 +9534,7 @@
 *.aneartuilles.top
 *.analytics.anedot.com
 *.anei.tv
+*.anelerheen.top
 *.anemenzemkwkm.top
 *.aneorwd.com
 *.anetkin.biz
@@ -10216,6 +10250,10 @@
 *.axm-telemetry.apple.com
 *.books-analytics-events.apple.com
 *.camfx-analytics-events.apple.com
+*.cstat.apple.com
+*.cstat-origin.apple.com
+*.diagassets.apple.com
+*.diagnostics.apple.com
 *.events-analytics.apple.com
 *.experiments.apple.com
 *.metric.com.g.apple.com
@@ -10236,6 +10274,7 @@
 *.notes-analytics-events.apple.com
 *.odin-signals.apple.com
 *.prd-usw2-requestattribution-iad.apple.com
+*.radarsubmissions.apple.com
 *.searchads.apple.com
 *.securemetrics.apple.com
 *.securemvt.apple.com
@@ -10245,6 +10284,7 @@
 *.usw2-securemetrics.apple.com
 *.weather-analytics-events.apple.com
 *.xp.apple.com
+*.xp-cdn.apple.com
 *.feedbackws.fe.apple-dns.cn
 *.feedbackws.fe2.apple-dns.net
 *.apple012.com
@@ -10253,6 +10293,7 @@
 *.applefanatic.org
 *.appleiosfree.com
 *.applelounge.com
+*.applemediaservices.com
 *.applepiedimarypie.com
 *.appleservenumeric.com
 *.appletrelentlessfreeway.com
@@ -11748,7 +11789,7 @@
 *.ads.astuntechnology.com
 *.astutemetrics.com
 *.astutesolutions.com
-*.jy.astylararsines.com
+*.astylararsines.com
 *.ad.asu.edu
 *.asufojsel.cfd
 *.analytics.asug.com
@@ -12827,6 +12868,7 @@
 *.ayovote.com
 *.ayrather.com
 *.aqvw.ayvwbzqnjrjwn.top
+*.ayzylwqazormm.top
 *.ar1.aza.io
 *.ssc.azadliq.org
 *.knowledge.azaleahealth.com
@@ -12891,6 +12933,7 @@
 *.nifty-tracking-westeu-ext.westeurope.cloudapp.azure.com
 *.ads-azsc.westus.cloudapp.azure.com
 *.nifty-tracking-westus-ext.westus.cloudapp.azure.com
+*.collector.azure.cn
 *.analytics.dev.azure.com
 *.monitor.azure.com
 *.tva-azr-eastus2-oai-analytic-sbx.openai.azure.com
@@ -15014,6 +15057,7 @@
 *.affiliates.bhphotovideo.com
 *.bhqfnuq.com
 *.bhs4.com
+*.bhutsynaxis.top
 *.bhuwannatlza.com
 *.bhuxwiqitan.com
 *.analytic.live.dbd.bhvronline.com
@@ -15359,6 +15403,7 @@
 *.biocdn.net
 *.metrics.biocompare.com
 *.smetric.biogen.com
+*.biogenssamara.top
 *.biographyaudition.com
 *.track.biokami.shop
 *.best.biolifesupplement.com
@@ -15435,6 +15480,7 @@
 *.metrics-api.birdeye.so
 *.webchat.birdeye.com
 *.birdgrasshopper.com
+*.birdplumose.top
 *.track.birdsandwedges.com
 *.biremecepe.top
 *.birgga.top
@@ -16054,7 +16100,6 @@
 *.hobbes.blueoxtech.com
 *.blueparrot.media
 *.so.blueplus.ch
-*.bluepoe.com
 *.smetrics.blueprintprep.com
 *.analytics-sourceamerica.bluera.com
 *.blueseed.tv
@@ -17490,6 +17535,7 @@
 *.buffetreboundfoul.com
 *.q159.buffzone.com
 *.bufricjizp.com
+*.bugabooreynard.top
 *.bugattest.com
 *.tracker.bugcrowd.com
 *.bugfender.com
@@ -17721,6 +17767,7 @@
 *.buteostrowane.com
 *.butflatter.com
 *.butical-alecast.icu
+*.butinehamal.com
 *.sentry.butlaroo.com
 *.butlercdn.com
 *.butlerdelegate.com
@@ -18173,6 +18220,7 @@
 *.production-analytics.caavo.com
 *.metrics.hub.caaws.services
 *.analytics.cabar.asia
+*.cabbagereporterpayroll.com
 *.cabbagesemestergeoffrey.com
 *.cabbingdandled.com
 *.trk.b.cabelas.ca
@@ -18282,6 +18330,7 @@
 *.cakecdn.com
 *.trk.cakemarketing.com
 *.collector.cakeresume.com
+*.cakiestfeted.top
 *.analytics.cal-adapt.org
 *.cal-eye-care.org
 *.calamitydisc.com
@@ -18565,6 +18614,7 @@
 *.capricedes.com
 *.capricewailinguniversity.com
 *.capricornplay.com
+*.caprintulu.top
 *.caprizecaprizeretrievaltattoo.com
 *.caprofitx.com
 *.sentry.capsilondev.net
@@ -19855,6 +19905,7 @@
 *.chauckee.net
 *.chaugroo.net
 *.chauinubbins.com
+*.chauioldened.com
 *.chauksoam.xyz
 *.chaunsoops.net
 *.chaursug.xyz
@@ -21884,6 +21935,7 @@
 *.d2ksh1ccat0a7e.cloudfront.net
 *.d2l3f1n039mza.cloudfront.net
 *.d2lahoz916es9g.cloudfront.net
+*.d2lg0swrp15nsj.cloudfront.net
 *.d2lmzq02n8ij7j.cloudfront.net
 *.d2lp70uu6oz7vk.cloudfront.net
 *.d2ltukojvgbso5.cloudfront.net
@@ -24179,6 +24231,7 @@
 *.track.cobtrck.com
 *.cobweblockerdiana.com
 *.cobwebs.com
+*.cobwebsimians.top
 *.cobwebzincdelicacy.com
 *.cobworksurview.com
 *.data.americas.coca-cola.com
@@ -25735,6 +25788,7 @@
 *.iscep-stories.commencis.com
 *.commentaryinduce.com
 *.commentaryspicedeceived.com
+*.commenttrendle.top
 *.event-tracking-services.global.commerce-connector.com
 *.commercefrugal.com
 *.cm.commercialappeal.com
@@ -26081,6 +26135,7 @@
 *.consciouschairs.com
 *.consciouslifenews.com
 *.consciousness2.fun
+*.consciousnesshear.com
 *.consciousnessmost.com
 *.consecutionwrigglesinge.com
 *.track.consegnialogistics.com
@@ -27601,6 +27656,7 @@
 *.culrosha.net
 *.cultergoy.com
 *.culterwhether.com
+*.culticmealily.com
 *.cultivatedcauldron.com
 *.smetrics.cultura.com
 *.culturalcollectvending.com
@@ -27654,6 +27710,7 @@
 *.shtptt.cupshe.com
 *.cupswiss.com
 *.cupulaeveinal.top
+*.curacaocrafty.top
 *.curalate.com
 *.posthog.curalinc.dev
 *.curaripeiktha.top
@@ -29210,6 +29267,7 @@
 *.decorationguinea.com
 *.decorationhailstone.com
 *.decordingholo.org
+*.decorefloit.top
 *.decorsandgifts.info
 *.decorusfinancial.com
 *.decoycreation.com
@@ -30086,7 +30144,6 @@
 *.digestiondrawer.com
 *.digestionethicalcognomen.com
 *.digestionheartlesslid.com
-*.digestsolicitorpolar.com
 *.widgets.digg.com
 *.dightedhereto.top
 *.dighty.com
@@ -30267,6 +30324,7 @@
 *.likelbs.dinoyy.xyz
 *.dinseegny.com
 *.analytics.dio.me
+*.diobolchromes.com
 *.diogene99.com
 *.dioprl.pl
 *.analytics-fashion.dior.com
@@ -30901,6 +30959,7 @@
 *.doggyunderline.com
 *.doghasta.com
 *.dogjb.com
+*.doglegshrinks.top
 *.doglobal.net
 *.dognet.sk
 *.inserta.dognet.systems
@@ -31091,8 +31150,9 @@
 *.dorkingvoust.com
 *.nukktn.dorko.hu
 *.dormitoryreverend.com
-*.ii.dorothycanzos.com
+*.dorothycanzos.com
 *.dorper.cn
+*.dorpetor.com
 *.dorprelime.com
 *.analytics.dorseywright.com
 *.analytics.dortania.com
@@ -31251,6 +31311,7 @@
 *.doubleview.online
 *.doubtlesshealthydocument.com
 *.doubtmeasure.com
+*.douceuristana.top
 *.doucheng123.com
 *.doughyschwarz.top
 *.adtd.douglas.at
@@ -31890,6 +31951,7 @@
 *.duplicatepokeheavy.com
 *.usage-reporter.duplicati.com
 *.durableordinarilyadministrator.com
+*.duralgomari.com
 *.metrics.durangoboots.com
 *.acceliaad.durasite.net
 *.ala.durasite.net
@@ -32622,6 +32684,7 @@
 *.ecotrackings.com
 *.ecoupons.com
 *.bigdata-china.ecovacs.cn
+*.ecphorefooled.com
 *.stats.ecpi.net
 *.ecpshapm.xyz
 *.ecrwqu.com
@@ -33984,6 +34047,7 @@
 *.enharaa.com
 *.enharau.com
 *.enhencer.com
+*.enhydrachinook.top
 *.enic.cc
 *.enifdlaw.top
 *.enigmaticcanyon.com
@@ -34337,6 +34401,7 @@
 *.sentry.prod.erli.tech
 *.erling.online
 *.erlirscid.com
+*.erlkingvenules.top
 *.erluankuan.com
 *.erm5aranwt7hucs.com
 *.erne.co
@@ -36517,6 +36582,7 @@
 *.fictionfittinglad.com
 *.fictiongroin.com
 *.fictionmineralladder.com
+*.fidalgotres.com
 *.fiddleweaselloom.com
 *.activate1.fidelity.com
 *.clix.fidelity.com
@@ -37202,7 +37268,6 @@
 *.floodprincipal.com
 *.floodtender.com
 *.track.flooranddecor.com
-*.floorednightclubquoted.com
 *.floorforce.com
 *.analytics.floorigami.com
 *.trk.floorplanner.com
@@ -37344,7 +37409,6 @@
 *.flyspecialline.com
 *.flytechb.com
 *.flytedesk.com
-*.flytey.com
 *.sentry.flytoday.ir
 *.flytonearstation.com
 *.flytxt.com
@@ -42337,6 +42401,7 @@
 *.growthx.social
 *.sendgrid.growthzoneapp.com
 *.metric.groww.in
+*.grozartspeiled.com
 *.grsm.io
 *.grtarpcf963.top
 *.grtbasin.com
@@ -42801,6 +42866,7 @@
 *.udzucw.haggar.com
 *.haginge.download
 *.hagnutrient.com
+*.hagseeddirt.top
 *.hagweedtoytown.com
 *.trk.haha212gacorjitu.com
 *.trk.haha212gacorlho.com
@@ -43533,6 +43599,7 @@
 *.tracking.hellobonafide.com
 *.fzh4.hellocanaryislands.com
 *.analytics.helloclass.ch
+*.helloesdhal.com
 *.tms.hft.hellofresh.com
 *.track.hellofresh.com
 *.track.hellofresh.dk
@@ -45496,6 +45563,7 @@
 *.husezo.uno
 *.husfly.com
 *.t.huskers.com
+*.huskiesgimpy.top
 *.husky-tomorrow.pro
 *.huskypartydance.com
 *.huskyzipper.com
@@ -47364,6 +47432,7 @@
 *.sentry.exchange.grpc-web.injective.network
 *.sentry.lcd.injective.network
 *.sentry.tm.injective.network
+*.injectpillowdearest.com
 *.injectreunionshorter.com
 *.injuredjazz.com
 *.injuredripplegentleman.com
@@ -47379,7 +47448,6 @@
 *.inklineglobal.com
 *.inklinkor.com
 *.inkscape.fr
-*.inkstorulus.top
 *.inktad.com
 *.inktomi.com
 *.inktr.ee
@@ -48648,7 +48716,6 @@
 *.isoffss.com
 *.isolatedransom.com
 *.isolationoranges.com
-*.isomeremankin.top
 *.isoon.net
 *.isopodaupcock.com
 *.isospinsubsets.top
@@ -52760,6 +52827,7 @@
 *.lesoir.info
 *.cdn-partners-references.lesoir.be
 *.lessbuttons.com
+*.lessenagain.com
 *.lessencontraceptive.com
 *.lesserdragged.com
 *.lesshat.com
@@ -54253,7 +54321,6 @@
 *.smetrics.loewshotels.com
 *.trk.e.loft.com
 *.trk.t.loft.com
-*.loft-nedsense.com
 *.ad.lofter.com
 *.loftknowing.com
 *.trk.e.loftoutlet.com
@@ -67231,6 +67298,7 @@
 *.news.petage.com
 *.petamentor2.com
 *.petametrics.com
+*.petargumentswhirlpool.com
 *.petasiaexpo.com
 *.petasmaeryops.com
 *.petasusawber.com
@@ -67814,6 +67882,7 @@
 *.pivht-supplements.com
 *.track.pivomob.com
 *.act.pivotpointsecurity.com
+*.piwfhzzby.com
 *.piwik.org
 *.piwik.pro
 *.piwikpro.com
@@ -75238,7 +75307,6 @@
 *.tracker.sakay.ph
 *.sakguz.icu
 *.saking789.com
-*.sakogunstore.com
 *.enews.saks.com
 *.news.saks.com
 *.budibu.saksfifthavenue.com
@@ -81678,7 +81746,7 @@
 *.track.learn.stackcommerce.com
 *.widgets.stackcommerce.com
 *.analytics.stacker.com
-*.stackla.com
+*.trackla.stackla.com
 *.stackmultiple.com
 *.clc.stackoverflow.com
 *.tracking.stackpath.com
@@ -94608,7 +94676,6 @@
 *.wilfridjargonby.com
 *.wilfulknives.com
 *.wilfulsatisfaction.com
-*.wilkersongunshop.com
 *.hnnuaa.willhaben.at
 *.williamfaxarts.com
 *.williamhill.it

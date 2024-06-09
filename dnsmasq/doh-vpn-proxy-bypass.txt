@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 08 Jun 2024 22:59 UTC
-# Version: 2024.0608.2259.40
+# Last modified: 09 Jun 2024 06:22 UTC
+# Version: 2024.0609.0622.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3139
+# Number of entries: 3145
 #
 local=/ns.00dani.me/
 local=/cdn.0ms.dev/
@@ -211,6 +211,7 @@ local=/anonymurl.biz/
 local=/anonypost.com/
 local=/anonyproxy.biz/
 local=/anonysurf.com/
+local=/antpeak.com/
 local=/antycenzor.pl/
 local=/secure.anudeep.me/
 local=/anyip.io/
@@ -351,6 +352,7 @@ local=/ukvpns.blogspot.ru/
 local=/dns.blokada.org/
 local=/bloquer.fr/
 local=/bluemood.me/
+local=/bluesnap.com/
 local=/bmetrics.org/
 local=/dns.bobstrecansky.com/
 local=/bodvpn.com/
@@ -1098,6 +1100,7 @@ local=/dns.glorydns.com/
 local=/glype.com/
 local=/dns.gnb09.id/
 local=/privacydns.go6lab.si/
+local=/goaslen.com/
 local=/gobestvpn.com/
 local=/goingthere.org/
 local=/gointerstellar.app/
@@ -1824,6 +1827,7 @@ local=/oystervpn.com/
 local=/1a.ns.ozer.im/
 local=/p99nxpivfscyverz.me/
 local=/packetriot.net/
+local=/paddle.com/
 local=/dns.paesa.es/
 local=/unblockit.pages.dev/
 local=/paladinvpn.com/
@@ -2303,6 +2307,7 @@ local=/serverssh.net/
 local=/assets-prod-a230.s3.serverwild.com/
 local=/setupvpn.com/
 local=/dns.sev.monster/
+local=/sf-helper.com/
 local=/pates.services.sfr.fr.casepp.sfr.fr/
 local=/d2.shabi.icu/
 local=/shadeyouvpn.com/
@@ -2585,6 +2590,7 @@ local=/tikvpn.com/
 local=/timetohide.me/
 local=/timmes.nl/
 local=/dns.tls-data.de/
+local=/tlsext.com/
 local=/tlz.asia/
 local=/tnvpn.com/
 local=/d.toairs.com/

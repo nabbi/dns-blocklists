@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 06 Jun 2024 14:59 UTC
-! Version: 2024.0606.1459.21
+! Last modified: 09 Jun 2024 14:52 UTC
+! Version: 2024.0609.1452.41
 ! Syntax: uBlock
 ! Number of latin TLDs: 125 - non-latin TLDs: 151
 !
@@ -58,7 +58,7 @@
 ||fit^$doc,domain=~appetit.fit|~clubb.fit|~justget.fit|~pridegym.fit|~thebene.fit|~union.fit
 ||fo^$doc
 ||foo^$doc,domain=~helloworld.foo
-||fyi^$doc,domain=~canonn.fyi|~iusearchlinux.fyi|~lunar.fyi|~vercel.fyi
+||fyi^$doc,domain=~apollo.fyi|~canonn.fyi|~iusearchlinux.fyi|~lunar.fyi|~vercel.fyi
 ||ga^$doc,domain=~google.ga|~mmo.ga
 ||gdn^$doc,domain=~cst.gdn|~pss.gdn
 ||giving^$doc
@@ -130,7 +130,7 @@
 ||vlaanderen^$doc
 ||voto^$doc
 ||wang^$doc
-||website^$doc,domain=~tilde.website
+||website^$doc,domain=~acro.website|~tilde.website
 ||wf^$doc
 ||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~datei.wiki|~fallout.wiki|~getindie.wiki|~kodi.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~namu.wiki|~notifiarr.wiki|~osrs.wiki|~rs.wiki|~runescape.wiki|~w.wiki|~zeppelin.wiki
 ||win^$doc
