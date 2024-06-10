@@ -4,17 +4,19 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 09 Jun 2024 21:54 UTC
-# Version: 2024.0609.2154.58
+# Last modified: 10 Jun 2024 07:39 UTC
+# Version: 2024.0610.0739.28
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 74
+# Number of entries: 95
 #
+server=/appleglobal.102.112.207.net/
 server=/cstat.g.aaplimg.com/
 server=/diagassets.g.aaplimg.com/
 server=/cdn-xp-ingest-ab.v.aaplimg.com/
 server=/iphonesubmissions.v.aaplimg.com/
 server=/prod-event-relay-books-api.v.aaplimg.com/
 server=/prod-event-relay-notes-api.v.aaplimg.com/
+server=/prod-event-relay-sports-api.v.aaplimg.com/
 server=/prod-event-relay-stocks-api.v.aaplimg.com/
 server=/prod-event-relay-weather-api.v.aaplimg.com/
 server=/securemetrics.v.aaplimg.com/
@@ -22,6 +24,7 @@ server=/securemvt.v.aaplimg.com/
 server=/smoot-feedback.v.aaplimg.com/
 server=/supportmetrics.v.aaplimg.com/
 server=/ab.apple.com.akadns.net/
+server=/cstat-lb.apple.com.akadns.net/
 server=/diagassets-lb.apple.com.akadns.net/
 server=/diagnostics.apple.com.akadns.net/
 server=/iadcontent-lb.apple.com.akadns.net/
@@ -32,8 +35,11 @@ server=/radarsubmissions.apple.com.akadns.net/
 server=/iad-apple.com.akadns.net/
 server=/xp.itunes-apple.com.akadns.net/
 server=/searchads.lb-apple.com.akadns.net/
+server=/advertising.apple.com/
+server=/advp.apple.com/
 server=/api-adservices.apple.com/
 server=/books-analytics-events.apple.com/
+server=/camfx-analytics-events.apple.com/
 server=/cstat.apple.com/
 server=/cstat-origin.apple.com/
 server=/databeacon.apple.com/
@@ -41,10 +47,18 @@ server=/datacollection.apple.com/
 server=/diagassets.apple.com/
 server=/diagnostics.apple.com/
 server=/experiments.apple.com/
+server=/iad.apple.com/
+server=/iadcontent.apple.com/
 server=/iadmoo.apple.com/
 server=/iadsdk.apple.com/
+server=/iadworkbench.apple.com/
 server=/idiagnostics.apple.com/
+server=/idiagnostics-devices-mdn.apple.com/
+server=/idiagnostics-devices-qa.apple.com/
+server=/idiagnostics-ft.apple.com/
 server=/idiagnostics-mdn1.apple.com/
+server=/idiagnostics-qa.apple.com/
+server=/idiagnostics-reno.apple.com/
 server=/internalcheck.apple.com/
 server=/iphonesubmissions.apple.com/
 server=/iphonesubmissions-old.apple.com/
@@ -54,14 +68,20 @@ server=/metrics.apple.com/
 server=/msc-dct-prod.msc.apple.com/
 server=/notes-analytics-events.apple.com/
 server=/odin-signals.apple.com/
+server=/performance-partners.apple.com/
 server=/phonesubmissions.apple.com/
 server=/prd-usw2-requestattribution-iad.apple.com/
+server=/qa-iad.apple.com/
 server=/radarsubmissions.apple.com/
+server=/sdkintgiad.apple.com/
 server=/searchads.apple.com/
 server=/securemetrics.apple.com/
 server=/securemvt.apple.com/
+server=/stg-iad.apple.com/
 server=/stocks-analytics-events.apple.com/
 server=/supportmetrics.apple.com/
+server=/uxintg-iad.apple.com/
+server=/uxintgiad.apple.com/
 server=/weather-analytics-events.apple.com/
 server=/xp.apple.com/
 server=/xp-cdn.apple.com/
@@ -82,4 +102,5 @@ server=/acfeedbackws.icloud.com/
 server=/feedbackws.icloud.com/
 server=/metrics.icloud.com/
 server=/metrics.mzstatic.com/
+server=/qwapi.com/
 server=/marketing.services.apple/
