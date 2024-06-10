@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 09 Jun 2024 14:52 UTC
-! Version: 2024.0609.1452.41
+! Last modified: 09 Jun 2024 22:26 UTC
+! Version: 2024.0609.2226.51
 ! Syntax: uBlock
 ! Number of latin TLDs: 125 - non-latin TLDs: 151
 !
@@ -48,7 +48,7 @@
 ||date^$doc,domain=~endoflife.date
 ||degree^$doc,domain=~opf.degree|~three60.degree
 ||desi^$doc,domain=~xhamster.desi
-||digital^$doc,domain=~cariad.digital|~iagl.digital
+||digital^$doc,domain=~cariad.digital|~eberry.digital|~iagl.digital
 ||directory^$doc,domain=~2fa.directory|~passkeys.directory
 ||discount^$doc,domain=~real.discount
 ||esq^$doc,domain=~erika.esq
@@ -58,7 +58,7 @@
 ||fit^$doc,domain=~appetit.fit|~clubb.fit|~justget.fit|~pridegym.fit|~thebene.fit|~union.fit
 ||fo^$doc
 ||foo^$doc,domain=~helloworld.foo
-||fyi^$doc,domain=~apollo.fyi|~canonn.fyi|~iusearchlinux.fyi|~lunar.fyi|~vercel.fyi
+||fyi^$doc,domain=~apollo.fyi|~better.fyi|~canonn.fyi|~iusearchlinux.fyi|~lunar.fyi|~vercel.fyi
 ||ga^$doc,domain=~google.ga|~mmo.ga
 ||gdn^$doc,domain=~cst.gdn|~pss.gdn
 ||giving^$doc
@@ -77,7 +77,7 @@
 ||llp^$doc
 ||loan^$doc
 ||loans^$doc
-||lol^$doc,domain=~broke.lol|~browser.lol|~charms.lol|~discourse.lol|~limetorrents.lol|~objection.lol|~omg.lol|~paste.lol|~profile.lol|~proven.lol|~social.lol|~staff.lol|~status.lol|~timeline.lol|~url.lol|~weblog.lol
+||lol^$doc,domain=~broke.lol|~browser.lol|~charms.lol|~discourse.lol|~limetorrents.lol|~nos.lol|~objection.lol|~omg.lol|~paste.lol|~profile.lol|~proven.lol|~social.lol|~staff.lol|~status.lol|~timeline.lol|~url.lol|~weblog.lol
 ||love^$doc
 ||ltd^$doc
 ||makeup^$doc,domain=~bird.makeup
@@ -135,7 +135,7 @@
 ||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~datei.wiki|~fallout.wiki|~getindie.wiki|~kodi.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~namu.wiki|~notifiarr.wiki|~osrs.wiki|~rs.wiki|~runescape.wiki|~w.wiki|~zeppelin.wiki
 ||win^$doc
 ||work^$doc,domain=~elphago.work|~frame.work
-||world^$doc
+||world^$doc,domain=~calckey.world|~lemmy.world|~mastodon.world
 ||wtf^$doc,domain=~akko.wtf|~myip.wtf|~plooshiesaresocute.wtf|~tigress.wtf
 ||yachts^$doc
 ||you^$doc

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 09 Jun 2024 09:17 UTC
-# Version: 2024.0609.0917.52
+# Last modified: 09 Jun 2024 23:12 UTC
+# Version: 2024.0609.2312.56
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 675
+# Number of entries: 686
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -307,6 +307,7 @@
 0.0.0.0 eu-west-1-2.telemetry.insights.video.a2z.com
 0.0.0.0 eu-west-1-3.telemetry.insights.video.a2z.com
 0.0.0.0 eu-west-1.prod.diagnostic.networking.aws.dev
+0.0.0.0 eu-west-1.prod.service.minerva.devices.a2z.com
 0.0.0.0 eu-west-2-1.telemetry.insights.video.a2z.com
 0.0.0.0 eu-west-2-2.telemetry.insights.video.a2z.com
 0.0.0.0 eu-west-2-3.telemetry.insights.video.a2z.com
@@ -476,6 +477,7 @@
 0.0.0.0 prod-clustered.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 prod.diagnostic.networking.aws.dev
 0.0.0.0 prod.eu-west-1.forester.a2z.com
+0.0.0.0 prod.service.minerva.devices.a2z.com
 0.0.0.0 prod.us-east-1.forester.a2z.com
 0.0.0.0 prod.us-west-2.forester.a2z.com
 0.0.0.0 ps-eu.amazon-adsystem.com
@@ -509,6 +511,7 @@
 0.0.0.0 sa-east-1-3.telemetry.insights.video.a2z.com
 0.0.0.0 sa-east-1.prod.diagnostic.networking.aws.dev
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 service.minerva.devices.a2z.com
 0.0.0.0 session.mshopbugsnag.irm.amazon.dev
 0.0.0.0 sessions.api.bugsnag-beta.ngm.audible.a2z.com
 0.0.0.0 sessions.bugsnag.appstore.a2z.com
@@ -571,6 +574,9 @@
 0.0.0.0 unagi-eu.amazon.com
 0.0.0.0 unagi-fe.amazon.com
 0.0.0.0 unagi-na.amazon.com
+0.0.0.0 u.prod.service.minerva.devices.a2z.com
+0.0.0.0 us-ea.prod.service.minerva.devices.a2z.com
+0.0.0.0 us-eas.prod.service.minerva.devices.a2z.com
 0.0.0.0 us-east-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 us-east-1-2.telemetry.insights.video.a2z.com
 0.0.0.0 us-east-1-3.telemetry.insights.video.a2z.com
@@ -585,15 +591,20 @@
 0.0.0.0 us-east.3px.axp.amazon-adsystem.com
 0.0.0.0 us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 us-east.live-events.ono.axp.amazon-adsystem.com
+0.0.0.0 us-east.prod.service.minerva.devices.a2z.com
 0.0.0.0 useast.rtb.axp.amazon-adsystem.com
+0.0.0.0 us-e.prod.service.minerva.devices.a2z.com
+0.0.0.0 us.prod.service.minerva.devices.a2z.com
 0.0.0.0 us-west-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 us-west-1-2.telemetry.insights.video.a2z.com
 0.0.0.0 us-west-1-3.telemetry.insights.video.a2z.com
 0.0.0.0 us-west-1.prod.diagnostic.networking.aws.dev
+0.0.0.0 us-west-1.prod.service.minerva.devices.a2z.com
 0.0.0.0 us-west-2-1.telemetry.insights.video.a2z.com
 0.0.0.0 us-west-2-2.telemetry.insights.video.a2z.com
 0.0.0.0 us-west-2-3.telemetry.insights.video.a2z.com
 0.0.0.0 us-west-2.prod.diagnostic.networking.aws.dev
+0.0.0.0 us-west-2.prod.service.minerva.devices.a2z.com
 0.0.0.0 us-west.3px.axp.amazon-adsystem.com
 0.0.0.0 us-west.aps.axp.amazon-adsystem.com
 0.0.0.0 us-west.live-events.ono.axp.amazon-adsystem.com

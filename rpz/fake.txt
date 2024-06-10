@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1717889520 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1717975620 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Jun 2024 23:32 UTC
-; Version: 2024.0608.2332.33
+; Last modified: 09 Jun 2024 23:27 UTC
+; Version: 2024.0609.2327.50
 ; Syntax: RPZ
-; Number of entries: 61870
+; Number of entries: 61858
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -10685,8 +10685,6 @@ ciawithoutdct.com CNAME .
 *.ciawithoutdct.com CNAME .
 cicialis.com CNAME .
 *.cicialis.com CNAME .
-cigarettescigs.com CNAME .
-*.cigarettescigs.com CNAME .
 cilaedpl.com CNAME .
 *.cilaedpl.com CNAME .
 cilaspl.com CNAME .
@@ -12029,14 +12027,10 @@ dealstennis.com CNAME .
 *.dealstennis.com CNAME .
 dealsundies.com CNAME .
 *.dealsundies.com CNAME .
-dealswimzone.com CNAME .
-*.dealswimzone.com CNAME .
 dealtoolopt.com CNAME .
 *.dealtoolopt.com CNAME .
 dealtoymodel.com CNAME .
 *.dealtoymodel.com CNAME .
-dealtoysbase.com CNAME .
-*.dealtoysbase.com CNAME .
 dealustool.com CNAME .
 *.dealustool.com CNAME .
 deangelsport.com CNAME .
@@ -12627,10 +12621,6 @@ dndrx.com CNAME .
 *.dndrx.com CNAME .
 dndstumkur.com CNAME .
 *.dndstumkur.com CNAME .
-dnnbagley.com CNAME .
-*.dnnbagley.com CNAME .
-dnoblejasm.com CNAME .
-*.dnoblejasm.com CNAME .
 do0cd.com CNAME .
 *.do0cd.com CNAME .
 doc-heal.com CNAME .
@@ -14799,6 +14789,8 @@ ezgetremedies.com CNAME .
 *.ezgetremedies.com CNAME .
 ezgettreatments.com CNAME .
 *.ezgettreatments.com CNAME .
+ezrxplus.com CNAME .
+*.ezrxplus.com CNAME .
 ezsafeoil.com CNAME .
 *.ezsafeoil.com CNAME .
 ezshopmedshere.com CNAME .
@@ -17203,6 +17195,8 @@ getventolin.com CNAME .
 *.getventolin.com CNAME .
 getvoltbox.com CNAME .
 *.getvoltbox.com CNAME .
+getvoltplug.com CNAME .
+*.getvoltplug.com CNAME .
 getvoltsemi.com CNAME .
 *.getvoltsemi.com CNAME .
 getwaklert.com CNAME .
@@ -24789,8 +24783,6 @@ modeltoys-new.com CNAME .
 *.modeltoys-new.com CNAME .
 modeltypesale.com CNAME .
 *.modeltypesale.com CNAME .
-modern-lady.com CNAME .
-*.modern-lady.com CNAME .
 modernashoes.com CNAME .
 *.modernashoes.com CNAME .
 modernbedshop.com CNAME .
@@ -25161,8 +25153,6 @@ muvastore.com CNAME .
 *.muvastore.com CNAME .
 mvfurs.com CNAME .
 *.mvfurs.com CNAME .
-mvg-handel.com CNAME .
-*.mvg-handel.com CNAME .
 mvhealthcenter.com CNAME .
 *.mvhealthcenter.com CNAME .
 mvpassistant.com CNAME .
@@ -26525,8 +26515,6 @@ odyssey-labs.com CNAME .
 *.odyssey-labs.com CNAME .
 oel-direkt24.com CNAME .
 *.oel-direkt24.com CNAME .
-oelenergie.com CNAME .
-*.oelenergie.com CNAME .
 oelfeld24.com CNAME .
 *.oelfeld24.com CNAME .
 oelhaus24.com CNAME .
@@ -28427,6 +28415,8 @@ peaktoolhub.com CNAME .
 *.peaktoolhub.com CNAME .
 peasanr.com CNAME .
 *.peasanr.com CNAME .
+peatutorca.com CNAME .
+*.peatutorca.com CNAME .
 pedalbliss.com CNAME .
 *.pedalbliss.com CNAME .
 pedaldynasty.com CNAME .
@@ -30987,8 +30977,6 @@ rad-zenter.com CNAME .
 *.rad-zenter.com CNAME .
 radbekleidung4u.com CNAME .
 *.radbekleidung4u.com CNAME .
-radfahrenrabatt.com CNAME .
-*.radfahrenrabatt.com CNAME .
 radio-field.com CNAME .
 *.radio-field.com CNAME .
 radiofavorite.com CNAME .
@@ -38315,8 +38303,6 @@ toyshuboutlet.com CNAME .
 *.toyshuboutlet.com CNAME .
 toyslandus.com CNAME .
 *.toyslandus.com CNAME .
-toysoptdeal.com CNAME .
-*.toysoptdeal.com CNAME .
 toysrusofficial.com CNAME .
 *.toysrusofficial.com CNAME .
 toyssitefun.com CNAME .
@@ -44557,6 +44543,8 @@ elektriker-fritz.de CNAME .
 *.elektriker-fritz.de CNAME .
 elektro-beuss.de CNAME .
 *.elektro-beuss.de CNAME .
+elektro-ecke.de CNAME .
+*.elektro-ecke.de CNAME .
 elektro-evolution.de CNAME .
 *.elektro-evolution.de CNAME .
 elektro-gerber.de CNAME .
@@ -45379,6 +45367,8 @@ heimprofis.de CNAME .
 *.heimprofis.de CNAME .
 heimundgartenmarkt.de CNAME .
 *.heimundgartenmarkt.de CNAME .
+heimwerk-meister.de CNAME .
+*.heimwerk-meister.de CNAME .
 heimwerkende.de CNAME .
 *.heimwerkende.de CNAME .
 heinrich-essing.de CNAME .
@@ -45419,8 +45409,6 @@ herrmann-arne.de CNAME .
 *.herrmann-arne.de CNAME .
 herzensnotiz.de CNAME .
 *.herzensnotiz.de CNAME .
-hewai-handel.de CNAME .
-*.hewai-handel.de CNAME .
 heydude-schuhe.de CNAME .
 *.heydude-schuhe.de CNAME .
 heydudeschuhedamen.de CNAME .
@@ -45853,6 +45841,8 @@ kopticschool.de CNAME .
 *.kopticschool.de CNAME .
 korase.de CNAME .
 *.korase.de CNAME .
+kosmetik-kreis.de CNAME .
+*.kosmetik-kreis.de CNAME .
 kosmetik-loxstedt.de CNAME .
 *.kosmetik-loxstedt.de CNAME .
 kotte-handel.de CNAME .
@@ -46783,8 +46773,6 @@ pit-vipershop.de CNAME .
 *.pit-vipershop.de CNAME .
 piwt-bewaesserung.de CNAME .
 *.piwt-bewaesserung.de CNAME .
-pixelkatze.de CNAME .
-*.pixelkatze.de CNAME .
 planetopia-online.de CNAME .
 *.planetopia-online.de CNAME .
 plantsch24.de CNAME .
@@ -46961,6 +46949,8 @@ rabrabatt.de CNAME .
 *.rabrabatt.de CNAME .
 raceplaids.de CNAME .
 *.raceplaids.de CNAME .
+rad-xpert.de CNAME .
+*.rad-xpert.de CNAME .
 rader-loewen.de CNAME .
 *.rader-loewen.de CNAME .
 radtourmitthule.de CNAME .
@@ -48109,6 +48099,8 @@ windendew.de CNAME .
 *.windendew.de CNAME .
 winke24.de CNAME .
 *.winke24.de CNAME .
+winkler-elektronik.de CNAME .
+*.winkler-elektronik.de CNAME .
 winkler-gartenhandel.de CNAME .
 *.winkler-gartenhandel.de CNAME .
 winkler-modehaus.de CNAME .
@@ -52201,8 +52193,6 @@ sportlifepower.net CNAME .
 *.sportlifepower.net CNAME .
 stacksteroids.net CNAME .
 *.stacksteroids.net CNAME .
-staubsauger24.net CNAME .
-*.staubsauger24.net CNAME .
 stendra.net CNAME .
 *.stendra.net CNAME .
 steroids-canada.net CNAME .
@@ -54845,8 +54835,6 @@ tretinoincream.online CNAME .
 *.tretinoincream.online CNAME .
 tretinoinrx.online CNAME .
 *.tretinoinrx.online CNAME .
-tretinointabs.online CNAME .
-*.tretinointabs.online CNAME .
 trusted-tablets.online CNAME .
 *.trusted-tablets.online CNAME .
 trustedtablets.online CNAME .
@@ -56641,8 +56629,6 @@ westhillcapital.pro CNAME .
 *.westhillcapital.pro CNAME .
 jusycure.pw CNAME .
 *.jusycure.pw CNAME .
-levaquinmedicalx365.pw CNAME .
-*.levaquinmedicalx365.pw CNAME .
 medicnfousa.pw CNAME .
 *.medicnfousa.pw CNAME .
 medshop.pw CNAME .
@@ -61277,6 +61263,8 @@ kidinix.uk CNAME .
 *.kidinix.uk CNAME .
 kamagra.org.uk CNAME .
 *.kamagra.org.uk CNAME .
+meds-online.org.uk CNAME .
+*.meds-online.org.uk CNAME .
 platinumpharma.org.uk CNAME .
 *.platinumpharma.org.uk CNAME .
 thule-4-family.uk CNAME .
