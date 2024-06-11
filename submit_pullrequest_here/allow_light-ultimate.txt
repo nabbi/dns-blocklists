@@ -11,6 +11,9 @@
 
 # BEGIN
 
+# https://github.com/hagezi/dns-blocklists/issues/2894
+qm.redbull.com
+
 # Breaks private DNS on Android - no „tracking“
 *.metric.gstatic.com
 
