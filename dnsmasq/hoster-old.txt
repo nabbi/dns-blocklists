@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 05 Jun 2024 22:59 UTC
-# Version: 2024.0605.2259.42
+# Last modified: 11 Jun 2024 04:01 UTC
+# Version: 2024.0611.0401.12
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 1821
+# Number of entries: 1820
 #
 server=/000a.de/
 server=/000space.com/
@@ -1578,7 +1578,6 @@ server=/tribunablog.com/
 server=/tripod.com/
 server=/ttblogs.com/
 server=/tumbex.com/
-server=/tumblr.com/
 server=/tumblrgallery.com/
 server=/tuna.be/
 server=/turbo.site/

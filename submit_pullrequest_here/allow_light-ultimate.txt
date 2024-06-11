@@ -11,6 +11,9 @@
 
 # BEGIN
 
+# Breaks private DNS on Android - no „tracking“
+*.metric.gstatic.com
+
 # https://github.com/hagezi/dns-blocklists/issues/2887
 sundaysky.com
 
