@@ -48,11 +48,11 @@
 
 | Version | Entries | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Nat<br>ive](#native) | [PopUp<br>Ads](#popupads) | Bug<br>Tracker |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----:|:----:|
-| :green_book:[Light](#light)             | 135344<br>66326     |  |   |   | :green_circle:  |  | |  :yellow_square: | | |
-| :blue_book:[Normal](#normal)       | 415439<br>136910     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
-| :ledger:[Pro](#pro)              | 477463<br>156025         |  | :green_circle: | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
-| :orange_book:[Pro++](#proplus)    | 579359<br>177965 | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |:yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
-| :closed_book:[Ultimate](#ultimate)    | 620250<br>191821 | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  | :yellow_square: | :green_circle: | :yellow_square: | :green_circle: |
+| :green_book:[Light](#light)             | 135343<br>66325     |  |   |   | :green_circle:  |  | |  :yellow_square: | | |
+| :blue_book:[Normal](#normal)       | 415438<br>136909     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
+| :ledger:[Pro](#pro)              | 477462<br>156024         |  | :green_circle: | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
+| :orange_book:[Pro++](#proplus)    | 579244<br>177963 | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |:yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
+| :closed_book:[Ultimate](#ultimate)    | 620135<br>191819 | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  | :yellow_square: | :green_circle: | :yellow_square: | :green_circle: |
 
 :green_circle: contains the list named in the column caption
 :yellow_square: partially contains the list named in the column caption
@@ -79,7 +79,7 @@
 > [!NOTE]
 > *Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.*
 
-**Entries:** *135344 domains/hosts - 66326 compressed domains*
+**Entries:** *135343 domains/hosts - 66325 compressed domains*
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -101,7 +101,7 @@
 > [!NOTE]
 > *Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.*
 
-**Entries:** *415439 domains/hosts - 136910 compressed domains*
+**Entries:** *415438 domains/hosts - 136909 compressed domains*
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -119,7 +119,7 @@
 
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
 
-**Entries:** *477463 domains/hosts - 156025 compressed domains*
+**Entries:** *477462 domains/hosts - 156024 compressed domains*
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -137,7 +137,7 @@
 
 *Size-optimised version for DNS/Browser adblockers. This list only contains domains from the Pro full that have been found on Top 1M lists (Umbrella, Cloudflare, Tranco, Chrome, ...) in the last 12 months.*
 
-**Entries:** *77804 compressed domains*
+**Entries:** *77803 compressed domains*
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -156,7 +156,7 @@
 > [!NOTE]
 > *More aggressive version of the Multi PRO blocklist. It may contain a few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *579359 domains/hosts - 177965 compressed domains*
+**Entries:** *579244 domains/hosts - 177963 compressed domains*
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -174,7 +174,7 @@
 
 *Size-optimised version for DNS/Browser adblockers. This list only contains domains from the Pro++ full that have been found on Top 1M lists (Umbrella, Cloudflare, Tranco, Chrome, ...) in the last 12 months.*
 
-**Entries:** *89219 compressed domains*
+**Entries:** *89217 compressed domains*
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -196,7 +196,7 @@
 > [!WARNING]
 > *META trackers are blocked in Ultimate. This restricts the use of Facebook/Instagram and Facebook Messenger apps. To use Facebook/Instagram apps with Ultimate, unblock the following domains: [META Tracker](share/facebook.txt)*
 
-**Entries:** *620250 domains/hosts - 191821 compressed domains*
+**Entries:** *620135 domains/hosts - 191819 compressed domains*
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -214,7 +214,7 @@
 
 *Size-optimised version for DNS/Browser adblockers. This list only contains domains from the Ultimate full that have been found on Top 1M lists (Umbrella, Cloudflare, Tranco, Chrome, ...) in the last 12 months.*
 
-**Entries:** *99918 compressed domains*
+**Entries:** *99916 compressed domains*
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|

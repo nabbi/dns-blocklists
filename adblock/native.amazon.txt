@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 10 Jun 2024 08:47 UTC
-! Version: 2024.0610.0847.10
+! Last modified: 11 Jun 2024 16:55 UTC
+! Version: 2024.0611.1655.38
 ! Syntax: AdBlock
-! Number of entries: 323
+! Number of entries: 322
 !
 ||aan.amazon.co.jp^
 ||aan.amazon.com^
@@ -139,7 +139,6 @@
 ||da-cdn.amazon-adsystem.com^
 ||device-metrics-us-2.amazon.com^
 ||device-metrics-us.amazon.com^
-||diagnostic.networking.aws.dev^
 ||dra.amazon-adsystem.com^
 ||events.app-performance.music.amazon.dev^
 ||events.bugsnag.ngm.audible.a2z.com^
