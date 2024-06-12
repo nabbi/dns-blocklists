@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 10 Jun 2024 22:57 UTC
-# Version: 2024.0610.2257.10
+# Last modified: 11 Jun 2024 22:56 UTC
+# Version: 2024.0611.2256.25
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 1075
+# Number of entries: 1076
 #
 server=/ns.00dani.me/
 server=/cdn.0ms.dev/
@@ -89,7 +89,6 @@ server=/doh.amonsul.net/
 server=/dns.andrewnw.xyz/
 server=/secure.anudeep.me/
 server=/doh.apad.pro/
-server=/dns.apigw.online/
 server=/doh.dns.apple.com/
 server=/doh.applied-privacy.net/
 server=/dot1.applied-privacy.net/
@@ -373,12 +372,14 @@ server=/dot.pub/
 server=/ns1.dotls.org/
 server=/dns.dotnet.win/
 server=/doh.dscloud.me/
+server=/aattwwss.duckdns.org/
 server=/home27.duckdns.org/
 server=/jurre-home.duckdns.org/
 server=/krtekvpn.duckdns.org/
 server=/osefcorp.duckdns.org/
 server=/punono.duckdns.org/
 server=/tuandns.duckdns.org/
+server=/tungdnsne.duckdns.org/
 server=/dukun.de/
 server=/dns.dyn1.de/
 server=/ueni.dyndns.org/
