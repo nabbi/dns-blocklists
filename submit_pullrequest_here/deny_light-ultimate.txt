@@ -10,7 +10,10 @@
 
 # BEGIN
 
-# Revive Adserver domains:
+# https://github.com/hagezi/dns-blocklists/issues/2902
+logging-service-main-prd.k8-svc.jc-gs.com
+
+# Revive Adserver
 2001.atudo.com
 a.brasov.net
 a.install.download
