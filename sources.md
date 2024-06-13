@@ -59,6 +59,7 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintex
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
 https://phishing-filter.pages.dev/phishing-filter-hosts.txt
+https://phish.sinking.yachts/v2/text
 https://radar.cloudflare.com/domains
 https://radar.cloudflare.com/email-security
 https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt

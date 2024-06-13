@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 13 Jun 2024 09:24 UTC
-! Version: 2024.0613.0924.55
+! Last modified: 13 Jun 2024 14:48 UTC
+! Version: 2024.0613.1448.02
 ! Syntax: uBlock
 ! Number of latin TLDs: 135 - non-latin TLDs: 151
 !
@@ -147,7 +147,7 @@
 ||work^$doc,domain=~elphago.work|~frame.work
 ||world^$doc,domain=~calckey.world|~lemmy.world|~mastodon.world
 ||wtf^$doc,domain=~akko.wtf|~myip.wtf|~plooshiesaresocute.wtf|~tigress.wtf
-||yachts^$doc
+||yachts^$doc,domain=~sinking.yachts
 ||you^$doc
 ||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~redecanaistv.zip|~redecanais.zip|~umowa.zip|~url.zip
 ||рус^$doc
