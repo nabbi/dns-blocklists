@@ -10,6 +10,19 @@
 
 # BEGIN
 
+# https://github.com/hagezi/dns-blocklists/issues/2900
+datasaver.googleapis.com
+gvt3.com # Test if it doesn't break something in the Playstore
+locationhistory-pa.googleapis.com
+locationhistoryaggregates-pa.googleapis.com
+# Already blocked via the base domains in the build DB
+ogads-pa.googleapis.com
+ogads-pa.clients6.google.com
+geomobileservices-pa.googleapis.com
+playmoviesdfe-pa.googleapis.com
+semanticlocation-pa.googleapis.com
+userlocation.googleapis.com
+
 # https://github.com/hagezi/dns-blocklists/issues/2730
 lf-cdn-tos.bytescm.com
 
