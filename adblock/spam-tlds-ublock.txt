@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Jun 2024 20:04 UTC
-! Version: 2024.0612.2004.32
+! Last modified: 13 Jun 2024 09:24 UTC
+! Version: 2024.0613.0924.55
 ! Syntax: uBlock
-! Number of latin TLDs: 127 - non-latin TLDs: 151
+! Number of latin TLDs: 135 - non-latin TLDs: 151
 !
 ||africa^$doc
 ||agency^$doc,domain=~baam.agency|~battlefield.agency|~robotzebra.agency|~uphotel.agency|~ws.agency
@@ -32,10 +32,11 @@
 ||bond^$doc
 ||boston^$doc
 ||boutique^$doc
+||brussels^$doc
 ||buzz^$doc,domain=~allthe.buzz|~awful.buzz|~cliq.buzz|~montpellier.buzz|~sideb.buzz|~williamsonday.buzz
 ||cam^$doc
 ||casa^$doc
-||cc^$doc
+||cc^$doc,domain=~shottr.cc
 ||center^$doc
 ||cf^$doc,domain=~acap.cf|~google.cf
 ||cfd^$doc,domain=~frcoal.cfd|~freedium.cfd
@@ -44,6 +45,7 @@
 ||click^$doc
 ||club^$doc,domain=~reolink.club
 ||coupons^$doc
+||cu^$doc,domain=~google.com.cu
 ||cyou^$doc,domain=~hammertime.cyou
 ||dad^$doc,domain=~classic.dad|~daily.dad|~dear.dad|~rad.dad
 ||dance^$doc
@@ -54,6 +56,7 @@
 ||directory^$doc,domain=~2fa.directory|~passkeys.directory
 ||discount^$doc,domain=~real.discount
 ||esq^$doc,domain=~erika.esq
+||et^$doc,domain=~google.com.et
 ||fan^$doc
 ||finance^$doc
 ||fishing^$doc
@@ -63,6 +66,7 @@
 ||fyi^$doc,domain=~apollo.fyi|~better.fyi|~canonn.fyi|~iusearchlinux.fyi|~lunar.fyi|~vercel.fyi
 ||ga^$doc,domain=~google.ga|~mmo.ga
 ||gdn^$doc,domain=~cst.gdn|~pss.gdn
+||gives^$doc
 ||giving^$doc
 ||gold^$doc
 ||gq^$doc,domain=~tvgelive.gq
@@ -95,11 +99,14 @@
 ||nf^$doc,domain=~google.com.nf
 ||okinawa^$doc
 ||ooo^$doc,domain=~toast.ooo
+||party^$doc
 ||pet^$doc,domain=~kickthespy.pet|~kuma.pet
 ||phd^$doc,domain=~rafael.phd
 ||photos^$doc
+||pics^$doc
 ||prof^$doc,domain=~casey.prof
 ||promo^$doc
+||pw^$doc,domain=~bittor.pw|~buttercup.pw|~core.pw|~darkcrystal.pw|~dpc.pw|~fullhdfilmizlesene.pw|~gopass.pw|~kge.pw|~libgen.pw|~nitter.pw|~palaugov.pw|~petridish.pw|~plutonium.pw|~rezka.pw|~vost.pw|~xor.pw
 ||quest^$doc,domain=~amble.quest|~bookshelf.quest|~dice.quest|~dont-panic.quest|~epochal.quest|~federation.quest|~galaxy.quest|~mhn.quest|~mylegendary.quest|~prometheus.quest|~raccoon.quest|~teacher.quest|~theculture.quest|~toot.quest
 ||red^$doc
 ||rehab^$doc
@@ -127,6 +134,7 @@
 ||tokyo^$doc
 ||top^$doc,domain=~1stream.top|~ambr.top|~arjun.top|~audioforyou.top|~awavenue.top|~caitlin.top|~callmebymygender.top|~castlevania.top|~chillx.top|~corriente.top|~gdtot.top|~magocoro.top|~mastodon.top|~nicenature.top|~pdcdn1.top|~pegelinux.top|~pressplay.top|~reminder.top|~reyhub.top|~shucks.top|~strims.top|~suiten.top|~techblog.top|~thedesk.top|~vsdb.top
 ||trade^$doc,domain=~composer.trade|~kite.trade
+||ug^$doc,domain=~google.co.ug
 ||uno^$doc
 ||vip^$doc,domain=~18comic.vip|~stream.vip
 ||vlaanderen^$doc
