@@ -10,6 +10,13 @@
 
 # BEGIN
 
+# https://github.com/hagezi/dns-blocklists/issues/2900
+auditrecording-pa.googleapis.com
+# Moved from Ultimate
+analyticsinsights-pa.googleapis.com
+analyticssearch-pa.googleapis.com
+footprints-pa.googleapis.com
+
 # Lock designated content with survey. "Install ... to get the download link" 
 unlockcontent.net
 unlock-content.net
