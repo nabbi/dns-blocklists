@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 12 Jun 2024 04:09 UTC
-! Version: 2024.0612.0409.09
+! Last modified: 14 Jun 2024 07:05 UTC
+! Version: 2024.0614.0705.17
 ! Syntax: AdBlock
-! Number of entries: 323
+! Number of entries: 355
 !
 ||aan.amazon.co.jp^
 ||aan.amazon.com^
@@ -224,6 +224,38 @@
 ||metrics.media-amazon.com^
 ||minerva.devices.a2z.com^
 ||mobileanalytics.us-east-1.amazonaws.com^
+||monitoring.af-south-1.amazonaws.com^
+||monitoring.ap-east-1.amazonaws.com^
+||monitoring.ap-northeast-1.amazonaws.com^
+||monitoring.ap-northeast-2.amazonaws.com^
+||monitoring.ap-northeast-3.amazonaws.com^
+||monitoring.ap-south-1.amazonaws.com^
+||monitoring.ap-south-2.amazonaws.com^
+||monitoring.ap-southeast-1.amazonaws.com^
+||monitoring.ap-southeast-2.amazonaws.com^
+||monitoring.ap-southeast-3.amazonaws.com^
+||monitoring.ap-southeast-4.amazonaws.com^
+||monitoring.ca-central-1.amazonaws.com^
+||monitoring.ca-west-1.amazonaws.com^
+||monitoring.eu-central-1.amazonaws.com^
+||monitoring.eu-central-2.amazonaws.com^
+||monitoring.eu-north-1.amazonaws.com^
+||monitoring.eu-south-1.amazonaws.com^
+||monitoring.eu-south-2.amazonaws.com^
+||monitoring.eu-west-1.amazonaws.com^
+||monitoring.eu-west-2.amazonaws.com^
+||monitoring.eu-west-3.amazonaws.com^
+||monitoring.il-central-1.amazonaws.com^
+||monitoring.me-central-1.amazonaws.com^
+||monitoring.me-south-1.amazonaws.com^
+||monitoring.prod.cloudwatch.amazonaws.com^
+||monitoring.sa-east-1.amazonaws.com^
+||monitoring.us-east-1.amazonaws.com^
+||monitoring.us-east-2.amazonaws.com^
+||monitoring.us-gov-east-1.amazonaws.com^
+||monitoring.us-gov-west-1.amazonaws.com^
+||monitoring.us-west-1.amazonaws.com^
+||monitoring.us-west-2.amazonaws.com^
 ||msh.amazon.ca^
 ||msh.amazon.cn^
 ||msh.amazon.co.jp^

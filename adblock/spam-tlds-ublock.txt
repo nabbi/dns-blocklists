@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 13 Jun 2024 14:48 UTC
-! Version: 2024.0613.1448.02
+! Last modified: 14 Jun 2024 06:52 UTC
+! Version: 2024.0614.0652.49
 ! Syntax: uBlock
 ! Number of latin TLDs: 135 - non-latin TLDs: 151
 !
@@ -120,7 +120,7 @@
 ||sbs^$doc,domain=~ecopulse.sbs|~moae.sbs
 ||sew^$doc
 ||shop^$doc,domain=~11ts.shop|~eventix.shop|~terminal.shop|~urlbluemedia.shop
-||site^$doc
+||site^$doc,domain=~dodi-repacks.site
 ||skin^$doc
 ||space^$doc,domain=~carstens.space|~drgns.space|~hf.space|~httpjames.space|~hullseals.space|~link.space|~searx.space
 ||st^$doc,domain=~avito.st|~bpa.st|~google.st|~selfh.st
@@ -144,7 +144,7 @@
 ||wf^$doc
 ||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~datei.wiki|~fallout.wiki|~getindie.wiki|~kodi.wiki|~manson.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~namu.wiki|~notifiarr.wiki|~osrs.wiki|~rs.wiki|~runescape.wiki|~w.wiki|~zeppelin.wiki
 ||win^$doc
-||work^$doc,domain=~elphago.work|~frame.work
+||work^$doc,domain=~elphago.work|~frame.work|~searx.work
 ||world^$doc,domain=~calckey.world|~lemmy.world|~mastodon.world
 ||wtf^$doc,domain=~akko.wtf|~myip.wtf|~plooshiesaresocute.wtf|~tigress.wtf
 ||yachts^$doc,domain=~sinking.yachts
