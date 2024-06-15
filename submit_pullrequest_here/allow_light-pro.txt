@@ -11,6 +11,10 @@
 
 # BEGIN
 
+# Office365 - Save documents to the cloud
+# https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
+ecs.nel.measure.office.net
+
 # Videos on https://www.tv8.it/streaming
 cdn.speedcurve.com
 
@@ -30,18 +34,6 @@ karavel.112.2o7.net
 # Unsubscribe from newsletters (e.g. RND)
 api.pushwoosh.com
 
-# atresplayer.com videos on live channels
-www3.doubleclick.net
-7db96.v.fwmrm.net
-
-# Adblock detection iOS app derstandard.at
-data-*.derstandard.at
-data-dda7d24eb2.derstandard.at
-at-w-atderstand-relay.iocnt.net
-relay-client-c03.iocnt.net
-### imagesrv.adition.com
-px.staticfiles.at
-
 # https://github.com/hagezi/dns-blocklists/issues/2260
 webhook.logentries.com
 
@@ -59,15 +51,5 @@ log*-checkout*.tiktok*.com
 log*-normal*.tiktok*.com
 log*-platform*.tiktok*.com
 log*-tmp*.tiktok*.com
-
-# Breaks on-demand videos of Mediaset programs from smart TVs
-# Because it is a disguised, popular CNAME tracker, it is not unblocked in the aggressive lists.
-mediasetitalia01.wt-eu02.net
-
-# https://github.com/hagezi/dns-blocklists/issues/1183
-### ad.71i.de
-data*.sportdeutschland.tv
-sportdeu-relay.iocnt.net
-relay-client-c03.iocnt.net
 
 # END
