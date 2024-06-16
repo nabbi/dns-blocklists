@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 11 Jun 2024 22:59 UTC
-# Version: 2024.0611.2259.43
+# Last modified: 15 Jun 2024 22:42 UTC
+# Version: 2024.0615.2242.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9685
+# Number of entries: 9690
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -32,6 +32,7 @@ local=/01streaming.click/
 local=/01streaming.stream/
 local=/01streaming.tv/
 local=/0day.ro/
+local=/www.0daycn.net/
 local=/0dayddl.com/
 local=/0dayhome.net/
 local=/hichemtigsetorgy.0fees.net/
@@ -344,6 +345,7 @@ local=/7torrents.cc/
 local=/7track.org/
 local=/7ur.ru/
 local=/87av.com/
+local=/8ebooks.net/
 local=/8kun.top/
 local=/8putlocker.com/
 local=/8wsm.com/
@@ -450,6 +452,7 @@ local=/retracker.akado-ural.ru/
 local=/akiba-online.com/
 local=/akkadukka.com/
 local=/aklivetv.com/
+local=/aktube.live/
 local=/alabout.com/
 local=/tracker.aladar.com/
 local=/albkinema.tv/
@@ -1185,6 +1188,7 @@ local=/beststresser.com/
 local=/bewildandout.org/
 local=/tracker.beyond-hd.me/
 local=/beyondhd.xyz/
+local=/6.beyondth.cn/
 local=/8.beyondth.cn/
 local=/bflix.ac/
 local=/bflix.bz/
@@ -9426,6 +9430,7 @@ local=/xpau.se/
 local=/xplorenetbd.com/
 local=/xpreed.com/
 local=/xpress.ltd/
+local=/xr8edstresser.com/
 local=/xrel.to/
 local=/xrshellbooter.com/
 local=/xspeeds.eu/

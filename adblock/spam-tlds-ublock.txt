@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 14 Jun 2024 21:55 UTC
-! Version: 2024.0614.2155.57
+! Last modified: 16 Jun 2024 00:17 UTC
+! Version: 2024.0616.0017.20
 ! Syntax: uBlock
-! Number of latin TLDs: 135 - non-latin TLDs: 151
+! Number of latin TLDs: 143 - non-latin TLDs: 151
 !
 ||africa^$doc
 ||agency^$doc,domain=~baam.agency|~battlefield.agency|~robotzebra.agency|~uphotel.agency|~ws.agency
@@ -36,14 +36,16 @@
 ||buzz^$doc,domain=~allthe.buzz|~awful.buzz|~cliq.buzz|~montpellier.buzz|~sideb.buzz|~williamsonday.buzz
 ||cam^$doc
 ||casa^$doc
-||cc^$doc,domain=~shottr.cc
+||cc^$doc,domain=~shottr.cc|~wallhaven.cc
 ||center^$doc
 ||cf^$doc,domain=~acap.cf|~google.cf
 ||cfd^$doc,domain=~frcoal.cfd|~freedium.cfd
 ||charity^$doc
 ||christmas^$doc
+||church^$doc
 ||click^$doc
 ||club^$doc,domain=~reolink.club
+||cm^$doc,domain=~google.cm
 ||coupons^$doc
 ||cu^$doc,domain=~google.com.cu
 ||cyou^$doc,domain=~hammertime.cyou
@@ -77,6 +79,7 @@
 ||homes^$doc
 ||icu^$doc
 ||ink^$doc,domain=~ishortn.ink|~next.ink|~short.ink
+||kg^$doc,domain=~google.kg
 ||kim^$doc
 ||lat^$doc
 ||life^$doc,domain=~2ch.life|~akamaicdn.life|~circles.life|~colorgame.life|~digitalcitizen.life|~iboost.life|~lifetime.life|~loveinfaith.life|~stepone.life|~yiff.life
@@ -94,9 +97,12 @@
 ||monster^$doc,domain=~cloudcdn.monster|~egybest.monster|~fedi.monster|~rollenspiel.monster|~tts.monster|~vipbj.monster|~yts.monster
 ||motorcycles^$doc
 ||mov^$doc,domain=~david.mov|~spankbang.mov
+||mr^$doc
 ||name^$doc
 ||navy^$doc
+||ne^$doc,domain=~google.ne
 ||nf^$doc,domain=~google.com.nf
+||ni^$doc,domain=~google.com.ni
 ||okinawa^$doc
 ||ooo^$doc,domain=~toast.ooo
 ||party^$doc
@@ -112,6 +118,7 @@
 ||rehab^$doc
 ||rest^$doc,domain=~crystals.rest|~nect.rest
 ||review^$doc
+||rich^$doc
 ||rip^$doc,domain=~medium.rip
 ||rodeo^$doc,domain=~raypeat.rodeo
 ||rugby^$doc
@@ -129,6 +136,7 @@
 ||sx^$doc,domain=~filemoon.sx|~voe.sx
 ||sz^$doc
 ||tattoo^$doc
+||tg^$doc,domain=~google.tg
 ||tk^$doc,domain=~adistance.tk|~bonzibuddy.tk|~bryla.tk|~bstweaker.tk|~budterence.tk|~censurion.tk|~c-r-t.tk|~cuso.tk|~google.tk|~goshujin.tk|~gotofap.tk|~graph.tk|~kabi.tk|~pube.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
 ||today^$doc,domain=~archive.today
 ||tokyo^$doc
