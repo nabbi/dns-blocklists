@@ -11,6 +11,12 @@
 
 # BEGIN
 
+# Needed for Destiny 2 3rd party app BrayTech
+b.vlsp.network
+
+# https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet
+use-application-dns.net
+
 # https://github.com/hagezi/dns-blocklists/issues/2919
 *.getadjacent.com
 
