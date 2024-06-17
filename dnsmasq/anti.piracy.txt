@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Jun 2024 15:00 UTC
-# Version: 2024.0616.1500.24
+# Last modified: 16 Jun 2024 22:55 UTC
+# Version: 2024.0616.2255.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9695
+# Number of entries: 9701
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -2173,6 +2173,7 @@ local=/couchtuner.space/
 local=/couchtuner0.com/
 local=/couchtv.to/
 local=/mp3.couver.ru/
+local=/cpabien.club/
 local=/cpasbien.bz/
 local=/cpasbien.cm/
 local=/cpasbien.com/
@@ -2287,6 +2288,7 @@ local=/cricstream.tv/
 local=/cricstreams.tv/
 local=/icc.crictime.is/
 local=/tv.crictime.is/
+local=/www.crictime.nl/
 local=/u4.trakx.crim.ist/
 local=/u6.trakx.crim.ist/
 local=/crnaberza.com/
@@ -2460,6 +2462,7 @@ local=/wap.delmy.com/
 local=/deluge-torrent.org/
 local=/deluxedownload.org/
 local=/delves.tv/
+local=/demoniak.be/
 local=/demonii.com/
 local=/open.demonii.si/
 local=/demoniptv.tv/
@@ -2519,6 +2522,7 @@ local=/dhakaftp.com/
 local=/dhakaiptv.com/
 local=/dhakamovie.com/
 local=/dhakasports.com/
+local=/dht.dhtclub.com/
 local=/diablotorrent.hu/
 local=/diakov.net/
 local=/diamondsrooms.com/
@@ -2563,7 +2567,9 @@ local=/discoveryftp.net/
 local=/discoverynetbd.com/
 local=/ditbd.net/
 local=/divicast.com/
+local=/divineanime.ru/
 local=/divinestresser.com/
+local=/divxatope.com/
 local=/divxstreaming.rip/
 local=/divxtotal.com/
 local=/divxtotal.la/
@@ -2871,6 +2877,7 @@ local=/elitezones.ro/
 local=/elsewhere.org/
 local=/emaczone.com/
 local=/embedflix.net/
+local=/emetsbank.xyz/
 local=/emiz.biz/
 local=/emovies.io/
 local=/emovies.si/
@@ -9435,7 +9442,6 @@ local=/xpau.se/
 local=/xplorenetbd.com/
 local=/xpreed.com/
 local=/xpress.ltd/
-local=/xr8edstresser.com/
 local=/xrel.to/
 local=/xrshellbooter.com/
 local=/xspeeds.eu/

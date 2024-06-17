@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Jun 2024 15:00 UTC
-# Version: 2024.0616.1500.24
+# Last modified: 16 Jun 2024 22:55 UTC
+# Version: 2024.0616.2255.19
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 9695
+# Number of entries: 9701
 #
 server=/blink-stresser.000webhostapp.com/
 server=/ddos-ovh-v6.000webhostapp.com/
@@ -2172,6 +2172,7 @@ server=/couchtuner.space/
 server=/couchtuner0.com/
 server=/couchtv.to/
 server=/mp3.couver.ru/
+server=/cpabien.club/
 server=/cpasbien.bz/
 server=/cpasbien.cm/
 server=/cpasbien.com/
@@ -2286,6 +2287,7 @@ server=/cricstream.tv/
 server=/cricstreams.tv/
 server=/icc.crictime.is/
 server=/tv.crictime.is/
+server=/www.crictime.nl/
 server=/u4.trakx.crim.ist/
 server=/u6.trakx.crim.ist/
 server=/crnaberza.com/
@@ -2459,6 +2461,7 @@ server=/wap.delmy.com/
 server=/deluge-torrent.org/
 server=/deluxedownload.org/
 server=/delves.tv/
+server=/demoniak.be/
 server=/demonii.com/
 server=/open.demonii.si/
 server=/demoniptv.tv/
@@ -2518,6 +2521,7 @@ server=/dhakaftp.com/
 server=/dhakaiptv.com/
 server=/dhakamovie.com/
 server=/dhakasports.com/
+server=/dht.dhtclub.com/
 server=/diablotorrent.hu/
 server=/diakov.net/
 server=/diamondsrooms.com/
@@ -2562,7 +2566,9 @@ server=/discoveryftp.net/
 server=/discoverynetbd.com/
 server=/ditbd.net/
 server=/divicast.com/
+server=/divineanime.ru/
 server=/divinestresser.com/
+server=/divxatope.com/
 server=/divxstreaming.rip/
 server=/divxtotal.com/
 server=/divxtotal.la/
@@ -2870,6 +2876,7 @@ server=/elitezones.ro/
 server=/elsewhere.org/
 server=/emaczone.com/
 server=/embedflix.net/
+server=/emetsbank.xyz/
 server=/emiz.biz/
 server=/emovies.io/
 server=/emovies.si/
@@ -9429,7 +9436,6 @@ server=/xpau.se/
 server=/xplorenetbd.com/
 server=/xpreed.com/
 server=/xpress.ltd/
-server=/xr8edstresser.com/
 server=/xrel.to/
 server=/xrshellbooter.com/
 server=/xspeeds.eu/
