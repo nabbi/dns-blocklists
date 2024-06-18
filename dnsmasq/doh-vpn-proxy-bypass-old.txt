@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Jun 2024 22:51 UTC
-# Version: 2024.0616.2251.09
+# Last modified: 17 Jun 2024 22:40 UTC
+# Version: 2024.0617.2240.49
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
 # Number of entries: 3141
 #
@@ -903,6 +903,7 @@ server=/fastestvpn.info/
 server=/fastfoxvpn.com/
 server=/fastfreeproxy.info/
 server=/fastp.org/
+server=/fastpro.info/
 server=/fastproxy.nl/
 server=/fastproxy.org/
 server=/fastproxynetwork.com/
@@ -1826,7 +1827,6 @@ server=/oystervpn.com/
 server=/1a.ns.ozer.im/
 server=/p99nxpivfscyverz.me/
 server=/packetriot.net/
-server=/paddle.com/
 server=/dns.paesa.es/
 server=/unblockit.pages.dev/
 server=/paladinvpn.com/

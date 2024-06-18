@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1718578500 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1718664300 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 16 Jun 2024 22:55 UTC
-; Version: 2024.0616.2255.19
+; Last modified: 17 Jun 2024 22:45 UTC
+; Version: 2024.0617.2245.05
 ; Syntax: RPZ
-; Number of entries: 19402
+; Number of entries: 19430
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -549,6 +549,8 @@ filmpertutti.bet CNAME .
 *.filmpertutti.bet CNAME .
 guardaserie.bet CNAME .
 *.guardaserie.bet CNAME .
+ilgeniodellostreaming.bet CNAME .
+*.ilgeniodellostreaming.bet CNAME .
 tantifilm.bet CNAME .
 *.tantifilm.bet CNAME .
 wiflix.bet CNAME .
@@ -1007,6 +1009,8 @@ eurostreaming.camp CNAME .
 *.eurostreaming.camp CNAME .
 cb01.capital CNAME .
 *.cb01.capital CNAME .
+eurostreaming.capital CNAME .
+*.eurostreaming.capital CNAME .
 guardaserie.capital CNAME .
 *.guardaserie.capital CNAME .
 cb01.cards CNAME .
@@ -3951,6 +3955,8 @@ flextorrents.com CNAME .
 *.flextorrents.com CNAME .
 flixdump.com CNAME .
 *.flixdump.com CNAME .
+flixerrtv.com CNAME .
+*.flixerrtv.com CNAME .
 flixjar.com CNAME .
 *.flixjar.com CNAME .
 ns1.floads.com CNAME .
@@ -3999,6 +4005,8 @@ warezdownload.free-bb.com CNAME .
 *.warezdownload.free-bb.com CNAME .
 freecinemanow.com CNAME .
 *.freecinemanow.com CNAME .
+www.freecrackpatch.com CNAME .
+*.www.freecrackpatch.com CNAME .
 freedailyiptv.com CNAME .
 *.freedailyiptv.com CNAME .
 freedomalternative.com CNAME .
@@ -4063,6 +4071,8 @@ frostwire.com CNAME .
 *.frostwire.com CNAME .
 frozen-layer.com CNAME .
 *.frozen-layer.com CNAME .
+fruitytuts.com CNAME .
+*.fruitytuts.com CNAME .
 one.fsphost.com CNAME .
 *.one.fsphost.com CNAME .
 ftflix.com CNAME .
@@ -4351,6 +4361,8 @@ trakx.herokuapp.com CNAME .
 *.trakx.herokuapp.com CNAME .
 xtremex.herokuapp.com CNAME .
 *.xtremex.herokuapp.com CNAME .
+herowarez.com CNAME .
+*.herowarez.com CNAME .
 hevcbay.com CNAME .
 *.hevcbay.com CNAME .
 hexari.com CNAME .
@@ -4391,6 +4403,8 @@ hostapk.com CNAME .
 *.hostapk.com CNAME .
 webstresser-free.hostthegame.com CNAME .
 *.webstresser-free.hostthegame.com CNAME .
+hostxy.com CNAME .
+*.hostxy.com CNAME .
 booter-sales.hourb.com CNAME .
 *.booter-sales.hourb.com CNAME .
 house-of-usenet.com CNAME .
@@ -4403,6 +4417,8 @@ hqanime4arab.com CNAME .
 *.hqanime4arab.com CNAME .
 httpbd.com CNAME .
 *.httpbd.com CNAME .
+hunterbt.com CNAME .
+*.hunterbt.com CNAME .
 torrents.huntparkinsider.com CNAME .
 *.torrents.huntparkinsider.com CNAME .
 hurawatch.com CNAME .
@@ -6983,6 +6999,8 @@ victoriancrapper.com CNAME .
 *.victoriancrapper.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
+videocop.com CNAME .
+*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -7387,8 +7405,6 @@ zcultfm.com CNAME .
 *.zcultfm.com CNAME .
 zeduga.com CNAME .
 *.zeduga.com CNAME .
-zee5.com CNAME .
-*.zee5.com CNAME .
 tracker.zemoj.com CNAME .
 *.tracker.zemoj.com CNAME .
 zeoez.com CNAME .
@@ -10009,6 +10025,8 @@ filmgo.live CNAME .
 *.filmgo.live CNAME .
 filmsenzalimiti.live CNAME .
 *.filmsenzalimiti.live CNAME .
+filmstreaming.live CNAME .
+*.filmstreaming.live CNAME .
 filmxy.live CNAME .
 *.filmxy.live CNAME .
 frmovies.live CNAME .
@@ -10027,6 +10045,8 @@ ironanime.live CNAME .
 *.ironanime.live CNAME .
 itvhd.live CNAME .
 *.itvhd.live CNAME .
+jhakkas.live CNAME .
+*.jhakkas.live CNAME .
 juraganfilm.live CNAME .
 *.juraganfilm.live CNAME .
 khulnatv.live CNAME .
@@ -10677,6 +10697,8 @@ cybercloud.media CNAME .
 *.cybercloud.media CNAME .
 filmpertutti.media CNAME .
 *.filmpertutti.media CNAME .
+filmstreaming.media CNAME .
+*.filmstreaming.media CNAME .
 freemovies.media CNAME .
 *.freemovies.media CNAME .
 guardaserie.media CNAME .
@@ -13785,6 +13807,8 @@ bjlt.zhuqiy.eu.org CNAME .
 *.bjlt.zhuqiy.eu.org CNAME .
 tracker-cn.zhuqiy.eu.org CNAME .
 *.tracker-cn.zhuqiy.eu.org CNAME .
+evil-zone.org CNAME .
+*.evil-zone.org CNAME .
 evopt.org CNAME .
 *.evopt.org CNAME .
 ex-torrenty.org CNAME .
@@ -15233,6 +15257,8 @@ goldhiphop.pro CNAME .
 *.goldhiphop.pro CNAME .
 gomoviz1.pro CNAME .
 *.gomoviz1.pro CNAME .
+gtorrent.pro CNAME .
+*.gtorrent.pro CNAME .
 guardaserie.pro CNAME .
 *.guardaserie.pro CNAME .
 hesgoal.pro CNAME .
@@ -18667,6 +18693,8 @@ filmpertutti.website CNAME .
 *.filmpertutti.website CNAME .
 fzmovies.website CNAME .
 *.fzmovies.website CNAME .
+guardaserie.website CNAME .
+*.guardaserie.website CNAME .
 eztv.wf CNAME .
 *.eztv.wf CNAME .
 vm3268418.24ssd.had.wf CNAME .
