@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1718664300 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1718751120 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 17 Jun 2024 22:45 UTC
-; Version: 2024.0617.2245.05
+; Last modified: 18 Jun 2024 22:52 UTC
+; Version: 2024.0618.2252.37
 ; Syntax: RPZ
-; Number of entries: 19430
+; Number of entries: 19452
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1497,6 +1497,8 @@ futemax.cl CNAME .
 *.futemax.cl CNAME .
 multicanais.cl CNAME .
 *.multicanais.cl CNAME .
+tracker.cl CNAME .
+*.tracker.cl CNAME .
 altadefinizione.claims CNAME .
 *.altadefinizione.claims CNAME .
 cb01.cleaning CNAME .
@@ -4913,6 +4915,8 @@ maxidown.com CNAME .
 *.maxidown.com CNAME .
 mcnbd.com CNAME .
 *.mcnbd.com CNAME .
+mcplexbangla.com CNAME .
+*.mcplexbangla.com CNAME .
 down.mdiaload.com CNAME .
 *.down.mdiaload.com CNAME .
 me-4u.com CNAME .
@@ -5027,6 +5031,8 @@ modfyp.com CNAME .
 *.modfyp.com CNAME .
 modhihe.com CNAME .
 *.modhihe.com CNAME .
+mods-app.com CNAME .
+*.mods-app.com CNAME .
 modsofapk.com CNAME .
 *.modsofapk.com CNAME .
 modxda.com CNAME .
@@ -5313,6 +5319,8 @@ nopaystation.com CNAME .
 *.nopaystation.com CNAME .
 novafile.com CNAME .
 *.novafile.com CNAME .
+www.novahax.com CNAME .
+*.www.novahax.com CNAME .
 novamov.com CNAME .
 *.novamov.com CNAME .
 novelas360.com CNAME .
@@ -9877,6 +9885,8 @@ filmstreaming.li CNAME .
 *.filmstreaming.li CNAME .
 kat.li CNAME .
 *.kat.li CNAME .
+movieuniverse.li CNAME .
+*.movieuniverse.li CNAME .
 mp3.li CNAME .
 *.mp3.li CNAME .
 pahe.li CNAME .
@@ -10245,6 +10255,8 @@ feeder.lt CNAME .
 *.feeder.lt CNAME .
 nerealus.lt CNAME .
 *.nerealus.lt CNAME .
+musicmania.ql.lt CNAME .
+*.musicmania.ql.lt CNAME .
 seed.lt CNAME .
 *.seed.lt CNAME .
 torentas.lt CNAME .
@@ -11945,6 +11957,8 @@ linkinnet.net CNAME .
 *.linkinnet.net CNAME .
 linkomanija.net CNAME .
 *.linkomanija.net CNAME .
+linksbox.net CNAME .
+*.linksbox.net CNAME .
 linuxmafia.net CNAME .
 *.linuxmafia.net CNAME .
 livrefilmeshd.net CNAME .
@@ -11971,6 +11985,8 @@ makegreatmusic.net CNAME .
 *.makegreatmusic.net CNAME .
 204.79.238.89.in-addr.arpa.manitu.net CNAME .
 *.204.79.238.89.in-addr.arpa.manitu.net CNAME .
+www.maroctorrent.net CNAME .
+*.www.maroctorrent.net CNAME .
 tracker.marshyonline.net CNAME .
 *.tracker.marshyonline.net CNAME .
 masterboot.net CNAME .
@@ -12115,6 +12131,8 @@ nedasabd.net CNAME .
 *.nedasabd.net CNAME .
 neefit.net CNAME .
 *.neefit.net CNAME .
+www.neobd.net CNAME .
+*.www.neobd.net CNAME .
 netcomisp.net CNAME .
 *.netcomisp.net CNAME .
 network-stressing.net CNAME .
@@ -12183,6 +12201,8 @@ oitbd.net CNAME .
 *.oitbd.net CNAME .
 onceddl.net CNAME .
 *.onceddl.net CNAME .
+onemoresolo.net CNAME .
+*.onemoresolo.net CNAME .
 onepace.net CNAME .
 *.onepace.net CNAME .
 onionplay.net CNAME .
@@ -12209,6 +12229,8 @@ ns389251.ovh.net CNAME .
 *.ns389251.ovh.net CNAME .
 vps-dd0a0715.vps.ovh.net CNAME .
 *.vps-dd0a0715.vps.ovh.net CNAME .
+p2pnet.net CNAME .
+*.p2pnet.net CNAME .
 panda-streaming.net CNAME .
 *.panda-streaming.net CNAME .
 passion-musique.net CNAME .

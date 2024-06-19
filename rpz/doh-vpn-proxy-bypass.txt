@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1718664000 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1718750880 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 17 Jun 2024 22:40 UTC
-; Version: 2024.0617.2240.49
+; Last modified: 18 Jun 2024 22:48 UTC
+; Version: 2024.0618.2248.23
 ; Syntax: RPZ
-; Number of entries: 6282
+; Number of entries: 6276
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2232,8 +2232,6 @@ dns.technostriker.com CNAME .
 *.dns.technostriker.com CNAME .
 tenta.com CNAME .
 *.tenta.com CNAME .
-cloud.tezoi.com CNAME .
-*.cloud.tezoi.com CNAME .
 thankvpn.com CNAME .
 *.thankvpn.com CNAME .
 the-cloak.com CNAME .
@@ -5086,22 +5084,16 @@ dontblockme.org CNAME .
 *.dontblockme.org CNAME .
 ns1.dotls.org CNAME .
 *.ns1.dotls.org CNAME .
-aattwwss.duckdns.org CNAME .
-*.aattwwss.duckdns.org CNAME .
 home27.duckdns.org CNAME .
 *.home27.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
 *.jurre-home.duckdns.org CNAME .
-krtekvpn.duckdns.org CNAME .
-*.krtekvpn.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
 punono.duckdns.org CNAME .
 *.punono.duckdns.org CNAME .
 tuandns.duckdns.org CNAME .
 *.tuandns.duckdns.org CNAME .
-tungdnsne.duckdns.org CNAME .
-*.tungdnsne.duckdns.org CNAME .
 vpschito.duckdns.org CNAME .
 *.vpschito.duckdns.org CNAME .
 ueni.dyndns.org CNAME .
@@ -5950,6 +5942,8 @@ dns.neilzone.co.uk CNAME .
 *.dns.neilzone.co.uk CNAME .
 ninjaproxy.co.uk CNAME .
 *.ninjaproxy.co.uk CNAME .
+onlineproxy.co.uk CNAME .
+*.onlineproxy.co.uk CNAME .
 proxay.co.uk CNAME .
 *.proxay.co.uk CNAME .
 proxify.co.uk CNAME .
