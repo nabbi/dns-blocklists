@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 19 Jun 2024 02:29 UTC
-! Version: 2024.0619.0229.44
+! Last modified: 19 Jun 2024 14:25 UTC
+! Version: 2024.0619.1425.49
 ! Syntax: AdBlock
-! Number of entries: 90918
+! Number of entries: 90970
 !
 ||0.org^
 ||0.to^
@@ -13851,6 +13851,7 @@
 ||bildirt.com^
 ||bilec.xyz^
 ||analytics.bilendi.com^
+||bilezdq.cn^
 ||bilgin.pro^
 ||broadcast.chat.biliapi.com^
 ||dataflow.biliapi.com^
@@ -15310,6 +15311,7 @@
 ||griffin.brave.com^
 ||matomo.brave.com^
 ||metrics.brave.com^
+||p2a.brave.com^
 ||p3a.brave.com^
 ||p3a-json.brave.com^
 ||stats.brave.com^
@@ -15422,10 +15424,14 @@
 ||bravenetmedia.com^
 ||braveryinherited.com^
 ||ads.bravesoftware.com^
+||ads-admin.bravesoftware.com^
 ||ads-serve.bravesoftware.com^
 ||ads-static.bravesoftware.com^
 ||stats.bsg.bravesoftware.com^
+||metrics.bravesoftware.com^
+||p2a.bravesoftware.com^
 ||p3a.bravesoftware.com^
+||p3a-dev.bravesoftware.com^
 ||p3a-json.bravesoftware.com^
 ||stats.bravesoftware.com^
 ||variations.bravesoftware.com^
@@ -15536,6 +15542,7 @@
 ||bright-sdk.com^
 ||brightadnetwork.com^
 ||clarity.brightbytes.net^
+||brightchoicelighting.com^
 ||brightcom.com^
 ||brightcove.services^
 ||metrics.brightcove.com^
@@ -17784,6 +17791,7 @@
 ||centesmbarbola.com^
 ||centogx.com^
 ||centotag.io^
+||centralcoalfields.in^
 ||centraldaoferta.shop^
 ||analytics.centraldin.com^
 ||ressources.centraleauto.com^
@@ -18039,6 +18047,7 @@
 ||t.charlotte49ers.com^
 ||analytics.charlottetilbury.com^
 ||trk.charlottetilbury.com^
+||ad.charlottewhite.org^
 ||charltonmedia.com^
 ||charmingblur.com^
 ||charmingplate.com^
@@ -21419,6 +21428,7 @@
 ||host-it.co.uk^
 ||hotdate.co.il^
 ||smetrics.hsamuel.co.uk^
+||hungerford.co.uk^
 ||matomo.hungryapp.co.kr^
 ||huqindustries.co.uk^
 ||hurricane-tracking.co.uk^
@@ -25499,6 +25509,7 @@
 ||widget.cybershop-affiliate.jp^
 ||cyberstyle.ru^
 ||cybersugardrew.com^
+||cyberthreatcoalition.org^
 ||tracking.cybertips.uk^
 ||cybertool.co^
 ||cybertown.ru^
@@ -28155,6 +28166,7 @@
 ||dodgyvertical.com^
 ||eventstream.dodopizza.com^
 ||dodouhoa.com^
+||doduangd.com^
 ||doesbitesizeadvantages.com^
 ||doflygonan.com^
 ||dofrogadiera.com^
@@ -28196,6 +28208,7 @@
 ||dolarkurum.com^
 ||dolatiaschan.com^
 ||dolatiosom.com^
+||dolcezza-moda.nl^
 ||dolead.com^
 ||dolefulcaller.com^
 ||dolefulitaly.com^
@@ -28361,6 +28374,7 @@
 ||nukktn.dorko.hu^
 ||dormitoryreverend.com^
 ||dorothycanzos.com^
+||dorouscom.com^
 ||dorper.cn^
 ||dorpetor.com^
 ||analytics.dorseywright.com^
@@ -28994,6 +29008,7 @@
 ||dttrpx.com^
 ||dtvm5.top^
 ||dtxngr.com^
+||dtxplatform.com^
 ||dtxplatform.net^
 ||dtybyfo.com^
 ||du0.jp^
@@ -29017,7 +29032,6 @@
 ||duchessefit.com^
 ||duchough.com^
 ||duckannihilatemulticultural.com^
-||trkr.duckdns.org^
 ||improving.duckduckgo.com^
 ||r.duckduckgo.com^
 ||duckedabusechuckled.com^
@@ -34637,6 +34651,7 @@
 ||adserver.foxsportseugene.com^
 ||foxylabels.com^
 ||foysswr.cn^
+||fozzymedia.tech^
 ||fpapi.io^
 ||fpcdn.io^
 ||partners.fpcom.de^
@@ -38121,6 +38136,7 @@
 ||analytics.gov.in^
 ||analytics.gov.ro^
 ||andapangasinan.gov.ph^
+||sokhcn.baria-vungtau.gov.vn^
 ||analytics.behdasht.gov.ir^
 ||analitik.bik.gov.tr^
 ||analytics.caa.gov.ir^
@@ -40558,6 +40574,7 @@
 ||hit2k.com^
 ||elqtracking.hitachienergy.com^
 ||trackingaa.hitachienergy.com^
+||hitachigst.global^
 ||hitbip.com^
 ||hitboom.net^
 ||hitbox.com^
@@ -41125,7 +41142,6 @@
 ||api-hotmart-tracking-manager.hotmart.com^
 ||identification.hotmart.com^
 ||tracking-api.hotmart.com^
-||hotmod.eu^
 ||hotmovstore.com^
 ||hotnews1.me^
 ||hotngay.vn^
@@ -43799,6 +43815,7 @@
 ||analytics.interiordefine.com^
 ||countly.interlinksoftware.com^
 ||discover.interlochen.org^
+||intermarket.com^
 ||intermarkets.net^
 ||analytics.intermedia.net^
 ||intermediarymarkswe.com^
@@ -43986,6 +44003,7 @@
 ||telemetry.invicti.com^
 ||analytics-api.invideo.io^
 ||analytics-dataplane.invideo.io^
+||invideolab.com^
 ||analytics.invisalign.com^
 ||analytics.gtm.invisalign.com^
 ||analytics.ppr.invisalign.com^
@@ -45331,6 +45349,7 @@
 ||jmaomkosxfi.com^
 ||trk.jmbullion.com^
 ||jmesxbe.icu^
+||jmgads.com^
 ||jmlk.co^
 ||jmoanews.com^
 ||jmpmedia.club^
@@ -45816,6 +45835,7 @@
 ||jupiterinparta.net^
 ||jupiterstravellers.org^
 ||matomo.juraforum.de^
+||jurajbehun.com^
 ||juraxcatsh.com^
 ||jurgita.com^
 ||juronu.com^
@@ -46690,6 +46710,7 @@
 ||kv-analytics.kiotviet.vn^
 ||kiphairg.com^
 ||kippnj.org^
+||kiranawala.in^
 ||metric.kirklands.com^
 ||metrics.kirklands.com^
 ||xqtcur.kirklands.com^
@@ -47284,6 +47305,7 @@
 ||freesam.kt.com^
 ||ilb.pns.kt.com^
 ||kt5850pjz0.com^
+||ktaehxdlf.com^
 ||axp.ktalnews.com^
 ||ktauoy.xyz^
 ||ktbac.net^
@@ -50883,6 +50905,7 @@
 ||mainad-codpp.com^
 ||mainadv.com^
 ||mainapiary.com^
+||maindating.online^
 ||sentry.mainelymediallc.com^
 ||ads.mainetoday.com^
 ||metrics.mainevent.com^
@@ -53018,6 +53041,7 @@
 ||minotaur107.com^
 ||feed.minpos.com^
 ||minr.pw^
+||minsoftware.vn^
 ||minsonbar2.online^
 ||mintclick.xyz^
 ||performance-logger.minted.com^
@@ -53786,6 +53810,7 @@
 ||mofettecalmed.com^
 ||ads.mofos.com^
 ||feeds.mofos.com^
+||scripts.mofos.com^
 ||mofox.com^
 ||mogointeractive.com^
 ||mogreet.com^
@@ -54574,6 +54599,7 @@
 ||mthvjim.com^
 ||mti-milliren.com^
 ||mtienlx.top^
+||mtionewly.com^
 ||mtnwxhjv.xyz^
 ||ads.newdb.mtp.pl^
 ||mtpc.se^
@@ -54678,6 +54704,7 @@
 ||multifbpixels.website^
 ||smetrics.multikino.pl^
 ||multikonline.ru^
+||usuarios.multimania.es^
 ||multinews.me^
 ||mto.multiopen.cn^
 ||multipledrawers.com^
@@ -55215,6 +55242,7 @@
 ||analytics.myspirits.eu^
 ||sanalytics.myspreadshop.com^
 ||smetrics.myspringfield.com^
+||myspservices.com^
 ||myspybot.com^
 ||mystat.hu^
 ||ads.mystat.pro^
@@ -57748,6 +57776,7 @@
 ||nxszxho.com^
 ||nxt-psh.com^
 ||nxtck.com^
+||nxtcrypto.org^
 ||nxthost-1.info^
 ||nxthost-2.info^
 ||nxtpsh.com^
@@ -58496,6 +58525,7 @@
 ||tracking.olbg.info^
 ||sentry.olc.cz^
 ||old-dog.sbs^
+||old-dog.xyz^
 ||old-dogs.xyz^
 ||oldassist.pro^
 ||oldenedkeymove.com^
@@ -59776,6 +59806,7 @@
 ||analytics.rrr.org.au^
 ||metrics.salvationarmy.org.uk^
 ||smetrics.savethechildren.org.uk^
+||sbn.org.cy^
 ||log.sggp.org.vn^
 ||log-dttc.sggp.org.vn^
 ||log-en.sggp.org.vn^
@@ -60511,7 +60542,6 @@
 ||sentry.packetery.com^
 ||analytics.packetfence.org^
 ||packetforensics.com^
-||packetriot.net^
 ||dl.packetstormsecurity.net^
 ||packmenappui.top^
 ||packscursos.org^
@@ -62233,6 +62263,7 @@
 ||lu9xve2c97l898gjjxv4.pinkpossible.com^
 ||cdn.pinktriangle.ca^
 ||servedby.pinktriangle.ca^
+||pinkystalephotography.com^
 ||pinlocklocular.space^
 ||pinoculars.com^
 ||pinoffence.com^
@@ -63939,6 +63970,7 @@
 ||prjcq.com^
 ||prksism.com^
 ||prltmz.com^
+||prmobiles.com^
 ||prmtracking3.com^
 ||prmtracks.com^
 ||prmutv.co^
@@ -64175,6 +64207,7 @@
 ||promojet.ru^
 ||promolandforapp.com^
 ||promolayer.io^
+||promoliks.com^
 ||promomasters.at^
 ||promoserver.ru^
 ||promotionalmaterial.info^
@@ -64188,6 +64221,7 @@
 ||pronetadvertising.com^
 ||pronouncedgetawayetiquette.com^
 ||pronounconsternationspotlight.com^
+||pronpic.org^
 ||pronto.com^
 ||pronunciationlegacy.com^
 ||pronunciationspecimens.com^
@@ -64397,6 +64431,7 @@
 ||tracking.bi.psafe.com^
 ||psaiceex.net^
 ||psaijezy.com^
+||psairees.net^
 ||psaisoadrooz.net^
 ||psaiwaxaib.net^
 ||psalmexceptional.com^
@@ -64616,6 +64651,7 @@
 ||ptygritiwan.com^
 ||ptyhawwuwj.com^
 ||ptztvpremium.com^
+||pu4.biz^
 ||puata.info^
 ||pub.network^
 ||pub1.co^
@@ -66552,6 +66588,7 @@
 ||edeals.rbp.com^
 ||rbp2.site^
 ||rbqcg6g.de^
+||rbrbr88p.cn^
 ||rbrightscarletcl.info^
 ||rbrmhz.xyz^
 ||smetrics.mibcookies.rbs.com^
@@ -66617,7 +66654,7 @@
 ||rdrctgoweb.com^
 ||rdrkt.ru^
 ||rdrm1.click^
-||go.rdrm2.click^
+||rdrm2.click^
 ||rdroot.com^
 ||rdrsec.com^
 ||rdtk.io^
@@ -67085,6 +67122,7 @@
 ||reducedmaud.com^
 ||reduxmedia.com^
 ||reduxmediia.com^
+||at.adtech.redventures.io^
 ||ads.redvideo.redventures.io^
 ||redvertisment.com^
 ||video.redwap.cam^
@@ -68314,6 +68352,8 @@
 ||rnv.life^
 ||rnzmynh.cn^
 ||sentry2.ro.co^
+||ro3.biz^
+||ro5.biz^
 ||roacheenazak.com^
 ||sentry.road24.uz^
 ||roadformedomission.com^
@@ -68403,6 +68443,7 @@
 ||rockerbox.com^
 ||rocket-push.com^
 ||somni.rocketaccount.com^
+||rocketcitymustang.com^
 ||rocketfuel.com^
 ||somni.rockethomes.com^
 ||tracker.rocketlauncher.mobi^
@@ -68439,6 +68480,7 @@
 ||tracking.rodekruis.be^
 ||rodeomobile.com^
 ||metric.rodim.ru^
+||rodmancpa.com^
 ||rodplayed.com^
 ||analytics.rodpub.com^
 ||rodroord.net^
@@ -68967,6 +69009,7 @@
 ||ruggownpolacca.com^
 ||rugrarik.com^
 ||hqxbuy.rugs-direct.com^
+||ruhrboudoir.de^
 ||ruiframe.ru^
 ||ruineddefectivecurb.com^
 ||ruinedpersonnel.com^
@@ -69131,6 +69174,7 @@
 ||rwadx.com^
 ||rwarwf.icu^
 ||rwftzx.xyz^
+||rwnmcum.cn^
 ||rwtrack.xyz^
 ||rwuannaxztux.com^
 ||rwuomhjazop.com^
@@ -72307,6 +72351,7 @@
 ||domainpark.sitelutions.com^
 ||sitemaji.com^
 ||sitemeter.com^
+||sitemodify.com^
 ||siteoid.com^
 ||sentry.siteone.cz^
 ||jomovie.siteonline.stream^
@@ -74640,6 +74685,7 @@
 ||trk.myhealth.stanfordhealthcare.org^
 ||smetrics.stanfordhealthcare.org^
 ||stangast.net^
+||stanleyschultze.com^
 ||metrics.stanleysteemer.com^
 ||api.analytics.stanwith.me^
 ||stapadblockuser.art^
@@ -81213,6 +81259,7 @@
 ||twjsx.cn^
 ||twlcyc.cn^
 ||j.bs.twlxxl.cn^
+||s.bs.twlxxl.cn^
 ||twlxyx.cn^
 ||twnrydt.com^
 ||twodemo.com^
@@ -81871,6 +81918,7 @@
 ||umtudo.com^
 ||sentry.umu.com^
 ||umuotov.com^
+||forms.umusic-online.com^
 ||us.umusic-online.com^
 ||analytics.umwebops.org^
 ||piwik.umweltbundesamt.de^
@@ -82286,6 +82334,7 @@
 ||unusuallyswam.com^
 ||unusualtitle.com^
 ||unusualwarmingloner.com^
+||unwaveringmedia.com^
 ||unwelcomegardenerinterpretation.com^
 ||unwice.com^
 ||unwieldyhealth.com^
@@ -83452,6 +83501,7 @@
 ||velou.com^
 ||veloxity.net^
 ||velti.com^
+||velvet.by^
 ||analytics.velvetcleaner.com^
 ||velvetquasar.com^
 ||vemba.com^
@@ -85050,6 +85100,7 @@
 ||tracking.vviinn.com^
 ||vvlhrz.xyz^
 ||sponsors.vvng.com^
+||vvnnmm.com^
 ||matomo.vvs.de^
 ||vvtadblk.online^
 ||vvvljeqasz.com^
@@ -85389,6 +85440,7 @@
 ||metrics.washingtonpost.com^
 ||ny77jj.washingtonpost.com^
 ||pwapi.washingtonpost.com^
+||red-analytics.washingtonpost.com^
 ||smetrics.washingtonpost.com^
 ||talk.washingtonpost.com^
 ||targeting.washingtonpost.com^
@@ -87823,7 +87875,6 @@
 ||x6img.com^
 ||x7r3mk6ldr.com^
 ||x876789a.store^
-||x99y.xyz^
 ||x9mw.com^
 ||xa6gmivfp.com^
 ||xad.com^
@@ -88347,6 +88398,7 @@
 ||xlviirdr.com^
 ||xlvirdr.com^
 ||xlvqhx.xyz^
+||xmages.net^
 ||xmatch.com^
 ||xmawwbz.icu^
 ||xmax.jp^

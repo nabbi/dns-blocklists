@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1718757840 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1718801880 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Jun 2024 00:44 UTC
-; Version: 2024.0619.0044.21
+; Last modified: 19 Jun 2024 12:58 UTC
+; Version: 2024.0619.1258.43
 ; Syntax: RPZ
-; Number of entries: 133242
+; Number of entries: 133260
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -1611,6 +1611,8 @@ promclickapp.biz CNAME .
 *.promclickapp.biz CNAME .
 promotools.biz CNAME .
 *.promotools.biz CNAME .
+pu4.biz CNAME .
+*.pu4.biz CNAME .
 reedthatm.biz CNAME .
 *.reedthatm.biz CNAME .
 relaxtime24.biz CNAME .
@@ -3661,6 +3663,8 @@ bhktalt.cn CNAME .
 *.bhktalt.cn CNAME .
 bignqzm.cn CNAME .
 *.bignqzm.cn CNAME .
+bilezdq.cn CNAME .
+*.bilezdq.cn CNAME .
 bjswhpy.cn CNAME .
 *.bjswhpy.cn CNAME .
 bkxuprh.cn CNAME .
@@ -4775,6 +4779,8 @@ qziuwzn.cn CNAME .
 *.qziuwzn.cn CNAME .
 rawmtft.cn CNAME .
 *.rawmtft.cn CNAME .
+rbrbr88p.cn CNAME .
+*.rbrbr88p.cn CNAME .
 rdiono.cn CNAME .
 *.rdiono.cn CNAME .
 reachmax.cn CNAME .
@@ -4799,6 +4805,8 @@ rvbiocn.cn CNAME .
 *.rvbiocn.cn CNAME .
 rvzlobj.cn CNAME .
 *.rvzlobj.cn CNAME .
+rwnmcum.cn CNAME .
+*.rwnmcum.cn CNAME .
 ryyuvrt.cn CNAME .
 *.ryyuvrt.cn CNAME .
 rz261.cn CNAME .
@@ -21295,6 +21303,8 @@ matomo.brave.com CNAME .
 *.matomo.brave.com CNAME .
 metrics.brave.com CNAME .
 *.metrics.brave.com CNAME .
+p2a.brave.com CNAME .
+*.p2a.brave.com CNAME .
 p3a.brave.com CNAME .
 *.p3a.brave.com CNAME .
 p3a-json.brave.com CNAME .
@@ -49329,6 +49339,8 @@ adbsmetrics.kt.com CNAME .
 *.adbsmetrics.kt.com CNAME .
 kt5850pjz0.com CNAME .
 *.kt5850pjz0.com CNAME .
+ktaehxdlf.com CNAME .
+*.ktaehxdlf.com CNAME .
 axp.ktalnews.com CNAME .
 *.axp.ktalnews.com CNAME .
 matomo.ktbsonline.com CNAME .
@@ -55279,6 +55291,8 @@ ads.mofos.com CNAME .
 *.ads.mofos.com CNAME .
 feeds.mofos.com CNAME .
 *.feeds.mofos.com CNAME .
+scripts.mofos.com CNAME .
+*.scripts.mofos.com CNAME .
 mofox.com CNAME .
 *.mofox.com CNAME .
 mogointeractive.com CNAME .
@@ -64713,6 +64727,8 @@ prksism.com CNAME .
 *.prksism.com CNAME .
 prltmz.com CNAME .
 *.prltmz.com CNAME .
+prmobiles.com CNAME .
+*.prmobiles.com CNAME .
 prmtracking3.com CNAME .
 *.prmtracking3.com CNAME .
 prmtracks.com CNAME .
@@ -94973,8 +94989,6 @@ matomo.dev.hirschtec.eu CNAME .
 *.matomo.dev.hirschtec.eu CNAME .
 matomo.hirschtec.eu CNAME .
 *.matomo.hirschtec.eu CNAME .
-hotmod.eu CNAME .
-*.hotmod.eu CNAME .
 ilriparatutto.eu CNAME .
 *.ilriparatutto.eu CNAME .
 analytics.intermobilitas.eu CNAME .
@@ -100409,6 +100423,8 @@ redshell.io CNAME .
 *.redshell.io CNAME .
 redtrack.io CNAME .
 *.redtrack.io CNAME .
+at.adtech.redventures.io CNAME .
+*.at.adtech.redventures.io CNAME .
 relap.io CNAME .
 *.relap.io CNAME .
 assets.remerge.io CNAME .
@@ -115243,6 +115259,8 @@ prugskh.net CNAME .
 *.prugskh.net CNAME .
 psaiceex.net CNAME .
 *.psaiceex.net CNAME .
+psairees.net CNAME .
+*.psairees.net CNAME .
 psaiwaxaib.net CNAME .
 *.psaiwaxaib.net CNAME .
 psaltauw.net CNAME .

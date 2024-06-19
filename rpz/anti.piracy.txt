@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1718751120 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1718809680 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 18 Jun 2024 22:52 UTC
-; Version: 2024.0618.2252.37
+; Last modified: 19 Jun 2024 15:08 UTC
+; Version: 2024.0619.1508.12
 ; Syntax: RPZ
-; Number of entries: 19452
+; Number of entries: 19468
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -5601,6 +5601,8 @@ ip-booter-net.play3nvvip.com CNAME .
 *.ip-booter-net.play3nvvip.com CNAME .
 playhydrax.com CNAME .
 *.playhydrax.com CNAME .
+playtvgo.com CNAME .
+*.playtvgo.com CNAME .
 playvidto.com CNAME .
 *.playvidto.com CNAME .
 playwarez.com CNAME .
@@ -5667,6 +5669,8 @@ primartists.com CNAME .
 *.primartists.com CNAME .
 privtracker.com CNAME .
 *.privtracker.com CNAME .
+procracksoft.com CNAME .
+*.procracksoft.com CNAME .
 prodesigntools.com CNAME .
 *.prodesigntools.com CNAME .
 prodigem.com CNAME .
@@ -9177,6 +9181,8 @@ prox4.info CNAME .
 *.prox4.info CNAME .
 tpb.proxyduck.info CNAME .
 *.tpb.proxyduck.info CNAME .
+psytorrents.info CNAME .
+*.psytorrents.info CNAME .
 publicdomaintorrents.info CNAME .
 *.publicdomaintorrents.info CNAME .
 putlockertv.info CNAME .
@@ -9635,6 +9641,8 @@ putlockers.is CNAME .
 *.putlockers.is CNAME .
 rainierland.is CNAME .
 *.rainierland.is CNAME .
+ripple.is CNAME .
+*.ripple.is CNAME .
 rutor.is CNAME .
 *.rutor.is CNAME .
 s2dfree.is CNAME .
@@ -11245,6 +11253,8 @@ audiobookbay.net CNAME .
 *.audiobookbay.net CNAME .
 axemovies.net CNAME .
 *.axemovies.net CNAME .
+retracker.baikal-telecom.net CNAME .
+*.retracker.baikal-telecom.net CNAME .
 baixarfilmetorrent.net CNAME .
 *.baixarfilmetorrent.net CNAME .
 baixarpremium.net CNAME .
@@ -12243,6 +12253,8 @@ peliculaswarez.net CNAME .
 *.peliculaswarez.net CNAME .
 pelisplushd.net CNAME .
 *.pelisplushd.net CNAME .
+peruwarez.net CNAME .
+*.peruwarez.net CNAME .
 picturesetc.net CNAME .
 *.picturesetc.net CNAME .
 piecejointe.net CNAME .
@@ -14399,6 +14411,8 @@ forum.ppcwarez.org CNAME .
 *.forum.ppcwarez.org CNAME .
 predb.org CNAME .
 *.predb.org CNAME .
+premium4free.org CNAME .
+*.premium4free.org CNAME .
 primewirestatus.org CNAME .
 *.primewirestatus.org CNAME .
 privatebits.org CNAME .
@@ -17471,6 +17485,8 @@ cb01.tools CNAME .
 *.8kun.top CNAME .
 9movies.top CNAME .
 *.9movies.top CNAME .
+qot.abiir.top CNAME .
+*.qot.abiir.top CNAME .
 acglover.top CNAME .
 *.acglover.top CNAME .
 bclearning.top CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jun 2024 00:44 UTC
-# Version: 2024.0619.0044.21
+# Last modified: 19 Jun 2024 12:58 UTC
+# Version: 2024.0619.1258.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 66621
+# Number of entries: 66630
 #
 local=/0-02.net/
 local=/0008d6ba2e.com/
@@ -10084,6 +10084,7 @@ local=/bildirimci.net/
 local=/cdn2.bildirt.com/
 local=/bilec.xyz/
 local=/analytics.bilendi.com/
+local=/bilezdq.cn/
 local=/bilgin.pro/
 local=/dataflow.biliapi.com/
 local=/data.bilibili.com/
@@ -11145,6 +11146,7 @@ local=/braun634.com/
 local=/analytics.brave.com/
 local=/matomo.brave.com/
 local=/metrics.brave.com/
+local=/p2a.brave.com/
 local=/p3a.brave.com/
 local=/p3a-json.brave.com/
 local=/stats.brave.com/
@@ -31420,7 +31422,6 @@ local=/analytics.hotmart.com/
 local=/api-hotmart-tracking-manager.hotmart.com/
 local=/identification.hotmart.com/
 local=/tracking-api.hotmart.com/
-local=/hotmod.eu/
 local=/hotmovstore.com/
 local=/hotnews1.me/
 local=/hotngay.vn/
@@ -35790,6 +35791,7 @@ local=/odml.ad.intl.xiaomi.com.ksyna.net/
 local=/kszvmqo.cn/
 local=/adbsmetrics.kt.com/
 local=/kt5850pjz0.com/
+local=/ktaehxdlf.com/
 local=/axp.ktalnews.com/
 local=/ktauoy.xyz/
 local=/matomo.ktbsonline.com/
@@ -40304,6 +40306,7 @@ local=/moevideo.biz/
 local=/mofettecalmed.com/
 local=/ads.mofos.com/
 local=/feeds.mofos.com/
+local=/scripts.mofos.com/
 local=/mofox.com/
 local=/mogointeractive.com/
 local=/mogreet.com/
@@ -47342,6 +47345,7 @@ local=/prizee.com/
 local=/prjcq.com/
 local=/prksism.com/
 local=/prltmz.com/
+local=/prmobiles.com/
 local=/prmtracking3.com/
 local=/prmtracks.com/
 local=/communicate.prnewswire.com/
@@ -47693,6 +47697,7 @@ local=/lets.go.prweekus.com/
 local=/telemetry.ps.im/
 local=/tracking.bi.psafe.com/
 local=/psaiceex.net/
+local=/psairees.net/
 local=/psaiwaxaib.net/
 local=/psalmexceptional.com/
 local=/psaltauw.net/
@@ -47832,6 +47837,7 @@ local=/ptwmemd.com/
 local=/ptwmjmp.com/
 local=/ptyalinbrattie.com/
 local=/ptztvpremium.com/
+local=/pu4.biz/
 local=/pub.network/
 local=/pub1.co/
 local=/pub2srv.com/
@@ -49295,6 +49301,7 @@ local=/rbnt.org/
 local=/rbodwtj.icu/
 local=/edeals.rbp.com/
 local=/rbqcg6g.de/
+local=/rbrbr88p.cn/
 local=/rbrightscarletcl.info/
 local=/rbrmhz.xyz/
 local=/smetrics.mibcookies.rbs.com/
@@ -49693,6 +49700,7 @@ local=/redtram.com/
 local=/reducediscord.com/
 local=/reduxmedia.com/
 local=/reduxmediia.com/
+local=/at.adtech.redventures.io/
 local=/redvertisment.com/
 local=/video.redwap.cam/
 local=/redwingmagazine.com/
@@ -51256,6 +51264,7 @@ local=/rvvmhp.xyz/
 local=/rvzlobj.cn/
 local=/rwarwf.icu/
 local=/rwftzx.xyz/
+local=/rwnmcum.cn/
 local=/rwtrack.xyz/
 local=/rwuannaxztux.com/
 local=/rwusvej.com/

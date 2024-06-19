@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jun 2024 00:44 UTC
-# Version: 2024.0619.0044.21
+# Last modified: 19 Jun 2024 12:58 UTC
+# Version: 2024.0619.1258.43
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 66621
+# Number of entries: 66630
 #
 server=/0-02.net/
 server=/0008d6ba2e.com/
@@ -10084,6 +10084,7 @@ server=/bildirimci.net/
 server=/cdn2.bildirt.com/
 server=/bilec.xyz/
 server=/analytics.bilendi.com/
+server=/bilezdq.cn/
 server=/bilgin.pro/
 server=/dataflow.biliapi.com/
 server=/data.bilibili.com/
@@ -11145,6 +11146,7 @@ server=/braun634.com/
 server=/analytics.brave.com/
 server=/matomo.brave.com/
 server=/metrics.brave.com/
+server=/p2a.brave.com/
 server=/p3a.brave.com/
 server=/p3a-json.brave.com/
 server=/stats.brave.com/
@@ -31420,7 +31422,6 @@ server=/analytics.hotmart.com/
 server=/api-hotmart-tracking-manager.hotmart.com/
 server=/identification.hotmart.com/
 server=/tracking-api.hotmart.com/
-server=/hotmod.eu/
 server=/hotmovstore.com/
 server=/hotnews1.me/
 server=/hotngay.vn/
@@ -35790,6 +35791,7 @@ server=/odml.ad.intl.xiaomi.com.ksyna.net/
 server=/kszvmqo.cn/
 server=/adbsmetrics.kt.com/
 server=/kt5850pjz0.com/
+server=/ktaehxdlf.com/
 server=/axp.ktalnews.com/
 server=/ktauoy.xyz/
 server=/matomo.ktbsonline.com/
@@ -40304,6 +40306,7 @@ server=/moevideo.biz/
 server=/mofettecalmed.com/
 server=/ads.mofos.com/
 server=/feeds.mofos.com/
+server=/scripts.mofos.com/
 server=/mofox.com/
 server=/mogointeractive.com/
 server=/mogreet.com/
@@ -47342,6 +47345,7 @@ server=/prizee.com/
 server=/prjcq.com/
 server=/prksism.com/
 server=/prltmz.com/
+server=/prmobiles.com/
 server=/prmtracking3.com/
 server=/prmtracks.com/
 server=/communicate.prnewswire.com/
@@ -47693,6 +47697,7 @@ server=/lets.go.prweekus.com/
 server=/telemetry.ps.im/
 server=/tracking.bi.psafe.com/
 server=/psaiceex.net/
+server=/psairees.net/
 server=/psaiwaxaib.net/
 server=/psalmexceptional.com/
 server=/psaltauw.net/
@@ -47832,6 +47837,7 @@ server=/ptwmemd.com/
 server=/ptwmjmp.com/
 server=/ptyalinbrattie.com/
 server=/ptztvpremium.com/
+server=/pu4.biz/
 server=/pub.network/
 server=/pub1.co/
 server=/pub2srv.com/
@@ -49295,6 +49301,7 @@ server=/rbnt.org/
 server=/rbodwtj.icu/
 server=/edeals.rbp.com/
 server=/rbqcg6g.de/
+server=/rbrbr88p.cn/
 server=/rbrightscarletcl.info/
 server=/rbrmhz.xyz/
 server=/smetrics.mibcookies.rbs.com/
@@ -49693,6 +49700,7 @@ server=/redtram.com/
 server=/reducediscord.com/
 server=/reduxmedia.com/
 server=/reduxmediia.com/
+server=/at.adtech.redventures.io/
 server=/redvertisment.com/
 server=/video.redwap.cam/
 server=/redwingmagazine.com/
@@ -51256,6 +51264,7 @@ server=/rvvmhp.xyz/
 server=/rvzlobj.cn/
 server=/rwarwf.icu/
 server=/rwftzx.xyz/
+server=/rwnmcum.cn/
 server=/rwtrack.xyz/
 server=/rwuannaxztux.com/
 server=/rwusvej.com/
