@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1718838000 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1718895900 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 19 Jun 2024 23:00 UTC
-; Version: 2024.0619.2300.31
+; Last modified: 20 Jun 2024 15:05 UTC
+; Version: 2024.0620.1505.00
 ; Syntax: RPZ
-; Number of entries: 19486
+; Number of entries: 19498
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -943,6 +943,8 @@ tracker.stfu.ca CNAME .
 *.tracker.stfu.ca CNAME .
 unblockit.ca CNAME .
 *.unblockit.ca CNAME .
+upawg.ca CNAME .
+*.upawg.ca CNAME .
 movies.zsw.ca CNAME .
 *.movies.zsw.ca CNAME .
 altadefinizione.cab CNAME .
@@ -6573,6 +6575,8 @@ torrentdia101.com CNAME .
 *.torrentdia101.com CNAME .
 torrentdia102.com CNAME .
 *.torrentdia102.com CNAME .
+torrentdia103.com CNAME .
+*.torrentdia103.com CNAME .
 torrentdia104.com CNAME .
 *.torrentdia104.com CNAME .
 torrentdia2.com CNAME .
@@ -7089,6 +7093,8 @@ warezcities.com CNAME .
 *.warezcities.com CNAME .
 warezcode.com CNAME .
 *.warezcode.com CNAME .
+www.warezcore.com CNAME .
+*.www.warezcore.com CNAME .
 warezfactor.com CNAME .
 *.warezfactor.com CNAME .
 warezfortune.com CNAME .
@@ -12777,12 +12783,16 @@ tuaserie.net CNAME .
 *.tuaserie.net CNAME .
 turbobit.net CNAME .
 *.turbobit.net CNAME .
+turkeytorrent.net CNAME .
+*.turkeytorrent.net CNAME .
 tvids.net CNAME .
 *.tvids.net CNAME .
 tvron.net CNAME .
 *.tvron.net CNAME .
 tweakshub.net CNAME .
 *.tweakshub.net CNAME .
+twilighttorrents.net CNAME .
+*.twilighttorrents.net CNAME .
 two-movies.net CNAME .
 *.two-movies.net CNAME .
 uatracker.net CNAME .
@@ -17503,6 +17513,8 @@ cb01.tools CNAME .
 *.9movies.top CNAME .
 qot.abiir.top CNAME .
 *.qot.abiir.top CNAME .
+tr.abiir.top CNAME .
+*.tr.abiir.top CNAME .
 acglover.top CNAME .
 *.acglover.top CNAME .
 bclearning.top CNAME .
