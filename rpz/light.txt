@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1718929320 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1718975400 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Jun 2024 00:22 UTC
-; Version: 2024.0621.0022.32
+; Last modified: 21 Jun 2024 13:10 UTC
+; Version: 2024.0621.1310.49
 ; Syntax: RPZ
-; Number of entries: 133368
+; Number of entries: 133390
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -4021,6 +4021,8 @@ computel.cn CNAME .
 *.computel.cn CNAME .
 cpgou.cn CNAME .
 *.cpgou.cn CNAME .
+cqmpigx.cn CNAME .
+*.cqmpigx.cn CNAME .
 cqpph.cn CNAME .
 *.cqpph.cn CNAME .
 crasheye.cn CNAME .
@@ -4031,6 +4033,10 @@ cry2h.cn CNAME .
 *.cry2h.cn CNAME .
 ctags.cn CNAME .
 *.ctags.cn CNAME .
+cuvtnzv.cn CNAME .
+*.cuvtnzv.cn CNAME .
+cxpjrqa.cn CNAME .
+*.cxpjrqa.cn CNAME .
 czava.cn CNAME .
 *.czava.cn CNAME .
 czouthy.cn CNAME .
@@ -4765,8 +4771,6 @@ quqtone.cn CNAME .
 *.quqtone.cn CNAME .
 qusfybj.cn CNAME .
 *.qusfybj.cn CNAME .
-qvonje.cn CNAME .
-*.qvonje.cn CNAME .
 qvrfddm.cn CNAME .
 *.qvrfddm.cn CNAME .
 qweqd.cn CNAME .
@@ -22713,6 +22717,8 @@ ca548318cc.com CNAME .
 *.ca548318cc.com CNAME .
 caanalytics.com CNAME .
 *.caanalytics.com CNAME .
+caardinal.com CNAME .
+*.caardinal.com CNAME .
 cabbagesemestergeoffrey.com CNAME .
 *.cabbagesemestergeoffrey.com CNAME .
 cabbingdandled.com CNAME .
@@ -24565,6 +24571,8 @@ choppedtrimboulevard.com CNAME .
 *.choppedtrimboulevard.com CNAME .
 choppedwhisperinggirlie.com CNAME .
 *.choppedwhisperinggirlie.com CNAME .
+choptacache.com CNAME .
+*.choptacache.com CNAME .
 chortleflutina.com CNAME .
 *.chortleflutina.com CNAME .
 choruslockdownbumpy.com CNAME .
@@ -28947,6 +28955,10 @@ darknetpages.com CNAME .
 *.darknetpages.com CNAME .
 darknetplace.com CNAME .
 *.darknetplace.com CNAME .
+darknettormarketslinks.com CNAME .
+*.darknettormarketslinks.com CNAME .
+darknetwebmarket.com CNAME .
+*.darknetwebmarket.com CNAME .
 darkonlinemarket.com CNAME .
 *.darkonlinemarket.com CNAME .
 c.darkreading.com CNAME .
@@ -28965,6 +28977,12 @@ darkwebmarketinfo.com CNAME .
 *.darkwebmarketinfo.com CNAME .
 darkwebmarketnet.com CNAME .
 *.darkwebmarketnet.com CNAME .
+darkwebonionmarketplace.com CNAME .
+*.darkwebonionmarketplace.com CNAME .
+darkwebonlinemarkets.com CNAME .
+*.darkwebonlinemarkets.com CNAME .
+darkwebtormarketslinks.com CNAME .
+*.darkwebtormarketslinks.com CNAME .
 darkworldmarket.com CNAME .
 *.darkworldmarket.com CNAME .
 darlingfrightenunit.com CNAME .
@@ -37855,8 +37873,6 @@ freefromads.com CNAME .
 *.freefromads.com CNAME .
 freeftpmanager.com CNAME .
 *.freeftpmanager.com CNAME .
-freegenday.com CNAME .
-*.freegenday.com CNAME .
 mo.freeindoapp.com CNAME .
 *.mo.freeindoapp.com CNAME .
 freelancebeheld.com CNAME .
@@ -62659,8 +62675,8 @@ phaimseksa.com CNAME .
 *.phaimseksa.com CNAME .
 phaitaghy.com CNAME .
 *.phaitaghy.com CNAME .
-ss.phallicbedsore.com CNAME .
-*.ss.phallicbedsore.com CNAME .
+phallicbedsore.com CNAME .
+*.phallicbedsore.com CNAME .
 phando.com CNAME .
 *.phando.com CNAME .
 phanmem111.com CNAME .
@@ -67241,6 +67257,8 @@ ragerystenchy.com CNAME .
 *.ragerystenchy.com CNAME .
 raggerdough.com CNAME .
 *.raggerdough.com CNAME .
+raglanyakking.com CNAME .
+*.raglanyakking.com CNAME .
 ragwviw.com CNAME .
 *.ragwviw.com CNAME .
 rahxfus.com CNAME .
@@ -67289,6 +67307,8 @@ raisingsupportive.com CNAME .
 *.raisingsupportive.com CNAME .
 raisinmanagelivestock.com CNAME .
 *.raisinmanagelivestock.com CNAME .
+rajmobbism.com CNAME .
+*.rajmobbism.com CNAME .
 rakhen.com CNAME .
 *.rakhen.com CNAME .
 rakkuntwex.com CNAME .
@@ -70921,6 +70941,8 @@ saumeechoa.com CNAME .
 *.saumeechoa.com CNAME .
 saunamilitarymental.com CNAME .
 *.saunamilitarymental.com CNAME .
+sauptowhy.com CNAME .
+*.sauptowhy.com CNAME .
 sausagegirlieheartburn.com CNAME .
 *.sausagegirlieheartburn.com CNAME .
 savagelylizard.com CNAME .
@@ -79409,8 +79431,6 @@ thickstatements.com CNAME .
 *.thickstatements.com CNAME .
 thiefbeseech.com CNAME .
 *.thiefbeseech.com CNAME .
-thighargu.com CNAME .
-*.thighargu.com CNAME .
 thighleopard.com CNAME .
 *.thighleopard.com CNAME .
 thighpoker.com CNAME .
@@ -83325,6 +83345,8 @@ uphilo.com CNAME .
 *.uphilo.com CNAME .
 telemetry.uphold.com CNAME .
 *.telemetry.uphold.com CNAME .
+uphoveduke.com CNAME .
+*.uphoveduke.com CNAME .
 supply.upjers.com CNAME .
 *.supply.upjers.com CNAME .
 upkoffingr.com CNAME .
@@ -97847,8 +97869,6 @@ dadbab.info CNAME .
 *.dadbab.info CNAME .
 dallthroughthe.info CNAME .
 *.dallthroughthe.info CNAME .
-danchimviet.info CNAME .
-*.danchimviet.info CNAME .
 analytics.datagen.info CNAME .
 *.analytics.datagen.info CNAME .
 ddns.info CNAME .
@@ -103213,12 +103233,18 @@ darknetmarketsonion.link CNAME .
 *.darknetmarketsonion.link CNAME .
 darkweb-darknet.link CNAME .
 *.darkweb-darknet.link CNAME .
+darkweb-darknet-market.link CNAME .
+*.darkweb-darknet-market.link CNAME .
 darkweb-markets.link CNAME .
 *.darkweb-markets.link CNAME .
 darkwebdarknetmarkets.link CNAME .
 *.darkwebdarknetmarkets.link CNAME .
+darkwebmarketlistik.link CNAME .
+*.darkwebmarketlistik.link CNAME .
 darkwebmarketslist.link CNAME .
 *.darkwebmarketslist.link CNAME .
+darkwebonlinemarkets.link CNAME .
+*.darkwebonlinemarkets.link CNAME .
 dating365.link CNAME .
 *.dating365.link CNAME .
 dfnetwork.link CNAME .
@@ -108823,8 +108849,6 @@ dcbbwymp1bhlf.cloudfront.net CNAME .
 *.dcbbwymp1bhlf.cloudfront.net CNAME .
 dcjg1gv1px1h.cloudfront.net CNAME .
 *.dcjg1gv1px1h.cloudfront.net CNAME .
-dct4jph3as9lp.cloudfront.net CNAME .
-*.dct4jph3as9lp.cloudfront.net CNAME .
 dczhbhtz52fpi.cloudfront.net CNAME .
 *.dczhbhtz52fpi.cloudfront.net CNAME .
 dd6zx4ibq538k.cloudfront.net CNAME .
@@ -118633,8 +118657,6 @@ c.blockdetector.org CNAME .
 *.c.blockdetector.org CNAME .
 blocksly.org CNAME .
 *.blocksly.org CNAME .
-oascentral.blogher.org CNAME .
-*.oascentral.blogher.org CNAME .
 blue-biddingz.org CNAME .
 *.blue-biddingz.org CNAME .
 blueeyesintelligence.org CNAME .
@@ -119831,8 +119853,6 @@ sragegedand.org CNAME .
 *.sragegedand.org CNAME .
 smetrics.ssfcu.org CNAME .
 *.smetrics.ssfcu.org CNAME .
-ssl443.org CNAME .
-*.ssl443.org CNAME .
 smetrics.stanfordchildrens.org CNAME .
 *.smetrics.stanfordchildrens.org CNAME .
 smetrics.stanfordhealthcare.org CNAME .
@@ -120973,6 +120993,8 @@ date2day.pro CNAME .
 *.date2day.pro CNAME .
 date4sex.pro CNAME .
 *.date4sex.pro CNAME .
+deadly-variety.pro CNAME .
+*.deadly-variety.pro CNAME .
 deafening-benefit.pro CNAME .
 *.deafening-benefit.pro CNAME .
 dental-drawer.pro CNAME .
@@ -123593,6 +123615,8 @@ cwssfg632.shop CNAME .
 *.cwssfg632.shop CNAME .
 d-position.shop CNAME .
 *.d-position.shop CNAME .
+darkdrugweb.shop CNAME .
+*.darkdrugweb.shop CNAME .
 darkwebmarketlinkxx.shop CNAME .
 *.darkwebmarketlinkxx.shop CNAME .
 dceuhnpc57.shop CNAME .
@@ -124979,6 +125003,8 @@ bestofmoneysurvey.top CNAME .
 *.bestofmoneysurvey.top CNAME .
 betakeskings.top CNAME .
 *.betakeskings.top CNAME .
+bfhueh.top CNAME .
+*.bfhueh.top CNAME .
 bgidskiv.top CNAME .
 *.bgidskiv.top CNAME .
 bhutsynaxis.top CNAME .
@@ -127383,8 +127409,6 @@ bahmut.com.ua CNAME .
 *.bahmut.com.ua CNAME .
 cralodas.com.ua CNAME .
 *.cralodas.com.ua CNAME .
-fitnes-trener.com.ua CNAME .
-*.fitnes-trener.com.ua CNAME .
 ads.go2net.com.ua CNAME .
 *.ads.go2net.com.ua CNAME .
 holder.com.ua CNAME .
@@ -129369,8 +129393,6 @@ analytic.13net.xyz CNAME .
 *.1fzjy.xyz CNAME .
 1u5gy.xyz CNAME .
 *.1u5gy.xyz CNAME .
-1wtwaq.xyz CNAME .
-*.1wtwaq.xyz CNAME .
 24smi.xyz CNAME .
 *.24smi.xyz CNAME .
 259luxu.xyz CNAME .

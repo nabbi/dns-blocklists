@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 20 Jun 2024 15:05 UTC
-# Version: 2024.0620.1505.00
+# Last modified: 21 Jun 2024 15:05 UTC
+# Version: 2024.0621.1505.05
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 9749
+# Number of entries: 9751
 #
 server=/blink-stresser.000webhostapp.com/
 server=/ddos-ovh-v6.000webhostapp.com/
@@ -1400,6 +1400,7 @@ server=/bluebird-hd.org/
 server=/tracker.bluefrog.pw/
 server=/blues-brothers.biz/
 server=/bluewarez.pl/
+server=/blunter.xyz/
 server=/blutopia.xyz/
 server=/bmitbd.com/
 server=/bmovies.nl/
@@ -1557,6 +1558,7 @@ server=/bvlist.com/
 server=/bwtorrents.com/
 server=/tracker.bwtorrents.tv/
 server=/byfiles.com/
+server=/www.bygfx.com/
 server=/bypassed.life/
 server=/watchepisodeseries.bypassed.wtf/
 server=/byte.to/
