@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 21 Jun 2024 22:32 UTC
-# Version: 2024.0621.2232.13
+# Last modified: 22 Jun 2024 15:17 UTC
+# Version: 2024.0622.1517.00
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 9752
+# Number of entries: 9753
 #
 server=/blink-stresser.000webhostapp.com/
 server=/ddos-ovh-v6.000webhostapp.com/
@@ -4856,6 +4856,7 @@ server=/kat.to/
 server=/katcr.to/
 server=/katfile.com/
 server=/kati3kat.tube/
+server=/katmoviehd.ac/
 server=/katmoviehd.ma/
 server=/katmoviehd.nl/
 server=/katmoviehd.vin/
