@@ -5,12 +5,13 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 09 Jun 2024 09:31 UTC
-! Version: 2024.0609.0931.20
+! Last modified: 23 Jun 2024 00:45 UTC
+! Version: 2024.0623.0045.54
 ! Syntax: AdBlock
-! Number of entries: 111
+! Number of entries: 112
 !
 ||in.appcenter.ms^
+||in.applicationinsights.azure.com^
 ||collector.azure.cn^
 ||js.monitor.azure.com^
 ||location-microsoft-com.b-0005.b-msedge.net^
