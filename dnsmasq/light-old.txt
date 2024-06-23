@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 Jun 2024 00:30 UTC
-# Version: 2024.0623.0030.33
+# Last modified: 23 Jun 2024 13:19 UTC
+# Version: 2024.0623.1319.35
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 66790
+# Number of entries: 66791
 #
 server=/0-02.net/
 server=/0008d6ba2e.com/
@@ -3963,6 +3963,7 @@ server=/mobile.adsafeprotected.com/
 server=/mobile-static.adsafeprotected.com/
 server=/ordt.adsafeprotected.com/
 server=/orfw.adsafeprotected.com/
+server=/orpixel.adsafeprotected.com/
 server=/orvideo.adsafeprotected.com/
 server=/sgfw.adsafeprotected.com/
 server=/sgpixel.adsafeprotected.com/
@@ -15065,7 +15066,6 @@ server=/d3n9c6iuvomkjk.cloudfront.net/
 server=/d3ncat0syb6rim.cloudfront.net/
 server=/d3nel6rcmq5lzw.cloudfront.net/
 server=/d3ngt858zasqwf.cloudfront.net/
-server=/d3nqn4bwgnt0y6.cloudfront.net/
 server=/d3numuoibysgi8.cloudfront.net/
 server=/d3nvrqlo8rj1kw.cloudfront.net/
 server=/d3o92sis0yji3x.cloudfront.net/
@@ -53055,6 +53055,7 @@ server=/analytics.shirokami.me/
 server=/shirtclumsy.com/
 server=/shirtsidewalk.com/
 server=/shise.me/
+server=/shit-around.com/
 server=/shitcustody.com/
 server=/shiverdepartmentclinging.com/
 server=/shiveringspot.com/

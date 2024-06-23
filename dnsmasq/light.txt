@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 Jun 2024 00:30 UTC
-# Version: 2024.0623.0030.33
+# Last modified: 23 Jun 2024 13:19 UTC
+# Version: 2024.0623.1319.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 66790
+# Number of entries: 66791
 #
 local=/0-02.net/
 local=/0008d6ba2e.com/
@@ -3963,6 +3963,7 @@ local=/mobile.adsafeprotected.com/
 local=/mobile-static.adsafeprotected.com/
 local=/ordt.adsafeprotected.com/
 local=/orfw.adsafeprotected.com/
+local=/orpixel.adsafeprotected.com/
 local=/orvideo.adsafeprotected.com/
 local=/sgfw.adsafeprotected.com/
 local=/sgpixel.adsafeprotected.com/
@@ -15065,7 +15066,6 @@ local=/d3n9c6iuvomkjk.cloudfront.net/
 local=/d3ncat0syb6rim.cloudfront.net/
 local=/d3nel6rcmq5lzw.cloudfront.net/
 local=/d3ngt858zasqwf.cloudfront.net/
-local=/d3nqn4bwgnt0y6.cloudfront.net/
 local=/d3numuoibysgi8.cloudfront.net/
 local=/d3nvrqlo8rj1kw.cloudfront.net/
 local=/d3o92sis0yji3x.cloudfront.net/
@@ -53055,6 +53055,7 @@ local=/analytics.shirokami.me/
 local=/shirtclumsy.com/
 local=/shirtsidewalk.com/
 local=/shise.me/
+local=/shit-around.com/
 local=/shitcustody.com/
 local=/shiverdepartmentclinging.com/
 local=/shiveringspot.com/
