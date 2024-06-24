@@ -1,8 +1,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hagezi/dns-blocklists)![GitHub issues](https://img.shields.io/github/issues/hagezi/dns-blocklists)![GitHub closed issues](https://img.shields.io/github/issues-closed/hagezi/dns-blocklists)![GitHub repo size](https://img.shields.io/github/repo-size/hagezi/dns-blocklists)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhagezi%2Fdns-blocklists&count_bg=%23754400&title_bg=%235F5F5F&icon=awesomelists.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/hagezi/dns-blocklists)[![shields.io Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists)](https://github.com/hagezi/dns-blocklists/stargazers)
 
-> [!IMPORTANT]
-> ***Limited support 15/06/2024 to 23/06/2024***<br>*Due to my absence, I will only be able to provide limited support during this period and will not be able to respond as quickly as usual. For further details see the following [issue](https://github.com/hagezi/dns-blocklists/issues/2921).*
-
 ## :zap: DNS Blocklists - *For a better internet!*
 
 ### *Made with :heartbeat: for a safer and cleaner internet! It always seems impossible until it’s done.*

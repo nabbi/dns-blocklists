@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jun 2024 22:35 UTC
-# Version: 2024.0622.2235.27
+# Last modified: 23 Jun 2024 22:37 UTC
+# Version: 2024.0623.2237.58
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 9754
+# Number of entries: 9757
 #
 server=/blink-stresser.000webhostapp.com/
 server=/ddos-ovh-v6.000webhostapp.com/
@@ -2029,6 +2029,7 @@ server=/fh2.cmp-gaming.com/
 server=/cnetworkbd.net/
 server=/cnp.cx/
 server=/althub.co.za/
+server=/apk4all.co.in/
 server=/apkpure.co.in/
 server=/mirror.aptus.co.tz/
 server=/bioquantum.co.za/
@@ -8377,6 +8378,7 @@ server=/torrent.by/
 server=/torrent.ir/
 server=/torrent.lt/
 server=/torrent.movie/
+server=/torrent.nz/
 server=/torrent.parts/
 server=/torrent.ws/
 server=/torrent-damage.net/
@@ -8535,6 +8537,7 @@ server=/torrentproject.se/
 server=/torrentproject2.com/
 server=/torrentproject2.net/
 server=/torrentproject2.org/
+server=/torrentprotection.com/
 server=/torrentproxies.com/
 server=/torrentproxy.io/
 server=/torrentqq27.com/
