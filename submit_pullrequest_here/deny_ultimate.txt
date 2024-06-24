@@ -21,11 +21,45 @@ locationhistoryaggregates-pa.googleapis.com
 searchpromo-pa.googleapis.com
 searchlabspartnerservice-pa.googleapis.com
 xgapromomanager-pa.googleapis.com
-### voilatile-pa.googleapis.com # UNKOWN
 glsfrontend-pa.googleapis.com
 localservices.googleapis.com
 scone-pa.clients6.google.com
 scone-pa.googleapis.com
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2179224519
+lamssettings-pa.googleapis.com
+infinitedata-pa.googleapis.com
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2179314278
+audit.googleapis.com
+appenginereporting.googleapis.com
+chromeuxreport.googleapis.com
+cloudaudit.googleapis.com
+cloudlatencytest.googleapis.com
+cloudprofiler.googleapis.com
+cloudtrace.googleapis.com
+content-partnersbadge-pa.googleapis.com
+dfareporting.googleapis.com
+doubleclickbidmanager.googleapis.com
+doubleclicksearch.googleapis.com
+federatedcompute-pa.googleapis.com
+firebasepredictions.googleapis.com
+firewallinsights.googleapis.com
+gapromomanager-pa.googleapis.com
+xgapromomanager-pa.googleapis.com
+logging.googleapis.com
+marketingplatformadmin.googleapis.com
+meshtelemetry.googleapis.com
+mobilenetworkscoring-pa.googleapis.com
+monitoring.googleapis.com
+pagespeedmobilizer.com
+pagespeedonline.googleapis.com
+partners-json.googleapis.com
+recommendationengine.googleapis.com
+recommender.googleapis.com
+stackdriver.googleapis.com
+surveys.googleapis.com
+tagmanager.googleapis.com
+timeseriesinsights.googleapis.com
+wirelessdevicestats.googleapis.com
 
 # Already blocked via the base domains in the build DB
 ogads-pa.googleapis.com

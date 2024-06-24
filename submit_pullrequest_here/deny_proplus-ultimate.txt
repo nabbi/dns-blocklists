@@ -11,7 +11,6 @@
 # BEGIN
 
 # https://github.com/hagezi/dns-blocklists/issues/2968
-
 acceleratewithgoogle.com
 adexchange.googleapis.com
 adexchangebuyer.googleapis.com
@@ -145,7 +144,6 @@ admob.google.vg
 admob.google.vn
 admob.google.vu
 admob.google.ws
-admob.googleapis.com
 admob.hk
 admob.ie
 admob.in
@@ -276,8 +274,6 @@ adsense.google.vg
 adsense.google.vn
 adsense.google.vu
 adsense.google.ws
-adsense.googleapis.com
-adsensehost.googleapis.com
 adsense.ie
 adsense.ru
 adsense.si
@@ -441,6 +437,14 @@ feedback-pa.clients6.google.com
 growth-pa.googleapis.com
 geller-pa.googleapis.com
 optimizationguide-pa.googleapis.com
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2179314278
+admob.googleapis.com
+adsense.googleapis.com
+adsensehost.googleapis.com
+analyticsadmin.googleapis.com
+analyticsdata.googleapis.com
+analyticshub.googleapis.com
+analyticsreporting.googleapis.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2824
 ads.bravesoftware.com
