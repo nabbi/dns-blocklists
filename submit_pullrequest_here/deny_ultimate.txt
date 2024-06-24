@@ -60,6 +60,8 @@ surveys.googleapis.com
 tagmanager.googleapis.com
 timeseriesinsights.googleapis.com
 wirelessdevicestats.googleapis.com
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2187152126
+tracedepot-pa.googleapis.com
 
 # Already blocked via the base domains in the build DB
 ogads-pa.googleapis.com
