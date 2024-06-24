@@ -4,13 +4,90 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 23 Jun 2024 00:45 UTC
-# Version: 2024.0623.0045.54
+# Last modified: 24 Jun 2024 06:45 UTC
+# Version: 2024.0624.0645.06
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 259
+# Number of entries: 340
 #
 0.0.0.0 in.appcenter.ms
+0.0.0.0 applicationinsights.azure.com
+0.0.0.0 aimon.applicationinsights.azure.com
+0.0.0.0 in.aimon.applicationinsights.azure.com
+0.0.0.0 westcentralus-global.in.aimon.applicationinsights.azure.com
+0.0.0.0 api.applicationinsights.azure.com
+0.0.0.0 dc.applicationinsights.azure.com
 0.0.0.0 in.applicationinsights.azure.com
+0.0.0.0 australiaeast-0.in.applicationinsights.azure.com
+0.0.0.0 australiaeast-1.in.applicationinsights.azure.com
+0.0.0.0 australiaeast-global.in.applicationinsights.azure.com
+0.0.0.0 australiasoutheast-0.in.applicationinsights.azure.com
+0.0.0.0 brazilsouth-0.in.applicationinsights.azure.com
+0.0.0.0 brazilsouth-1.in.applicationinsights.azure.com
+0.0.0.0 canadacentral-0.in.applicationinsights.azure.com
+0.0.0.0 canadacentral-1.in.applicationinsights.azure.com
+0.0.0.0 canadaeast-0.in.applicationinsights.azure.com
+0.0.0.0 centralindia-0.in.applicationinsights.azure.com
+0.0.0.0 centralus.in.applicationinsights.azure.com
+0.0.0.0 centralus-0.in.applicationinsights.azure.com
+0.0.0.0 centralus-2.in.applicationinsights.azure.com
+0.0.0.0 centralus-3.in.applicationinsights.azure.com
+0.0.0.0 eastasia-0.in.applicationinsights.azure.com
+0.0.0.0 eastus-0.in.applicationinsights.azure.com
+0.0.0.0 eastus-1.in.applicationinsights.azure.com
+0.0.0.0 eastus-2.in.applicationinsights.azure.com
+0.0.0.0 eastus-3.in.applicationinsights.azure.com
+0.0.0.0 eastus-4.in.applicationinsights.azure.com
+0.0.0.0 eastus-5.in.applicationinsights.azure.com
+0.0.0.0 eastus-6.in.applicationinsights.azure.com
+0.0.0.0 eastus-8.in.applicationinsights.azure.com
+0.0.0.0 eastus-global.in.applicationinsights.azure.com
+0.0.0.0 eastus2-0.in.applicationinsights.azure.com
+0.0.0.0 eastus2-3.in.applicationinsights.azure.com
+0.0.0.0 eastus2-4.in.applicationinsights.azure.com
+0.0.0.0 francecentral-1.in.applicationinsights.azure.com
+0.0.0.0 germanywestcentral-0.in.applicationinsights.azure.com
+0.0.0.0 germanywestcentral-1.in.applicationinsights.azure.com
+0.0.0.0 japaneast-0.in.applicationinsights.azure.com
+0.0.0.0 japaneast-1.in.applicationinsights.azure.com
+0.0.0.0 japanwest-0.in.applicationinsights.azure.com
+0.0.0.0 northcentralus-0.in.applicationinsights.azure.com
+0.0.0.0 northeurope-0.in.applicationinsights.azure.com
+0.0.0.0 northeurope-2.in.applicationinsights.azure.com
+0.0.0.0 northeurope-3.in.applicationinsights.azure.com
+0.0.0.0 northeurope-4.in.applicationinsights.azure.com
+0.0.0.0 northeurope-5.in.applicationinsights.azure.com
+0.0.0.0 northeurope-global.in.applicationinsights.azure.com
+0.0.0.0 norwayeast-0.in.applicationinsights.azure.com
+0.0.0.0 qatarcentral-0.in.applicationinsights.azure.com
+0.0.0.0 region.in.applicationinsights.azure.com
+0.0.0.0 southafricanorth-0.in.applicationinsights.azure.com
+0.0.0.0 southafricanorth-1.in.applicationinsights.azure.com
+0.0.0.0 southcentralus-0.in.applicationinsights.azure.com
+0.0.0.0 southcentralus-3.in.applicationinsights.azure.com
+0.0.0.0 southeastasia-0.in.applicationinsights.azure.com
+0.0.0.0 southeastasia-1.in.applicationinsights.azure.com
+0.0.0.0 swedencentral-0.in.applicationinsights.azure.com
+0.0.0.0 switzerlandnorth-0.in.applicationinsights.azure.com
+0.0.0.0 uksouth-0.in.applicationinsights.azure.com
+0.0.0.0 uksouth-1.in.applicationinsights.azure.com
+0.0.0.0 ukwest-0.in.applicationinsights.azure.com
+0.0.0.0 westeurope.in.applicationinsights.azure.com
+0.0.0.0 westeurope-0.in.applicationinsights.azure.com
+0.0.0.0 westeurope-1.in.applicationinsights.azure.com
+0.0.0.0 westeurope-2.in.applicationinsights.azure.com
+0.0.0.0 westeurope-3.in.applicationinsights.azure.com
+0.0.0.0 westeurope-4.in.applicationinsights.azure.com
+0.0.0.0 westeurope-5.in.applicationinsights.azure.com
+0.0.0.0 westeurope-global.in.applicationinsights.azure.com
+0.0.0.0 westus-0.in.applicationinsights.azure.com
+0.0.0.0 westus2-0.in.applicationinsights.azure.com
+0.0.0.0 westus2-1.in.applicationinsights.azure.com
+0.0.0.0 westus2-2.in.applicationinsights.azure.com
+0.0.0.0 westus2-4.in.applicationinsights.azure.com
+0.0.0.0 westus2-5.in.applicationinsights.azure.com
+0.0.0.0 westus2-global.in.applicationinsights.azure.com
+0.0.0.0 westus3-1.in.applicationinsights.azure.com
+0.0.0.0 live.applicationinsights.azure.com
 0.0.0.0 collector.azure.cn
 0.0.0.0 js.monitor.azure.com
 0.0.0.0 location-microsoft-com.b-0005.b-msedge.net
@@ -87,6 +164,9 @@
 0.0.0.0 usc-visio-telemetry.officeapps.live.com
 0.0.0.0 visio-telemetry.officeapps.live.com
 0.0.0.0 word-telemetry.officeapps.live.com
+0.0.0.0 applicationinsights.microsoft.com
+0.0.0.0 dc.applicationinsights.microsoft.com
+0.0.0.0 rt.applicationinsights.microsoft.com
 0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 eu.pipe.aria.microsoft.com
@@ -260,6 +340,7 @@
 0.0.0.0 self-events-data.trafficmanager.net
 0.0.0.0 teams-events-data.trafficmanager.net
 0.0.0.0 win-global-asimov-leafs-events-data.trafficmanager.net
+0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 activity.windows.com
 0.0.0.0 assets.activity.windows.com
 0.0.0.0 ceuswatcab01.blob.core.windows.net

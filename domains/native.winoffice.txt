@@ -4,13 +4,90 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 23 Jun 2024 00:45 UTC
-# Version: 2024.0623.0045.54
+# Last modified: 24 Jun 2024 06:45 UTC
+# Version: 2024.0624.0645.06
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 259
+# Number of entries: 340
 #
 in.appcenter.ms
+applicationinsights.azure.com
+aimon.applicationinsights.azure.com
+in.aimon.applicationinsights.azure.com
+westcentralus-global.in.aimon.applicationinsights.azure.com
+api.applicationinsights.azure.com
+dc.applicationinsights.azure.com
 in.applicationinsights.azure.com
+australiaeast-0.in.applicationinsights.azure.com
+australiaeast-1.in.applicationinsights.azure.com
+australiaeast-global.in.applicationinsights.azure.com
+australiasoutheast-0.in.applicationinsights.azure.com
+brazilsouth-0.in.applicationinsights.azure.com
+brazilsouth-1.in.applicationinsights.azure.com
+canadacentral-0.in.applicationinsights.azure.com
+canadacentral-1.in.applicationinsights.azure.com
+canadaeast-0.in.applicationinsights.azure.com
+centralindia-0.in.applicationinsights.azure.com
+centralus.in.applicationinsights.azure.com
+centralus-0.in.applicationinsights.azure.com
+centralus-2.in.applicationinsights.azure.com
+centralus-3.in.applicationinsights.azure.com
+eastasia-0.in.applicationinsights.azure.com
+eastus-0.in.applicationinsights.azure.com
+eastus-1.in.applicationinsights.azure.com
+eastus-2.in.applicationinsights.azure.com
+eastus-3.in.applicationinsights.azure.com
+eastus-4.in.applicationinsights.azure.com
+eastus-5.in.applicationinsights.azure.com
+eastus-6.in.applicationinsights.azure.com
+eastus-8.in.applicationinsights.azure.com
+eastus-global.in.applicationinsights.azure.com
+eastus2-0.in.applicationinsights.azure.com
+eastus2-3.in.applicationinsights.azure.com
+eastus2-4.in.applicationinsights.azure.com
+francecentral-1.in.applicationinsights.azure.com
+germanywestcentral-0.in.applicationinsights.azure.com
+germanywestcentral-1.in.applicationinsights.azure.com
+japaneast-0.in.applicationinsights.azure.com
+japaneast-1.in.applicationinsights.azure.com
+japanwest-0.in.applicationinsights.azure.com
+northcentralus-0.in.applicationinsights.azure.com
+northeurope-0.in.applicationinsights.azure.com
+northeurope-2.in.applicationinsights.azure.com
+northeurope-3.in.applicationinsights.azure.com
+northeurope-4.in.applicationinsights.azure.com
+northeurope-5.in.applicationinsights.azure.com
+northeurope-global.in.applicationinsights.azure.com
+norwayeast-0.in.applicationinsights.azure.com
+qatarcentral-0.in.applicationinsights.azure.com
+region.in.applicationinsights.azure.com
+southafricanorth-0.in.applicationinsights.azure.com
+southafricanorth-1.in.applicationinsights.azure.com
+southcentralus-0.in.applicationinsights.azure.com
+southcentralus-3.in.applicationinsights.azure.com
+southeastasia-0.in.applicationinsights.azure.com
+southeastasia-1.in.applicationinsights.azure.com
+swedencentral-0.in.applicationinsights.azure.com
+switzerlandnorth-0.in.applicationinsights.azure.com
+uksouth-0.in.applicationinsights.azure.com
+uksouth-1.in.applicationinsights.azure.com
+ukwest-0.in.applicationinsights.azure.com
+westeurope.in.applicationinsights.azure.com
+westeurope-0.in.applicationinsights.azure.com
+westeurope-1.in.applicationinsights.azure.com
+westeurope-2.in.applicationinsights.azure.com
+westeurope-3.in.applicationinsights.azure.com
+westeurope-4.in.applicationinsights.azure.com
+westeurope-5.in.applicationinsights.azure.com
+westeurope-global.in.applicationinsights.azure.com
+westus-0.in.applicationinsights.azure.com
+westus2-0.in.applicationinsights.azure.com
+westus2-1.in.applicationinsights.azure.com
+westus2-2.in.applicationinsights.azure.com
+westus2-4.in.applicationinsights.azure.com
+westus2-5.in.applicationinsights.azure.com
+westus2-global.in.applicationinsights.azure.com
+westus3-1.in.applicationinsights.azure.com
+live.applicationinsights.azure.com
 collector.azure.cn
 js.monitor.azure.com
 location-microsoft-com.b-0005.b-msedge.net
@@ -87,6 +164,9 @@ usc-onenote-telemetry.officeapps.live.com
 usc-visio-telemetry.officeapps.live.com
 visio-telemetry.officeapps.live.com
 word-telemetry.officeapps.live.com
+applicationinsights.microsoft.com
+dc.applicationinsights.microsoft.com
+rt.applicationinsights.microsoft.com
 pipe.aria.microsoft.com
 browser.pipe.aria.microsoft.com
 eu.pipe.aria.microsoft.com
@@ -260,6 +340,7 @@ office-events-data.trafficmanager.net
 self-events-data.trafficmanager.net
 teams-events-data.trafficmanager.net
 win-global-asimov-leafs-events-data.trafficmanager.net
+dc.services.visualstudio.com
 activity.windows.com
 assets.activity.windows.com
 ceuswatcab01.blob.core.windows.net
