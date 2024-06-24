@@ -9,13 +9,15 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 23 Jun 2024 22:02 UTC
-! Version: 2024.0623.2202.56
+! Last modified: 24 Jun 2024 15:32 UTC
+! Version: 2024.0624.1532.23
 ! Syntax: AdBlock
-! Number of latin TLDs: 67/143
+! Number of latin TLDs: 72/149
 !
 ||africa^
+||airbus^
 ||autos^
+||aw^
 ||baby^
 ||bet^
 ||bid^
@@ -38,13 +40,15 @@
 ||finance^
 ||fishing^
 ||fo^
+||gent^
 ||gives^
 ||giving^
 ||gold^
+||gw^
 ||hair^
 ||haus^
 ||homes^
-||icu^
+||international^
 ||kim^
 ||lat^
 ||llp^
@@ -52,6 +56,7 @@
 ||loans^
 ||love^
 ||ltd^
+||management^
 ||men^
 ||mom^
 ||motorcycles^

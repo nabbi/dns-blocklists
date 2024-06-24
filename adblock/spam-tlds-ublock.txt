@@ -10,15 +10,17 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 23 Jun 2024 22:02 UTC
-! Version: 2024.0623.2202.56
+! Last modified: 24 Jun 2024 15:32 UTC
+! Version: 2024.0624.1532.23
 ! Syntax: uBlock
-! Number of latin TLDs: 143 - non-latin TLDs: 151
+! Number of latin TLDs: 149 - non-latin TLDs: 151
 !
 ||africa^$doc
 ||agency^$doc,domain=~baam.agency|~battlefield.agency|~robotzebra.agency|~uphotel.agency|~ws.agency
+||airbus^$doc
 ||asia^$doc,domain=~amzn.asia|~dbankcloud.asia
 ||autos^$doc
+||aw^$doc
 ||baby^$doc
 ||bar^$doc,domain=~fap.bar
 ||beauty^$doc,domain=~homelab.beauty|~vipbj.beauty
@@ -36,7 +38,7 @@
 ||buzz^$doc,domain=~allthe.buzz|~awful.buzz|~cliq.buzz|~montpellier.buzz|~sideb.buzz|~williamsonday.buzz
 ||cam^$doc
 ||casa^$doc
-||cc^$doc,domain=~fanbox.cc|~ors.cc|~shottr.cc|~wallhaven.cc
+||cc^$doc,domain=~fanbox.cc|~ors.cc|~shottr.cc|~wallhaven.cc|~zcyph.cc
 ||center^$doc
 ||cf^$doc,domain=~acap.cf|~google.cf
 ||cfd^$doc,domain=~frcoal.cfd|~freedium.cfd
@@ -68,17 +70,20 @@
 ||fyi^$doc,domain=~apollo.fyi|~better.fyi|~canonn.fyi|~iusearchlinux.fyi|~lunar.fyi|~vercel.fyi
 ||ga^$doc,domain=~google.ga|~mmo.ga
 ||gdn^$doc,domain=~cst.gdn|~pss.gdn
+||gent^$doc
 ||gives^$doc
 ||giving^$doc
 ||gold^$doc
 ||gq^$doc,domain=~tvgelive.gq
 ||gs^$doc,domain=~airthin.gs
 ||guru^$doc,domain=~bahn.guru|~crontab.guru|~greenlight.guru|~jav.guru|~webcal.guru
+||gw
 ||hair^$doc
 ||haus^$doc
 ||homes^$doc
-||icu^$doc
+||icu^$doc,domain=~lunar.icu
 ||ink^$doc,domain=~ishortn.ink|~next.ink|~short.ink
+||international^$doc
 ||kg^$doc,domain=~google.kg
 ||kim^$doc
 ||lat^$doc
@@ -90,6 +95,7 @@
 ||love^$doc
 ||ltd^$doc
 ||makeup^$doc,domain=~bird.makeup
+||management^$doc
 ||market^$doc,domain=~digiseller.market|~otto.market|~plati.market|~warframe.market
 ||men^$doc
 ||ml^$doc,domain=~aire.ml|~beatbump.ml|~debula.ml|~fedi.ml|~fmhy.ml|~ghostcloud.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~nothingprivate.ml|~precure.ml|~prompt.ml
@@ -131,7 +137,7 @@
 ||skin^$doc
 ||space^$doc,domain=~carstens.space|~drgns.space|~hf.space|~httpjames.space|~hullseals.space|~link.space|~searx.space
 ||st^$doc,domain=~avito.st|~bpa.st|~google.st|~selfh.st
-||store^$doc,domain=~androeed.store
+||store^$doc,domain=~androeed.store|~shoplazza.store
 ||surf^$doc,domain=~bloom.surf|~glowing.surf|~kayaking.surf|~quran.surf|~s-wings.surf
 ||sx^$doc,domain=~filemoon.sx|~voe.sx
 ||sz^$doc
