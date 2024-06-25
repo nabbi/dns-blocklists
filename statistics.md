@@ -49,7 +49,7 @@
  18 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  19 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  20 |      99% |   0% |      1% | Native Tracker Xiaomi (Devices)
- 21 |      84% |  12% |      4% | Advanced Extension
+ 21 |      84% |  10% |      6% | Advanced Extension
  22 |      77% |   0% |     23% | Denylist Community Advanced
 ```
 #### PRO.PLUS
@@ -74,7 +74,7 @@
  17 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  18 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  19 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
- 20 |      86% |  12% |      2% | Advanced Extension
+ 20 |      85% |  10% |      5% | Advanced Extension
  21 |      93% |   0% |      7% | Denylist Community Advanced
  22 |      74% |  18% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  23 |      81% |  11% |      8% | Aggressive Extension
@@ -102,7 +102,7 @@
  16 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  17 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  18 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
- 19 |      86% |  12% |      2% | Advanced Extension
+ 19 |      86% |  10% |      4% | Advanced Extension
  20 |      93% |   0% |      7% | Denylist Community Advanced
  21 |      74% |  18% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  22 |      81% |  11% |      8% | Aggressive Extension
