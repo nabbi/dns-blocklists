@@ -11,4 +11,8 @@
 
 # BEGIN
 
+# https://github.com/hagezi/dns-blocklists/issues/2853
+fundingchoices.google.com
+fundingchoicesmessages.google.com # Breaks also some mobile Apps/Games
+
 # END
