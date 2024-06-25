@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Jun 2024 23:15 UTC
-# Version: 2024.0604.2315.00
+# Last modified: 24 Jun 2024 22:57 UTC
+# Version: 2024.0624.2257.24
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 407
+# Number of entries: 408
 #
 server=/docs-frontier-sg.byteoversea.com/
 server=/frontier.byteoversea.com/
@@ -165,6 +165,7 @@ server=/frontier16-normal.tiktokv.com/
 server=/frontier16-normal-alisg.tiktokv.com/
 server=/frontier16-normal-useast1a.tiktokv.com/
 server=/frontier16-normal-useast2a.tiktokv.com/
+server=/frontier16-normal-zr-useast1a.tiktokv.com/
 server=/frontier16-useast1a.tiktokv.com/
 server=/frontier22-normal.tiktokv.com/
 server=/frontier22-normal-alisg.tiktokv.com/

@@ -11,6 +11,8 @@ https://botvrij.eu/data/ioclist.hostname
 https://botvrij.eu/data/ioclist.ip-dst
 https://builtwith.com/dl/builtwith-top1m.zip
 https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/chinese-filter.txt
+https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-dns.txt
+https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter.txt
 https://cpdbl.net/lists/blocklistde-all.list
 https://cpdbl.net/lists/bruteforce.list
 https://cpdbl.net/lists/etknown.list
@@ -170,8 +172,6 @@ https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-add
 https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
 https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter-dns.txt
-https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_ips.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Jun 2024 23:15 UTC
-# Version: 2024.0604.2315.00
+# Last modified: 24 Jun 2024 22:57 UTC
+# Version: 2024.0624.2257.24
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 413
+# Number of entries: 414
 #
 0.0.0.0 docs-frontier-sg.byteoversea.com
 0.0.0.0 frontier.byteoversea.com
@@ -171,6 +171,7 @@
 0.0.0.0 frontier16-normal-alisg.tiktokv.com
 0.0.0.0 frontier16-normal-useast1a.tiktokv.com
 0.0.0.0 frontier16-normal-useast2a.tiktokv.com
+0.0.0.0 frontier16-normal-zr-useast1a.tiktokv.com
 0.0.0.0 frontier16-useast1a.tiktokv.com
 0.0.0.0 frontier22-normal.tiktokv.com
 0.0.0.0 frontier22-normal-alisg.tiktokv.com

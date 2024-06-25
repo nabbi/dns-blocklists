@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 23 Jun 2024 22:34 UTC
-# Version: 2024.0623.2234.55
+# Last modified: 24 Jun 2024 22:34 UTC
+# Version: 2024.0624.2234.05
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
 # Number of entries: 1072
 #
@@ -376,6 +376,7 @@ server=/home27.duckdns.org/
 server=/jurre-home.duckdns.org/
 server=/krtekvpn.duckdns.org/
 server=/osefcorp.duckdns.org/
+server=/punono.duckdns.org/
 server=/tuandns.duckdns.org/
 server=/tungdnsne.duckdns.org/
 server=/dukun.de/
@@ -581,7 +582,6 @@ server=/dns.kugoapps.com/
 server=/dns.kukal.cz/
 server=/dns.kusoneko.moe/
 server=/dns.l337.site/
-server=/dns.labnekotest.site/
 server=/doh.lacontrevoie.fr/
 server=/dns.lars-lehmann.net/
 server=/dns.lashes-brow.ru/
