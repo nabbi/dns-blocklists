@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1718751060 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1719356340 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 18 Jun 2024 22:51 UTC
-; Version: 2024.0618.2251.32
+; Last modified: 25 Jun 2024 22:59 UTC
+; Version: 2024.0625.2259.38
 ; Syntax: RPZ
-; Number of entries: 3648
+; Number of entries: 3642
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -127,8 +127,6 @@ eu3.biz CNAME .
 *.eu3.biz CNAME .
 freeblog.biz CNAME .
 *.freeblog.biz CNAME .
-igg.biz CNAME .
-*.igg.biz CNAME .
 kilu.biz CNAME .
 *.kilu.biz CNAME .
 laden.biz CNAME .
@@ -961,8 +959,6 @@ freehostingeu.com CNAME .
 *.freehostingeu.com CNAME .
 freehostingking.com CNAME .
 *.freehostingking.com CNAME .
-freehostplace.com CNAME .
-*.freehostplace.com CNAME .
 freehyperspace5.com CNAME .
 *.freehyperspace5.com CNAME .
 freeiz.com CNAME .
@@ -1029,8 +1025,6 @@ goabroadblog.com CNAME .
 *.goabroadblog.com CNAME .
 godaddysites.com CNAME .
 *.godaddysites.com CNAME .
-gofreeserve.com CNAME .
-*.gofreeserve.com CNAME .
 sites.googlegroups.com CNAME .
 *.sites.googlegroups.com CNAME .
 blogspot.l.googleusercontent.com CNAME .

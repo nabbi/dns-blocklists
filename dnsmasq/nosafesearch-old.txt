@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 23 Jun 2024 22:32 UTC
-# Version: 2024.0623.2232.41
+# Last modified: 25 Jun 2024 22:55 UTC
+# Version: 2024.0625.2255.10
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 228
+# Number of entries: 221
 #
 server=/search.0xcb.dev/
 server=/searx.32bitflo.at/
@@ -28,7 +28,6 @@ server=/librex.baczek.me/
 server=/searx.baczek.me/
 server=/baidu.com/
 server=/baresearch.org/
-server=/searx.bbaovanc.com/
 server=/search.biboumail.fr/
 server=/searx.bissisoft.com/
 server=/search.bluelock.org/
@@ -95,15 +94,12 @@ server=/search.jpope.org/
 server=/jsearch.pw/
 server=/searx.juancord.xyz/
 server=/kagi.com/
-server=/search.kiwitalk.de/
 server=/trovu.komun.org/
-server=/searx.kutay.dev/
 server=/searx.kvch.me/
 server=/search.laksith.dev/
 server=/searx.lavatech.top/
 server=/search.leptons.xyz/
 server=/search.lgbtq.cool/
-server=/librex.me/
 server=/search.lightinthedark.space/
 server=/searx.linux.pizza/
 server=/lukol.com/
@@ -119,7 +115,6 @@ server=/metacrawler.com/
 server=/metager.de/
 server=/metager.org/
 server=/metager3.de/
-server=/suche.mexmail.de/
 server=/searx.mha.fi/
 server=/mijisou.com/
 server=/millionshort.com/
@@ -133,7 +128,6 @@ server=/searx.nakhan.net/
 server=/searx.namejeff.xyz/
 server=/search.nebulacentre.net/
 server=/search.neet.works/
-server=/neeva.com/
 server=/searx.netzspielplatz.de/
 server=/nibblehole.com/
 server=/searxng.nicfab.eu/
@@ -200,7 +194,6 @@ server=/searx.run/
 server=/searx.si/
 server=/searx.work/
 server=/searx.xyz/
-server=/searxzh.cn/
 server=/searx.semipvt.com/
 server=/search.sethforprivacy.com/
 server=/searx.sev.monster/

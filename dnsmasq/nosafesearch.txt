@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 23 Jun 2024 22:32 UTC
-# Version: 2024.0623.2232.41
+# Last modified: 25 Jun 2024 22:55 UTC
+# Version: 2024.0625.2255.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 228
+# Number of entries: 221
 #
 local=/search.0xcb.dev/
 local=/searx.32bitflo.at/
@@ -28,7 +28,6 @@ local=/librex.baczek.me/
 local=/searx.baczek.me/
 local=/baidu.com/
 local=/baresearch.org/
-local=/searx.bbaovanc.com/
 local=/search.biboumail.fr/
 local=/searx.bissisoft.com/
 local=/search.bluelock.org/
@@ -95,15 +94,12 @@ local=/search.jpope.org/
 local=/jsearch.pw/
 local=/searx.juancord.xyz/
 local=/kagi.com/
-local=/search.kiwitalk.de/
 local=/trovu.komun.org/
-local=/searx.kutay.dev/
 local=/searx.kvch.me/
 local=/search.laksith.dev/
 local=/searx.lavatech.top/
 local=/search.leptons.xyz/
 local=/search.lgbtq.cool/
-local=/librex.me/
 local=/search.lightinthedark.space/
 local=/searx.linux.pizza/
 local=/lukol.com/
@@ -119,7 +115,6 @@ local=/metacrawler.com/
 local=/metager.de/
 local=/metager.org/
 local=/metager3.de/
-local=/suche.mexmail.de/
 local=/searx.mha.fi/
 local=/mijisou.com/
 local=/millionshort.com/
@@ -133,7 +128,6 @@ local=/searx.nakhan.net/
 local=/searx.namejeff.xyz/
 local=/search.nebulacentre.net/
 local=/search.neet.works/
-local=/neeva.com/
 local=/searx.netzspielplatz.de/
 local=/nibblehole.com/
 local=/searxng.nicfab.eu/
@@ -200,7 +194,6 @@ local=/searx.run/
 local=/searx.si/
 local=/searx.work/
 local=/searx.xyz/
-local=/searxzh.cn/
 local=/searx.semipvt.com/
 local=/search.sethforprivacy.com/
 local=/searx.sev.monster/

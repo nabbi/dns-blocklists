@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 24 Jun 2024 22:34 UTC
-# Version: 2024.0624.2234.05
+# Last modified: 25 Jun 2024 22:57 UTC
+# Version: 2024.0625.2257.21
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 1072
+# Number of entries: 1070
 #
 server=/ns.00dani.me/
 server=/cdn.0ms.dev/
@@ -224,7 +224,6 @@ server=/dns.colorfreedom.org/
 server=/dns.7sec.com.br/
 server=/dns.ceai.com.tw/
 server=/dns.cloud88.com.au/
-server=/adguard.gbrossi.com.br/
 server=/dns.joaofidelix.com.br/
 server=/dns1.lothuscorp.com.br/
 server=/dns.weixin.qq.com.cn/
@@ -996,7 +995,6 @@ server=/tigrons.ru/
 server=/timmes.nl/
 server=/dns.tls-data.de/
 server=/tlz.asia/
-server=/d.toairs.com/
 server=/dot.tooli.ca/
 server=/nsc.torgues.net/
 server=/doh.totoro.pub/
