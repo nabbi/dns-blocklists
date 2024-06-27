@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Jun 2024 22:56 UTC
-# Version: 2024.0625.2256.11
+# Last modified: 26 Jun 2024 23:02 UTC
+# Version: 2024.0626.2302.43
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
 # Number of entries: 3121
 #
@@ -1147,6 +1147,7 @@ server=/hauxcore.de/
 server=/query.hdns.io/
 server=/ordns.he.net/
 server=/headproxy.com/
+server=/us-ny-alula.heliumcloud.cc/
 server=/helloworld.cx/
 server=/helpmehide.net/
 server=/dns.henek.ovh/
@@ -1435,7 +1436,6 @@ server=/yarp.lefolgoc.net/
 server=/legaladvisor.us/
 server=/legalweb.info/
 server=/br.servers.legat.ml/
-server=/externalmobiel.lekdijk.online/
 server=/lelux.fi/
 server=/let-vpn.com/
 server=/dns.levonet.sk/

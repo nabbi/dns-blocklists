@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 14 Jun 2024 07:05 UTC
-# Version: 2024.0614.0705.17
+# Last modified: 26 Jun 2024 23:22 UTC
+# Version: 2024.0626.2322.21
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 605
+# Number of entries: 585
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -249,7 +249,6 @@ event-na.ads.aps.amazon-adsystem.com
 event-na.ads-beta.aps.amazon-adsystem.com
 event-na.ads-gamma.aps.amazon-adsystem.com
 events.app-performance.music.amazon.dev
-events.bugsnag.ngm.audible.a2z.com
 events.bugsnag.shopbop.amazon.dev
 event-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 events.prod.bugs.firebat.prime-video.amazon.dev
@@ -294,20 +293,9 @@ global-1.telemetry.insights.video.a2z.com
 global-2.telemetry.insights.video.a2z.com
 global-3.telemetry.insights.video.a2z.com
 global.telemetry.insights.video.a2z.com
-iad.spp.bid-na.ads.aps.amazon-adsystem.com
-iad.spp.bid-na.ads-beta.aps.amazon-adsystem.com
-iad.spp.bid-na.ads-gamma.aps.amazon-adsystem.com
-iad.spp.event-na.ads.aps.amazon-adsystem.com
-iad.spp.event-na.ads-beta.aps.amazon-adsystem.com
-iad.spp.event-na.ads-gamma.aps.amazon-adsystem.com
-iad.stv.bid-na.ads.aps.amazon-adsystem.com
-iad.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
-iad.stv.event-na.ads.aps.amazon-adsystem.com
-iad.stv.event-na.ads-gamma.aps.amazon-adsystem.com
 identity.browserapps.amazon.de
 imdb.amazon-adsystem.com
 ipv6.unagi-na.amazon.com
-ir-au.amazon-adsystem.com
 ir-br.amazon-adsystem.com
 ir-ca.amazon-adsystem.com
 ir-cn.amazon-adsystem.com
@@ -320,7 +308,6 @@ ir-jp.amazon-adsystem.com
 ir-mx.amazon-adsystem.com
 ir-na.amazon-adsystem.com
 ir-nl.amazon-adsystem.com
-ir-tr.amazon-adsystem.com
 ir-uk.amazon-adsystem.com
 kinesis.ap-northeast-1.amazonaws.com
 kinesis.ap-northeast-2.amazonaws.com
@@ -417,12 +404,6 @@ ott.eu-west.aps.axp.amazon-adsystem.com
 ott.us-east.aps.axp.amazon-adsystem.com
 ott.us-west.aps.axp.amazon-adsystem.com
 paa-reporting-advertising.amazon
-pdx.spp.bid-na.ads.aps.amazon-adsystem.com
-pdx.spp.event-na.ads.aps.amazon-adsystem.com
-pdx.stv.bid-na.ads.aps.amazon-adsystem.com
-pdx.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
-pdx.stv.event-na.ads.aps.amazon-adsystem.com
-pdx.stv.event-na.ads-gamma.aps.amazon-adsystem.com
 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com
 pri1-3ps.amazon-adsystem.com
 pri1-id-eu.amazon-adsystem.com
@@ -492,7 +473,6 @@ stv.event-na.ads.aps.amazon-adsystem.com
 stv.event-na.ads-beta.aps.amazon-adsystem.com
 stv.event-na.ads-gamma.aps.amazon-adsystem.com
 telemetry.insights.video.a2z.com
-test-cell01.gamma.useast.rtb.axp.amazon-adsystem.com
 tk.amazon-adsystem.com
 tk-beta.amazon-adsystem.com
 tk-eu.amazon-adsystem.com

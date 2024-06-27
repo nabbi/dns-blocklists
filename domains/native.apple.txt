@@ -4,12 +4,11 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 10 Jun 2024 07:39 UTC
-# Version: 2024.0610.0739.28
+# Last modified: 26 Jun 2024 23:20 UTC
+# Version: 2024.0626.2320.35
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 363
+# Number of entries: 319
 #
-appleglobal.102.112.207.net
 cstat.g.aaplimg.com
 diagassets.g.aaplimg.com
 cdn-xp-ingest-ab.v.aaplimg.com
@@ -64,21 +63,15 @@ iad2d1-iadsdk.iad.apple.com
 iad2d1-iadsdktest.iad.apple.com
 iad2d1-oo.iad.apple.com
 iad2nowhere.iad.apple.com
-iad2s1.iad.apple.com
-iad2s1-api.iad.apple.com
 iad2s1-chalkboard.iad.apple.com
 iad2s1-cmws.iad.apple.com
 iad2s1-feed.iad.apple.com
 iad2s1-iadc.iad.apple.com
-iad2s1-iadctest.iad.apple.com
 iad2s1-iadsdk.iad.apple.com
 iad2s1-iadsdktest.iad.apple.com
 iad2s1-newssdk.iad.apple.com
 iad2s1-oo.iad.apple.com
 iad2s1-pass.iad.apple.com
-iad2s1-workbench.iad.apple.com
-iad2s2.iad.apple.com
-iad2s2-api.iad.apple.com
 iad2s2-chalkboard.iad.apple.com
 iad2s2-cmws.iad.apple.com
 iad2s2-feed.iad.apple.com
@@ -88,76 +81,46 @@ iad2s2-iadsdktest.iad.apple.com
 iad2s2-newssdk.iad.apple.com
 iad2s2-oo.iad.apple.com
 iad2s2-pass.iad.apple.com
-iad2s2-workbench.iad.apple.com
-iad2s3.iad.apple.com
-iad2s3-api.iad.apple.com
 iad2s3-chalkboard.iad.apple.com
 iad2s3-cmws.iad.apple.com
 iad2s3-iadc.iad.apple.com
-iad2s3-iadctest.iad.apple.com
 iad2s3-iadsdk.iad.apple.com
 iad2s3-iadsdktest.iad.apple.com
 iad2s3-newssdk.iad.apple.com
 iad2s3-oo.iad.apple.com
 iad2s3-pass.iad.apple.com
-iad2s3-workbench.iad.apple.com
-iad2s4.iad.apple.com
-iad2s4-api.iad.apple.com
 iad2s4-chalkboard.iad.apple.com
 iad2s4-feed.iad.apple.com
 iad2s4-iadc.iad.apple.com
-iad2s4-iadctest.iad.apple.com
 iad2s4-iadsdk.iad.apple.com
 iad2s4-newssdk.iad.apple.com
 iad2s4-oo.iad.apple.com
 iad2s4-pass.iad.apple.com
-iad2s4-workbench.iad.apple.com
-iad2v1.iad.apple.com
-iad2v1-api.iad.apple.com
-iad2v1-api-bc.iad.apple.com
-iad2v1-bc.iad.apple.com
-iad2v1-cf.iad.apple.com
 iad2v1-chalkboard.iad.apple.com
 iad2v1-cmws.iad.apple.com
 iad2v1-feed.iad.apple.com
 iad2v1-iadc.iad.apple.com
-iad2v1-iadsdk.iad.apple.com
 iad2v1-iadsdktest.iad.apple.com
 iad2v1-newssdk.iad.apple.com
 iad2v1-oo.iad.apple.com
 iad2v1-pass.iad.apple.com
-iad2v1-workbench.iad.apple.com
-iad2v2.iad.apple.com
-iad2v2-api.iad.apple.com
-iad2v2-cf.iad.apple.com
 iad2v2-chalkboard.iad.apple.com
 iad2v2-chalkboard2.iad.apple.com
 iad2v2-cmws.iad.apple.com
 iad2v2-feed.iad.apple.com
 iad2v2-iadc.iad.apple.com
-iad2v2-iadsdk.iad.apple.com
 iad2v2-iadsdktest.iad.apple.com
-iad2v2-newssdk.iad.apple.com
 iad2v2-oo.iad.apple.com
 iad2v2-pass.iad.apple.com
-iad2v2-workbench.iad.apple.com
-iad2v3.iad.apple.com
-iad2v3-api.iad.apple.com
-iad2v3-cf.iad.apple.com
 iad2v3-chalkboard.iad.apple.com
 iad2v3-cmws.iad.apple.com
 iad2v3-iadc.iad.apple.com
-iad2v3-iadsdk.iad.apple.com
 iad2v3-iadsdk-soak.iad.apple.com
 iad2v3-iadsdktest.iad.apple.com
-iad2v3-newssdk.iad.apple.com
-iad2v3-workbench.iad.apple.com
-iad2v4-api.iad.apple.com
 iad2v4-chalkboard.iad.apple.com
 iad2v4-feed.iad.apple.com
 iad2v4-iadc.iad.apple.com
 iad2v4-newssdk.iad.apple.com
-iad2v4-workbench.iad.apple.com
 iad2v5-feed.iad.apple.com
 iad2v5-pass.iad.apple.com
 iad2v5-workbench.iad.apple.com
@@ -337,12 +300,6 @@ searchads.apple.com
 securemetrics.apple.com
 securemvt.apple.com
 stg-iad.apple.com
-overlord.stg-iad.apple.com
-st11p01ad-iadworkbench.stg-iad.apple.com
-st11p01ad-overlord.stg-iad.apple.com
-st11p01ad-uuidws.stg-iad.apple.com
-st11p01adiadctest.stg-iad.apple.com
-st11p01adoo.stg-iad.apple.com
 stocks-analytics-events.apple.com
 supportmetrics.apple.com
 uxintg-iad.apple.com
@@ -355,7 +312,6 @@ feedbackws.fe2.apple-dns.net
 me.apple-dns.net
 probe.me.apple-dns.net
 applemediaservices.com
-www.applemediaservices.com
 cstat.cdn-apple.com
 feedbackws.icloud.com.cn
 cdn-xp-ingest.edge.apple

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1719328560 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1719443160 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 25 Jun 2024 15:16 UTC
-; Version: 2024.0625.1516.19
+; Last modified: 26 Jun 2024 23:06 UTC
+; Version: 2024.0626.2306.56
 ; Syntax: RPZ
-; Number of entries: 19348
+; Number of entries: 19338
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1071,8 +1071,6 @@ animeflv.cc CNAME .
 *.animeflv.cc CNAME .
 animeid.cc CNAME .
 *.animeid.cc CNAME .
-animeram.cc CNAME .
-*.animeram.cc CNAME .
 animesonline.cc CNAME .
 *.animesonline.cc CNAME .
 anix.cc CNAME .
@@ -2191,8 +2189,6 @@ w4.123moviefree4u.com CNAME .
 *.1kif.com CNAME .
 1movieshd.com CNAME .
 *.1movieshd.com CNAME .
-1movietv.com CNAME .
-*.1movietv.com CNAME .
 1xstream.com CNAME .
 *.1xstream.com CNAME .
 20links.com CNAME .
@@ -2301,10 +2297,6 @@ abtorrents.com CNAME .
 *.abtorrents.com CNAME .
 acechanime.com CNAME .
 *.acechanime.com CNAME .
-opentracker.acgnx.com CNAME .
-*.opentracker.acgnx.com CNAME .
-acgnxtracker.com CNAME .
-*.acgnxtracker.com CNAME .
 acgsou.com CNAME .
 *.acgsou.com CNAME .
 open.acgtracker.com CNAME .
@@ -15751,8 +15743,6 @@ audionews.ru CNAME .
 *.audionews.ru CNAME .
 aviraland.ru CNAME .
 *.aviraland.ru CNAME .
-axell24.ru CNAME .
-*.axell24.ru CNAME .
 retracker.bashtel.ru CNAME .
 *.retracker.bashtel.ru CNAME .
 bit-torrent.ru CNAME .

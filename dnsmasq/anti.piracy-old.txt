@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Jun 2024 15:16 UTC
-# Version: 2024.0625.1516.19
+# Last modified: 26 Jun 2024 23:06 UTC
+# Version: 2024.0626.2306.56
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 9674
+# Number of entries: 9669
 #
 server=/blink-stresser.000webhostapp.com/
 server=/ddos-ovh-v6.000webhostapp.com/
@@ -176,7 +176,6 @@ server=/1movies.is/
 server=/1movies.life/
 server=/1movies.nl/
 server=/1movieshd.com/
-server=/1movietv.com/
 server=/1nd.hu/
 server=/1stream.top/
 server=/1street.ru/
@@ -391,8 +390,6 @@ server=/bt.acg.gg/
 server=/tracker.acg.gg/
 server=/acglover.top/
 server=/acgnx.se/
-server=/opentracker.acgnx.com/
-server=/acgnxtracker.com/
 server=/acgsou.com/
 server=/open.acgtracker.com/
 server=/acidwarez.com/
@@ -797,7 +794,6 @@ server=/animeow.me/
 server=/animepace.si/
 server=/animepahe.com/
 server=/animepill.com/
-server=/animeram.cc/
 server=/animes.so/
 server=/torrents.animes-bg.com/
 server=/animes-fuki.com/
@@ -1042,7 +1038,6 @@ server=/avistaz.to/
 server=/avxhm.se/
 server=/awesome-hd.com/
 server=/awesome-hd.me/
-server=/axell24.ru/
 server=/axemovies.net/
 server=/axxo.me/
 server=/axxomovies.org/

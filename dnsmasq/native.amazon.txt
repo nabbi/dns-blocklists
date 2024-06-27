@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 14 Jun 2024 07:05 UTC
-# Version: 2024.0614.0705.17
+# Last modified: 26 Jun 2024 23:22 UTC
+# Version: 2024.0626.2322.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 355
+# Number of entries: 352
 #
 local=/aan.amazon.co.jp/
 local=/aan.amazon.com/
@@ -140,7 +140,6 @@ local=/device-metrics-us-2.amazon.com/
 local=/device-metrics-us.amazon.com/
 local=/dra.amazon-adsystem.com/
 local=/events.app-performance.music.amazon.dev/
-local=/events.bugsnag.ngm.audible.a2z.com/
 local=/fls-cn.amazon-adsystem.com/
 local=/fls-cn.amazon.cn/
 local=/fls-eu.amazon-adsystem.com/
@@ -173,7 +172,6 @@ local=/fls-na.amazon.com.mx/
 local=/forester.a2z.com/
 local=/identity.browserapps.amazon.de/
 local=/imdb.amazon-adsystem.com/
-local=/ir-au.amazon-adsystem.com/
 local=/ir-br.amazon-adsystem.com/
 local=/ir-ca.amazon-adsystem.com/
 local=/ir-cn.amazon-adsystem.com/
@@ -186,7 +184,6 @@ local=/ir-jp.amazon-adsystem.com/
 local=/ir-mx.amazon-adsystem.com/
 local=/ir-na.amazon-adsystem.com/
 local=/ir-nl.amazon-adsystem.com/
-local=/ir-tr.amazon-adsystem.com/
 local=/ir-uk.amazon-adsystem.com/
 local=/kinesis.ap-northeast-1.amazonaws.com/
 local=/kinesis.ap-northeast-2.amazonaws.com/

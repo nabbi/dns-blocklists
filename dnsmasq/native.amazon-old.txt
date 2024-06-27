@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 14 Jun 2024 07:05 UTC
-# Version: 2024.0614.0705.17
+# Last modified: 26 Jun 2024 23:22 UTC
+# Version: 2024.0626.2322.21
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 355
+# Number of entries: 352
 #
 server=/aan.amazon.co.jp/
 server=/aan.amazon.com/
@@ -140,7 +140,6 @@ server=/device-metrics-us-2.amazon.com/
 server=/device-metrics-us.amazon.com/
 server=/dra.amazon-adsystem.com/
 server=/events.app-performance.music.amazon.dev/
-server=/events.bugsnag.ngm.audible.a2z.com/
 server=/fls-cn.amazon-adsystem.com/
 server=/fls-cn.amazon.cn/
 server=/fls-eu.amazon-adsystem.com/
@@ -173,7 +172,6 @@ server=/fls-na.amazon.com.mx/
 server=/forester.a2z.com/
 server=/identity.browserapps.amazon.de/
 server=/imdb.amazon-adsystem.com/
-server=/ir-au.amazon-adsystem.com/
 server=/ir-br.amazon-adsystem.com/
 server=/ir-ca.amazon-adsystem.com/
 server=/ir-cn.amazon-adsystem.com/
@@ -186,7 +184,6 @@ server=/ir-jp.amazon-adsystem.com/
 server=/ir-mx.amazon-adsystem.com/
 server=/ir-na.amazon-adsystem.com/
 server=/ir-nl.amazon-adsystem.com/
-server=/ir-tr.amazon-adsystem.com/
 server=/ir-uk.amazon-adsystem.com/
 server=/kinesis.ap-northeast-1.amazonaws.com/
 server=/kinesis.ap-northeast-2.amazonaws.com/

@@ -120,15 +120,6 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-f
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
 https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
-https://raw.githubusercontent.com/cbuijs/ut1/master/cryptojacking/domains
-https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
-https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
-https://raw.githubusercontent.com/cbuijs/ut1/master/malware/domains
-https://raw.githubusercontent.com/cbuijs/ut1/master/phishing/domains
-https://raw.githubusercontent.com/cbuijs/ut1/master/publicite/domains
-https://raw.githubusercontent.com/cbuijs/ut1/master/stalkerware/domains
-https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
-https://raw.githubusercontent.com/cbuijs/ut1/master/warez/domains
 https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
