@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1719587040 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1719615300 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 28 Jun 2024 15:04 UTC
-; Version: 2024.0628.1504.48
+; Last modified: 28 Jun 2024 22:55 UTC
+; Version: 2024.0628.2255.50
 ; Syntax: RPZ
-; Number of entries: 19322
+; Number of entries: 19316
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -9555,8 +9555,6 @@ hydrax.is CNAME .
 *.hydrax.is CNAME .
 hz.is CNAME .
 *.hz.is CNAME .
-letmewatchthis.is CNAME .
-*.letmewatchthis.is CNAME .
 libgen.is CNAME .
 *.libgen.is CNAME .
 movie4k.is CNAME .
@@ -13961,8 +13959,6 @@ jamez.org CNAME .
 *.jamez.org CNAME .
 torrent.janemusic.org CNAME .
 *.torrent.janemusic.org CNAME .
-tracker.jdx3.org CNAME .
-*.tracker.jdx3.org CNAME .
 justdubs.org CNAME .
 *.justdubs.org CNAME .
 blog.jxzmz.org CNAME .
@@ -13989,8 +13985,6 @@ kisssub.org CNAME .
 *.kisssub.org CNAME .
 knaben.org CNAME .
 *.knaben.org CNAME .
-kubanmedia.org CNAME .
-*.kubanmedia.org CNAME .
 l33t-raws.org CNAME .
 *.l33t-raws.org CNAME .
 learnbits.org CNAME .
