@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 28 Jun 2024 22:52 UTC
-# Version: 2024.0628.2252.31
+# Last modified: 29 Jun 2024 13:19 UTC
+# Version: 2024.0629.1319.27
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1065
 #
@@ -202,6 +202,7 @@ local=/api.cloudflareclient.com/
 local=/cloudflareresolve.com/
 local=/voyage-s01.cloudku.technology/
 local=/adguard.cloudmini.net/
+local=/cloudns.net/
 local=/dns-secondary.cloudnx.cloud/
 local=/dns-fr-psv1.cloudsides.com/
 local=/dns.cloudtrust.solutions/
@@ -521,7 +522,6 @@ local=/noads.imbuffering.com/
 local=/dns.immanuelschaffer.de/
 local=/dns1.in-berlin.de/
 local=/adblock.indianets.net/
-local=/dns.indust.me/
 local=/dns.indybanipal.com/
 local=/dns.infosec.xyz/
 local=/doh.infracell.net/
