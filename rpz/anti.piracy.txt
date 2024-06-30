@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1719673140 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1719702420 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 29 Jun 2024 14:59 UTC
-; Version: 2024.0629.1459.16
+; Last modified: 29 Jun 2024 23:07 UTC
+; Version: 2024.0629.2307.26
 ; Syntax: RPZ
-; Number of entries: 19308
+; Number of entries: 19290
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -851,8 +851,6 @@ lookmovie.buzz CNAME .
 *.lookmovie.buzz CNAME .
 rarbg.buzz CNAME .
 *.rarbg.buzz CNAME .
-streamingcommunity.buzz CNAME .
-*.streamingcommunity.buzz CNAME .
 tantifilm.buzz CNAME .
 *.tantifilm.buzz CNAME .
 thoptvofficial.buzz CNAME .
@@ -5865,8 +5863,6 @@ sadeempc.com CNAME .
 *.sadeempc.com CNAME .
 saiyanarena.com CNAME .
 *.saiyanarena.com CNAME .
-sambd.com CNAME .
-*.sambd.com CNAME .
 samftp.com CNAME .
 *.samftp.com CNAME .
 sanincode.com CNAME .
@@ -9873,8 +9869,6 @@ piratebay.life CNAME .
 *.piratebay.life CNAME .
 serien.life CNAME .
 *.serien.life CNAME .
-seriesflix.life CNAME .
-*.seriesflix.life CNAME .
 streamingcommunity.life CNAME .
 *.streamingcommunity.life CNAME .
 voirseries.life CNAME .
@@ -14929,8 +14923,6 @@ putlocker.pics CNAME .
 *.putlocker.pics CNAME .
 streamingcommunity.pics CNAME .
 *.streamingcommunity.pics CNAME .
-tantifilm.pics CNAME .
-*.tantifilm.pics CNAME .
 torrentz2.pics CNAME .
 *.torrentz2.pics CNAME .
 cb01.pictures CNAME .
@@ -15629,8 +15621,6 @@ thagoat.rocks CNAME .
 *.thagoat.rocks CNAME .
 thepiratebay.rocks CNAME .
 *.thepiratebay.rocks CNAME .
-thug.rocks CNAME .
-*.thug.rocks CNAME .
 watchseries.rocks CNAME .
 *.watchseries.rocks CNAME .
 eurostreaming.rodeo CNAME .
@@ -15979,8 +15969,6 @@ trun.tom.ru CNAME .
 *.trun.tom.ru CNAME .
 torrent-igruha.ru CNAME .
 *.torrent-igruha.ru CNAME .
-torrent-tracker.ru CNAME .
-*.torrent-tracker.ru CNAME .
 torrentigruha.ru CNAME .
 *.torrentigruha.ru CNAME .
 torrents.ru CNAME .
@@ -16809,8 +16797,6 @@ altadefinizione.tienda CNAME .
 *.altadefinizione.tienda CNAME .
 cb01.tienda CNAME .
 *.cb01.tienda CNAME .
-tantifilm.tienda CNAME .
-*.tantifilm.tienda CNAME .
 cb01.tips CNAME .
 *.cb01.tips CNAME .
 filmpertutti.tips CNAME .
@@ -18521,8 +18507,6 @@ cb01.vision CNAME .
 *.cb01.vision CNAME .
 eurostreaming.vision CNAME .
 *.eurostreaming.vision CNAME .
-tantifilm.vision CNAME .
-*.tantifilm.vision CNAME .
 fshare.vn CNAME .
 *.fshare.vn CNAME .
 getlink.vn CNAME .
@@ -18639,8 +18623,6 @@ tiny-repacks.win CNAME .
 *.tiny-repacks.win CNAME .
 tpbay.win CNAME .
 *.tpbay.win CNAME .
-tracker.tvgc.win CNAME .
-*.tracker.tvgc.win CNAME .
 unblocked.win CNAME .
 *.unblocked.win CNAME .
 unblocker.win CNAME .

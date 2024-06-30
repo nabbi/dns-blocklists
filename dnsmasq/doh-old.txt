@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 Jun 2024 13:19 UTC
-# Version: 2024.0629.1319.27
+# Last modified: 29 Jun 2024 23:04 UTC
+# Version: 2024.0629.2304.06
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 1065
+# Number of entries: 1064
 #
 server=/ns.00dani.me/
 server=/cdn.0ms.dev/
@@ -888,7 +888,6 @@ server=/adg.rueiliu.space/
 server=/rumpelsepp.org/
 server=/doh.runsel.id/
 server=/agh-yz.russel053.com/
-server=/drs.rustsword.com/
 server=/dns1.ryan-palmer.com/
 server=/dns1.saferbfc.org/
 server=/dns2.saferbfc.org/
