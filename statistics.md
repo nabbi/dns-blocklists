@@ -50,7 +50,7 @@
  19 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  20 |      99% |   0% |      1% | Native Tracker Xiaomi (Devices)
  21 |      83% |  11% |      6% | Advanced Extension
- 22 |      77% |   0% |     23% | Denylist Community Advanced
+ 22 |      59% |  36% |      5% | Denylist Community Advanced
 ```
 #### PRO.PLUS
 ```
@@ -75,11 +75,11 @@
  18 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  19 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
  20 |      84% |  11% |      5% | Advanced Extension
- 21 |      94% |   0% |      6% | Denylist Community Advanced
+ 21 |      62% |  36% |      2% | Denylist Community Advanced
  22 |      73% |  19% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  23 |      80% |  12% |      8% | Aggressive Extension
  24 |      89% |   4% |      7% | Denylist Aggressive
- 25 |      92% |   8% |      0% | Denylist Community Aggressive
+ 25 |     100% |   0% |      0% | Denylist Community Aggressive
 ```
 #### ULTIMATE
 ```
@@ -103,22 +103,22 @@
  17 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  18 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
  19 |      85% |  11% |      4% | Advanced Extension
- 20 |      94% |   0% |      6% | Denylist Community Advanced
+ 20 |      62% |  36% |      2% | Denylist Community Advanced
  21 |      73% |  19% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  22 |      80% |  12% |      8% | Aggressive Extension
  23 |      90% |   4% |      6% | Denylist Aggressive
- 24 |      92% |   8% |      0% | Denylist Community Aggressive
+ 24 |     100% |   0% |      0% | Denylist Community Aggressive
  25 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
  26 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
  27 |      87% |   7% |      6% | Ultimate Extension
- 28 |      96% |   0% |      4% | Denylist Community Ultimate
+ 28 |      97% |   0% |      3% | Denylist Community Ultimate
 ```
 #### TIF.MEDIUM
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |      67% |  31% |      2% | Denylist Community Threat Intelligence Feeds
   2 |     100% |   0% |      0% | Fake
-  3 |      98% |   0% |      2% | https://phishing-filter.pages.dev/phishing-filter-hosts.txt
+  3 |      95% |   0% |      5% | https://phishing-filter.pages.dev/phishing-filter-hosts.txt
   4 |      46% |  53% |      1% | https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
   5 |      31% |  69% |      0% | https://phishing.army/download/phishing_army_blocklist_extended.txt
   6 |     100% |   0% |      0% | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
@@ -145,7 +145,7 @@
  27 |      61% |  37% |      2% | https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
  28 |      66% |  33% |      1% | https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
  29 |      17% |  82% |      1% | https://raw.githubusercontent.com/elliotwutingfeng/Ukrainian-EMA-blocklist/main/urls-pihole.txt
- 30 |      36% |  62% |      2% | https://rescure.me/rescure_domain_blacklist.txt
+ 30 |      35% |  64% |      1% | https://rescure.me/rescure_domain_blacklist.txt
  31 |      31% |  69% |      0% | https://zonefiles.io/f/compromised/domains/live/
  32 |      86% |  13% |      1% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
  33 |      74% |  24% |      2% | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
@@ -166,7 +166,7 @@
   3 |     100% |   0% |      0% | Fake
   4 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
   5 |     100% |   0% |      0% | Pop-Up Ads (Malicious)
-  6 |      98% |   0% |      2% | https://phishing-filter.pages.dev/phishing-filter-hosts.txt
+  6 |      95% |   0% |      5% | https://phishing-filter.pages.dev/phishing-filter-hosts.txt
   7 |      17% |  83% |      0% | https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
   8 |      46% |  53% |      1% | https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
   9 |      31% |  69% |      0% | https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -186,7 +186,7 @@
  23 |      54% |  46% |      0% | https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
  24 |      61% |  34% |      5% | https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
  25 |      25% |  67% |      8% | https://raw.githubusercontent.com/cbuijs/ut1/master/cryptojacking/domains
- 26 |      50% |  50% |      0% | https://hole.cert.pl/domains/v2/domains.txt
+ 26 |      51% |  49% |      0% | https://hole.cert.pl/domains/v2/domains.txt
  27 |      96% |   3% |      1% | https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt
  28 |      38% |  61% |      1% | https://hosts.tweedge.net/malicious.txt
  29 |      31% |  69% |      0% | https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts
@@ -213,7 +213,7 @@
  50 |      41% |  58% |      1% | https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
  51 |      31% |  69% |      0% | https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
  52 |      55% |  41% |      4% | https://raw.githubusercontent.com/ttc-cert/TTC-CERT_blocklist_recommended/master/domain_blocklist_recommended.txt
- 53 |      36% |  62% |      2% | https://rescure.me/rescure_domain_blacklist.txt
+ 53 |      35% |  64% |      1% | https://rescure.me/rescure_domain_blacklist.txt
  54 |      47% |  52% |      1% | https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
  55 |      28% |  72% |      0% | https://www.usom.gov.tr/url-list.txt
  56 |      31% |  69% |      0% | https://zonefiles.io/f/compromised/domains/live/
