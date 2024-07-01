@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 19 Jun 2024 23:28 UTC
-# Version: 2024.0619.2328.07
+# Last modified: 30 Jun 2024 23:05 UTC
+# Version: 2024.0630.2305.04
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 356
+# Number of entries: 353
 #
 server=/api.cupid.ptqy.gitv.tv/
 server=/config.kuyun.com/
@@ -170,14 +170,12 @@ server=/extranet.eu-east-1.miui-l7-feedback.c7qiwffdmn.elb.xiaomi.com/
 server=/extranet.ap-southeast-1.miui-l7-feedback.d6ocem01vo.elb.xiaomi.com/
 server=/intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com/
 server=/extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com/
-server=/extranet.ap-south-1.miui-l7-feedback.gualne84bg.elb.xiaomi.com/
 server=/extranet.c4.miui-l7-feedback.izsagsovue.elb.xiaomi.com/
 server=/extranet.c3.bigdata-l7-trackservice.nbnpzmfyom.elb.xiaomi.com/
 server=/extranet.c4.miui-l7-feedback.q2fo3bs76f.elb.xiaomi.com/
 server=/extranet.ap-southeast-1.miui-l7-feedback.qkou0akepj.elb.xiaomi.com/
 server=/extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com/
 server=/extranet.c3.bigdata-l7-dp-lan.x0x8wmy6im.elb.xiaomi.com/
-server=/extranet.ap-south-1.miui-l7-feedback.y5qvxdjy6g.elb.xiaomi.com/
 server=/sdkconfig.ad.eu.xiaomi.com/
 server=/cdn.exp.xiaomi.com/
 server=/us.mixin.api.files.xiaomi.com/
@@ -256,7 +254,6 @@ server=/file.cdn.mvideo.xiaomi.com/
 server=/image.cdn.mvideo.xiaomi.com/
 server=/staging.appapi.n.xiaomi.com/
 server=/dev.staging.api.developer.n.xiaomi.com/
-server=/test.lbs.n.xiaomi.com/
 server=/logs.n.xiaomi.com/
 server=/mon.n.xiaomi.com/
 server=/api.account.preview.n.xiaomi.net/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1719702120 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1719786780 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 29 Jun 2024 23:02 UTC
-; Version: 2024.0629.2302.54
+; Last modified: 30 Jun 2024 22:33 UTC
+; Version: 2024.0630.2233.18
 ; Syntax: RPZ
 ; Number of entries: 6214
 ;
@@ -2570,8 +2570,6 @@ waselpro.com CNAME .
 *.waselpro.com CNAME .
 watchproxy.com CNAME .
 *.watchproxy.com CNAME .
-watchunblocked.com CNAME .
-*.watchunblocked.com CNAME .
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com CNAME .
 *.1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com CNAME .
 weblockapp.com CNAME .
@@ -3906,6 +3904,8 @@ hitian.me CNAME .
 *.hitian.me CNAME .
 honeygain.me CNAME .
 *.honeygain.me CNAME .
+dns.indust.me CNAME .
+*.dns.indust.me CNAME .
 iportal.me CNAME .
 *.iportal.me CNAME .
 ltlxvxjjmvhn.me CNAME .

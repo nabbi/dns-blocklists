@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 19 Jun 2024 23:28 UTC
-# Version: 2024.0619.2328.07
+# Last modified: 30 Jun 2024 23:05 UTC
+# Version: 2024.0630.2305.04
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 462
+# Number of entries: 459
 #
 0.0.0.0 api.cupid.ptqy.gitv.tv
 0.0.0.0 config.kuyun.com
@@ -224,14 +224,12 @@
 0.0.0.0 extranet.ap-southeast-1.miui-l7-feedback.d6ocem01vo.elb.xiaomi.com
 0.0.0.0 intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com
 0.0.0.0 extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com
-0.0.0.0 extranet.ap-south-1.miui-l7-feedback.gualne84bg.elb.xiaomi.com
 0.0.0.0 extranet.c4.miui-l7-feedback.izsagsovue.elb.xiaomi.com
 0.0.0.0 extranet.c3.bigdata-l7-trackservice.nbnpzmfyom.elb.xiaomi.com
 0.0.0.0 extranet.c4.miui-l7-feedback.q2fo3bs76f.elb.xiaomi.com
 0.0.0.0 extranet.ap-southeast-1.miui-l7-feedback.qkou0akepj.elb.xiaomi.com
 0.0.0.0 extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com
 0.0.0.0 extranet.c3.bigdata-l7-dp-lan.x0x8wmy6im.elb.xiaomi.com
-0.0.0.0 extranet.ap-south-1.miui-l7-feedback.y5qvxdjy6g.elb.xiaomi.com
 0.0.0.0 sdkconfig.ad.eu.xiaomi.com
 0.0.0.0 cdn.exp.xiaomi.com
 0.0.0.0 us.mixin.api.files.xiaomi.com
@@ -351,7 +349,6 @@
 0.0.0.0 orig.image.cdn.mvideo.xiaomi.com
 0.0.0.0 staging.appapi.n.xiaomi.com
 0.0.0.0 dev.staging.api.developer.n.xiaomi.com
-0.0.0.0 test.lbs.n.xiaomi.com
 0.0.0.0 logs.n.xiaomi.com
 0.0.0.0 mon.n.xiaomi.com
 0.0.0.0 api.account.preview.n.xiaomi.net

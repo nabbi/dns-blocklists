@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 30 Jun 2024 15:08 UTC
-# Version: 2024.0630.1508.22
+# Last modified: 30 Jun 2024 22:37 UTC
+# Version: 2024.0630.2237.42
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 9643
+# Number of entries: 9644
 #
 server=/blink-stresser.000webhostapp.com/
 server=/ddos-ovh-v6.000webhostapp.com/
@@ -1562,6 +1562,7 @@ server=/tracker.cangku.moe/
 server=/canna.tf/
 server=/uu.canna.to/
 server=/canna-power.to/
+server=/threads.canofsocks.com/
 server=/torrust.canofsocks.com/
 server=/carapax.net/
 server=/carr.codes/
