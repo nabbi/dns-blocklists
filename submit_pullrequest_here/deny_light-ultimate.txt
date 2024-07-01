@@ -59,12 +59,30 @@ prebid.trustedstack.com
 # Tracking on bilibili.tv:
 data.bilibili.tv
 
+# https://github.com/hagezi/dns-blocklists/issues/2475
+# https://github.com/hagezi/dns-blocklists/issues/2713
 # https://github.com/hagezi/dns-blocklists/issues/2945
-ads-admin.bravesoftware.com
+analytics.brave.com
+matomo.brave.com
+metrics.brave.com
 metrics.bravesoftware.com
+p2a-json-origin.brave.com
+p2a-json.brave.com
+p2a-origin.brave.com
 p2a.brave.com
 p2a.bravesoftware.com
+p3a-creative.brave.com
 p3a-dev.bravesoftware.com
+p3a-json.brave.com
+p3a-json.bravesoftware.com
+p3a.brave.com
+p3a.bravesoftware.com
+stats.brave.com
+stats.bravesoftware.com
+stats.bsg.bravesoftware.com
+variations.brave.com
+variations.bravesoftware.com
+wdp.brave.com
 
 # https://github.com/hagezi/dns-blocklists/pull/2918
 # Tracking
@@ -742,9 +760,6 @@ beartown.vadymklymenko.com
 plausible.zidek.me
 webstat.fes.de
 
-# https://github.com/hagezi/dns-blocklists/issues/2713
-p3a-json.brave.com
-
 # https://github.com/hagezi/dns-blocklists/issues/2708
 weborama-tech.ru
 
@@ -866,9 +881,6 @@ kayzen.io
 
 # https://github.com/hagezi/dns-blocklists/issues/2479
 advertising.yahooinc.com
-
-# https://github.com/hagezi/dns-blocklists/issues/2475
-wdp.brave.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2470
 matomo.panteleev.com.ua
