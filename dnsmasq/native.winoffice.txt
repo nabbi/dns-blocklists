@@ -4,16 +4,22 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 26 Jun 2024 23:23 UTC
-# Version: 2024.0626.2323.56
+# Last modified: 01 Jul 2024 22:21 UTC
+# Version: 2024.0701.2221.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 114
+# Number of entries: 123
 #
 local=/in.appcenter.ms/
 local=/applicationinsights.azure.com/
+local=/dc.applicationinsights.azure.cn/
+local=/dc.applicationinsights.azure.us/
+local=/in.applicationinsights.azure.cn/
+local=/in.applicationinsights.azure.us/
+local=/live.applicationinsights.azure.cn/
 local=/collector.azure.cn/
 local=/js.monitor.azure.com/
 local=/location-microsoft-com.b-0005.b-msedge.net/
+local=/measure.office.net.edgesuite.net/
 local=/collector.azure.eaglex.ic.gov/
 local=/location.live.net/
 local=/nexusrules.live.com/
@@ -88,9 +94,11 @@ local=/applicationinsights.microsoft.com/
 local=/pipe.aria.microsoft.com/
 local=/collector.azure.microsoft.scloud/
 local=/azurewatson.microsoft.com/
+local=/azurewatsontest.microsoft.com/
 local=/events.data.microsoft.com/
 local=/events-sandbox.data.microsoft.com/
 local=/vortex.data.microsoft.com/
+local=/vortex-sandbox.data.microsoft.com/
 local=/vortex-win.data.microsoft.com/
 local=/vortex-win-sandbox.data.microsoft.com/
 local=/api.edgeoffer.microsoft.com/
@@ -109,6 +117,7 @@ local=/measure.office.com/
 local=/measure.office.net/
 local=/hubblecontent.osi.office.net/
 local=/events.data.trafficmanager.net/
+local=/eventservice.trafficmanager.net/
 local=/legacywatson.trafficmanager.net/
 local=/o365diagtelemetry.trafficmanager.net/
 local=/office-events-data.trafficmanager.net/

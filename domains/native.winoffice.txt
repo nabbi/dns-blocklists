@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 26 Jun 2024 23:23 UTC
-# Version: 2024.0626.2323.56
+# Last modified: 01 Jul 2024 22:21 UTC
+# Version: 2024.0701.2221.48
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 339
+# Number of entries: 369
 #
 in.appcenter.ms
 applicationinsights.azure.com
@@ -15,8 +15,13 @@ aimon.applicationinsights.azure.com
 in.aimon.applicationinsights.azure.com
 westcentralus-global.in.aimon.applicationinsights.azure.com
 api.applicationinsights.azure.com
+dc.applicationinsights.azure.cn
 dc.applicationinsights.azure.com
+dc.applicationinsights.azure.us
+www.dc.applicationinsights.azure.com
+in.applicationinsights.azure.cn
 in.applicationinsights.azure.com
+in.applicationinsights.azure.us
 australiaeast-0.in.applicationinsights.azure.com
 australiaeast-1.in.applicationinsights.azure.com
 australiaeast-global.in.applicationinsights.azure.com
@@ -31,6 +36,9 @@ centralus.in.applicationinsights.azure.com
 centralus-0.in.applicationinsights.azure.com
 centralus-2.in.applicationinsights.azure.com
 centralus-3.in.applicationinsights.azure.com
+chinaeast2-0.in.applicationinsights.azure.cn
+chinaeast3-global.in.applicationinsights.azure.cn
+chinanorth3-0.in.applicationinsights.azure.cn
 eastasia-0.in.applicationinsights.azure.com
 eastus-0.in.applicationinsights.azure.com
 eastus-1.in.applicationinsights.azure.com
@@ -70,6 +78,12 @@ switzerlandnorth-0.in.applicationinsights.azure.com
 uksouth-0.in.applicationinsights.azure.com
 uksouth-1.in.applicationinsights.azure.com
 ukwest-0.in.applicationinsights.azure.com
+usgovarizona-0.in.applicationinsights.azure.us
+usgovarizona-global.in.applicationinsights.azure.us
+usgovtexas-0.in.applicationinsights.azure.us
+usgovvirginia-0.in.applicationinsights.azure.us
+usgovvirginia-1.in.applicationinsights.azure.us
+usgovvirginia-global.in.applicationinsights.azure.us
 westeurope.in.applicationinsights.azure.com
 westeurope-0.in.applicationinsights.azure.com
 westeurope-1.in.applicationinsights.azure.com
@@ -86,10 +100,14 @@ westus2-4.in.applicationinsights.azure.com
 westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
+live.applicationinsights.azure.cn
 live.applicationinsights.azure.com
 collector.azure.cn
 js.monitor.azure.com
 location-microsoft-com.b-0005.b-msedge.net
+measure.office.net.edgesuite.net
+nel.measure.office.net.edgesuite.net
+nelsdf.measure.office.net.edgesuite.net
 collector.azure.eaglex.ic.gov
 location.live.net
 agps.location.live.net
@@ -184,6 +202,7 @@ tb.pipe.aria.microsoft.com
 us.pipe.aria.microsoft.com
 collector.azure.microsoft.scloud
 azurewatson.microsoft.com
+azurewatsontest.microsoft.com
 events.data.microsoft.com
 adhs.events.data.microsoft.com
 apac.events.data.microsoft.com
@@ -203,6 +222,7 @@ eu-v20.events.data.microsoft.com
 eu-watsonc.events.data.microsoft.com
 functional.events.data.microsoft.com
 ic3.events.data.microsoft.com
+in-mobile.events.data.microsoft.com
 in-v20.events.data.microsoft.com
 jp-mobile.events.data.microsoft.com
 jp-v10.events.data.microsoft.com
@@ -241,6 +261,7 @@ watsonc.events.data.microsoft.com
 events-sandbox.data.microsoft.com
 mobile.events-sandbox.data.microsoft.com
 vortex.data.microsoft.com
+vortex-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
 au.vortex-win.data.microsoft.com
 eu.vortex-win.data.microsoft.com
@@ -283,6 +304,8 @@ events-sandbox.data.msn.com
 measure.office.com
 measure.office.net
 fp.measure.office.com
+66ed06ba24d0447d99be625dc7a80b00.fp.measure.office.com
+ce2617d2a3a1a6b03e6b908e5fde808f.fp.measure.office.com
 config.fp.measure.office.com
 graph-next.fp.measure.office.com
 ns1.fp.measure.office.com
@@ -333,6 +356,7 @@ tb.events.data.trafficmanager.net
 l4.tb.events.data.trafficmanager.net
 uk.events.data.trafficmanager.net
 us.events.data.trafficmanager.net
+eventservice.trafficmanager.net
 legacywatson.trafficmanager.net
 o365diagtelemetry.trafficmanager.net
 office-events-data.trafficmanager.net
@@ -342,6 +366,12 @@ win-global-asimov-leafs-events-data.trafficmanager.net
 dc.services.visualstudio.com
 activity.windows.com
 assets.activity.windows.com
+canary.activity.windows.com
+edge.activity.windows.com
+edge-enterprise.activity.windows.com
+enterprise.activity.windows.com
+enterprise-eudb.activity.windows.com
+ppe.activity.windows.com
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
 eaus2watcab01.blob.core.windows.net

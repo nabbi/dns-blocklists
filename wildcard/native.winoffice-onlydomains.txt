@@ -4,16 +4,22 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 26 Jun 2024 23:23 UTC
-# Version: 2024.0626.2323.56
+# Last modified: 01 Jul 2024 22:21 UTC
+# Version: 2024.0701.2221.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 114
+# Number of entries: 123
 #
 in.appcenter.ms
 applicationinsights.azure.com
+dc.applicationinsights.azure.cn
+dc.applicationinsights.azure.us
+in.applicationinsights.azure.cn
+in.applicationinsights.azure.us
+live.applicationinsights.azure.cn
 collector.azure.cn
 js.monitor.azure.com
 location-microsoft-com.b-0005.b-msedge.net
+measure.office.net.edgesuite.net
 collector.azure.eaglex.ic.gov
 location.live.net
 nexusrules.live.com
@@ -88,9 +94,11 @@ applicationinsights.microsoft.com
 pipe.aria.microsoft.com
 collector.azure.microsoft.scloud
 azurewatson.microsoft.com
+azurewatsontest.microsoft.com
 events.data.microsoft.com
 events-sandbox.data.microsoft.com
 vortex.data.microsoft.com
+vortex-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
 api.edgeoffer.microsoft.com
@@ -109,6 +117,7 @@ measure.office.com
 measure.office.net
 hubblecontent.osi.office.net
 events.data.trafficmanager.net
+eventservice.trafficmanager.net
 legacywatson.trafficmanager.net
 o365diagtelemetry.trafficmanager.net
 office-events-data.trafficmanager.net
