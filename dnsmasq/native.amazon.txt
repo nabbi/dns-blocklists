@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 02 Jul 2024 07:47 UTC
-# Version: 2024.0702.0747.20
+# Last modified: 02 Jul 2024 10:42 UTC
+# Version: 2024.0702.1042.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 356
+# Number of entries: 352
 #
 local=/aan.amazon.co.jp/
 local=/aan.amazon.com/
@@ -139,9 +139,6 @@ local=/da-cdn.amazon-adsystem.com/
 local=/device-metrics-us-2.amazon.com/
 local=/device-metrics-us.amazon.com/
 local=/dra.amazon-adsystem.com/
-local=/dss-eu.amazon.com/
-local=/dss-jp-gamma.amazon.com/
-local=/dss-na.amazon.com/
 local=/events.app-performance.music.amazon.dev/
 local=/fls-cn.amazon-adsystem.com/
 local=/fls-cn.amazon.cn/
@@ -352,7 +349,6 @@ local=/vq-test-us-east-1.amazon-adsystem.com/
 local=/vq-us-east-1.amazon-adsystem.com/
 local=/vq-us-west-2.amazon-adsystem.com/
 local=/web.diagnostic.networking.aws.dev/
-local=/wl.amazon-dss.com/
 local=/wms-eu.amazon-adsystem.com/
 local=/wms-fe.amazon-adsystem.com/
 local=/wms-in.amazon-adsystem.com/
