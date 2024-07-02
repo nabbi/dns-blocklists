@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1719871200 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1719901200 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 01 Jul 2024 22:00 UTC
-; Version: 2024.0701.2200.41
+; Last modified: 02 Jul 2024 06:20 UTC
+; Version: 2024.0702.0620.28
 ; Syntax: RPZ
-; Number of entries: 6212
+; Number of entries: 6208
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1154,6 +1154,8 @@ globalchatinc.com CNAME .
 *.globalchatinc.com CNAME .
 globaltrx.com CNAME .
 *.globaltrx.com CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 glype.com CNAME .
 *.glype.com CNAME .
 goaslen.com CNAME .
@@ -3678,8 +3680,6 @@ theproxy.io CNAME .
 *.theproxy.io CNAME .
 tor2web.io CNAME .
 *.tor2web.io CNAME .
-nebula.tru.io CNAME .
-*.nebula.tru.io CNAME .
 ufovpn.io CNAME .
 *.ufovpn.io CNAME .
 resolver.unstoppable.io CNAME .
@@ -4256,8 +4256,6 @@ europe-west3-topvpn-873d5.cloudfunctions.net CNAME .
 *.europe-west3-topvpn-873d5.cloudfunctions.net CNAME .
 adguard.cloudmini.net CNAME .
 *.adguard.cloudmini.net CNAME .
-cloudns.net CNAME .
-*.cloudns.net CNAME .
 cloudssh.net CNAME .
 *.cloudssh.net CNAME .
 dns.cmrg.net CNAME .
@@ -5800,8 +5798,6 @@ dns.dnssilo.top CNAME .
 *.dns.dnssilo.top CNAME .
 blog.kimiblock.top CNAME .
 *.blog.kimiblock.top CNAME .
-dns2.linzefeng.top CNAME .
-*.dns2.linzefeng.top CNAME .
 dot.occ.top CNAME .
 *.dot.occ.top CNAME .
 proxypremium.top CNAME .

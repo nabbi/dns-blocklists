@@ -665,7 +665,19 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 ### :department_store: ***Online DNS Services*** <a name="dnsservices"></a>
 
-*If you don't run your own DNS server on your home network or if you are looking for additional protection for your mobile devices when they are not connected to the home network, then you can use one of the following DNS services:*
+*If you don't run your own DNS server on your home network or if you are looking for additional protection for your mobile devices when they are not connected to the home network, then you can use one of the following DNS services.*
+
+***Availability of the lists in the respective DNS services:*** <a name="availablelists"></a>
+
+| DNS<br>Service | Light | Normal | Pro | Pro<br>++ | Ultimate | TIF | Bypass | DynDNS | Hoster | Abused<br>TLDs | Anti<br>Piracy | Gambling |
+| :----- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| AdGuard DNS         | :x:            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   |
+| ControlD            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square:  | :yellow_square:  | :x:            | :x:            | :yellow_square:  | :yellow_square:  |
+| NextDNS             | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :x:            | :x:              | :x:              | :x:            | :x:            | :x:              | :x:              |
+| RethinkDNS          | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :x:              | :green_circle:   | :green_circle: | :x:            | :x:              | :x:              |
+| DNSwarden           | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :x:              | :x:              | :x:            | :x:            | :x:              | :x:              |
+
+:yellow_square: *Are included in the ControlD native lists of the respective category.*
 
 #### :department_store: ***AdGuardDNS - limited free/paid*** <a name="adguarddns"></a>
 
