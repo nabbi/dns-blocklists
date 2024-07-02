@@ -669,7 +669,7 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 ***Availability of the lists in the respective DNS services:*** <a name="availablelists"></a>
 
-| DNS<br>Service | Light | Normal | Pro | Pro<br>++ | Ultimate | TIF | Bypass | DynDNS | Hoster | Abused<br>TLDs | Anti<br>Piracy | Gambling |
+| Service | Light | Normal | Pro | Pro<br>++ | Ulti<br>mate | TIF | By<br>pass | Dyn<br>DNS | Hoster | Abused<br>TLDs | Anti<br>Piracy | Gam<br>bling |
 | :----- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | AdGuard DNS         | :x:            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   |
 | ControlD            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square:  | :yellow_square:  | :x:            | :x:            | :yellow_square:  | :yellow_square:  |
