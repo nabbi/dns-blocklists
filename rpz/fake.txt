@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1719873360 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1719961080 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Jul 2024 22:36 UTC
-; Version: 2024.0701.2236.23
+; Last modified: 02 Jul 2024 22:58 UTC
+; Version: 2024.0702.2258.36
 ; Syntax: RPZ
-; Number of entries: 60498
+; Number of entries: 60476
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -10817,8 +10817,6 @@ clothingoptus.com CNAME .
 *.clothingoptus.com CNAME .
 clothingsyi.com CNAME .
 *.clothingsyi.com CNAME .
-cloudeo-shop.com CNAME .
-*.cloudeo-shop.com CNAME .
 cloudpharix.com CNAME .
 *.cloudpharix.com CNAME .
 cloudsiv.com CNAME .
@@ -14379,8 +14377,6 @@ exepharmacy.com CNAME .
 *.exepharmacy.com CNAME .
 existenceboth.com CNAME .
 *.existenceboth.com CNAME .
-existoise.com CNAME .
-*.existoise.com CNAME .
 existwedding.com CNAME .
 *.existwedding.com CNAME .
 exitmeds.com CNAME .
@@ -16105,8 +16101,6 @@ gamestopland.com CNAME .
 *.gamestopland.com CNAME .
 gametimejerseys.com CNAME .
 *.gametimejerseys.com CNAME .
-gamezonemart.com CNAME .
-*.gamezonemart.com CNAME .
 gamings-market.com CNAME .
 *.gamings-market.com CNAME .
 ganggeschenk.com CNAME .
@@ -19655,8 +19649,6 @@ itemdohome.com CNAME .
 *.itemdohome.com CNAME .
 itemjoyca.com CNAME .
 *.itemjoyca.com CNAME .
-itemlingerie.com CNAME .
-*.itemlingerie.com CNAME .
 itemmotion.com CNAME .
 *.itemmotion.com CNAME .
 itemsfurniture.com CNAME .
@@ -23859,8 +23851,6 @@ mgpharmmg.com CNAME .
 *.mgpharmmg.com CNAME .
 mh-market.com CNAME .
 *.mh-market.com CNAME .
-miamarkt.com CNAME .
-*.miamarkt.com CNAME .
 miapharmer.com CNAME .
 *.miapharmer.com CNAME .
 micahdemmert.com CNAME .
@@ -26195,6 +26185,8 @@ oncanadapharmacy.com CNAME .
 *.oncanadapharmacy.com CNAME .
 oncloud-sneakers.com CNAME .
 *.oncloud-sneakers.com CNAME .
+oncloud-turkey.com CNAME .
+*.oncloud-turkey.com CNAME .
 onclouddeutschland.com CNAME .
 *.onclouddeutschland.com CNAME .
 oncloudturnschuhe.com CNAME .
@@ -26859,8 +26851,6 @@ optfurnitureoff.com CNAME .
 *.optfurnitureoff.com CNAME .
 opthcbicycle.com CNAME .
 *.opthcbicycle.com CNAME .
-optimal-device.com CNAME .
-*.optimal-device.com CNAME .
 optimalbicyclehub.com CNAME .
 *.optimalbicyclehub.com CNAME .
 optimalcateringus.com CNAME .
@@ -32903,8 +32893,6 @@ shinerfamilypharmacy.com CNAME .
 *.shinerfamilypharmacy.com CNAME .
 shingekishop.com CNAME .
 *.shingekishop.com CNAME .
-shipdriverca.com CNAME .
-*.shipdriverca.com CNAME .
 shipfreefurniture.com CNAME .
 *.shipfreefurniture.com CNAME .
 shipfromusaonline.com CNAME .
@@ -35387,8 +35375,6 @@ swimfinest.com CNAME .
 *.swimfinest.com CNAME .
 swimgearnew.com CNAME .
 *.swimgearnew.com CNAME .
-swimglamourco.com CNAME .
-*.swimglamourco.com CNAME .
 swimprovisions.com CNAME .
 *.swimprovisions.com CNAME .
 swimprovisionshub.com CNAME .
@@ -39173,8 +39159,6 @@ vast-spedition.com CNAME .
 *.vast-spedition.com CNAME .
 vaughanbassetthome.com CNAME .
 *.vaughanbassetthome.com CNAME .
-vaxotechnik.com CNAME .
-*.vaxotechnik.com CNAME .
 vbridgetramey.com CNAME .
 *.vbridgetramey.com CNAME .
 vclothesus.com CNAME .
@@ -42791,8 +42775,6 @@ bogu-bau.de CNAME .
 *.bogu-bau.de CNAME .
 boho-and-chic.de CNAME .
 *.boho-and-chic.de CNAME .
-boisdechauffage.de CNAME .
-*.boisdechauffage.de CNAME .
 bonanic.de CNAME .
 *.bonanic.de CNAME .
 bonvoue.de CNAME .
@@ -43997,8 +43979,6 @@ ghostarmy.de CNAME .
 *.ghostarmy.de CNAME .
 ghostis.de CNAME .
 *.ghostis.de CNAME .
-giesswein-outdoor.de CNAME .
-*.giesswein-outdoor.de CNAME .
 gimecon-tech.de CNAME .
 *.gimecon-tech.de CNAME .
 gimora.de CNAME .
@@ -44049,6 +44029,8 @@ gold-und-handel.de CNAME .
 *.gold-und-handel.de CNAME .
 goldhandel-degussa.de CNAME .
 *.goldhandel-degussa.de CNAME .
+goldhandel-heute.de CNAME .
+*.goldhandel-heute.de CNAME .
 goldhandel-testsieger.de CNAME .
 *.goldhandel-testsieger.de CNAME .
 goldhandelkontor-testsieger1972.de CNAME .
@@ -45583,8 +45565,6 @@ pawnature.de CNAME .
 *.pawnature.de CNAME .
 pbc-olympic.de CNAME .
 *.pbc-olympic.de CNAME .
-pc-warenlager.de CNAME .
-*.pc-warenlager.de CNAME .
 pcakkusdirekt.de CNAME .
 *.pcakkusdirekt.de CNAME .
 pd-handel.de CNAME .
@@ -52527,8 +52507,6 @@ colchicinepill.online CNAME .
 *.colchicinepill.online CNAME .
 colchicinetabs.online CNAME .
 *.colchicinetabs.online CNAME .
-collectorsboutique.online CNAME .
-*.collectorsboutique.online CNAME .
 comprar-levitra.online CNAME .
 *.comprar-levitra.online CNAME .
 conmstore.online CNAME .
