@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 02 Jul 2024 22:22 UTC
-# Version: 2024.0702.2222.37
+# Last modified: 03 Jul 2024 22:24 UTC
+# Version: 2024.0703.2224.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1060
+# Number of entries: 1061
 #
 local=/ns.00dani.me/
 local=/cdn.0ms.dev/
@@ -809,6 +809,7 @@ local=/privacy.plumedns.com/
 local=/doh.port53.dk/
 local=/dns.porteii.com/
 local=/doh.powerdns.org/
+local=/dns.ha-dvin.pp.ua/
 local=/dns.korzhyk.pp.ua/
 local=/lindung.pp.ua/
 local=/sundalandia.pp.ua/
