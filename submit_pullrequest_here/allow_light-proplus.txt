@@ -12,8 +12,9 @@
 # BEGIN
 
 # https://github.com/hagezi/dns-blocklists/issues/3025
-lloydsbankinggroup.tt.omtrdc.net
+lloydsbankinggroup.*.omtrdc.net
 adobetarget.data.adobedc.net
+*.lloydsbankinggroup.com.data.adobedc.net
 
 # https://github.com/hagezi/dns-blocklists/issues/3023
 seat.sc.omtrdc.net
