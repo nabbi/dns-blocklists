@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 04 Jul 2024 01:51 UTC
-! Version: 2024.0704.0151.11
+! Last modified: 04 Jul 2024 04:58 UTC
+! Version: 2024.0704.0458.02
 ! Syntax: AdBlock
-! Number of entries: 179088
+! Number of entries: 179095
 !
 ||0.org^
 ||0.to^
@@ -45188,6 +45188,8 @@
 ||consensushistorianarchery.com^
 ||consensusindustryrepresentation.com^
 ||cookie.consent.is^
+||cache.consentframework.com^
+||choices.consentframework.com^
 ||dormouse.consentkit.com^
 ||hamster.consentkit.io^
 ||analytics.consentmanager.net^
@@ -45663,6 +45665,8 @@
 ||cdn.cookiecode.nl^
 ||analytics.cookiefirst.dev^
 ||sentry.cookiefirst.com^
+||cookiehub.eu^
+||api.cookielaw.eu^
 ||api.cookielaw-script.it^
 ||cookieless-data.com^
 ||cookiemanager.dk^
@@ -46533,11 +46537,7 @@
 ||cpdsrv.de^
 ||cpdtaishet.ru^
 ||cped7.xyz^
-||analytics.cpex.cz^
-||cdn.cpex.cz^
-||cdn-src.cpex.cz^
-||log.cpex.cz^
-||pixel.cpex.cz^
+||cpex.cz^
 ||cpfclassifieds.com^
 ||cpffkbpq.xyz^
 ||cpgcircuits.com^
@@ -113965,6 +113965,7 @@
 ||oatchaudu.net^
 ||oatchelt.com^
 ||analytics.oath.com^
+||service.cmp.oath.com^
 ||metrics.vespa.oath.cloud^
 ||oatmealaspectpulp.com^
 ||oatmeallump.com^
@@ -125875,6 +125876,7 @@
 ||polredsy.com^
 ||analytics.polska.travel^
 ||polska-pla.cyou^
+||privacy.polskapress.pl^
 ||clnbze.polskatimes.pl^
 ||polskayear.pl^
 ||polskiepremium.pl^
@@ -130892,6 +130894,7 @@
 ||analytics.quantalys.com^
 ||analytics.quantalys.it^
 ||aboutads.quantcast.com^
+||apis.cmp.quantcast.com^
 ||audit-tcfv2.cmp.quantcast.com^
 ||quantcount.com^
 ||analytics.quantedsquare.com^
@@ -159693,9 +159696,12 @@
 ||nurse.trustaff.com^
 ||trustaffs.com^
 ||trustaproiam.de^
+||choices.trustarc.com^
 ||trustbummler.com^
 ||track.trustcares.org^
 ||trustcor.co^
+||choices.truste.com^
+||consent-st.truste.com^
 ||trackerapi.truste.com^
 ||truste-svc.net^
 ||trusted-broker-reviews.com^
@@ -163450,6 +163456,7 @@
 ||analytics.usercentrics.com^
 ||content.ucp.usercontent.goog^
 ||usercycle.com^
+||cdn.userdatatrust.com^
 ||userdive.com^
 ||usereachpeople.com^
 ||analytics.usereactify.com^

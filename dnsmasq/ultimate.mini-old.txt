@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jul 2024 02:59 UTC
-# Version: 2024.0704.0259.35
+# Last modified: 04 Jul 2024 07:13 UTC
+# Version: 2024.0704.0713.53
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 103473
+# Number of entries: 103488
 #
 server=/0.org/
 server=/0.to/
@@ -27417,6 +27417,8 @@ server=/track.consensus.app/
 server=/consensushistorianarchery.com/
 server=/consensusindustryrepresentation.com/
 server=/cookie.consent.is/
+server=/cache.consentframework.com/
+server=/choices.consentframework.com/
 server=/analytics.consentmanager.net/
 server=/tracking.consero.com/
 server=/conservationdisposable.com/
@@ -27775,6 +27777,8 @@ server=/cookeryeighth.com/
 server=/cookerywrinklefad.com/
 server=/cdn.cookiecode.nl/
 server=/sentry.cookiefirst.com/
+server=/cookiehub.eu/
+server=/api.cookielaw.eu/
 server=/cookieless-data.com/
 server=/cookiemanager.dk/
 server=/cookiereports.com/
@@ -28251,10 +28255,7 @@ server=/cpcmart.com/
 server=/cpcvabi.com/
 server=/cpddgcr.xyz/
 server=/cpdsrv.de/
-server=/analytics.cpex.cz/
-server=/cdn.cpex.cz/
-server=/cdn-src.cpex.cz/
-server=/pixel.cpex.cz/
+server=/cpex.cz/
 server=/cpgou.cn/
 server=/cpitraffic.com/
 server=/cpkipw.info/
@@ -66240,6 +66241,7 @@ server=/qa-helpchatbot-analytics.subscriptions-frontends-aws-dev.aws.oath.cloud/
 server=/stage-helpchatbot-analytics.subscriptions-frontends-aws-prod.aws.oath.cloud/
 server=/metric-bridge.vespa-external.aws.oath.cloud/
 server=/metric-bridge.vespa-external-cd.aws.oath.cloud/
+server=/service.cmp.oath.com/
 server=/metrics.vespa.oath.cloud/
 server=/metrics-cd.vespa.oath.cloud/
 server=/oatmealstickyflax.com/
@@ -71887,6 +71889,7 @@ server=/metric.public.poloniex.com/
 server=/poloptrex.com/
 server=/poloud.com/
 server=/polredsy.com/
+server=/privacy.polskapress.pl/
 server=/polsonaith.com/
 server=/poltio.com/
 server=/elqtrack.poly.com/
@@ -74787,6 +74790,7 @@ server=/quanta.la/
 server=/rum-metrics.quanta.io/
 server=/analytics.quantalys.it/
 server=/aboutads.quantcast.com/
+server=/apis.cmp.quantcast.com/
 server=/audit-tcfv2.cmp.quantcast.com/
 server=/quantcount.com/
 server=/analytics.quantedsquare.com/
@@ -78293,7 +78297,14 @@ server=/ruckingefs.com/
 server=/analytics.ruckus.cloud/
 server=/ruclicks.com/
 server=/rucounter.ru/
+server=/app.rudderlabs.com/
 server=/cdn.rudderlabs.com/
+server=/docs.rudderlabs.com/
+server=/hosted.rudderlabs.com/
+server=/hostedmt.rudderlabs.com/
+server=/proeumt.rudderlabs.com/
+server=/prousmt.rudderlabs.com/
+server=/torpedo-prod.rudderlabs.com/
 server=/rudderwebmy.com/
 server=/rude-son.com/
 server=/rudemommy.com/
@@ -92369,9 +92380,12 @@ server=/trust.zone/
 server=/secure.trust-guard.com/
 server=/ocsp.trust-provider.cn/
 server=/trustaffs.com/
+server=/choices.trustarc.com/
 server=/tracker-detail-page.trustarc.com/
 server=/trustbummler.com/
 server=/trustcor.co/
+server=/choices.truste.com/
+server=/consent-st.truste.com/
 server=/easy-tracking-protection.truste.com/
 server=/tracking-protection.truste.com/
 server=/truste-svc.net/
@@ -94551,6 +94565,7 @@ server=/userbest.com/
 server=/analytics.usercentrics.com/
 server=/content.ucp.usercontent.goog/
 server=/usercycle.com/
+server=/cdn.userdatatrust.com/
 server=/userdive.com/
 server=/analytics.usereactify.com/
 server=/count.userestimate.com/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jul 2024 02:59 UTC
-# Version: 2024.0704.0259.35
+# Last modified: 04 Jul 2024 07:13 UTC
+# Version: 2024.0704.0713.53
 # Syntax: Domains (without subdomains)
-# Number of entries: 103475
+# Number of entries: 103490
 #
 0.org
 0.to
@@ -27419,6 +27419,8 @@ track.consensus.app
 consensushistorianarchery.com
 consensusindustryrepresentation.com
 cookie.consent.is
+cache.consentframework.com
+choices.consentframework.com
 analytics.consentmanager.net
 tracking.consero.com
 conservationdisposable.com
@@ -27778,6 +27780,8 @@ cookeryeighth.com
 cookerywrinklefad.com
 cdn.cookiecode.nl
 sentry.cookiefirst.com
+cookiehub.eu
+api.cookielaw.eu
 cookieless-data.com
 cookiemanager.dk
 cookiereports.com
@@ -28254,10 +28258,7 @@ cpcmart.com
 cpcvabi.com
 cpddgcr.xyz
 cpdsrv.de
-analytics.cpex.cz
-cdn.cpex.cz
-cdn-src.cpex.cz
-pixel.cpex.cz
+cpex.cz
 cpgou.cn
 cpitraffic.com
 cpkipw.info
@@ -66243,6 +66244,7 @@ qa-helpchatbot-analytics.subscriptions-frontends-aws-dev.aws.oath.cloud
 stage-helpchatbot-analytics.subscriptions-frontends-aws-prod.aws.oath.cloud
 metric-bridge.vespa-external.aws.oath.cloud
 metric-bridge.vespa-external-cd.aws.oath.cloud
+service.cmp.oath.com
 metrics.vespa.oath.cloud
 metrics-cd.vespa.oath.cloud
 oatmealstickyflax.com
@@ -71890,6 +71892,7 @@ metric.public.poloniex.com
 poloptrex.com
 poloud.com
 polredsy.com
+privacy.polskapress.pl
 polsonaith.com
 poltio.com
 elqtrack.poly.com
@@ -74790,6 +74793,7 @@ quanta.la
 rum-metrics.quanta.io
 analytics.quantalys.it
 aboutads.quantcast.com
+apis.cmp.quantcast.com
 audit-tcfv2.cmp.quantcast.com
 quantcount.com
 analytics.quantedsquare.com
@@ -78296,7 +78300,14 @@ ruckingefs.com
 analytics.ruckus.cloud
 ruclicks.com
 rucounter.ru
+app.rudderlabs.com
 cdn.rudderlabs.com
+docs.rudderlabs.com
+hosted.rudderlabs.com
+hostedmt.rudderlabs.com
+proeumt.rudderlabs.com
+prousmt.rudderlabs.com
+torpedo-prod.rudderlabs.com
 rudderwebmy.com
 rude-son.com
 rudemommy.com
@@ -92372,9 +92383,12 @@ trust.zone
 secure.trust-guard.com
 ocsp.trust-provider.cn
 trustaffs.com
+choices.trustarc.com
 tracker-detail-page.trustarc.com
 trustbummler.com
 trustcor.co
+choices.truste.com
+consent-st.truste.com
 easy-tracking-protection.truste.com
 tracking-protection.truste.com
 truste-svc.net
@@ -94554,6 +94568,7 @@ userbest.com
 analytics.usercentrics.com
 content.ucp.usercontent.goog
 usercycle.com
+cdn.userdatatrust.com
 userdive.com
 analytics.usereactify.com
 count.userestimate.com

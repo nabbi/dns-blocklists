@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jul 2024 02:15 UTC
-# Version: 2024.0704.0215.49
+# Last modified: 04 Jul 2024 05:25 UTC
+# Version: 2024.0704.0525.08
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 95284
+# Number of entries: 95292
 #
 server=/0.org/
 server=/0.to/
@@ -24425,6 +24425,8 @@ server=/track.consensus.app/
 server=/consensushistorianarchery.com/
 server=/consensusindustryrepresentation.com/
 server=/cookie.consent.is/
+server=/cache.consentframework.com/
+server=/choices.consentframework.com/
 server=/analytics.consentmanager.net/
 server=/tracking.consero.com/
 server=/conservationdisposable.com/
@@ -24704,6 +24706,8 @@ server=/cookeryeighth.com/
 server=/cookerywrinklefad.com/
 server=/cdn.cookiecode.nl/
 server=/sentry.cookiefirst.com/
+server=/cookiehub.eu/
+server=/api.cookielaw.eu/
 server=/cookieless-data.com/
 server=/cookiemanager.dk/
 server=/cookiereports.com/
@@ -25134,10 +25138,7 @@ server=/cpcmart.com/
 server=/cpcvabi.com/
 server=/cpddgcr.xyz/
 server=/cpdsrv.de/
-server=/analytics.cpex.cz/
-server=/cdn.cpex.cz/
-server=/cdn-src.cpex.cz/
-server=/pixel.cpex.cz/
+server=/cpex.cz/
 server=/cpgou.cn/
 server=/cpitraffic.com/
 server=/cpkipw.info/
@@ -59323,6 +59324,7 @@ server=/oatchatsauph.com/
 server=/oatchaudu.net/
 server=/oatchelt.com/
 server=/analytics.oath.com/
+server=/service.cmp.oath.com/
 server=/metrics.vespa.oath.cloud/
 server=/oatmealstickyflax.com/
 server=/oatscheapen.com/
@@ -67054,6 +67056,7 @@ server=/metric.public.poloniex.com/
 server=/poloptrex.com/
 server=/poloud.com/
 server=/polredsy.com/
+server=/privacy.polskapress.pl/
 server=/polsonaith.com/
 server=/poltio.com/
 server=/elqtrack.poly.com/
@@ -69814,6 +69817,7 @@ server=/quant.jp/
 server=/quanta.la/
 server=/analytics.quantalys.it/
 server=/aboutads.quantcast.com/
+server=/apis.cmp.quantcast.com/
 server=/audit-tcfv2.cmp.quantcast.com/
 server=/quantcount.com/
 server=/analytics.quantedsquare.com/
@@ -84894,8 +84898,11 @@ server=/affiliate.trust.zone/
 server=/secure.trust-guard.com/
 server=/ocsp.trust-provider.cn/
 server=/trustaffs.com/
+server=/choices.trustarc.com/
 server=/trustbummler.com/
 server=/trustcor.co/
+server=/choices.truste.com/
+server=/consent-st.truste.com/
 server=/truste-svc.net/
 server=/track.trusted-resources.com/
 server=/trustedachievementcontented.com/
@@ -87042,6 +87049,7 @@ server=/userator.ru/
 server=/analytics.usercentrics.com/
 server=/content.ucp.usercontent.goog/
 server=/usercycle.com/
+server=/cdn.userdatatrust.com/
 server=/userdive.com/
 server=/analytics.usereactify.com/
 server=/count.userestimate.com/

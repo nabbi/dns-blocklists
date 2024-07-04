@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jul 2024 02:59 UTC
-# Version: 2024.0704.0259.35
+# Last modified: 04 Jul 2024 07:13 UTC
+# Version: 2024.0704.0713.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 103475
+# Number of entries: 103490
 #
 local=/0.org/
 local=/0.to/
@@ -27419,6 +27419,8 @@ local=/track.consensus.app/
 local=/consensushistorianarchery.com/
 local=/consensusindustryrepresentation.com/
 local=/cookie.consent.is/
+local=/cache.consentframework.com/
+local=/choices.consentframework.com/
 local=/analytics.consentmanager.net/
 local=/tracking.consero.com/
 local=/conservationdisposable.com/
@@ -27778,6 +27780,8 @@ local=/cookeryeighth.com/
 local=/cookerywrinklefad.com/
 local=/cdn.cookiecode.nl/
 local=/sentry.cookiefirst.com/
+local=/cookiehub.eu/
+local=/api.cookielaw.eu/
 local=/cookieless-data.com/
 local=/cookiemanager.dk/
 local=/cookiereports.com/
@@ -28254,10 +28258,7 @@ local=/cpcmart.com/
 local=/cpcvabi.com/
 local=/cpddgcr.xyz/
 local=/cpdsrv.de/
-local=/analytics.cpex.cz/
-local=/cdn.cpex.cz/
-local=/cdn-src.cpex.cz/
-local=/pixel.cpex.cz/
+local=/cpex.cz/
 local=/cpgou.cn/
 local=/cpitraffic.com/
 local=/cpkipw.info/
@@ -66243,6 +66244,7 @@ local=/qa-helpchatbot-analytics.subscriptions-frontends-aws-dev.aws.oath.cloud/
 local=/stage-helpchatbot-analytics.subscriptions-frontends-aws-prod.aws.oath.cloud/
 local=/metric-bridge.vespa-external.aws.oath.cloud/
 local=/metric-bridge.vespa-external-cd.aws.oath.cloud/
+local=/service.cmp.oath.com/
 local=/metrics.vespa.oath.cloud/
 local=/metrics-cd.vespa.oath.cloud/
 local=/oatmealstickyflax.com/
@@ -71890,6 +71892,7 @@ local=/metric.public.poloniex.com/
 local=/poloptrex.com/
 local=/poloud.com/
 local=/polredsy.com/
+local=/privacy.polskapress.pl/
 local=/polsonaith.com/
 local=/poltio.com/
 local=/elqtrack.poly.com/
@@ -74790,6 +74793,7 @@ local=/quanta.la/
 local=/rum-metrics.quanta.io/
 local=/analytics.quantalys.it/
 local=/aboutads.quantcast.com/
+local=/apis.cmp.quantcast.com/
 local=/audit-tcfv2.cmp.quantcast.com/
 local=/quantcount.com/
 local=/analytics.quantedsquare.com/
@@ -78296,7 +78300,14 @@ local=/ruckingefs.com/
 local=/analytics.ruckus.cloud/
 local=/ruclicks.com/
 local=/rucounter.ru/
+local=/app.rudderlabs.com/
 local=/cdn.rudderlabs.com/
+local=/docs.rudderlabs.com/
+local=/hosted.rudderlabs.com/
+local=/hostedmt.rudderlabs.com/
+local=/proeumt.rudderlabs.com/
+local=/prousmt.rudderlabs.com/
+local=/torpedo-prod.rudderlabs.com/
 local=/rudderwebmy.com/
 local=/rude-son.com/
 local=/rudemommy.com/
@@ -92372,9 +92383,12 @@ local=/trust.zone/
 local=/secure.trust-guard.com/
 local=/ocsp.trust-provider.cn/
 local=/trustaffs.com/
+local=/choices.trustarc.com/
 local=/tracker-detail-page.trustarc.com/
 local=/trustbummler.com/
 local=/trustcor.co/
+local=/choices.truste.com/
+local=/consent-st.truste.com/
 local=/easy-tracking-protection.truste.com/
 local=/tracking-protection.truste.com/
 local=/truste-svc.net/
@@ -94554,6 +94568,7 @@ local=/userbest.com/
 local=/analytics.usercentrics.com/
 local=/content.ucp.usercontent.goog/
 local=/usercycle.com/
+local=/cdn.userdatatrust.com/
 local=/userdive.com/
 local=/analytics.usereactify.com/
 local=/count.userestimate.com/

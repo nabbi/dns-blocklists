@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jul 2024 02:15 UTC
-# Version: 2024.0704.0215.49
+# Last modified: 04 Jul 2024 05:25 UTC
+# Version: 2024.0704.0525.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 95286
+# Number of entries: 95294
 #
 local=/0.org/
 local=/0.to/
@@ -24427,6 +24427,8 @@ local=/track.consensus.app/
 local=/consensushistorianarchery.com/
 local=/consensusindustryrepresentation.com/
 local=/cookie.consent.is/
+local=/cache.consentframework.com/
+local=/choices.consentframework.com/
 local=/analytics.consentmanager.net/
 local=/tracking.consero.com/
 local=/conservationdisposable.com/
@@ -24706,6 +24708,8 @@ local=/cookeryeighth.com/
 local=/cookerywrinklefad.com/
 local=/cdn.cookiecode.nl/
 local=/sentry.cookiefirst.com/
+local=/cookiehub.eu/
+local=/api.cookielaw.eu/
 local=/cookieless-data.com/
 local=/cookiemanager.dk/
 local=/cookiereports.com/
@@ -25136,10 +25140,7 @@ local=/cpcmart.com/
 local=/cpcvabi.com/
 local=/cpddgcr.xyz/
 local=/cpdsrv.de/
-local=/analytics.cpex.cz/
-local=/cdn.cpex.cz/
-local=/cdn-src.cpex.cz/
-local=/pixel.cpex.cz/
+local=/cpex.cz/
 local=/cpgou.cn/
 local=/cpitraffic.com/
 local=/cpkipw.info/
@@ -59325,6 +59326,7 @@ local=/oatchatsauph.com/
 local=/oatchaudu.net/
 local=/oatchelt.com/
 local=/analytics.oath.com/
+local=/service.cmp.oath.com/
 local=/metrics.vespa.oath.cloud/
 local=/oatmealstickyflax.com/
 local=/oatscheapen.com/
@@ -67056,6 +67058,7 @@ local=/metric.public.poloniex.com/
 local=/poloptrex.com/
 local=/poloud.com/
 local=/polredsy.com/
+local=/privacy.polskapress.pl/
 local=/polsonaith.com/
 local=/poltio.com/
 local=/elqtrack.poly.com/
@@ -69816,6 +69819,7 @@ local=/quant.jp/
 local=/quanta.la/
 local=/analytics.quantalys.it/
 local=/aboutads.quantcast.com/
+local=/apis.cmp.quantcast.com/
 local=/audit-tcfv2.cmp.quantcast.com/
 local=/quantcount.com/
 local=/analytics.quantedsquare.com/
@@ -84896,8 +84900,11 @@ local=/affiliate.trust.zone/
 local=/secure.trust-guard.com/
 local=/ocsp.trust-provider.cn/
 local=/trustaffs.com/
+local=/choices.trustarc.com/
 local=/trustbummler.com/
 local=/trustcor.co/
+local=/choices.truste.com/
+local=/consent-st.truste.com/
 local=/truste-svc.net/
 local=/track.trusted-resources.com/
 local=/trustedachievementcontented.com/
@@ -87044,6 +87051,7 @@ local=/userator.ru/
 local=/analytics.usercentrics.com/
 local=/content.ucp.usercontent.goog/
 local=/usercycle.com/
+local=/cdn.userdatatrust.com/
 local=/userdive.com/
 local=/analytics.usereactify.com/
 local=/count.userestimate.com/
