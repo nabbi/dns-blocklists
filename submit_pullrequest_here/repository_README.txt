@@ -194,7 +194,7 @@
 > *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
 > [!WARNING]
-> *META trackers are blocked in Ultimate. This restricts the use of Facebook and Facebook Messenger apps. To use Facebook apps with Ultimate, unblock the following domains: [META Tracker](share/facebook.txt)*
+> *META trackers are blocked in Ultimate. This restricts the use of Facebook and Facebook Messenger apps. Furthermore, the Whatsapp graph trackers are blocked, which leads to restrictions when creating avatars and using the in-app helpcenter. Otherwise, blocking has no effect on Whatsapp functionalities. To use META apps with Ultimate, unblock the following domains if necessary: [META Tracker](share/facebook.txt)*
 
 **Entries:** *ultimate_dh domains/hosts - ultimate_cp compressed domains*
 
