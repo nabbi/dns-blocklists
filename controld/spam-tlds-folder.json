@@ -8,6 +8,13 @@
   },
   "rules": [
     {
+      "PK": "*.af",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.africa",
       "action": {
         "do": 0,
@@ -23,6 +30,13 @@
     },
     {
       "PK": "*.airbus",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.ao",
       "action": {
         "do": 0,
         "status": 1
@@ -50,7 +64,21 @@
       }
     },
     {
+      "PK": "*.ax",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.baby",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.bank",
       "action": {
         "do": 0,
         "status": 1
@@ -92,6 +120,20 @@
       }
     },
     {
+      "PK": "*.bike",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.bingo",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.bio",
       "action": {
         "do": 0,
@@ -127,6 +169,13 @@
       }
     },
     {
+      "PK": "*.boo",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.boston",
       "action": {
         "do": 0,
@@ -148,7 +197,28 @@
       }
     },
     {
+      "PK": "*.bs",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.buzz",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.bw",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.by",
       "action": {
         "do": 0,
         "status": 1
@@ -162,7 +232,42 @@
       }
     },
     {
+      "PK": "*.capital",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.cards",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.careers",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.casa",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.cash",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.cd",
       "action": {
         "do": 0,
         "status": 1
@@ -211,7 +316,35 @@
       }
     },
     {
+      "PK": "*.ci",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.city",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.claims",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.click",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.clothing",
       "action": {
         "do": 0,
         "status": 1
@@ -232,6 +365,20 @@
       }
     },
     {
+      "PK": "*.computer",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.cool",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.coupons",
       "action": {
         "do": 0,
@@ -239,7 +386,28 @@
       }
     },
     {
+      "PK": "*.crs",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.cu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.cv",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.cymru",
       "action": {
         "do": 0,
         "status": 1
@@ -274,6 +442,20 @@
       }
     },
     {
+      "PK": "*.dating",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.deals",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.degree",
       "action": {
         "do": 0,
@@ -281,14 +463,14 @@
       }
     },
     {
-      "PK": "*.desi",
+      "PK": "*.dental",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "*.digital",
+      "PK": "*.desi",
       "action": {
         "do": 0,
         "status": 1
@@ -303,6 +485,27 @@
     },
     {
       "PK": "*.discount",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.download",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.earth",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.eco",
       "action": {
         "do": 0,
         "status": 1
@@ -330,7 +533,21 @@
       }
     },
     {
+      "PK": "*.fashion",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.finance",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.financial",
       "action": {
         "do": 0,
         "status": 1
@@ -365,6 +582,20 @@
       }
     },
     {
+      "PK": "*.forum",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.fund",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.fyi",
       "action": {
         "do": 0,
@@ -393,6 +624,13 @@
       }
     },
     {
+      "PK": "*.gi",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.gives",
       "action": {
         "do": 0,
@@ -407,7 +645,28 @@
       }
     },
     {
+      "PK": "*.glass",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.gm",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.gold",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.gp",
       "action": {
         "do": 0,
         "status": 1
@@ -421,7 +680,28 @@
       }
     },
     {
+      "PK": "*.gratis",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.green",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.gs",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.guide",
       "action": {
         "do": 0,
         "status": 1
@@ -456,7 +736,28 @@
       }
     },
     {
+      "PK": "*.health",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.healthcare",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.homes",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.house",
       "action": {
         "do": 0,
         "status": 1
@@ -575,6 +876,20 @@
       }
     },
     {
+      "PK": "*.markets",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.mc",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.men",
       "action": {
         "do": 0,
@@ -590,6 +905,13 @@
     },
     {
       "PK": "*.mom",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.money",
       "action": {
         "do": 0,
         "status": 1
@@ -617,7 +939,28 @@
       }
     },
     {
+      "PK": "*.mp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.mr",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.mw",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.mz",
       "action": {
         "do": 0,
         "status": 1
@@ -638,7 +981,21 @@
       }
     },
     {
+      "PK": "*.nc",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.ne",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.new",
       "action": {
         "do": 0,
         "status": 1
@@ -666,7 +1023,28 @@
       }
     },
     {
+      "PK": "*.onl",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.ooo",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.partners",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.parts",
       "action": {
         "do": 0,
         "status": 1
@@ -681,6 +1059,20 @@
     },
     {
       "PK": "*.pet",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.pg",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.pharmacy",
       "action": {
         "do": 0,
         "status": 1
@@ -702,6 +1094,48 @@
     },
     {
       "PK": "*.pics",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.pink",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.pizza",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.place",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.pn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.poker",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.post",
       "action": {
         "do": 0,
         "status": 1
@@ -736,6 +1170,20 @@
       }
     },
     {
+      "PK": "*.realtor",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.recipes",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.red",
       "action": {
         "do": 0,
@@ -751,6 +1199,13 @@
     },
     {
       "PK": "*.rest",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.restaurant",
       "action": {
         "do": 0,
         "status": 1
@@ -813,6 +1268,20 @@
       }
     },
     {
+      "PK": "*.science",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.security",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.sew",
       "action": {
         "do": 0,
@@ -821,6 +1290,13 @@
     },
     {
       "PK": "*.shop",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.shopping",
       "action": {
         "do": 0,
         "status": 1
@@ -841,7 +1317,49 @@
       }
     },
     {
+      "PK": "*.sl",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.sm",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.software",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.solar",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.space",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.sport",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.sr",
       "action": {
         "do": 0,
         "status": 1
@@ -856,6 +1374,27 @@
     },
     {
       "PK": "*.store",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.style",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.su",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.supply",
       "action": {
         "do": 0,
         "status": 1
@@ -890,7 +1429,42 @@
       }
     },
     {
+      "PK": "*.tax",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.taxi",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.tg",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.tickets",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.tips",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.tj",
       "action": {
         "do": 0,
         "status": 1
@@ -925,7 +1499,42 @@
       }
     },
     {
+      "PK": "*.tours",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.toys",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.trade",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.trading",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.travel",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.tz",
       "action": {
         "do": 0,
         "status": 1
@@ -946,7 +1555,42 @@
       }
     },
     {
+      "PK": "*.va",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.vegas",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.ventures",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.vin",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.vip",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.vision",
       "action": {
         "do": 0,
         "status": 1
@@ -960,7 +1604,21 @@
       }
     },
     {
+      "PK": "*.vote",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.voto",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.vu",
       "action": {
         "do": 0,
         "status": 1
@@ -974,7 +1632,21 @@
       }
     },
     {
+      "PK": "*.webcam",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.website",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.wedding",
       "action": {
         "do": 0,
         "status": 1
@@ -1002,6 +1674,13 @@
       }
     },
     {
+      "PK": "*.wine",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.work",
       "action": {
         "do": 0,
@@ -1017,6 +1696,13 @@
     },
     {
       "PK": "*.wtf",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.xin",
       "action": {
         "do": 0,
         "status": 1
