@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jul 2024 03:00 UTC
-! Version: 2024.0705.0300.03
+! Last modified: 05 Jul 2024 14:13 UTC
+! Version: 2024.0705.1413.28
 ! Syntax: AdBlock
-! Number of entries: 103508
+! Number of entries: 103515
 !
 ||0.org^
 ||0.to^
@@ -11813,7 +11813,6 @@
 ||analytics.archive.org^
 ||sentry.archive.org^
 ||ia800400.us.archive.org^
-||ia803402.us.archive.org^
 ||ia803405.us.archive.org^
 ||api.archive-digger.com^
 ||analytics.archive-it.org^
@@ -13828,6 +13827,7 @@
 ||vodus-api.azurewebsites.net^
 ||vodus-api-serverless.azurewebsites.net^
 ||wa-piri-analytic-api-test.azurewebsites.net^
+||webgalahsllc.azurewebsites.net^
 ||weloop-analytics-prod.azurewebsites.net^
 ||window-shoppers.azurewebsites.net^
 ||wompanalytics.azurewebsites.net^
@@ -16005,6 +16005,7 @@
 ||bidvol.com^
 ||biemedia.com^
 ||kimono-analytics.bienici.com^
+||bienlinea.com^
 ||big-dick.co^
 ||big-hunter.com^
 ||big-library.info^
@@ -19337,7 +19338,6 @@
 ||callminer.net^
 ||stats.callnowbutton.com^
 ||callousbrake.com^
-||callouting.com^
 ||tracking.callpotential.com^
 ||callrail.com^
 ||callreports.com^
@@ -24675,6 +24675,7 @@
 ||hotdate.co.il^
 ||tracking-equality.hrc.co.nz^
 ||smetrics.hsamuel.co.uk^
+||hungerford.co.uk^
 ||matomo.hungryapp.co.kr^
 ||huqindustries.co.uk^
 ||hurricane-tracking.co.uk^
@@ -24808,6 +24809,7 @@
 ||makelove.co.il^
 ||cellstats.mako.co.il^
 ||stats.mako.co.il^
+||maniajeans.co.il^
 ||keycloak-metrics-advice.int.manomano.co.uk^
 ||keycloak-metrics-pro.int.manomano.co.uk^
 ||keycloak-metrics-www.int.manomano.co.uk^
@@ -26831,7 +26833,6 @@
 ||stat.ugr.com.ua^
 ||revive.ukecifras.com.br^
 ||ns1.ukraine.com.ua^
-||uniaoabc.com.br^
 ||unicainstrumentacao.com.br^
 ||folha.ad.uol.com.br^
 ||ads.uol.com.br^
@@ -27571,7 +27572,8 @@
 ||contentinsights.com^
 ||contentiq.com^
 ||contentlimitless.com^
-||contently.com^
+||metrics.contently.com^
+||track.contently.com^
 ||trk.contentmarketinginstitute.com^
 ||contentmayinterest.com^
 ||contentmentchef.com^
@@ -33165,6 +33167,7 @@
 ||droppingforests.com^
 ||droppingprofessionmarine.com^
 ||dropsclank.com^
+||datacapture.dropsolid.com^
 ||metrics.dropwizard.io^
 ||sgp-tracker.dropz-k.com^
 ||tck-bra-tracker.dropz-k.com^
@@ -42507,7 +42510,6 @@
 ||glispa.com^
 ||glisteningguide.com^
 ||bounce-tracking-demo.glitch.me^
-||cdn.glitch.global^
 ||income-and-expense-tracker.glitch.me^
 ||track-demonstration.glitch.me^
 ||glitnoraffiliates.com^
@@ -45081,6 +45083,7 @@
 ||gw-dv.vip^
 ||gw1jvhs.com^
 ||gw2cddpt2hao.asia^
+||gw2cddpt2hao.cloud^
 ||gwallet.com^
 ||browser.gwdang.com^
 ||matomo.gwdg.de^
@@ -61759,6 +61762,7 @@
 ||moera.xyz^
 ||trk.moerie.com^
 ||moetconfisk.top^
+||matomo.moetiknaardedokter.nl^
 ||tracking.moetiknaardedokter.nl^
 ||analytics-smtp.vcare-test.moetiknaardedokter.nl^
 ||smtp-analytics.vcare-test.moetiknaardedokter.nl^
@@ -62792,6 +62796,7 @@
 ||multifbpixels.website^
 ||smetrics.multikino.pl^
 ||multikonline.ru^
+||usuarios.multimania.es^
 ||multinews.me^
 ||mto.multiopen.cn^
 ||multipledrawers.com^
@@ -67462,6 +67467,7 @@
 ||trk.onlinelabels.com^
 ||onlinemacyayin1.com^
 ||track.onlineoversight.com^
+||keitarotds777.onlinepharmacy24h.net^
 ||onlineplus.click^
 ||onlineporno.fun^
 ||onlinepromogift.com^
@@ -74730,6 +74736,7 @@
 ||quackupsilon.com^
 ||ap.quadient.com^
 ||tracking.quadient.com^
+||servinform.quadientcloud.eu^
 ||quadmetrics.com^
 ||quadran.eu^
 ||service.quadriga-media.com^
@@ -90439,6 +90446,7 @@
 ||analytics.tinyman.org^
 ||sp.tinymce.com^
 ||api-v3.tinypass.com^
+||buy.tinypass.com^
 ||dashboard.tinypass.com^
 ||experience.tinypass.com^
 ||id.tinypass.com^
@@ -103487,7 +103495,6 @@
 ||zypzzv.xyz^
 ||zyrji.com^
 ||tracking.zyro.com^
-||zyrself.com^
 ||analytics.zyrtec.com^
 ||analytics.zyrtecprofessional.com^
 ||zys13.top^
