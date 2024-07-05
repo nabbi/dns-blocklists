@@ -78,13 +78,6 @@
       }
     },
     {
-      "PK": "telemetry.*",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "adserver.*",
       "action": {
         "do": 0,
@@ -177,13 +170,6 @@
     },
     {
       "PK": "adserv.*",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "countly.*",
       "action": {
         "do": 0,
         "status": 1
