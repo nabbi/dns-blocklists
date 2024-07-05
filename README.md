@@ -295,7 +295,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** *1225691 domains/hosts - 706319 compressed domains*
+**Entries:** *1226694 domains/hosts - 706842 compressed domains*
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -319,7 +319,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** *176185 compressed domains*
+**Entries:** *176610 compressed domains*
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
