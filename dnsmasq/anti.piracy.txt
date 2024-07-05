@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Jul 2024 14:35 UTC
-# Version: 2024.0703.1435.24
+# Last modified: 04 Jul 2024 22:26 UTC
+# Version: 2024.0704.2226.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9722
+# Number of entries: 9723
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -9405,6 +9405,7 @@ local=/xn--950bz4kqroyzjblb.com/
 local=/xn--firstrowsport-8xe.eu/
 local=/xn--thepratebay-fcb.com/
 local=/xoomtv.xyz/
+local=/tracker.xor.st/
 local=/tterm.xorg.pl/
 local=/xparadise.ru/
 local=/xpau.se/
