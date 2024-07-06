@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jul 2024 03:18 UTC
-# Version: 2024.0706.0318.24
+# Last modified: 06 Jul 2024 09:46 UTC
+# Version: 2024.0706.0946.15
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 95452
+# Number of entries: 95450
 #
 server=/0.org/
 server=/0.to/
@@ -21446,7 +21446,6 @@ server=/cmrdr.com/
 server=/cms100.xyz/
 server=/s.cmstatic.net/
 server=/ssc.cmt.com/
-server=/cmtd1.com/
 server=/analytics.cmtelecom.com/
 server=/tracker.cmtelecom.com/
 server=/cmtgroup.com/
@@ -58673,6 +58672,7 @@ server=/noafoaji.xyz/
 server=/noaiaft.com/
 server=/noapai.name/
 server=/noapteen.net/
+server=/nobby.game/
 server=/matomo.nobiadigital.com/
 server=/nobid.io/
 server=/nobilitybefore.com/
@@ -86290,7 +86290,6 @@ server=/umtudo.com/
 server=/sentry.umu.cn/
 server=/sentry.umu.com/
 server=/umuotov.com/
-server=/forms.umusic-online.com/
 server=/us.umusic-online.com/
 server=/analytics.umwebops.org/
 server=/piwik.umweltbundesamt.de/

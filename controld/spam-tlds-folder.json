@@ -267,6 +267,13 @@
       }
     },
     {
+      "PK": "*.cc",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.cd",
       "action": {
         "do": 0,
@@ -471,6 +478,13 @@
     },
     {
       "PK": "*.desi",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.digital",
       "action": {
         "do": 0,
         "status": 1
@@ -1395,6 +1409,13 @@
     },
     {
       "PK": "*.supply",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.support",
       "action": {
         "do": 0,
         "status": 1

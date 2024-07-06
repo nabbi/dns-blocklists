@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jul 2024 04:03 UTC
-# Version: 2024.0706.0403.00
+# Last modified: 06 Jul 2024 10:20 UTC
+# Version: 2024.0706.1020.45
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
 # Number of entries: 103569
 #
@@ -24074,7 +24074,6 @@ server=/cmrdr.com/
 server=/cms100.xyz/
 server=/s.cmstatic.net/
 server=/ssc.cmt.com/
-server=/cmtd1.com/
 server=/analytics.cmtelecom.com/
 server=/tracker.cmtelecom.com/
 server=/cmtgroup.com/
@@ -65418,6 +65417,7 @@ server=/noaiaft.com/
 server=/noapai.name/
 server=/noapteen.net/
 server=/stats.nobat.ir/
+server=/nobby.game/
 server=/matomo.nobiadigital.com/
 server=/nobid.io/
 server=/nobilitybefore.com/
@@ -74668,6 +74668,7 @@ server=/s.syzs.qq.com/
 server=/ta.qq.com/
 server=/log.tbs.qq.com/
 server=/video.dispatch.tc.qq.com/
+server=/wxapp.tc.qq.com/
 server=/wxsnsad.tc.qq.com/
 server=/adsmind.gdtimg.com.tcdn.qq.com/
 server=/adsmind.ugdtimg.com.tcdn.qq.com/
@@ -74714,6 +74715,7 @@ server=/log.wtlogin.qq.com/
 server=/log1.wtlogin.qq.com/
 server=/wxa.wxs.qq.com/
 server=/wximg.wxs.qq.com/
+server=/wxsmw.wxs.qq.com/
 server=/wxsnsdythumb.wxs.qq.com/
 server=/stat.y.qq.com/
 server=/tmead.y.qq.com/
@@ -93766,7 +93768,6 @@ server=/sentry.umu.com/
 server=/stat.umu.cn/
 server=/stat.umu.co/
 server=/umuotov.com/
-server=/forms.umusic-online.com/
 server=/us.umusic-online.com/
 server=/analytics.umwebops.org/
 server=/piwik.umweltbundesamt.de/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1720229040 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1720254660 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Jul 2024 01:24 UTC
-; Version: 2024.0706.0124.28
+; Last modified: 06 Jul 2024 08:31 UTC
+; Version: 2024.0706.0831.57
 ; Syntax: RPZ
-; Number of entries: 134762
+; Number of entries: 134764
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -1917,6 +1917,8 @@ smetrics.vwfs.com.br CNAME .
 *.smetrics.vwfs.com.br CNAME .
 webstats.com.br CNAME .
 *.webstats.com.br CNAME .
+track.zapimoveis.com.br CNAME .
+*.track.zapimoveis.com.br CNAME .
 zlx.com.br CNAME .
 *.zlx.com.br CNAME .
 matomo.economia.gov.br CNAME .
@@ -11307,8 +11309,6 @@ vadt.adsafeprotected.com CNAME .
 *.vadt.adsafeprotected.com CNAME .
 vafw.adsafeprotected.com CNAME .
 *.vafw.adsafeprotected.com CNAME .
-vapixel.adsafeprotected.com CNAME .
-*.vapixel.adsafeprotected.com CNAME .
 vast.adsafeprotected.com CNAME .
 *.vast.adsafeprotected.com CNAME .
 vastpixel3.adsafeprotected.com CNAME .
@@ -110711,6 +110711,8 @@ analytics.dealerexpress.net CNAME .
 *.analytics.dealerexpress.net CNAME .
 insights.decathlon.net CNAME .
 *.insights.decathlon.net CNAME .
+insights.v3.decathlon.net CNAME .
+*.insights.v3.decathlon.net CNAME .
 decdna.net CNAME .
 *.decdna.net CNAME .
 decibelinsight.net CNAME .

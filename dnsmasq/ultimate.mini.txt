@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jul 2024 04:03 UTC
-# Version: 2024.0706.0403.00
+# Last modified: 06 Jul 2024 10:20 UTC
+# Version: 2024.0706.1020.45
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 103571
 #
@@ -24076,7 +24076,6 @@ local=/cmrdr.com/
 local=/cms100.xyz/
 local=/s.cmstatic.net/
 local=/ssc.cmt.com/
-local=/cmtd1.com/
 local=/analytics.cmtelecom.com/
 local=/tracker.cmtelecom.com/
 local=/cmtgroup.com/
@@ -65421,6 +65420,7 @@ local=/noaiaft.com/
 local=/noapai.name/
 local=/noapteen.net/
 local=/stats.nobat.ir/
+local=/nobby.game/
 local=/matomo.nobiadigital.com/
 local=/nobid.io/
 local=/nobilitybefore.com/
@@ -74671,6 +74671,7 @@ local=/s.syzs.qq.com/
 local=/ta.qq.com/
 local=/log.tbs.qq.com/
 local=/video.dispatch.tc.qq.com/
+local=/wxapp.tc.qq.com/
 local=/wxsnsad.tc.qq.com/
 local=/adsmind.gdtimg.com.tcdn.qq.com/
 local=/adsmind.ugdtimg.com.tcdn.qq.com/
@@ -74717,6 +74718,7 @@ local=/log.wtlogin.qq.com/
 local=/log1.wtlogin.qq.com/
 local=/wxa.wxs.qq.com/
 local=/wximg.wxs.qq.com/
+local=/wxsmw.wxs.qq.com/
 local=/wxsnsdythumb.wxs.qq.com/
 local=/stat.y.qq.com/
 local=/tmead.y.qq.com/
@@ -93769,7 +93771,6 @@ local=/sentry.umu.com/
 local=/stat.umu.cn/
 local=/stat.umu.co/
 local=/umuotov.com/
-local=/forms.umusic-online.com/
 local=/us.umusic-online.com/
 local=/analytics.umwebops.org/
 local=/piwik.umweltbundesamt.de/

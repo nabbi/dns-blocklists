@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jul 2024 22:45 UTC
-! Version: 2024.0705.2245.38
+! Last modified: 06 Jul 2024 10:32 UTC
+! Version: 2024.0706.1032.22
 ! Syntax: uBlock
-! Number of latin TLDs: 245 - non-latin TLDs: 151
+! Number of latin TLDs: 248 - non-latin TLDs: 151
 !
 ||af^$doc,domain=~google.com.af
 ||africa^$doc
@@ -52,6 +52,7 @@
 ||careers^$doc
 ||casa^$doc
 ||cash^$doc
+||cc^$doc,domain=~fanbox.cc|~megaf.cc|~mydaddy.cc|~ors.cc|~rapidcdn.cc|~shottr.cc|~vern.cc|~wallhaven.cc|~zcyph.cc
 ||cd^$doc,domain=~google.cd
 ||center^$doc
 ||cf^$doc,domain=~acap.cf|~google.cf
@@ -82,6 +83,7 @@
 ||degree^$doc,domain=~opf.degree|~three60.degree
 ||dental^$doc
 ||desi^$doc,domain=~xhamster.desi
+||digital^$doc,domain=~cariad.digital|~eberry.digital|~iagl.digital|~russmedia.digital|~swm.digital
 ||directory^$doc,domain=~2fa.directory|~passkeys.directory
 ||discount^$doc,domain=~real.discount
 ||download^$doc
@@ -122,7 +124,7 @@
 ||health^$doc
 ||healthcare^$doc
 ||homes^$doc
-||house^$doc
+||house^$doc,domain=~nature.house
 ||icu^$doc,domain=~lunar.icu
 ||ink^$doc,domain=~ishortn.ink|~next.ink|~short.ink
 ||international^$doc
@@ -138,7 +140,7 @@
 ||ltd^$doc
 ||makeup^$doc,domain=~bird.makeup
 ||management^$doc
-||market^$doc,domain=~digiseller.market|~otto.market|~plati.market|~warframe.market
+||market^$doc,domain=~digiseller.market|~otto.market|~plati.market|~spotim.market|~warframe.market
 ||markets^$doc
 ||mc^$doc
 ||men^$doc
@@ -214,6 +216,7 @@
 ||style^$doc
 ||su^$doc
 ||supply^$doc
+||support^$doc
 ||surf^$doc,domain=~bloom.surf|~glowing.surf|~kayaking.surf|~quran.surf|~s-wings.surf
 ||sx^$doc,domain=~filemoon.sx|~voe.sx
 ||sz^$doc
