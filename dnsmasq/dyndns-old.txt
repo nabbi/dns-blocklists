@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 Jun 2024 13:12 UTC
-# Version: 2024.0629.1312.11
+# Last modified: 05 Jul 2024 23:19 UTC
+# Version: 2024.0705.2319.27
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 1446
+# Number of entries: 1447
 #
 server=/0000000000000000000000.com/
 server=/0rg.us/
@@ -959,6 +959,7 @@ server=/mydissent.net/
 server=/myeffect.net/
 server=/myftp.biz/
 server=/myftp.info/
+server=/myftp.name/
 server=/myftp.org/
 server=/myhomeschoolfamily.com/
 server=/myip.org/

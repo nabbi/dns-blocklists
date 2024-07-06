@@ -65,7 +65,6 @@ https://phish.sinking.yachts/v2/text
 https://radar.cloudflare.com/domains
 https://radar.cloudflare.com/email-security
 https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
-https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/week.csv
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
