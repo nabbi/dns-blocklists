@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jul 2024 09:15 UTC
-# Version: 2024.0706.0915.01
+# Last modified: 06 Jul 2024 14:12 UTC
+# Version: 2024.0706.1412.06
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 81219
+# Number of entries: 81222
 #
 server=/0.org/
 server=/0.to/
@@ -6646,6 +6646,7 @@ server=/agrvt.com/
 server=/agsagxgwoaqw.com/
 server=/agsbmiphaadj.com/
 server=/agsgovsat.com/
+server=/stats.agsmaim.it/
 server=/agt.net/
 server=/analytics.agu.org/
 server=/agvkujawbd.com/
@@ -17348,7 +17349,6 @@ server=/clicksor.net/
 server=/clicksure.com/
 server=/clicktale.com/
 server=/cdn.clicktale.net/
-server=/s.clicktale.net/
 server=/code.clicktex.ru/
 server=/s.clicktex.ru/
 server=/clickthroo.com/
@@ -23396,7 +23396,6 @@ server=/dawdlealmonry.com/
 server=/dawin.tv/
 server=/dawirax.com/
 server=/dawn3host.com/
-server=/dawndadmark.live/
 server=/dawnfilthscribble.com/
 server=/dawplm.com/
 server=/daybreakarchitecture.com/
@@ -25593,6 +25592,7 @@ server=/jdgtgb.desired.de/
 server=/desireddelayaspirin.com/
 server=/desiregig.com/
 server=/deskfrontfreely.com/
+server=/matomo.deskline.net/
 server=/matomo.deskly.live/
 server=/deslatiosan.com/
 server=/desmerveillesdeco.com/
@@ -30597,6 +30597,8 @@ server=/a8ec34052d.fb5ab8a79a.com/
 server=/fb99ef9239.com/
 server=/fba8a9ab60.com/
 server=/fbappi.co/
+server=/xy.fbcdn.net/
+server=/xz.fbcdn.net/
 server=/fbcdn2.com/
 server=/fbconversions.com/
 server=/fbd.de/
@@ -35255,7 +35257,6 @@ server=/na.groupondata.com/
 server=/r.grouponmail.de/
 server=/more.groups.be/
 server=/groupsrider.com/
-server=/groutsfaham.top/
 server=/grouvuwoace.com/
 server=/grova.buzz/
 server=/grova.xyz/
@@ -46666,7 +46667,6 @@ server=/analytics.meituan.com/
 server=/analytics.meituan.net/
 server=/data-sdk-uuid-log.d.meituan.net/
 server=/dreport.meituan.net/
-server=/hreport.meituan.com/
 server=/report.meituan.com/
 server=/cloudcollect.meitudata.com/
 server=/meitubeauty.meitudata.com/
@@ -66163,6 +66163,7 @@ server=/skulkspreppie.com/
 server=/skulldesperatelytransfer.com/
 server=/skullhalfway.com/
 server=/skumcobpink.com/
+server=/analytics.skuola.net/
 server=/skwfupp.com/
 server=/skwstat.ru/
 server=/analytics.sky.it/
@@ -67565,7 +67566,8 @@ server=/pixel.spotify.com/
 server=/pixel-static.spotify.com/
 server=/surveys.spotify.com/
 server=/spotify-desktop.com/
-server=/spotim.market/
+server=/ghb.spotim.market/
+server=/player.spotim.market/
 server=/spotlessabridge.com/
 server=/spotlessstamp.com/
 server=/spotlightmusicnj.com/
@@ -70377,6 +70379,7 @@ server=/analytics.terrapin-attack.com/
 server=/terrapsps.com/
 server=/terratraf.com/
 server=/static.terratraf.io/
+server=/stats.terredargine.it/
 server=/terriblethumb.com/
 server=/terrifiedcrunchspinal.com/
 server=/terrifyingcovert.com/
@@ -73968,7 +73971,6 @@ server=/analytics.unive.nl/
 server=/te.universal.at/
 server=/universalbooklet.com/
 server=/universaldatedimpress.com/
-server=/universalflashy.com/
 server=/universalflaskshrimp.com/
 server=/osimg.universalorlando.com/
 server=/oimg.universalorlandovacations.com/
@@ -81221,6 +81223,7 @@ server=/xn--n8j0la8wb3547bghe.jp/
 server=/xn--n8jwkyc7fw52nfvd.jp/
 server=/xn--ngbcrg3b.com/
 server=/xn--qrq171dxpq.com/
+server=/xn--sssy7vrppusjyv0a.com/
 server=/xn--swt207gl1hzc.net/
 server=/xn--w9q675dm1p7em.net/
 server=/xn--wgvp78a61swpe6zdozj.cn/

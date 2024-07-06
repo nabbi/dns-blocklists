@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1720254660 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1720272540 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Jul 2024 08:31 UTC
-; Version: 2024.0706.0831.57
+; Last modified: 06 Jul 2024 13:29 UTC
+; Version: 2024.0706.1329.27
 ; Syntax: RPZ
-; Number of entries: 134764
+; Number of entries: 134760
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -11309,6 +11309,8 @@ vadt.adsafeprotected.com CNAME .
 *.vadt.adsafeprotected.com CNAME .
 vafw.adsafeprotected.com CNAME .
 *.vafw.adsafeprotected.com CNAME .
+vapixel.adsafeprotected.com CNAME .
+*.vapixel.adsafeprotected.com CNAME .
 vast.adsafeprotected.com CNAME .
 *.vast.adsafeprotected.com CNAME .
 vastpixel3.adsafeprotected.com CNAME .
@@ -54559,8 +54561,6 @@ tg.meitu.com CNAME .
 *.tg.meitu.com CNAME .
 analytics.meituan.com CNAME .
 *.analytics.meituan.com CNAME .
-hreport.meituan.com CNAME .
-*.hreport.meituan.com CNAME .
 report.meituan.com CNAME .
 *.report.meituan.com CNAME .
 cloudcollect.meitudata.com CNAME .
@@ -90219,6 +90219,8 @@ nope.xn--ngbcrg3b.com CNAME .
 *.nope.xn--ngbcrg3b.com CNAME .
 xn--qrq171dxpq.com CNAME .
 *.xn--qrq171dxpq.com CNAME .
+xn--sssy7vrppusjyv0a.com CNAME .
+*.xn--sssy7vrppusjyv0a.com CNAME .
 xngqoc.com CNAME .
 *.xngqoc.com CNAME .
 xnrowzw.com CNAME .
@@ -104545,8 +104547,6 @@ contextads.live CNAME .
 *.contextads.live CNAME .
 datingapp.live CNAME .
 *.datingapp.live CNAME .
-dawndadmark.live CNAME .
-*.dawndadmark.live CNAME .
 matomo.deskly.live CNAME .
 *.matomo.deskly.live CNAME .
 dewdropcope.live CNAME .
@@ -107761,8 +107761,6 @@ clicksor.net CNAME .
 *.clicksor.net CNAME .
 cdn.clicktale.net CNAME .
 *.cdn.clicktale.net CNAME .
-s.clicktale.net CNAME .
-*.s.clicktale.net CNAME .
 clickthru.net CNAME .
 *.clickthru.net CNAME .
 clickvalidator.net CNAME .
@@ -126861,8 +126859,6 @@ griddedwarling.top CNAME .
 *.griddedwarling.top CNAME .
 groomysirups.top CNAME .
 *.groomysirups.top CNAME .
-groutsfaham.top CNAME .
-*.groutsfaham.top CNAME .
 grtarpcf963.top CNAME .
 *.grtarpcf963.top CNAME .
 gugletkvarner.top CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jul 2024 09:46 UTC
-# Version: 2024.0706.0946.15
+# Last modified: 06 Jul 2024 14:43 UTC
+# Version: 2024.0706.1443.35
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 95450
+# Number of entries: 95452
 #
 server=/0.org/
 server=/0.to/
@@ -6755,6 +6755,7 @@ server=/agsagxgwoaqw.com/
 server=/agsbmiphaadj.com/
 server=/track.agseclink.com/
 server=/agsgovsat.com/
+server=/stats.agsmaim.it/
 server=/agt.net/
 server=/analytics.agu.org/
 server=/agvkujawbd.com/
@@ -26897,7 +26898,6 @@ server=/dawdlealmonry.com/
 server=/dawin.tv/
 server=/dawirax.com/
 server=/dawn3host.com/
-server=/dawndadmark.live/
 server=/dawnfilthscribble.com/
 server=/dawplm.com/
 server=/track.daxtracking.com/
@@ -27729,6 +27729,7 @@ server=/desireddelayaspirin.com/
 server=/desiregig.com/
 server=/wup-sec.desjardins.com/
 server=/deskfrontfreely.com/
+server=/matomo.deskline.net/
 server=/matomo.deskly.live/
 server=/track.deskparto.com/
 server=/desktoplightning.com/
@@ -39974,7 +39975,6 @@ server=/na.groupondata.com/
 server=/r.grouponmail.de/
 server=/more.groups.be/
 server=/groupsrider.com/
-server=/groutsfaham.top/
 server=/grouvuwoace.com/
 server=/grova.buzz/
 server=/grova.xyz/
@@ -53667,7 +53667,6 @@ server=/analytics.meituan.com/
 server=/analytics.meituan.net/
 server=/data-sdk-uuid-log.d.meituan.net/
 server=/dreport.meituan.net/
-server=/hreport.meituan.com/
 server=/pubmsg.meituan.com/
 server=/report.meituan.com/
 server=/cloudcollect.meitudata.com/
@@ -76748,6 +76747,7 @@ server=/skulkspreppie.com/
 server=/skulldesperatelytransfer.com/
 server=/skullhalfway.com/
 server=/skumcobpink.com/
+server=/analytics.skuola.net/
 server=/skwfupp.com/
 server=/skwstat.ru/
 server=/analytics.sky.it/
@@ -78547,7 +78547,8 @@ server=/speech-recognition.spotify.com/
 server=/surveys.spotify.com/
 server=/track.spotify.com/
 server=/spotify-desktop.com/
-server=/spotim.market/
+server=/ghb.spotim.market/
+server=/player.spotim.market/
 server=/spotlessabridge.com/
 server=/spotlessstamp.com/
 server=/spotlightmusicnj.com/
@@ -81935,6 +81936,7 @@ server=/terrapsps.com/
 server=/terratraf.com/
 server=/static.terratraf.io/
 server=/static-src.terratraf.io/
+server=/stats.terredargine.it/
 server=/terrhq.ru/
 server=/terriblethumb.com/
 server=/terrifiedcrunchspinal.com/
@@ -86577,7 +86579,6 @@ server=/tracking.unive.nl/
 server=/te.universal.at/
 server=/universalbooklet.com/
 server=/universaldatedimpress.com/
-server=/universalflashy.com/
 server=/universalflaskshrimp.com/
 server=/universalmediasolutions.net/
 server=/osimg.universalorlando.com/
@@ -95452,6 +95453,7 @@ server=/xn--n8j0la8wb3547bghe.jp/
 server=/xn--n8jwkyc7fw52nfvd.jp/
 server=/xn--ngbcrg3b.com/
 server=/xn--qrq171dxpq.com/
+server=/xn--sssy7vrppusjyv0a.com/
 server=/xn--swt207gl1hzc.net/
 server=/xn--w9q675dm1p7em.net/
 server=/xn--wgvp78a61swpe6zdozj.cn/

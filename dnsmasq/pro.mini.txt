@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jul 2024 09:15 UTC
-# Version: 2024.0706.0915.01
+# Last modified: 06 Jul 2024 14:12 UTC
+# Version: 2024.0706.1412.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 81219
+# Number of entries: 81222
 #
 local=/0.org/
 local=/0.to/
@@ -6646,6 +6646,7 @@ local=/agrvt.com/
 local=/agsagxgwoaqw.com/
 local=/agsbmiphaadj.com/
 local=/agsgovsat.com/
+local=/stats.agsmaim.it/
 local=/agt.net/
 local=/analytics.agu.org/
 local=/agvkujawbd.com/
@@ -17348,7 +17349,6 @@ local=/clicksor.net/
 local=/clicksure.com/
 local=/clicktale.com/
 local=/cdn.clicktale.net/
-local=/s.clicktale.net/
 local=/code.clicktex.ru/
 local=/s.clicktex.ru/
 local=/clickthroo.com/
@@ -23396,7 +23396,6 @@ local=/dawdlealmonry.com/
 local=/dawin.tv/
 local=/dawirax.com/
 local=/dawn3host.com/
-local=/dawndadmark.live/
 local=/dawnfilthscribble.com/
 local=/dawplm.com/
 local=/daybreakarchitecture.com/
@@ -25593,6 +25592,7 @@ local=/jdgtgb.desired.de/
 local=/desireddelayaspirin.com/
 local=/desiregig.com/
 local=/deskfrontfreely.com/
+local=/matomo.deskline.net/
 local=/matomo.deskly.live/
 local=/deslatiosan.com/
 local=/desmerveillesdeco.com/
@@ -30597,6 +30597,8 @@ local=/a8ec34052d.fb5ab8a79a.com/
 local=/fb99ef9239.com/
 local=/fba8a9ab60.com/
 local=/fbappi.co/
+local=/xy.fbcdn.net/
+local=/xz.fbcdn.net/
 local=/fbcdn2.com/
 local=/fbconversions.com/
 local=/fbd.de/
@@ -35255,7 +35257,6 @@ local=/na.groupondata.com/
 local=/r.grouponmail.de/
 local=/more.groups.be/
 local=/groupsrider.com/
-local=/groutsfaham.top/
 local=/grouvuwoace.com/
 local=/grova.buzz/
 local=/grova.xyz/
@@ -46666,7 +46667,6 @@ local=/analytics.meituan.com/
 local=/analytics.meituan.net/
 local=/data-sdk-uuid-log.d.meituan.net/
 local=/dreport.meituan.net/
-local=/hreport.meituan.com/
 local=/report.meituan.com/
 local=/cloudcollect.meitudata.com/
 local=/meitubeauty.meitudata.com/
@@ -66163,6 +66163,7 @@ local=/skulkspreppie.com/
 local=/skulldesperatelytransfer.com/
 local=/skullhalfway.com/
 local=/skumcobpink.com/
+local=/analytics.skuola.net/
 local=/skwfupp.com/
 local=/skwstat.ru/
 local=/analytics.sky.it/
@@ -67565,7 +67566,8 @@ local=/pixel.spotify.com/
 local=/pixel-static.spotify.com/
 local=/surveys.spotify.com/
 local=/spotify-desktop.com/
-local=/spotim.market/
+local=/ghb.spotim.market/
+local=/player.spotim.market/
 local=/spotlessabridge.com/
 local=/spotlessstamp.com/
 local=/spotlightmusicnj.com/
@@ -70377,6 +70379,7 @@ local=/analytics.terrapin-attack.com/
 local=/terrapsps.com/
 local=/terratraf.com/
 local=/static.terratraf.io/
+local=/stats.terredargine.it/
 local=/terriblethumb.com/
 local=/terrifiedcrunchspinal.com/
 local=/terrifyingcovert.com/
@@ -73968,7 +73971,6 @@ local=/analytics.unive.nl/
 local=/te.universal.at/
 local=/universalbooklet.com/
 local=/universaldatedimpress.com/
-local=/universalflashy.com/
 local=/universalflaskshrimp.com/
 local=/osimg.universalorlando.com/
 local=/oimg.universalorlandovacations.com/
@@ -79239,6 +79241,7 @@ local=/analytics.xn--nemark-gnstig-9eb28a.de/
 local=/xn--ngbcrg3b.com/
 local=/arabs.xn--ngbs7dg.net/
 local=/xn--qrq171dxpq.com/
+local=/xn--sssy7vrppusjyv0a.com/
 local=/xn--swt207gl1hzc.net/
 local=/xn--w9q675dm1p7em.net/
 local=/xn--wgvp78a61swpe6zdozj.cn/

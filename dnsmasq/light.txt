@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jul 2024 08:31 UTC
-# Version: 2024.0706.0831.57
+# Last modified: 06 Jul 2024 13:29 UTC
+# Version: 2024.0706.1329.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 67382
+# Number of entries: 67380
 #
 local=/0-02.net/
 local=/0008d6ba2e.com/
@@ -4023,6 +4023,7 @@ local=/tp.adsafeprotected.com/
 local=/unified.adsafeprotected.com/
 local=/vadt.adsafeprotected.com/
 local=/vafw.adsafeprotected.com/
+local=/vapixel.adsafeprotected.com/
 local=/vast.adsafeprotected.com/
 local=/vastpixel3.adsafeprotected.com/
 local=/vavideo.adsafeprotected.com/
@@ -14119,7 +14120,6 @@ local=/clicksor.net/
 local=/clicksure.com/
 local=/clicktale.com/
 local=/cdn.clicktale.net/
-local=/s.clicktale.net/
 local=/code.clicktex.ru/
 local=/s.clicktex.ru/
 local=/clickthroo.com/
@@ -19498,7 +19498,6 @@ local=/dawdlealmonry.com/
 local=/dawin.tv/
 local=/dawirax.com/
 local=/dawn3host.com/
-local=/dawndadmark.live/
 local=/dawnfilthscribble.com/
 local=/dawplm.com/
 local=/daybreakarchitecture.com/
@@ -30015,7 +30014,6 @@ local=/na.groupondata.com/
 local=/r.grouponmail.de/
 local=/more.groups.be/
 local=/groupsrider.com/
-local=/groutsfaham.top/
 local=/grova.buzz/
 local=/grova.xyz/
 local=/grow1maid.com/
@@ -39799,7 +39797,6 @@ local=/analytics.meituan.com/
 local=/analytics.meituan.net/
 local=/data-sdk-uuid-log.d.meituan.net/
 local=/dreport.meituan.net/
-local=/hreport.meituan.com/
 local=/report.meituan.com/
 local=/cloudcollect.meitudata.com/
 local=/meitubeauty.meitudata.com/
@@ -65673,6 +65670,7 @@ local=/ngbcrg3b.xn--ngbcrg3b.com/
 local=/nope.xn--ngbcrg3b.com/
 local=/arabs.xn--ngbs7dg.net/
 local=/xn--qrq171dxpq.com/
+local=/xn--sssy7vrppusjyv0a.com/
 local=/xn--swt207gl1hzc.net/
 local=/xn--w9q675dm1p7em.net/
 local=/xn--wgvp78a61swpe6zdozj.cn/
