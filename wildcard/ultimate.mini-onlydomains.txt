@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Jul 2024 03:35 UTC
-# Version: 2024.0707.0335.15
+# Last modified: 07 Jul 2024 10:21 UTC
+# Version: 2024.0707.1021.16
 # Syntax: Domains (without subdomains)
-# Number of entries: 103687
+# Number of entries: 103733
 #
 0.org
 0.to
@@ -335,6 +335,7 @@ sentry.101soundboards.com
 103bees.com
 1040movie.com
 1040taxbiz.com
+105.pl
 105lenzkubachjohnson.com
 105thehive.org
 106515.com
@@ -6753,6 +6754,7 @@ aglurj.com
 agma-analytics.de
 analytics.agma-mmc.de
 agmed.cyou
+agmu.ru
 alexa-rank-tracker.agoda.com
 analytic.agoda.com
 analytics.agoda.com
@@ -9646,6 +9648,7 @@ amazonl3.com
 amazonlogistics.jp
 go.amazonsellerservices.com
 global.cmcs.service.amazonsilk.com
+amazonvillage.net
 metrics.amazonworkdocs.com
 ambacam-madrid.com
 analytics.ambassadorcruiseline.com
@@ -11991,7 +11994,6 @@ aroundridicule.com
 aroundthe-world.info
 arouth.com
 arpeely.com
-arpg2.com
 arpun.com
 arqsafhutlam.com
 arqvm.cn
@@ -13934,6 +13936,7 @@ b2directpush.com
 b2e0073814.com
 b2pk.com
 b2ujcm.com
+b2x.com
 b30674b49e.com
 b37r5.cyou
 b397db8f50.com
@@ -14106,7 +14109,6 @@ baconaces.pro
 baconbedside.com
 ime-ad-reporter.badambiz.com
 badassjv.com
-badayscase.live
 badb5refl.com
 metrics.badboys.movie
 piwik.baden-wuerttemberg.de
@@ -14430,6 +14432,7 @@ smetrics.bamboohr.com
 telemetry.bamboohr.com
 tracking.bamboohr.com
 ubuntu-telemetry-free-privacy-secure.bamboohr.com
+stg-monitor-gateway.bambooship.vn
 bambun.ru
 sentry.bambuser.com
 telemetry.bambuser.io
@@ -14679,6 +14682,7 @@ basaarf.com
 posthog.basalam.com
 sentry.basalam.com
 basanrodham.top
+monitoring.basato.vn
 aec-target.base.be
 metric.base.org
 metrics.base.be
@@ -15459,6 +15463,7 @@ bertelsmann-stif-tung.de
 bertrammontleymontleyexists.com
 berush.com
 berylnbb.com
+monitoring.besa.vn
 besaieltense.com
 besandileer.com
 besandileom.com
@@ -16261,6 +16266,7 @@ analytics-statistics.bingotom.com
 analytics-update.bingotom.com
 bingstyle.com
 trk.bingyuegame.com
+grafana.binhlv.online
 binibeetfly.com
 binlayer.com
 binoads.ir
@@ -21564,6 +21570,7 @@ tagmanager1.citibankonline.com
 tagmanager1.citicards.com
 tracker.citicsinfo.com
 citicso.com
+monitor.citilink.vn
 a.citiservi.es
 ctx.citiservi.es
 dmp.citiservi.es
@@ -23965,6 +23972,7 @@ track.cloudpapers032.com
 cloudpsh.top
 analytics.cloudquery.io
 cloudrail.com
+monitor.cloudsec101.com
 analytics.cloudshare.com
 cloudsonicwave.com
 analytics.cloudspinx.com
@@ -24055,6 +24063,8 @@ mbads.paas.cmbchina.com
 cmbmtpjm.xyz
 track.cmcassets.com
 track-latency.cmcassets.com
+haibatrung.cmccybersecurity.com
+soc-gr.cmccybersecurity.com
 cmcglr.com
 stats.cmcigroup.com
 cmclean.club
@@ -25965,6 +25975,7 @@ stmetrics.bbva.com.co
 smetrics.bbvanet.com.co
 smetrics.bbvanet.com.mx
 bdoaustralia.bdo.com.au
+monitoring.besa.com.vn
 metrics.bestrecipes.com.au
 sentry.bestway.com.ua
 graphs.betfair.com.au
@@ -26070,6 +26081,8 @@ tr.discuss.com.hk
 wywvyf.discuss.com.hk
 aff-tracking.dkt.com.vn
 p1-ad.adukwai.com.cdn.dnsv1.com.cn
+delivery.doisongphapluat.com.vn
+track.doisongphapluat.com.vn
 metrics.dominos.com.tr
 domob.com.cn
 dot2dot.com.my
@@ -26239,6 +26252,7 @@ hacker.com.cn
 stats.halktv.com.tr
 hauchi.com.tw
 hawkeasia.com.sg
+grafana.hbc.com.vn
 hcsnet.com.br
 ads.health.com.kh
 analytic-api.heb.com.mx
@@ -26418,7 +26432,6 @@ analytics.mercadolivre.com.br
 dejavu.mercadolivre.com.br
 matt.mercadolivre.com.br
 pmstrk.mercadolivre.com.br
-smartad.mercadolivre.com.br
 ssl-analytics.mercadolivre.com.br
 tracker-test.mercadolivre.com.br
 analytics.mercadopago.com.ar
@@ -26442,6 +26455,7 @@ metrics.com.com
 metrics.com.tm
 c.metrike.com.br
 track.meudimdim.com.br
+monitoring.micro-tech.com.vn
 midiamail.com.br
 affiliate.migros.com.tr
 b-cdn.milliyet.com.tr
@@ -26493,6 +26507,7 @@ somni.nine.com.au
 nlink.com.br
 aws-analytics.nmg.com.hk
 matomo.nmg.com.hk
+grafana.nms.com.vn
 nobeta.com.br
 nossaquemaravilhoso.com.br
 tracker.novage.com.ua
@@ -26608,6 +26623,7 @@ smetrics.racv.com.au
 track-my-patrol.racv.com.au
 track.radaro.com.au
 track.comms.radiusfuelcards.com.my
+grafana.raffles.com.vn
 insight.rakuten.com.hk
 insight.rakuten.com.my
 insight.rakuten.com.ph
@@ -26792,6 +26808,7 @@ techsolutions.com.tw
 teho.com.sg
 ads.telma.com.mk
 analytics-tools.telstra.com.au
+monitoring.thacoagri.com.vn
 metrics.theaustralian.com.au
 analytics.thegoodguys.com.au
 analytics.aws.theiconic.com.au
@@ -29302,6 +29319,7 @@ sync.cxrt.life
 execution-360-cicolusp.cxtrvl.com
 cxtvli.com
 cxwsqv.com
+cy.tc
 res.al-hiwar.com.cy-isp.com
 vs5.wshareit.com.cy-isp.com
 tb10001new.yqproject.com.cy-isp.com
@@ -30530,6 +30548,7 @@ dcntr-ads.com
 ea.dcshoes-europe.com
 trk.dcstatesman.com
 dcsxv.com
+monitoring.dctsolutions.io
 smetrics.dcu.org
 dcuofvqwuo.com
 dcvefz.xyz
@@ -30579,6 +30598,7 @@ ddns.name
 ddns.us
 ofornta.ddns.net
 profield.ddns.net
+monitor.huyhome.ddnsfree.com
 ddnslive.com
 webm.b64c611.ddnss.eu
 ddnzpr.xyz
@@ -34698,6 +34718,7 @@ eelempee.xyz
 eellikeconcio.top
 eelroave.xyz
 eemsalsumtik.com
+een.si
 eenbies.com
 sentry.eencloud.com
 eephaush.com
@@ -35169,6 +35190,7 @@ elfsight.com
 ccztgy.elgiganten.dk
 elgust.com
 elicaowl.com
+grafana.k.elidev.info
 eligiblecompetitive.com
 metrics.adm.elini.net
 metrics.mysql9-s3org.adm.elini.net
@@ -35922,6 +35944,7 @@ epipialbeheira.com
 dl.episerver.net
 trackers.peerius.episerver.net
 ad.eplus.de
+epmads.com
 matomo.epo.org
 ea.epochbase.com
 epochlookout.com
@@ -35975,6 +35998,7 @@ equantum.com
 equation-of-happiness.com
 equatorabash.com
 equatorroom.com
+monitoring.equest.vn
 stats.equi-score.com
 analytics.equicarehealth.com
 awap.equifax.com
@@ -36133,6 +36157,7 @@ escortredzones.com
 escortsecret.com
 esculicturbans.com
 esculinconsent.top
+esdebian.org
 esdorado.com
 esearchvision.com
 stats.esecured.net
@@ -36618,6 +36643,7 @@ cf-eba.everytime.kr
 piwik.everzones.com
 evey.live
 analytics.evgcdn.net
+monitor.evgcloud.net
 evgnet.com
 sentry.ops.evgo.com
 sentry.evgo.com
@@ -37282,6 +37308,7 @@ f1tfmxzg.icu
 f22440fb7b.com
 f224b87a57.com
 f23al.xyz
+grafana.f247.com
 90e78be4ad.f250b37f9e.com
 f27386cec2.com
 f27tltnd.de
@@ -39232,6 +39259,7 @@ smetrics.fnac.be
 smetrics.fnac.com
 smetrics.fnac.pt
 matomo.fnaim.fr
+fnam.pt
 fnasmpygwa.com
 fnavigate-now.com
 fnaycb.com
@@ -39781,7 +39809,11 @@ smetrics.fpl.com
 fpnpmcdn.net
 fpop.net
 statistics.fppressa.ru
+alerts.irisbotchattest.soc.fpt.net
+grafana.fpt-blockchain-lab.com
+grafana-testnet.fpt-blockchain-lab.com
 fptbdr.xyz
+monitor-stg.fci.fmon.fptcloud.com
 fptdxkm.com
 fptls.com
 fptls2.com
@@ -42855,7 +42887,6 @@ gnezdo.ru
 gnezdo2.ru
 analytics.gngn.at
 gniew.xyz
-gnjxesyfensbh.com
 gnnnzxuzv.com
 tracker.gnome.org
 webstats.gnome.org
@@ -44288,6 +44319,7 @@ smetrics.tfl.gov.uk
 tracker.gov.pl
 analytics.trai.gov.in
 analytics.transportes.gov.br
+tracking.tuyenquang.gov.vn
 matomo.www.gov.pl
 stat.www.gov.cn
 xj-n-tax.gov.cn
@@ -51724,6 +51756,7 @@ tracker.jabama.com
 sentry.jablotron.cloud
 jabmascarastorey.com
 jabmo.app
+jabourrealty.com
 analytics-xpress.jabra.com
 jacabcolrta.com
 jacappsdata.com
@@ -53159,6 +53192,8 @@ kameleoon.net
 kami-ch.com
 kamidroons.com
 kamikazi.info
+analytics.kamimind.ai
+monitoring.kamimind.ai
 kaminari.click
 kaminari.space
 kaminari.systems
@@ -53623,6 +53658,7 @@ khabarpress.com
 trk.khaleejtimes.com
 khanate.pro
 khanjeeyapness.website
+dashboard.khaothi.online
 adv.resto.kharkov.ua
 khatexcepeded.info
 khbutla.cc
@@ -55786,6 +55822,7 @@ lewebfacilement.com
 lewhrzv.xyz
 lewiooz.cn
 adserver.lewisclarkbluegrass.com
+monitoring.lexcentra.vn
 tag.lexer.io
 track.lexer.io
 lexicoggeegaw.website
@@ -58461,6 +58498,7 @@ track.mailerlite.com
 matomo.mailfance.com
 mailfdf.com
 mailflow-mails.de
+roundcube-production-cf.tx1.mailhostbox.com
 tracking.mailingdemo.net
 mailkit.eu
 maillist-manage.com
@@ -60356,7 +60394,6 @@ h5.tv.mi.com
 union.mi.com
 stat.youpin.mi.com
 resolver.gslb.mi-idc.com
-cdn.awsde0-fusion.fds.api.mi-img.com
 matomo.mi-mgs.com
 mi-shop.shop
 mi62r416j.com
@@ -61955,6 +61992,7 @@ momntly.com
 momoguoji.xyz
 trk.mgs.momondo.com
 mon-pagerank.com
+monitoring.mona.host
 web-analytics.mona.host
 monacharabbler.website
 hqk3.monaco.edu
@@ -64957,7 +64995,6 @@ nexalzayins.com
 nexd.com
 nexeps.com
 metrics.nexhealth.info
-nexi-web.com
 metrics.nexmo.com
 smetrics.nexmo.com
 analytics.nexon.com
@@ -65370,6 +65407,7 @@ niuaniua.com
 niubixxx.com
 i.niupic.com
 niuza.com
+gf.check.nivacloud.net
 nivungauru.com
 r.niwepa.com
 niwluvepisj.site
@@ -65827,6 +65865,7 @@ nounrespectively.com
 noupooth.com
 noureewo.com
 metrics.nouriassociates.com
+nouris.gr
 nourishinghorny.com
 nourishmentrespective.com
 sentry.nousdigital.com
@@ -66228,6 +66267,7 @@ assets.nvidiagrid.net
 nvjqtz.xyz
 nvlalpfft.com
 nvougpk.com
+monitoring.nvtienanh.info
 nvvqrv.xyz
 tracking.nw.de
 axp.nwahomepage.com
@@ -68020,6 +68060,7 @@ sre-metric-es-shared-frankfurt.eu.opsgenie.com
 sre-metric-es-shared-ireland.eu.opsgenie.com
 metric-es-api.opsgenie.com
 xid.opsgenie.com
+dcmonitor.opsgreat.vn
 opsiters.com
 opsktp.com
 opsoomet.net
@@ -69002,7 +69043,6 @@ owwdigogsact.com
 owwogmlidz.com
 owyame.xyz
 ox-bio.com
-ox11.com
 ox4h1dk85.com
 oxado.com
 oxbaflobdo.com
@@ -70936,6 +70976,7 @@ phussockest.com
 phvfevk.xyz
 phwrju.xyz
 mobilecontent.networks.prod.p0.phx-infra.com
+monitor.phx-smartuni.com
 telemetry.phxservices.net
 phygilkkyas.com
 phymasfacks.com
@@ -75100,6 +75141,7 @@ quintelligence.com
 quinuaknife.com
 tracker.quinyx.com
 analytics.quip.com
+ifyufyujk.quip.com
 analytics-api.quipuswap.com
 quiq-api.com
 quiq-cdn.com
@@ -76640,6 +76682,7 @@ relategist.com
 analytics.relateiq.com
 app.relateiq.com
 relatelocateapology.com
+monitoring.relationc.com
 relationrest.com
 matomo.relationshop.net
 track1.relationshop.net
@@ -77809,7 +77852,6 @@ robloxclaim.com
 robloxlabs.com
 track.robly.com
 trk.robly.com
-robmenbusy.live
 analytics.robocleanerapp.com
 telemetry.robocorp.com
 sbc-analytics.robokiller.com
@@ -81599,7 +81641,6 @@ tracking.shopifysvc.com
 tracking-staging.shopifysvc.com
 1.shopifytrack.com
 iss.shopimind.com
-shopindiancart.in
 shopkellygaming.vn
 app.shopkick.com
 kicks.shopkick.com
@@ -81894,6 +81935,7 @@ sierrasectormacaroni.com
 analytics.sieuviet.services
 sieveallegeministry.com
 analytics.sievo.com
+grafana.sifadns.net
 sifakaoshi360.com
 sifenews.com
 sifjfirunmi.com
@@ -84805,6 +84847,7 @@ spaceleadster.com
 analytics.spacelift.io
 stats.spacematchok.com
 admin.spacenine.biz
+monitor.spaceone.vn
 spacepools.org
 spaceshipgenuine.com
 spacetraff.com
@@ -86971,6 +87014,7 @@ analytics.superpal.com
 stores-analytics.superpal.com
 superpcexpert.ru
 superpointlesshamsters.com
+grafana.superprep.net
 superpromo24.de
 supersedeowetraumatic.com
 superservercellarchin.com
@@ -88343,6 +88387,7 @@ tatsumi-sys.jp
 tattoocommit.com
 tatvayog.com
 tatyboy.top
+dashboard.tau-alpha-iota.com
 tauaddy.com
 taucaphoful.net
 taughtwandamazingly.com
@@ -92633,6 +92678,7 @@ client-metrics.truv.com
 stg.truvidplayer.com
 truxalsl.com
 analytics.truyen-hentai.com
+monitoring.truyenthanhso.com
 trvdp.com
 trvelocity.com
 trvl-px.com
@@ -92762,7 +92808,6 @@ tu2024020388.com
 tua.university
 ad-mediation.tuanguwen.com
 word-v1.tuanguwen.com
-tubadthy.live
 t.tubantia.nl
 tube.ac
 tube2011.com
@@ -94709,7 +94754,6 @@ analytics-api.usebounce.com
 analytics-cdn.usebounce.com
 usebutton.com
 usechimney.com
-used-particular.com
 usefathom.com
 usefirefly.com
 usefomo.com
@@ -96791,6 +96835,7 @@ sacombankvisa.vnfiba.com
 tracking.vng.nl
 sentry.vnggames.net
 vn.vnhao123.xyz
+monitoring.vnmedic.vn
 tracking.vnncdn.net
 tracking3.vnncdn.net
 vnomm.com
@@ -103634,6 +103679,7 @@ zxtuqpiu.skin
 zxwnlg.com
 track.zxxass.com
 zxyc1688.com
+zyb.ac
 zybbiez.com
 zybrdr.com
 zybu.ru

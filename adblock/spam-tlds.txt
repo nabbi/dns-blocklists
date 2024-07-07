@@ -9,10 +9,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 07 Jul 2024 01:39 UTC
-! Version: 2024.0707.0139.23
+! Last modified: 07 Jul 2024 10:33 UTC
+! Version: 2024.0707.1033.02
 ! Syntax: AdGuard
-! Number of latin TLDs: 239 - punycode TLDs: 151
+! Number of latin TLDs: 238 - punycode TLDs: 151
 !
 ||*.af^$denyallow=google.com.af
 ||*.africa^
@@ -47,7 +47,6 @@
 ||*.careers^
 ||*.casa^
 ||*.cash^
-||*.cd^$denyallow=google.cd
 ||*.center^
 ||*.cf^$denyallow=acap.cf|google.cf
 ||*.cfd^$denyallow=frcoal.cfd|freedium.cfd
@@ -59,7 +58,7 @@
 ||*.claims^
 ||*.click^
 ||*.clothing^
-||*.club^$denyallow=reolink.club
+||*.club^$denyallow=pdfmagazines.club|reolink.club
 ||*.cm^$denyallow=google.cm
 ||*.computer^
 ||*.cool^
@@ -110,7 +109,7 @@
 ||*.green^
 ||*.gs^$denyallow=airthin.gs
 ||*.guide^
-||*.guru^$denyallow=bahn.guru|crontab.guru|greenlight.guru|jav.guru|webcal.guru
+||*.guru^$denyallow=bahn.guru|crontab.guru|greenlight.guru|jav.guru|mags.guru|webcal.guru
 ||*.gw^
 ||*.hair^
 ||*.haus^

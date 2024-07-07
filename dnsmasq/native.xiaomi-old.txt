@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 30 Jun 2024 23:05 UTC
-# Version: 2024.0630.2305.04
+# Last modified: 07 Jul 2024 05:57 UTC
+# Version: 2024.0707.0557.48
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 353
+# Number of entries: 352
 #
 server=/api.cupid.ptqy.gitv.tv/
 server=/config.kuyun.com/
@@ -32,7 +32,6 @@ server=/h5.tv.mi.com/
 server=/a.union.mi.com/
 server=/stat.youpin.mi.com/
 server=/resolver.gslb.mi-idc.com/
-server=/cdn.awsde0-fusion.fds.api.mi-img.com/
 server=/miui.net/
 server=/app.miui.com/
 server=/assistant.miui.com/
