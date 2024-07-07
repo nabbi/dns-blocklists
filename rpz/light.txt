@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1720341120 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1720362300 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Jul 2024 08:32 UTC
-; Version: 2024.0707.0832.24
+; Last modified: 07 Jul 2024 14:25 UTC
+; Version: 2024.0707.1425.11
 ; Syntax: RPZ
-; Number of entries: 134848
+; Number of entries: 134846
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -32097,8 +32097,6 @@ oms.dowjoneson.com CNAME .
 *.oms.dowjoneson.com CNAME .
 downiestatistics.com CNAME .
 *.downiestatistics.com CNAME .
-downladingsite.com CNAME .
-*.downladingsite.com CNAME .
 download-adblock-zen.com CNAME .
 *.download-adblock-zen.com CNAME .
 download-adblock360.com CNAME .
@@ -34571,8 +34569,6 @@ epilreoffer.com CNAME .
 *.epilreoffer.com CNAME .
 epipialbeheira.com CNAME .
 *.epipialbeheira.com CNAME .
-epmads.com CNAME .
-*.epmads.com CNAME .
 ea.epochbase.com CNAME .
 *.ea.epochbase.com CNAME .
 epochlookout.com CNAME .
@@ -46309,8 +46305,6 @@ infolinks.com CNAME .
 *.infolinks.com CNAME .
 analytics.infomaniak.com CNAME .
 *.analytics.infomaniak.com CNAME .
-infomobilhonda.com CNAME .
-*.infomobilhonda.com CNAME .
 infopicked.com CNAME .
 *.infopicked.com CNAME .
 pages.intelligence.informa.com CNAME .
@@ -83003,6 +82997,8 @@ tunnl.com CNAME .
 *.tunnl.com CNAME .
 tupian6666.com CNAME .
 *.tupian6666.com CNAME .
+tupian9999.com CNAME .
+*.tupian9999.com CNAME .
 tupwiwm.com CNAME .
 *.tupwiwm.com CNAME .
 turbanconstituent.com CNAME .
@@ -90515,6 +90511,10 @@ xxxwebtraffic.com CNAME .
 *.xxxwebtraffic.com CNAME .
 xxxx68xxxx.com CNAME .
 *.xxxx68xxxx.com CNAME .
+xxxx88xxxx.com CNAME .
+*.xxxx88xxxx.com CNAME .
+xxxx96xxxx.com CNAME .
+*.xxxx96xxxx.com CNAME .
 xy.com CNAME .
 *.xy.com CNAME .
 xy-z6goo-xyz.com CNAME .
@@ -97441,6 +97441,8 @@ doubleclick.host CNAME .
 *.doubleclick.host CNAME .
 gus.host CNAME .
 *.gus.host CNAME .
+web-analytics.mona.host CNAME .
+*.web-analytics.mona.host CNAME .
 playstretch.host CNAME .
 *.playstretch.host CNAME .
 portmap.host CNAME .
@@ -104595,14 +104597,10 @@ aptpurerun.live CNAME .
 *.aptpurerun.live CNAME .
 arkmedboo.live CNAME .
 *.arkmedboo.live CNAME .
-assadbee.live CNAME .
-*.assadbee.live CNAME .
 log.bloodsugars.live CNAME .
 *.log.bloodsugars.live CNAME .
 bowcoolstop.live CNAME .
 *.bowcoolstop.live CNAME .
-bulkehhand.live CNAME .
-*.bulkehhand.live CNAME .
 bumlabhurt.live CNAME .
 *.bumlabhurt.live CNAME .
 burnshipfail.live CNAME .
