@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Jun 2024 23:13 UTC
-# Version: 2024.0604.2313.29
+# Last modified: 06 Jul 2024 23:07 UTC
+# Version: 2024.0706.2307.22
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 245
+# Number of entries: 242
 #
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
@@ -52,8 +52,6 @@
 0.0.0.0 applog.snssdk.com
 0.0.0.0 bds.snssdk.com
 0.0.0.0 extlog.snssdk.com
-0.0.0.0 gecko-hl.snssdk.com
-0.0.0.0 gecko-lq.snssdk.com
 0.0.0.0 haohuo.snssdk.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 log-hl.snssdk.com
@@ -75,7 +73,6 @@
 0.0.0.0 temai.snssdk.com
 0.0.0.0 tobapplog.snssdk.com
 0.0.0.0 toblog.snssdk.com
-0.0.0.0 toutiao-frontier.snssdk.com
 0.0.0.0 tsearch.snssdk.com
 0.0.0.0 ug.snssdk.com
 0.0.0.0 vas-hl-x.snssdk.com
