@@ -1,0 +1,182 @@
+# Domains to be added only to the pro, pro++ and ultimate list.
+#
+# RULES:
+#  - One domain per line
+#  - The domain should not already be included
+#  - The domain should not be dead 
+#  - If necessary, please leave a comment before the added domains. Comments must start with #.
+#  - Please insert domains under the comment BEGIN. 
+#  - Please ensure that there is a blank line before and after the inserted text block.
+
+# BEGIN
+
+# https://github.com/hagezi/dns-blocklists/issues/3010
+a.ns.xy.fbcdn.net
+netseer-ipaddr-assoc.xy.fbcdn.net
+netseer-ipaddr-assoc.xz.fbcdn.net
+netseer.xy.fbcdn.net
+netseer.xz.fbcdn.net
+ns.xy.fbcdn.net
+sonar6.xy.fbcdn.net
+traffic-nts-ip-assoc.xy.fbcdn.net
+traffic-nts-ip-assoc.xz.fbcdn.net
+xy.fbcdn.net
+xz.fbcdn.net
+
+# https://github.com/hagezi/dns-blocklists/issues/2900
+auditrecording-pa.googleapis.com
+gvt3.com
+# Moved from Ultimate
+analyticsinsights-pa.googleapis.com
+analyticsmobile-pa.googleapis.com
+analyticssearch-pa.googleapis.com
+clienttracing-pa.googleapis.com
+content-analyticsadmin.googleapis.com
+content-analyticsdata.googleapis.com
+content-analyticsreporting.googleapis.com
+footprints-pa.googleapis.com
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2179314278
+analyticsadmin.googleapis.com
+analyticsdata.googleapis.com
+analyticshub.googleapis.com
+analyticsreporting.googleapis.com
+
+# Lock designated content with survey. "Install ... to get the download link" 
+unlockcontent.net
+unlock-content.net
+
+# https://github.com/hagezi/dns-blocklists/issues/2676
+# https://github.com/hagezi/dns-blocklists/issues/2791
+# https://github.com/hagezi/dns-blocklists/issues/2803
+ads.nonprod.webservices.mozgcp.net
+ads.prod.webservices.mozgcp.net
+aggregates.telemetry.mozilla.org
+alerts.telemetry.mozilla.org
+analysis-output.telemetry.mozilla.org
+analysis.telemetry.mozilla.org
+anonymco.com
+contile-images.services.mozilla.com
+contile.services.mozilla.com
+crash-analysis.mozilla.com
+crash-reports-xpsp2.mozilla.com
+crash-reports-xpsp2s.mozilla.com
+crash-reports.allizom.org
+crash-reports.build.mozilla.org
+crash-reports.maven.mozilla.org
+crash-reports.mozilla.com
+crash-reports.nightly.mozilla.org
+crash-reports.security.mozilla.org
+crash-reports.stage.mozilla.com
+crash-stacks.mozilla.com
+crash-stats-dev.allizom.org
+crash-stats-django.allizom.org
+crash-stats-django.mozilla.org
+crash-stats-new-dev.allizom.org
+crash-stats.allizom.org
+crash-stats.mozilla.com
+crash-stats.mozilla.org
+crash-stats.stage.mozilla.com
+crash.addons.mozilla.org
+crash.mozilla.com
+crash.planet.mozilla.org
+crash.reporting.build.mozilla.org
+crash.reporting.mozilla.org
+crash.reporting.planet.mozilla.org
+crash.reporting.svn.mozilla.org
+crash.services.mozilla.com
+crash.svn.mozilla.org
+crash.vpn.mozilla.org
+crashplan.addons.mozilla.org
+crashplan.planet.mozilla.org
+crashplan.svn.mozilla.org
+crashplan.vpn.mozilla.org
+crashstats.mozilla.com
+dataops.mozgcp.net
+dictionary.telemetry.mozilla.org
+docs.telemetry.mozilla.org
+firefox-android-home-recommendations.getpocket.com
+fls.merino.services.mozilla.com
+fxos.telemetry.mozilla.org
+gkegw.prod.ads.prod.webservices.mozgcp.net
+glam.telemetry.mozilla.org
+gud.telemetry.mozilla.org
+incoming.telemetry.mozilla.org
+iodide.telemetry.mozilla.org
+mars.prod.ads.prod.webservices.mozgcp.net
+mars.stage.ads.nonprod.webservices.mozgcp.net
+missioncontrol.telemetry.mozilla.org
+mware.socorro.stage.webapp.sjc1.mozilla.com
+normandy-cdn.services.mozilla.com
+normandy-devtools.services.mozilla.com
+normandy.cdn.mozilla.net
+normandy.services.mozilla.com
+pocket-proxy.prod.ads.prod.webservices.mozgcp.net
+probeinfo.telemetry.mozilla.org
+probes.telemetry.mozilla.org
+prod.ads.prod.webservices.mozgcp.net
+public-data.telemetry.mozilla.org
+reports.telemetry.mozilla.org
+snippets-prod.frankfurt.moz.works
+snippets-prod.moz.works
+snippets-stage.moz.works
+snippets-stage.oregon-b.moz.works
+snippets.allizom.org
+snippets.cdn.mozilla.net
+snippets.mozilla.com
+socorro-collector.services.mozilla.com
+socorro-mware-stage-zlb.webapp.phx1.mozilla.com
+socorro-mware-zlb.webapp.phx1.mozilla.com
+socorro-webapp-allizom.stage.mozaws.net
+socorro-webapp.services.mozilla.com
+socorro.services.mozilla.com
+spocs.getpocket.com
+sql.telemetry.mozilla.org
+stage.ads.nonprod.webservices.mozgcp.net
+telemetry-coverage.mozilla.com
+telemetry-coverage.mozilla.org
+telemetry-coverage.r53-2.services.mozilla.com
+telemetry-coverage.services.mozilla.com
+telemetry-dash.mozilla.org
+telemetry-data.mozilla.com
+telemetry-data.r53-2.services.mozilla.com
+telemetry-experiment-dev.allizom.org
+telemetry-incoming.mozilla.com
+telemetry-incoming.r53-2.services.mozilla.com
+telemetry-incomings.mozilla.com
+telemetry.addons.mozilla.org
+telemetry.mozilla.com
+telemetry.mozilla.org
+telemetry.planet.mozilla.org
+telemetry.svn.mozilla.org
+telemetry.vpn.mozilla.org
+tiles-cdn.prod.ads.prod.webservices.mozgcp.net
+topsites.services.mozilla.com
+workflow.telemetry.mozilla.org
+
+# https://github.com/hagezi/dns-blocklists/issues/2733
+stripchat.com
+stripchat.global
+stripchat.red
+strip.chat
+
+# https://github.com/hagezi/dns-blocklists/issues/2725
+onlyscoop.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2724
+cambash.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2721
+strpst.com
+doppiocdn.net
+
+# https://github.com/hagezi/dns-blocklists/issues/2719
+swim-in-place.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2718
+hupuza.com
+
+# EA Error Log
+collector.errors.ea.com
+a-collector.errors.ea.com
+
+# END

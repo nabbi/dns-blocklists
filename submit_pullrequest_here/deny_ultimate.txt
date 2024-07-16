@@ -1,0 +1,92 @@
+# Domains to be added only to the ultimate list.
+#
+# RULES:
+#  - One domain per line
+#  - The domain should not already be included
+#  - The domain should not be dead 
+#  - If necessary, please leave a comment before the added domains. Comments must start with #.
+#  - Please insert domains under the comment BEGIN. 
+#  - Please ensure that there is a blank line before and after the inserted text block.
+
+# BEGIN
+
+# https://github.com/hagezi/dns-blocklists/issues/3166
+fscdn.eppo.cloud
+
+# https://github.com/hagezi/dns-blocklists/issues/3006
+device-api.urbanairship.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2945
+basicattentiontoken.org
+creators.brave.com
+publishers.brave.com
+rewards.brave.com
+rewards.brave.software
+rewards.bravesoftware.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2900
+datasaver.googleapis.com
+feedback-pa.googleapis.com
+feedback-pa.clients6.google.com
+locationhistory-pa.googleapis.com
+locationhistoryaggregates-pa.googleapis.com
+searchpromo-pa.googleapis.com
+searchlabspartnerservice-pa.googleapis.com
+xgapromomanager-pa.googleapis.com
+glsfrontend-pa.googleapis.com
+localservices.googleapis.com
+scone-pa.clients6.google.com
+scone-pa.googleapis.com
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2179224519
+lamssettings-pa.googleapis.com
+infinitedata-pa.googleapis.com
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2179314278
+audit.googleapis.com
+appenginereporting.googleapis.com
+chromeuxreport.googleapis.com
+cloudaudit.googleapis.com
+cloudlatencytest.googleapis.com
+cloudprofiler.googleapis.com
+cloudtrace.googleapis.com
+content-partnersbadge-pa.googleapis.com
+dfareporting.googleapis.com
+doubleclickbidmanager.googleapis.com
+doubleclicksearch.googleapis.com
+federatedcompute-pa.googleapis.com
+firebasepredictions.googleapis.com
+firewallinsights.googleapis.com
+gapromomanager-pa.googleapis.com
+xgapromomanager-pa.googleapis.com
+logging.googleapis.com
+marketingplatformadmin.googleapis.com
+meshtelemetry.googleapis.com
+mobilenetworkscoring-pa.googleapis.com
+monitoring.googleapis.com
+pagespeedmobilizer.com
+pagespeedonline.googleapis.com
+partners-json.googleapis.com
+recommendationengine.googleapis.com
+recommender.googleapis.com
+stackdriver.googleapis.com
+surveys.googleapis.com
+tagmanager.googleapis.com
+timeseriesinsights.googleapis.com
+wirelessdevicestats.googleapis.com
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2187152126
+tracedepot-pa.googleapis.com
+
+# Already blocked via the base domains in the build DB
+geomobileservices-pa.googleapis.com
+playmoviesdfe-pa.googleapis.com
+semanticlocation-pa.googleapis.com
+userlocation.googleapis.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2730
+lf-cdn-tos.bytescm.com
+
+log.tailscale.io
+
+# https://github.com/hagezi/dns-blocklists/issues/2520
+a.klaviyo.com
+
+# END
