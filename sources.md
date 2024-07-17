@@ -417,6 +417,7 @@ https://www.auktionshilfe.info/thread/20469-ver%C3%B6ffentlichung-von-fakeshops-
 https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.data.gouv.fr/fr/datasets/r/d2d9df6d-1cd2-41a8-96f5-684cb3057ecb
 https://www.domcop.com/files/top/top10milliondomains.csv.zip
+https://www.globalantiscam.org/scam-websites
 https://www.i-dont-care-about-cookies.eu/abp/
 https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
