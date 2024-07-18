@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 17 Jul 2024 21:35 UTC
-! Version: 2024.0717.2135.35
+! Last modified: 18 Jul 2024 08:43 UTC
+! Version: 2024.0718.0843.35
 ! Syntax: uBlock
 ! Number of latin TLDs: 187 - non-latin TLDs: 151
 !
@@ -22,27 +22,27 @@
 ||baby^$doc
 ||bank^$doc
 ||bar^$doc,domain=~fap.bar
-||beauty^$doc,domain=~homelab.beauty|~vipbj.beauty
+||beauty^$doc,domain=~vipbj.beauty
 ||best^$doc,domain=~epg.best
 ||bet^$doc
 ||bid^$doc
 ||bike^$doc
 ||bingo^$doc
 ||bio^$doc
-||biz^$doc,domain=~beiniz.biz|~bonial.biz|~cloudns.biz|~cyberciti.biz|~dzeta.biz|~epson.biz|~iimwf.biz|~localise.biz|~luckysbarbershop.biz|~movabletype.biz|~panasonic.biz|~slussen.biz|~wyborcza.biz|~yoox.biz
+||biz^$doc,domain=~beiniz.biz|~bonial.biz|~cloudns.biz|~cyberciti.biz|~epson.biz|~iimwf.biz|~localise.biz|~luckysbarbershop.biz|~movabletype.biz|~panasonic.biz|~slussen.biz|~wyborcza.biz|~yoox.biz
 ||boats^$doc
 ||bond^$doc
 ||boo^$doc
 ||boston^$doc
 ||boutique^$doc
-||buzz^$doc,domain=~allthe.buzz|~awful.buzz|~cliq.buzz|~montpellier.buzz|~sideb.buzz|~williamsonday.buzz
+||buzz^$doc,domain=~sideb.buzz
 ||cam^$doc
 ||capital^$doc,domain=~scalable.capital
 ||careers^$doc
 ||casa^$doc,domain=~nabu.casa
 ||cash^$doc
 ||center^$doc
-||cfd^$doc,domain=~frcoal.cfd|~freedium.cfd
+||cfd^$doc,domain=~freedium.cfd
 ||charity^$doc
 ||christmas^$doc
 ||church^$doc
@@ -50,7 +50,7 @@
 ||claims^$doc
 ||click^$doc,domain=~xcine.click
 ||clothing^$doc
-||club^$doc,domain=~mbcherohub.club|~pdfmagazines.club|~reolink.club
+||club^$doc,domain=~mbcherohub.club|~pdfmagazines.club
 ||computer^$doc,domain=~neat.computer
 ||cool^$doc
 ||coupons^$doc
@@ -75,16 +75,16 @@
 ||finance^$doc
 ||financial^$doc
 ||fishing^$doc
-||fit^$doc,domain=~appetit.fit|~clubb.fit|~justget.fit|~pridegym.fit|~thebene.fit|~union.fit
+||fit^$doc,domain=~appetit.fit|~clubb.fit|~justget.fit|~pridegym.fit|~union.fit
 ||foo^$doc,domain=~helloworld.foo
 ||fund^$doc
-||fyi^$doc,domain=~apollo.fyi|~better.fyi|~canonn.fyi|~iusearchlinux.fyi|~lunar.fyi|~vercel.fyi
+||fyi^$doc,domain=~apollo.fyi|~better.fyi|~iusearchlinux.fyi|~lunar.fyi|~vercel.fyi
 ||gdn^$doc,domain=~cst.gdn|~pss.gdn
 ||gent^$doc
 ||gift^$doc,domain=~discord.gift
 ||gives^$doc
 ||giving^$doc
-||glass^$doc
+||glass^$doc,domain=~domain.glass
 ||gold^$doc
 ||gratis^$doc
 ||green^$doc
@@ -104,7 +104,7 @@
 ||llp^$doc
 ||loan^$doc
 ||loans^$doc
-||lol^$doc,domain=~broke.lol|~browser.lol|~charms.lol|~discourse.lol|~hubcloud.lol|~limetorrents.lol|~nos.lol|~objection.lol|~omg.lol|~paste.lol|~profile.lol|~proven.lol|~social.lol|~staff.lol|~status.lol|~timeline.lol|~url.lol|~weblog.lol
+||lol^$doc,domain=~broke.lol|~browser.lol|~hubcloud.lol|~limetorrents.lol|~nos.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~social.lol|~status.lol|~weblog.lol
 ||love^$doc
 ||ltd^$doc
 ||makeup^$doc,domain=~bird.makeup
@@ -112,10 +112,10 @@
 ||market^$doc,domain=~digiseller.market|~otto.market|~plati.market|~spotim.market|~warframe.market
 ||markets^$doc
 ||men^$doc
-||ml^$doc,domain=~aire.ml|~amap.ml|~beatbump.ml|~debula.ml|~fedi.ml|~fmhy.ml|~ghostcloud.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~nothingprivate.ml|~precure.ml|~prompt.ml
+||ml^$doc,domain=~aire.ml|~amap.ml|~beatbump.ml|~fmhy.ml|~ghostcloud.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml
 ||mom^$doc
 ||money^$doc
-||monster^$doc,domain=~cloudcdn.monster|~egybest.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~vipbj.monster|~yts.monster
+||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~vipbj.monster|~yts.monster
 ||motorcycles^$doc
 ||mov^$doc,domain=~david.mov|~spankbang.mov
 ||name^$doc
@@ -140,7 +140,7 @@
 ||post^$doc
 ||prof^$doc,domain=~casey.prof
 ||promo^$doc
-||quest^$doc,domain=~amble.quest|~bookshelf.quest|~dice.quest|~dont-panic.quest|~epochal.quest|~federation.quest|~galaxy.quest|~mhn.quest|~mylegendary.quest|~prometheus.quest|~raccoon.quest|~teacher.quest|~theculture.quest|~toot.quest
+||quest^$doc,domain=~dice.quest|~epochal.quest|~mhn.quest|~mylegendary.quest|~prometheus.quest|~raccoon.quest
 ||realtor^$doc
 ||recipes^$doc
 ||red^$doc
@@ -150,7 +150,7 @@
 ||review^$doc
 ||rich^$doc
 ||rip^$doc,domain=~medium.rip
-||rodeo^$doc,domain=~raypeat.rodeo
+||rodeo^$doc
 ||rugby^$doc
 ||run^$doc,domain=~winget.run
 ||sale^$doc
@@ -164,19 +164,19 @@
 ||skin^$doc
 ||software^$doc,domain=~brave.software
 ||solar^$doc,domain=~forecast.solar
-||space^$doc,domain=~carstens.space|~dragonscave.space|~drgns.space|~hf.space|~httpjames.space|~hullseals.space|~ippen.space|~link.space|~monitorburz.space|~oldbytes.space|~searx.space
+||space^$doc,domain=~dragonscave.space|~drgns.space|~hf.space|~httpjames.space|~hullseals.space|~ippen.space|~link.space|~monitorburz.space|~oldbytes.space|~searx.space
 ||sport^$doc
 ||store^$doc,domain=~androeed.store|~g-h.store|~shoplazza.store
 ||style^$doc
 ||support^$doc
-||surf^$doc,domain=~bloom.surf|~glowing.surf|~kayaking.surf|~quran.surf|~s-wings.surf
+||surf^$doc,domain=~s-wings.surf
 ||tattoo^$doc
 ||tax^$doc
 ||taxi^$doc
-||tk^$doc,domain=~adistance.tk|~bonzibuddy.tk|~bryla.tk|~bstweaker.tk|~budterence.tk|~censurion.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~gotofap.tk|~graph.tk|~kabi.tk|~pube.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
+||tk^$doc,domain=~adistance.tk|~bonzibuddy.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~gotofap.tk|~graph.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
 ||today^$doc,domain=~archive.today|~oldweb.today
 ||tokyo^$doc
-||top^$doc,domain=~1stream.top|~ambr.top|~audioforyou.top|~awavenue.top|~caitlin.top|~callmebymygender.top|~castlevania.top|~chillx.top|~corriente.top|~gdtot.top|~magocoro.top|~mastodon.top|~nicenature.top|~pdcdn1.top|~pegelinux.top|~pressplay.top|~reminder.top|~reyhub.top|~shucks.top|~strims.top|~suiten.top|~thedesk.top|~vsdb.top
+||top^$doc,domain=~1stream.top|~ambr.top|~caitlin.top|~chillx.top|~corriente.top|~mastodon.top|~nicenature.top|~pegelinux.top|~pressplay.top|~reminder.top|~shucks.top|~strims.top|~suiten.top|~thedesk.top|~vsdb.top
 ||trade^$doc,domain=~composer.trade|~kite.trade
 ||trading^$doc
 ||uno^$doc
@@ -197,11 +197,11 @@
 ||wine^$doc
 ||work^$doc,domain=~elphago.work|~frame.work|~koding.work|~searx.work
 ||world^$doc,domain=~calckey.world|~camhub.world|~lemmy.world|~mastodon.world|~shitposter.world|~userstyles.world|~wetdry.world
-||wtf^$doc,domain=~akko.wtf|~myip.wtf|~plooshiesaresocute.wtf|~tigress.wtf|~wxx.wtf
+||wtf^$doc,domain=~akko.wtf|~myip.wtf|~tigress.wtf|~wxx.wtf
 ||xin^$doc
 ||yachts^$doc,domain=~sinking.yachts
 ||you^$doc
-||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~redecanaistv.zip|~redecanais.zip|~umowa.zip|~url.zip
+||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~redecanaistv.zip|~redecanais.zip|~url.zip
 ||рус^$doc
 ||कॉम^$doc
 ||セール^$doc
