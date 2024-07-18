@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1721229180 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1721255940 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 17 Jul 2024 15:13 UTC
-; Version: 2024.0717.1513.44
+; Last modified: 17 Jul 2024 22:39 UTC
+; Version: 2024.0717.2239.13
 ; Syntax: RPZ
-; Number of entries: 19982
+; Number of entries: 19996
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -7623,6 +7623,8 @@ cb01.community CNAME .
 *.cb01.community CNAME .
 cb01official.community CNAME .
 *.cb01official.community CNAME .
+guardaserie.community CNAME .
+*.guardaserie.community CNAME .
 vibe.community CNAME .
 *.vibe.community CNAME .
 altadefinizione.computer CNAME .
@@ -9131,6 +9133,8 @@ filmstreaming.in CNAME .
 *.filmstreaming.in CNAME .
 gogoanime.in CNAME .
 *.gogoanime.in CNAME .
+ilgeniodellostreaming.in CNAME .
+*.ilgeniodellostreaming.in CNAME .
 ipstress.in CNAME .
 *.ipstress.in CNAME .
 mlmsoftwarez.in CNAME .
@@ -9331,6 +9335,8 @@ idmdownload.info CNAME .
 *.idmdownload.info CNAME .
 iitv.info CNAME .
 *.iitv.info CNAME .
+ilcorsaronero.info CNAME .
+*.ilcorsaronero.info CNAME .
 ilgeniodellostreaming.info CNAME .
 *.ilgeniodellostreaming.info CNAME .
 iphonebooks.info CNAME .
@@ -10195,6 +10201,8 @@ wiflix.life CNAME .
 *.wiflix.life CNAME .
 yts.life CNAME .
 *.yts.life CNAME .
+guardaserie.limited CNAME .
+*.guardaserie.limited CNAME .
 altadefinizione.limo CNAME .
 *.altadefinizione.limo CNAME .
 cineblog01.limo CNAME .
@@ -10719,6 +10727,8 @@ imhindi.me CNAME .
 *.imhindi.me CNAME .
 immortalseed.me CNAME .
 *.immortalseed.me CNAME .
+inboot.me CNAME .
+*.inboot.me CNAME .
 indoxx1film.me CNAME .
 *.indoxx1film.me CNAME .
 ipalibrary.me CNAME .
@@ -13233,8 +13243,6 @@ x-torrent.net CNAME .
 *.x-torrent.net CNAME .
 xatab-repack.net CNAME .
 *.xatab-repack.net CNAME .
-xboot.net CNAME .
-*.xboot.net CNAME .
 xcsp.net CNAME .
 *.xcsp.net CNAME .
 xdude.net CNAME .
@@ -15437,6 +15445,8 @@ guardaserie.pink CNAME .
 *.guardaserie.pink CNAME .
 tantifilm.pink CNAME .
 *.tantifilm.pink CNAME .
+guardaserie.pizza CNAME .
+*.guardaserie.pizza CNAME .
 city21.pk CNAME .
 *.city21.pk CNAME .
 123movies.com.pk CNAME .
@@ -17017,6 +17027,8 @@ eurostreaming.social CNAME .
 *.eurostreaming.social CNAME .
 guardaserie.social CNAME .
 *.guardaserie.social CNAME .
+guardaserie.software CNAME .
+*.guardaserie.software CNAME .
 guardaserie.solar CNAME .
 *.guardaserie.solar CNAME .
 tantifilm.solar CNAME .
@@ -19741,6 +19753,8 @@ gmovies.xyz CNAME .
 *.gmovies.xyz CNAME .
 gostream-hd.xyz CNAME .
 *.gostream-hd.xyz CNAME .
+guardaserie.xyz CNAME .
+*.guardaserie.xyz CNAME .
 hd4.xyz CNAME .
 *.hd4.xyz CNAME .
 tracker.iamhansen.xyz CNAME .

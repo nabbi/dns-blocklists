@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 17 Jul 2024 05:06 UTC
-! Version: 2024.0717.0506.48
+! Last modified: 17 Jul 2024 21:35 UTC
+! Version: 2024.0717.2135.35
 ! Syntax: uBlock
 ! Number of latin TLDs: 187 - non-latin TLDs: 151
 !
@@ -39,7 +39,7 @@
 ||cam^$doc
 ||capital^$doc,domain=~scalable.capital
 ||careers^$doc
-||casa^$doc
+||casa^$doc,domain=~nabu.casa
 ||cash^$doc
 ||center^$doc
 ||cfd^$doc,domain=~frcoal.cfd|~freedium.cfd
@@ -51,7 +51,7 @@
 ||click^$doc,domain=~xcine.click
 ||clothing^$doc
 ||club^$doc,domain=~mbcherohub.club|~pdfmagazines.club|~reolink.club
-||computer^$doc
+||computer^$doc,domain=~neat.computer
 ||cool^$doc
 ||coupons^$doc
 ||cymru^$doc
@@ -134,7 +134,7 @@
 ||photos^$doc
 ||pics^$doc
 ||pink^$doc
-||pizza^$doc
+||pizza^$doc,domain=~tux.pizza
 ||place^$doc,domain=~gamedev.place
 ||poker^$doc
 ||post^$doc

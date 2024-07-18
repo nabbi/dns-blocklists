@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 13 Jul 2024 23:06 UTC
-# Version: 2024.0713.2306.12
+# Last modified: 17 Jul 2024 22:58 UTC
+# Version: 2024.0717.2258.44
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 692
+# Number of entries: 693
 #
 0.0.0.0 in.appcenter.ms
 0.0.0.0 applicationinsights.azure.com
@@ -131,6 +131,7 @@
 0.0.0.0 r.g.bing.com
 0.0.0.0 raka.bing.com
 0.0.0.0 js.monitor.azure.com.com
+0.0.0.0 www.js.monitor.azure.com.com
 0.0.0.0 measure.office.net.edgesuite.net
 0.0.0.0 nel.measure.office.net.edgesuite.net
 0.0.0.0 nelsdf.measure.office.net.edgesuite.net
