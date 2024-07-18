@@ -1240,6 +1240,13 @@
       }
     },
     {
+      "PK": "priv.center",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "prometheus.quest",
       "action": {
         "do": 1,
@@ -1346,6 +1353,13 @@
     },
     {
       "PK": "runescape.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca.health",
       "action": {
         "do": 1,
         "status": 1
