@@ -5,7 +5,7 @@ on:
       - labeled
 jobs:
   add-comment:
-    if: github.event.label.name == 'scam/phishing'
+    if: github.event.label.name == 'malicious/scam/phishing'
     runs-on: ubuntu-latest
     permissions:
       issues: write
