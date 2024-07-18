@@ -105,8 +105,3 @@ body:
       options:
         - label: I confirm that the report does not contain any private information.
           required: true
-
-  - type: markdown
-    attributes:
-      value: |
-        0 DAYS SINCE IT WAS DNS (It's always DNS)
