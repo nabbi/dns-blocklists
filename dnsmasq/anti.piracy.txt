@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 18 Jul 2024 22:40 UTC
-# Version: 2024.0718.2240.38
+# Last modified: 19 Jul 2024 15:24 UTC
+# Version: 2024.0719.1524.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10011
+# Number of entries: 10016
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -743,7 +743,6 @@ local=/amazing-news.se/
 local=/ec2-18-191-163-220.us-east-2.compute.amazonaws.com/
 local=/ambits.org/
 local=/amcomputers.org/
-local=/tracker.amelia.fun/
 local=/americansoccerarchives.com/
 local=/amigacity.xyz/
 local=/amrbd.com/
@@ -1594,6 +1593,7 @@ local=/watchepisodeseries.bypassed.wtf/
 local=/byte.to/
 local=/bytecollectors.com/
 local=/bytelist.org/
+local=/bandito.byterunner.io/
 local=/bytewarez.net/
 local=/byxatab.com/
 local=/byxatab.org/
@@ -6488,6 +6488,7 @@ local=/oxtorrent.bz/
 local=/oxtorrent.cc/
 local=/oxtorrent.co/
 local=/oxtorrent.me/
+local=/oxygen-warez.com/
 local=/ozone-torrents.org/
 local=/p-games.ru/
 local=/p0pcorn.com/
@@ -6671,6 +6672,7 @@ local=/piratebayproxy1.org/
 local=/piratebayproxyz.com/
 local=/piratebays.co/
 local=/piratebays.org/
+local=/piratebays.top/
 local=/piratebays.win/
 local=/piratebays.wtf/
 local=/piratebayz.top/
@@ -6831,6 +6833,7 @@ local=/premium4free.org/
 local=/premiumize.me/
 local=/premiumwarez.com/
 local=/prescene.com/
+local=/pretome.net/
 local=/pretorians.net/
 local=/prezone.pl/
 local=/prezup.eu/
@@ -7165,6 +7168,7 @@ local=/redlist-ultimate.be/
 local=/redskunk.org/
 local=/redstream.online/
 local=/redump.org/
+local=/redwarez.xyz/
 local=/dpiui.reedlan.com/
 local=/reevown.com/
 local=/regarder-film-gratuit.com/
@@ -7202,6 +7206,7 @@ local=/revanced.net/
 local=/revdl.com/
 local=/revdl.net/
 local=/revenge-of-usenet.online/
+local=/reverendmike.org/
 local=/revolution-world.com/
 local=/revolutiontt.net/
 local=/tracker.revolutiontt.me/

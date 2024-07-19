@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1721342400 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1721402640 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 18 Jul 2024 22:40 UTC
-; Version: 2024.0718.2240.38
+; Last modified: 19 Jul 2024 15:24 UTC
+; Version: 2024.0719.1524.58
 ; Syntax: RPZ
-; Number of entries: 20022
+; Number of entries: 20032
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -5615,6 +5615,8 @@ xtremfirst-cinema.over-blog.com CNAME .
 *.xtremfirst-cinema.over-blog.com CNAME .
 ovh-booter.com CNAME .
 *.ovh-booter.com CNAME .
+oxygen-warez.com CNAME .
+*.oxygen-warez.com CNAME .
 p0pcorn.com CNAME .
 *.p0pcorn.com CNAME .
 p2pbg.com CNAME .
@@ -8615,8 +8617,6 @@ zone-streaming.fr CNAME .
 *.123unblock.fun CNAME .
 1337x.fun CNAME .
 *.1337x.fun CNAME .
-tracker.amelia.fun CNAME .
-*.tracker.amelia.fun CNAME .
 anime-tv.fun CNAME .
 *.anime-tv.fun CNAME .
 bonsaihd.fun CNAME .
@@ -9613,6 +9613,8 @@ btdb.io CNAME .
 *.btdb.io CNAME .
 buffstream.io CNAME .
 *.buffstream.io CNAME .
+bandito.byterunner.io CNAME .
+*.bandito.byterunner.io CNAME .
 cb01.io CNAME .
 *.cb01.io CNAME .
 cinemahdv2.io CNAME .
@@ -12627,6 +12629,8 @@ pornorip.net CNAME .
 *.pornorip.net CNAME .
 poshbd.net CNAME .
 *.poshbd.net CNAME .
+pretome.net CNAME .
+*.pretome.net CNAME .
 pretorians.net CNAME .
 *.pretorians.net CNAME .
 procracks.net CNAME .
@@ -14873,6 +14877,8 @@ redump.org CNAME .
 *.redump.org CNAME .
 reloaded-games.org CNAME .
 *.reloaded-games.org CNAME .
+reverendmike.org CNAME .
+*.reverendmike.org CNAME .
 rg-mechanics.org CNAME .
 *.rg-mechanics.org CNAME .
 riperam.org CNAME .
@@ -18025,6 +18031,8 @@ piratbit.top CNAME .
 *.piratbit.top CNAME .
 piratebayproxy.top CNAME .
 *.piratebayproxy.top CNAME .
+piratebays.top CNAME .
+*.piratebays.top CNAME .
 piratebayz.top CNAME .
 *.piratebayz.top CNAME .
 pirateproxy.top CNAME .
@@ -19881,6 +19889,8 @@ publictracker.xyz CNAME .
 *.publictracker.xyz CNAME .
 putlockerfull.xyz CNAME .
 *.putlockerfull.xyz CNAME .
+redwarez.xyz CNAME .
+*.redwarez.xyz CNAME .
 sabross.xyz CNAME .
 *.sabross.xyz CNAME .
 tracker.sakurato.xyz CNAME .
