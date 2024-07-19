@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 18 Jul 2024 15:17 UTC
-# Version: 2024.0718.1517.37
+# Last modified: 18 Jul 2024 22:40 UTC
+# Version: 2024.0718.2240.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10001
+# Number of entries: 10011
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -743,6 +743,7 @@ local=/amazing-news.se/
 local=/ec2-18-191-163-220.us-east-2.compute.amazonaws.com/
 local=/ambits.org/
 local=/amcomputers.org/
+local=/tracker.amelia.fun/
 local=/americansoccerarchives.com/
 local=/amigacity.xyz/
 local=/amrbd.com/
@@ -5709,6 +5710,7 @@ local=/moonline.ws/
 local=/mooslo.com/
 local=/tracker.morethantv.me/
 local=/moriyashrine.org/
+local=/morpheustvhd.com/
 local=/wg.mortis.me/
 local=/motivationalhacks.com/
 local=/motorworld.net/
@@ -5742,6 +5744,7 @@ local=/moviebeamz.com/
 local=/db1.moviebox.com/
 local=/movieboxbd.com/
 local=/moviecracker.net/
+local=/moviedom.live/
 local=/moviedream.ws/
 local=/moviefiles.org/
 local=/movieforfree.co/
@@ -5881,6 +5884,7 @@ local=/mp3menu.net/
 local=/torrent.mp3quran.net/
 local=/mp3rally.com/
 local=/mp3scene.info/
+local=/mp3skull.site/
 local=/mp3skulls.info/
 local=/mp3skulls.to/
 local=/mp3songs.us/
@@ -5923,6 +5927,7 @@ local=/multreactor.ru/
 local=/mults.info/
 local=/murmurs.com/
 local=/musgle.com/
+local=/music-torrent.net/
 local=/music-vid.com/
 local=/musicatube.net/
 local=/musichq.net/
@@ -6001,12 +6006,14 @@ local=/mysilu.com/
 local=/myspleen.net/
 local=/myspleen.org/
 local=/mystresser.com/
+local=/mythicalstress.xyz/
 local=/mytlinkbd.net/
 local=/mytracker.ru/
 local=/myustv.com/
 local=/myvi.tv/
 local=/rfc5746.mywaifu.best/
 local=/tracker.mywaifu.best/
+local=/mywarez.ru/
 local=/adminion.n-blade.ru/
 local=/nabtor.com/
 local=/nachtfalke.biz/
@@ -6260,6 +6267,7 @@ local=/nulled-script.club/
 local=/nulled-scripts.cc/
 local=/nulledfree.pw/
 local=/nullednow.in/
+local=/nulledwarez.org/
 local=/nulljungle.com/
 local=/nullphp.net/
 local=/nullphpscript.com/
@@ -6272,6 +6280,7 @@ local=/nw0.info/
 local=/nwanime.tv/
 local=/nxbrew.com/
 local=/nxtgn.org/
+local=/nxtiptv.tv/
 local=/nyaa.bio/
 local=/nyaa.eu/
 local=/nyaa.net/
@@ -6424,6 +6433,7 @@ local=/opensharing.org/
 local=/opentor.org/
 local=/opentracker.cc/
 local=/opentracker.io/
+local=/opentracker.xyz/
 local=/tracker.opentracker.se/
 local=/opentrackers.net/
 local=/opentrackers.org/
