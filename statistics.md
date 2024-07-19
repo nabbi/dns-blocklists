@@ -112,6 +112,38 @@
  27 |      93% |   3% |      4% | Denylist Aggressive
  28 |      97% |   0% |      3% | Denylist Community Ultimate
 ```
+#### TIF.MINI
+```
+ Nr | Included | Dead | Removed | URL/File
+  1 |      75% |  24% |      1% | Denylist Community Threat Intelligence Feeds
+  2 |     100% |   0% |      0% | Denylist Threat Intelligence Feeds NRDs
+  3 |     100% |   0% |      0% | Fake
+  4 |      95% |   0% |      5% | https://phishing-filter.pages.dev/phishing-filter-hosts.txt
+  5 |      56% |  42% |      2% | https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
+  6 |     100% |   0% |      0% | https://raw.githubusercontent.com/xRuffKez/TIF/main/phish/active.txt
+  7 |     100% |   0% |      0% | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+  8 |      98% |   1% |      1% | https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams_light.txt
+  9 |      96% |   3% |      1% | https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt
+ 10 |      64% |  33% |      3% | https://threatfox.abuse.ch/downloads/hostfile
+ 11 |      84% |  14% |      2% | https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt
+ 12 |      99% |   0% |      1% | https://urlhaus.abuse.ch/downloads/hostfile
+ 13 |      50% |  49% |      1% | https://github.com/scafroglia93/blocklists
+ 14 |      82% |  16% |      2% | https://botvrij.eu/data/ioclist.domain
+ 15 |      60% |  37% |      3% | https://botvrij.eu/data/ioclist.hostname
+ 16 |      28% |  72% |      0% | https://dl.red.flag.domains/red.flag.domains.txt
+ 17 |      34% |  64% |      2% | https://rescure.me/rescure_domain_blacklist.txt
+ 18 |      31% |  69% |      0% | https://zonefiles.io/f/compromised/domains/live/
+ 19 |      27% |  73% |      0% | https://raw.githubusercontent.com/xRuffKez/TIF/main/malware/active.txt
+ 20 |      90% |   9% |      1% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+ 21 |      74% |  24% |      2% | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+ 22 |      14% |  86% |      0% | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
+ 23 |      24% |  76% |      0% | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-10-07_donot/domains.txt
+ 24 |      25% |  75% |      0% | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-12-16_cytrox/domains.txt
+ 25 |       4% |  96% |      0% | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2023-03-29_android_campaign/domains.txt
+ 26 |       9% |  91% |      0% | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2024-05-02_wintego_helios/domains.txt
+ 27 |      87% |   4% |      9% | https://raw.githubusercontent.com/cbuijs/ut1/master/stalkerware/domains
+ 28 |      60% |   3% |     37% | https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-abp.txt
+```
 #### TIF.MEDIUM
 ```
  Nr | Included | Dead | Removed | URL/File
