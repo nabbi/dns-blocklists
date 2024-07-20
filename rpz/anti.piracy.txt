@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1721429040 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1721489220 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 19 Jul 2024 22:44 UTC
-; Version: 2024.0719.2244.13
+; Last modified: 20 Jul 2024 15:27 UTC
+; Version: 2024.0720.1527.00
 ; Syntax: RPZ
-; Number of entries: 20056
+; Number of entries: 20100
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -317,6 +317,8 @@ limetorrents.asia CNAME .
 *.limetorrents.asia CNAME .
 streamingcommunity.asia CNAME .
 *.streamingcommunity.asia CNAME .
+tantifilm.asia CNAME .
+*.tantifilm.asia CNAME .
 terbit21.asia CNAME .
 *.terbit21.asia CNAME .
 thepiratebay.asia CNAME .
@@ -1471,6 +1473,8 @@ pirateproxy.cfd CNAME .
 *.pirateproxy.cfd CNAME .
 sharespark.cfd CNAME .
 *.sharespark.cfd CNAME .
+tuttostream.cfd CNAME .
+*.tuttostream.cfd CNAME .
 cyberhitz.2ix.ch CNAME .
 *.cyberhitz.2ix.ch CNAME .
 mytoplist.2ix.ch CNAME .
@@ -2119,6 +2123,8 @@ studiofilm21.co CNAME .
 *.studiofilm21.co CNAME .
 tagmovies.co CNAME .
 *.tagmovies.co CNAME .
+tantifilm.co CNAME .
+*.tantifilm.co CNAME .
 terbit21.co CNAME .
 *.terbit21.co CNAME .
 tracker.tfile.co CNAME .
@@ -6543,6 +6549,8 @@ thebigheap.com CNAME .
 *.thebigheap.com CNAME .
 thebtclub.com CNAME .
 *.thebtclub.com CNAME .
+theebooksbay.com CNAME .
+*.theebooksbay.com CNAME .
 thehiddenbay.com CNAME .
 *.thehiddenbay.com CNAME .
 theintrovision.com CNAME .
@@ -6945,6 +6953,8 @@ tryfile.com CNAME .
 *.tryfile.com CNAME .
 tryfreegames.com CNAME .
 *.tryfreegames.com CNAME .
+ttoktv.com CNAME .
+*.ttoktv.com CNAME .
 ttxunlei.com CNAME .
 *.ttxunlei.com CNAME .
 tudoubt.com CNAME .
@@ -7023,6 +7033,8 @@ ubnbd.com CNAME .
 *.ubnbd.com CNAME .
 torrent.ubuntu.com CNAME .
 *.torrent.ubuntu.com CNAME .
+ucrak.com CNAME .
+*.ucrak.com CNAME .
 udush.com CNAME .
 *.udush.com CNAME .
 dashunika07.ueuo.com CNAME .
@@ -7555,6 +7567,8 @@ ytstorrent.com CNAME .
 *.ytstorrent.com CNAME .
 ytstorrentyts.com CNAME .
 *.ytstorrentyts.com CNAME .
+tracker.yuelili.com CNAME .
+*.tracker.yuelili.com CNAME .
 yui-nya.com CNAME .
 *.yui-nya.com CNAME .
 yuptorrents.com CNAME .
@@ -7723,6 +7737,8 @@ allin1.cx CNAME .
 *.allin1.cx CNAME .
 altadefinizione.cx CNAME .
 *.altadefinizione.cx CNAME .
+tracker.animeworld.cx CNAME .
+*.tracker.animeworld.cx CNAME .
 vps2.avc.cx CNAME .
 *.vps2.avc.cx CNAME .
 spookiewarez.be.cx CNAME .
@@ -9183,6 +9199,8 @@ proxyspotting.in CNAME .
 *.proxyspotting.in CNAME .
 puca.in CNAME .
 *.puca.in CNAME .
+tr.qfruiti.in CNAME .
+*.tr.qfruiti.in CNAME .
 quez.in CNAME .
 *.quez.in CNAME .
 quezstresser.in CNAME .
@@ -10407,6 +10425,8 @@ supertvaovivo.live CNAME .
 *.supertvaovivo.live CNAME .
 tantifilm.live CNAME .
 *.tantifilm.live CNAME .
+thepirate.live CNAME .
+*.thepirate.live CNAME .
 thepiratebay1.live CNAME .
 *.thepiratebay1.live CNAME .
 timepassbd.live CNAME .
@@ -10915,6 +10935,8 @@ ibksturm.synology.me CNAME .
 *.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
+tantifilm.me CNAME .
+*.tantifilm.me CNAME .
 tarjetaroja.me CNAME .
 *.tarjetaroja.me CNAME .
 terbit21.me CNAME .
@@ -12959,6 +12981,8 @@ tapochek.net CNAME .
 *.tapochek.net CNAME .
 taringa.net CNAME .
 *.taringa.net CNAME .
+techforever.net CNAME .
+*.techforever.net CNAME .
 tecknat.net CNAME .
 *.tecknat.net CNAME .
 tehparadox.net CNAME .
@@ -13005,6 +13029,8 @@ time-popcorn.net CNAME .
 *.time-popcorn.net CNAME .
 timeloss.net CNAME .
 *.timeloss.net CNAME .
+tinyls.net CNAME .
+*.tinyls.net CNAME .
 tinyzonehd.net CNAME .
 *.tinyzonehd.net CNAME .
 tiraz.net CNAME .
@@ -13077,6 +13103,8 @@ torrents-game.net CNAME .
 *.torrents-game.net CNAME .
 torrentscity.net CNAME .
 *.torrentscity.net CNAME .
+torrentsdownload.net CNAME .
+*.torrentsdownload.net CNAME .
 torrentsmovies.net CNAME .
 *.torrentsmovies.net CNAME .
 torrentube.net CNAME .
@@ -13087,6 +13115,8 @@ torrentview10.net CNAME .
 *.torrentview10.net CNAME .
 torrentview19.net CNAME .
 *.torrentview19.net CNAME .
+torrentview9.net CNAME .
+*.torrentview9.net CNAME .
 torrentzone.net CNAME .
 *.torrentzone.net CNAME .
 tosarang.net CNAME .
@@ -15471,6 +15501,8 @@ putlocker.pics CNAME .
 *.putlocker.pics CNAME .
 streamingcommunity.pics CNAME .
 *.streamingcommunity.pics CNAME .
+tantifilm.pics CNAME .
+*.tantifilm.pics CNAME .
 torrentz2.pics CNAME .
 *.torrentz2.pics CNAME .
 cb01.pictures CNAME .
@@ -16857,6 +16889,8 @@ putlockers.shop CNAME .
 *.putlockers.shop CNAME .
 streamingcommunity.shop CNAME .
 *.streamingcommunity.shop CNAME .
+tantifilm.shop CNAME .
+*.tantifilm.shop CNAME .
 123freemovies.show CNAME .
 *.123freemovies.show CNAME .
 123movie.show CNAME .
@@ -16969,6 +17003,8 @@ lookmovie.site CNAME .
 *.lookmovie.site CNAME .
 lookmovie2.site CNAME .
 *.lookmovie2.site CNAME .
+tracker.lyretain.site CNAME .
+*.tracker.lyretain.site CNAME .
 m4ckd0ge-repacks.site CNAME .
 *.m4ckd0ge-repacks.site CNAME .
 moviego.site CNAME .
@@ -18797,6 +18833,8 @@ tracker.ex.ua CNAME .
 *.tracker.ex.ua CNAME .
 anitube.in.ua CNAME .
 *.anitube.in.ua CNAME .
+tracker.0day.kiev.ua CNAME .
+*.tracker.0day.kiev.ua CNAME .
 torrent.share.net.ua CNAME .
 *.torrent.share.net.ua CNAME .
 gabber.od.ua CNAME .
@@ -18955,6 +18993,8 @@ guardaserie.us CNAME .
 *.guardaserie.us CNAME .
 gunsnroses.us CNAME .
 *.gunsnroses.us CNAME .
+tracker.hdbd.us CNAME .
+*.tracker.hdbd.us CNAME .
 hoerbuch.us CNAME .
 *.hoerbuch.us CNAME .
 juraganfilm.us CNAME .
@@ -19043,6 +19083,8 @@ cineblog01.vet CNAME .
 *.cineblog01.vet CNAME .
 pirateproxy.vet CNAME .
 *.pirateproxy.vet CNAME .
+torrent.vet CNAME .
+*.torrent.vet CNAME .
 weedy.1.vg CNAME .
 *.weedy.1.vg CNAME .
 altadefinizione.vg CNAME .
@@ -19939,6 +19981,8 @@ streamonsport28.xyz CNAME .
 *.streamonsport28.xyz CNAME .
 streamwoop.xyz CNAME .
 *.streamwoop.xyz CNAME .
+superlinkbd.xyz CNAME .
+*.superlinkbd.xyz CNAME .
 katcr.t0r.xyz CNAME .
 *.katcr.t0r.xyz CNAME .
 tantifilm.xyz CNAME .
