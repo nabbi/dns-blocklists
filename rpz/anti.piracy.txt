@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1721402640 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1721429040 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 19 Jul 2024 15:24 UTC
-; Version: 2024.0719.1524.58
+; Last modified: 19 Jul 2024 22:44 UTC
+; Version: 2024.0719.2244.13
 ; Syntax: RPZ
-; Number of entries: 20032
+; Number of entries: 20056
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -281,6 +281,8 @@ guardaserie.army CNAME .
 *.guardaserie.army CNAME .
 piratebay.army CNAME .
 *.piratebay.army CNAME .
+streamingcommunity.army CNAME .
+*.streamingcommunity.army CNAME .
 tracker.army CNAME .
 *.tracker.army CNAME .
 123gomovies.art CNAME .
@@ -367,6 +369,8 @@ guardaserie.baby CNAME .
 *.guardaserie.baby CNAME .
 streamingcommunity.baby CNAME .
 *.streamingcommunity.baby CNAME .
+streamingcommunity.band CNAME .
+*.streamingcommunity.band CNAME .
 altadefinizione.bar CNAME .
 *.altadefinizione.bar CNAME .
 eurostreaming.bar CNAME .
@@ -2199,6 +2203,8 @@ eurostreaming.codes CNAME .
 *.eurostreaming.codes CNAME .
 ilgeniodellostreaming.codes CNAME .
 *.ilgeniodellostreaming.codes CNAME .
+streamingcommunity.codes CNAME .
+*.streamingcommunity.codes CNAME .
 altadefinizione.coffee CNAME .
 *.altadefinizione.coffee CNAME .
 eurostreaming.coffee CNAME .
@@ -6371,6 +6377,8 @@ star4m.com CNAME .
 *.star4m.com CNAME .
 starflixbd.com CNAME .
 *.starflixbd.com CNAME .
+starnetmovie.com CNAME .
+*.starnetmovie.com CNAME .
 starnetworkbd.com CNAME .
 *.starnetworkbd.com CNAME .
 steam-repacks.com CNAME .
@@ -8081,6 +8089,8 @@ t.peer-exchange.download CNAME .
 *.t.peer-exchange.download CNAME .
 u.peer-exchange.download CNAME .
 *.u.peer-exchange.download CNAME .
+streamingcommunity.download CNAME .
+*.streamingcommunity.download CNAME .
 wawacity.download CNAME .
 *.wawacity.download CNAME .
 forum.wawa-mania.ec CNAME .
@@ -8667,6 +8677,8 @@ pirate-proxy.fun CNAME .
 *.pirate-proxy.fun CNAME .
 playx.fun CNAME .
 *.playx.fun CNAME .
+serien.fun CNAME .
+*.serien.fun CNAME .
 solarmovie.fun CNAME .
 *.solarmovie.fun CNAME .
 strem.fun CNAME .
@@ -10521,6 +10533,8 @@ filmsenzalimiti.love CNAME .
 *.filmsenzalimiti.love CNAME .
 kisscartoon.love CNAME .
 *.kisscartoon.love CNAME .
+streamingcommunity.love CNAME .
+*.streamingcommunity.love CNAME .
 yesmovies.love CNAME .
 *.yesmovies.love CNAME .
 yify.love CNAME .
@@ -11145,6 +11159,8 @@ tpb.monster CNAME .
 *.tpb.monster CNAME .
 cb01.motorcycles CNAME .
 *.cb01.motorcycles CNAME .
+streamingcommunity.motorcycles CNAME .
+*.streamingcommunity.motorcycles CNAME .
 tantifilm.motorcycles CNAME .
 *.tantifilm.motorcycles CNAME .
 altadefinizione.mov CNAME .
@@ -11271,6 +11287,8 @@ pirateproxy.name CNAME .
 *.pirateproxy.name CNAME .
 qoob.name CNAME .
 *.qoob.name CNAME .
+socceron.name CNAME .
+*.socceron.name CNAME .
 streamingcommunity.name CNAME .
 *.streamingcommunity.name CNAME .
 mamahd.unblocked.name CNAME .
@@ -15369,6 +15387,8 @@ gomoviesfree.page CNAME .
 *.gomoviesfree.page CNAME .
 proxybay.page CNAME .
 *.proxybay.page CNAME .
+streamingcommunity.page CNAME .
+*.streamingcommunity.page CNAME .
 vpnfortorrents.page CNAME .
 *.vpnfortorrents.page CNAME .
 altadefinizione.partners CNAME .
@@ -17815,6 +17835,8 @@ serialz.to CNAME .
 *.serialz.to CNAME .
 serienstream.to CNAME .
 *.serienstream.to CNAME .
+series9.to CNAME .
+*.series9.to CNAME .
 sflix.to CNAME .
 *.sflix.to CNAME .
 skytorrents.to CNAME .
@@ -19901,6 +19923,8 @@ vibe.sleepyinternetfun.xyz CNAME .
 *.vibe.sleepyinternetfun.xyz CNAME .
 smiledotnet.xyz CNAME .
 *.smiledotnet.xyz CNAME .
+spacejump.xyz CNAME .
+*.spacejump.xyz CNAME .
 spicymags.xyz CNAME .
 *.spicymags.xyz CNAME .
 spotnzb.xyz CNAME .

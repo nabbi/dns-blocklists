@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 19 Jul 2024 15:24 UTC
-# Version: 2024.0719.1524.58
+# Last modified: 19 Jul 2024 22:44 UTC
+# Version: 2024.0719.2244.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10016
+# Number of entries: 10028
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -7453,6 +7453,7 @@ local=/serien.click/
 local=/serien.dev/
 local=/serien.digital/
 local=/serien.express/
+local=/serien.fun/
 local=/serien.life/
 local=/serien.link/
 local=/serien.lol/
@@ -7478,6 +7479,7 @@ local=/series9.co/
 local=/series9.io/
 local=/series9.la/
 local=/series9.me/
+local=/series9.to/
 local=/seriesfilmestorrent.net/
 local=/seriesflix.app/
 local=/seriesflix.co/
@@ -7679,6 +7681,7 @@ local=/soap2dayhd.com/
 local=/soap2dayx.to/
 local=/soapgate.org/
 local=/socagol.tv/
+local=/socceron.name/
 local=/socceron.org/
 local=/soccerstreams.net/
 local=/socialinsta.online/
@@ -7750,6 +7753,7 @@ local=/sourcetv.info/
 local=/southparkstudios.com/
 local=/southparkx.net/
 local=/spacecruft.tv/
+local=/spacejump.xyz/
 local=/spacemov.io/
 local=/spacemov.site/
 local=/spacemov.top/
@@ -7831,6 +7835,7 @@ local=/stargrave.org/
 local=/free.open.tracker.0.starka.st/
 local=/free.open.tracker.4.starka.st/
 local=/starlive.xyz/
+local=/starnetmovie.com/
 local=/starnetworkbd.com/
 local=/starsddl.me/
 local=/starshare.ro/
@@ -7890,8 +7895,10 @@ local=/streaming-series.org/
 local=/streamingcommunity.actor/
 local=/streamingcommunity.app/
 local=/streamingcommunity.arab/
+local=/streamingcommunity.army/
 local=/streamingcommunity.asia/
 local=/streamingcommunity.baby/
+local=/streamingcommunity.band/
 local=/streamingcommunity.be/
 local=/streamingcommunity.beauty/
 local=/streamingcommunity.bike/
@@ -7909,6 +7916,7 @@ local=/streamingcommunity.click/
 local=/streamingcommunity.cloud/
 local=/streamingcommunity.club/
 local=/streamingcommunity.co/
+local=/streamingcommunity.codes/
 local=/streamingcommunity.com/
 local=/streamingcommunity.cool/
 local=/streamingcommunity.credit/
@@ -7919,6 +7927,7 @@ local=/streamingcommunity.day/
 local=/streamingcommunity.de/
 local=/streamingcommunity.dev/
 local=/streamingcommunity.directory/
+local=/streamingcommunity.download/
 local=/streamingcommunity.email/
 local=/streamingcommunity.eu/
 local=/streamingcommunity.fan/
@@ -7940,9 +7949,11 @@ local=/streamingcommunity.it/
 local=/streamingcommunity.lat/
 local=/streamingcommunity.life/
 local=/streamingcommunity.lol/
+local=/streamingcommunity.love/
 local=/streamingcommunity.me/
 local=/streamingcommunity.media/
 local=/streamingcommunity.mom/
+local=/streamingcommunity.motorcycles/
 local=/streamingcommunity.movie/
 local=/streamingcommunity.music/
 local=/streamingcommunity.name/
@@ -7951,6 +7962,7 @@ local=/streamingcommunity.nl/
 local=/streamingcommunity.one/
 local=/streamingcommunity.onl/
 local=/streamingcommunity.org/
+local=/streamingcommunity.page/
 local=/streamingcommunity.pics/
 local=/streamingcommunity.plus/
 local=/streamingcommunity.pw/
