@@ -365,6 +365,7 @@ https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
 https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
+https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt
 https://raw.githubusercontent.com/ttc-cert/TTC-CERT_blocklist_recommended/master/domain_blocklist_recommended.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-others.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
