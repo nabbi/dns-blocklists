@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1721515500 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1721575740 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 20 Jul 2024 22:45 UTC
-; Version: 2024.0720.2245.01
+; Last modified: 21 Jul 2024 15:29 UTC
+; Version: 2024.0721.1529.17
 ; Syntax: RPZ
-; Number of entries: 20110
+; Number of entries: 20116
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -7183,8 +7183,6 @@ victoriancrapper.com CNAME .
 *.victoriancrapper.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
-videocop.com CNAME .
-*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -10295,6 +10293,8 @@ allsports4free.live CNAME .
 *.allsports4free.live CNAME .
 allwrestling.live CNAME .
 *.allwrestling.live CNAME .
+altadefinizione.live CNAME .
+*.altadefinizione.live CNAME .
 anytv.live CNAME .
 *.anytv.live CNAME .
 baked.live CNAME .
@@ -11299,6 +11299,8 @@ yts.mx CNAME .
 *.yts.mx CNAME .
 altadefinizione.name CNAME .
 *.altadefinizione.name CNAME .
+altadefinizione01.name CNAME .
+*.altadefinizione01.name CNAME .
 casacinema.name CNAME .
 *.casacinema.name CNAME .
 dramaqu.name CNAME .
@@ -13953,6 +13955,8 @@ bitfellas.org CNAME .
 *.bitfellas.org CNAME .
 bitgate.org CNAME .
 *.bitgate.org CNAME .
+bithouse.org CNAME .
+*.bithouse.org CNAME .
 bithq.org CNAME .
 *.bithq.org CNAME .
 bitme.org CNAME .
@@ -19441,6 +19445,8 @@ altadefinizione.world CNAME .
 *.altadefinizione.world CNAME .
 altadefinizione01.world CNAME .
 *.altadefinizione01.world CNAME .
+cb01.world CNAME .
+*.cb01.world CNAME .
 cinemagratis.world CNAME .
 *.cinemagratis.world CNAME .
 eurostreaming.world CNAME .
