@@ -2,10 +2,18 @@
   "group": {
     "group": "Malicious CCs",
     "action": {
+      "do": 0,
       "status": 1
     }
   },
   "rules": [
+    {
+      "PK": "@ST",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
     {
       "PK": "@AE",
       "action": {
@@ -21,14 +29,14 @@
       }
     },
     {
-      "PK": "@ET",
+      "PK": "@AU",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "@IN",
+      "PK": "@ES",
       "action": {
         "do": 0,
         "status": 1
@@ -42,7 +50,63 @@
       }
     },
     {
-      "PK": "@GT",
+      "PK": "@TH",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@PK",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@NG",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@EE",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@SK",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@ET",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@TW",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@IO",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@CC",
       "action": {
         "do": 0,
         "status": 1
@@ -56,28 +120,14 @@
       }
     },
     {
-      "PK": "@VN",
+      "PK": "@TO",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "@MX",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@KP",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@TH",
+      "PK": "@PL",
       "action": {
         "do": 0,
         "status": 1
@@ -98,21 +148,7 @@
       }
     },
     {
-      "PK": "@UA",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@BR",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@PK",
+      "PK": "@PW",
       "action": {
         "do": 0,
         "status": 1
@@ -133,28 +169,7 @@
       }
     },
     {
-      "PK": "@AF",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@NG",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "@PE",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@IR",
       "action": {
         "do": 0,
         "status": 1
@@ -168,21 +183,7 @@
       }
     },
     {
-      "PK": "@ID",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@ST",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@CC",
+      "PK": "@HK",
       "action": {
         "do": 0,
         "status": 1
@@ -203,49 +204,7 @@
       }
     },
     {
-      "PK": "@TW",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@TO",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@SK",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@HK",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@PL",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@CZ",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "@JP",
+      "PK": "@IN",
       "action": {
         "do": 0,
         "status": 1
@@ -259,7 +218,35 @@
       }
     },
     {
-      "PK": "@ES",
+      "PK": "@ME",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@VN",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@CZ",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@IR",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@ID",
       "action": {
         "do": 0,
         "status": 1
@@ -273,35 +260,56 @@
       }
     },
     {
-      "PK": "@AU",
+      "PK": "@GT",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "@EE",
+      "PK": "@MX",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "@IO",
+      "PK": "@KP",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "@PW",
+      "PK": "@UA",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "@ME",
+      "PK": "@BR",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@JP",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@AF",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "@BY",
       "action": {
         "do": 0,
         "status": 1
