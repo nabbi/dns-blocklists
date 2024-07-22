@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1721575740 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1721601720 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 21 Jul 2024 15:29 UTC
-; Version: 2024.0721.1529.17
+; Last modified: 21 Jul 2024 22:42 UTC
+; Version: 2024.0721.2242.54
 ; Syntax: RPZ
-; Number of entries: 20116
+; Number of entries: 20120
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -3367,6 +3367,8 @@ crack4patch.com CNAME .
 *.crack4patch.com CNAME .
 crack4soft.com CNAME .
 *.crack4soft.com CNAME .
+crack55.com CNAME .
+*.crack55.com CNAME .
 crack81.com CNAME .
 *.crack81.com CNAME .
 crackaio.com CNAME .
@@ -19825,6 +19827,8 @@ eurostreaming.xyz CNAME .
 *.eurostreaming.xyz CNAME .
 evil-stress.xyz CNAME .
 *.evil-stress.xyz CNAME .
+exsite24.xyz CNAME .
+*.exsite24.xyz CNAME .
 filetracker.xyz CNAME .
 *.filetracker.xyz CNAME .
 filmpertutti.xyz CNAME .

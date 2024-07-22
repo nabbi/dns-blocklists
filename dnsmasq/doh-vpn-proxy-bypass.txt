@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 20 Jul 2024 22:40 UTC
-# Version: 2024.0720.2240.49
+# Last modified: 21 Jul 2024 22:38 UTC
+# Version: 2024.0721.2238.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3165
+# Number of entries: 3164
 #
 local=/ns.00dani.me/
 local=/cdn.0ms.dev/
@@ -400,6 +400,7 @@ local=/bypass.pw/
 local=/bypassable.com/
 local=/bypassed.wtf/
 local=/bypasser.us/
+local=/bypassfw.com/
 local=/bypassip.com/
 local=/bypasskey.com/
 local=/bypasstunnel.com/
@@ -615,7 +616,6 @@ local=/surfshark.com.au/
 local=/unblock-proxy.com.de/
 local=/doh.viatech.com.tw/
 local=/webproxy.com.de/
-local=/dns.comeonjames.club/
 local=/edit.commanders.design/
 local=/commons.host/
 local=/easy-vpn.comodo.com/
@@ -2177,7 +2177,6 @@ local=/thiscopyofartclassisnotgenuine.rare1k.space/
 local=/emby.rasp.tv/
 local=/rateavon.je/
 local=/ratecuts.us/
-local=/la.ray0512.win/
 local=/dns.rayanbab.com/
 local=/rayneau.fr/
 local=/rayobyte.com/

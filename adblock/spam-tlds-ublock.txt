@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 19 Jul 2024 22:08 UTC
-! Version: 2024.0719.2208.11
+! Last modified: 21 Jul 2024 22:05 UTC
+! Version: 2024.0721.2205.49
 ! Syntax: uBlock
 ! Number of latin TLDs: 187 - non-latin TLDs: 151
 !
@@ -158,7 +158,7 @@
 ||science^$doc,domain=~hal.science
 ||sew^$doc
 ||sexy^$doc
-||shop^$doc,domain=~11ts.shop|~eventix.shop|~munu.shop|~terminal.shop|~urlbluemedia.shop
+||shop^$doc,domain=~11ts.shop|~eventix.shop|~munu.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop
 ||shopping^$doc
 ||site^$doc,domain=~dodi-repacks.site|~fitgirl-repacks.site|~gov-img.site|~notion.site|~reddit-doesnt-like-this.site
 ||skin^$doc
@@ -166,7 +166,7 @@
 ||solar^$doc,domain=~forecast.solar
 ||space^$doc,domain=~dragonscave.space|~drgns.space|~hf.space|~httpjames.space|~hullseals.space|~ippen.space|~link.space|~monitorburz.space|~oldbytes.space|~searx.space
 ||sport^$doc
-||store^$doc,domain=~androeed.store|~g-h.store|~shoplazza.store
+||store^$doc,domain=~androeed.store|~g-h.store|~iqunix.store|~shoplazza.store
 ||style^$doc
 ||support^$doc
 ||surf^$doc,domain=~s-wings.surf
