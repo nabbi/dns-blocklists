@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1721601720 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1721660460 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 21 Jul 2024 22:42 UTC
-; Version: 2024.0721.2242.54
+; Last modified: 22 Jul 2024 15:01 UTC
+; Version: 2024.0722.1501.27
 ; Syntax: RPZ
-; Number of entries: 20120
+; Number of entries: 20126
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -10227,6 +10227,8 @@ filmstreaming-de.life CNAME .
 *.filmstreaming-de.life CNAME .
 flixtor.life CNAME .
 *.flixtor.life CNAME .
+guardaserie.life CNAME .
+*.guardaserie.life CNAME .
 tracker.jiesen.life CNAME .
 *.tracker.jiesen.life CNAME .
 mlwbd.life CNAME .
@@ -14375,6 +14377,8 @@ torrent.genesis-movement.org CNAME .
 *.torrent.genesis-movement.org CNAME .
 genesis-sp.org CNAME .
 *.genesis-sp.org CNAME .
+gigaflix.org CNAME .
+*.gigaflix.org CNAME .
 glabella.org CNAME .
 *.glabella.org CNAME .
 glorybits.org CNAME .
@@ -17699,6 +17703,8 @@ hif.to CNAME .
 *.hif.to CNAME .
 himovies.to CNAME .
 *.himovies.to CNAME .
+hindilinks4u.to CNAME .
+*.hindilinks4u.to CNAME .
 holaanime.to CNAME .
 *.holaanime.to CNAME .
 housemovie.to CNAME .
