@@ -28,7 +28,7 @@
 14. [Badware Hoster](#hoster) - *Protects against the malicious use of free host services!*
 15. [Most Abused TLDs](#tlds) - *Protects against known malicious Top Level Domains!*
 16. [Anti Piracy](#piracy) - *Protects against piracy!*
-17. [Gambling](#gambling) - *Protects against gambling content!*
+17. [Gambling](#gambling) - *Protects against gambling content!* : [Full](#gambling) - [Medium](#gamblingmedium)
 18. [NSFW (external)](https://oisd.nl/setup) - *oisd NSFW - Protects against adult content!*
 19. [Native Tracker](#native) - *Broadband tracker of devices, services and operating systems*
 20. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
@@ -517,7 +517,7 @@
 
 ---
 
-### :crystal_ball: ***Most Abused TLDs - Protects against known malicious Top Level Domains! (Recommended) *** <a name="tlds"></a>
+### :crystal_ball: ***Most Abused TLDs - Protects against known malicious Top Level Domains! (Recommended)*** <a name="tlds"></a>
 
 *A blocklist for blocking Top Most Abused Top Level Domains, merged from [@Yokoffing](https://github.com/yokoffing), [@DandelionSprout](https://github.com/DandelionSprout/), [@LennyFox](https://github.com/lennyfox) Cloudflare Radar and SpamHaus.*
 
@@ -584,6 +584,26 @@
 | Wildcard<br>Asterisk | [Link](lnkgh_w/gambling.txt) [Mirror](lnkgl_w/gambling.txt) [Mirror](lnkjd_w/gambling.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](lnkgh_w/gambling-onlydomains.txt) [Mirror](lnkgl_w/gambling-onlydomains.txt) [Mirror](lnkjd_w/gambling-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/gambling.txt) [Mirror](lnkgl_r/gambling.txt) [Mirror](lnkjd_r/gambling.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
+
+#### :slot_machine: ***Gambling - Medium version*** <a name="gamblingmedium"></a>
+
+*A medium version of the Gambling list. Designed for Adblockers that have problems with the size of the full Gambling list.*
+
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+
+**Entries:** *gamblingm_cp compressed domains*
+
+| Format | Links | Should be used for |
+|:-------|:-----|:----------------|
+| Adblock | [Link](lnkgh_a/gambling.medium.txt) [Mirror](lnkgl_a/gambling.medium.txt) [Mirror](lnkjd_a/gambling.medium.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| DNSMasq | [Link](lnkgh_m/gambling.medium.txt) [Mirror](lnkgl_m/gambling.medium.txt) [Mirror](lnkjd_m/gambling.medium.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| Wildcard<br>Asterisk | [Link](lnkgh_w/gambling.medium.txt) [Mirror](lnkgl_w/gambling.medium.txt) [Mirror](lnkjd_w/gambling.medium.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
+| Wildcard<br>Domains | [Link](lnkgh_w/gambling.medium-onlydomains.txt) [Mirror](lnkgl_w/gambling.medium-onlydomains.txt) [Mirror](lnkjd_w/gambling.medium-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| RPZ | [Link](lnkgh_r/gambling.medium.txt) [Mirror](lnkgl_r/gambling.medium.txt) [Mirror](lnkjd_r/gambling.medium.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 **Expires:** *Updated regularly*
 
