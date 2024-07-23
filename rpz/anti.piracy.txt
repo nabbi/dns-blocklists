@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1721660460 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1721688000 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Jul 2024 15:01 UTC
-; Version: 2024.0722.1501.27
+; Last modified: 22 Jul 2024 22:40 UTC
+; Version: 2024.0722.2240.03
 ; Syntax: RPZ
-; Number of entries: 20126
+; Number of entries: 20134
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -4275,6 +4275,8 @@ gamestorrents.com CNAME .
 *.gamestorrents.com CNAME .
 gametechwiki.com CNAME .
 *.gametechwiki.com CNAME .
+gamingbeasts.com CNAME .
+*.gamingbeasts.com CNAME .
 gatachannel.com CNAME .
 *.gatachannel.com CNAME .
 gazipurns.com CNAME .
@@ -5215,6 +5217,8 @@ movie2kproxy.com CNAME .
 *.movie2kproxy.com CNAME .
 moviebeamz.com CNAME .
 *.moviebeamz.com CNAME .
+movieblogarea.com CNAME .
+*.movieblogarea.com CNAME .
 db1.moviebox.com CNAME .
 *.db1.moviebox.com CNAME .
 movieboxbd.com CNAME .
@@ -12467,6 +12471,8 @@ movieunlimited.net CNAME .
 *.movieunlimited.net CNAME .
 moviz.net CNAME .
 *.moviz.net CNAME .
+mp3-juices.net CNAME .
+*.mp3-juices.net CNAME .
 mp3000.net CNAME .
 *.mp3000.net CNAME .
 mp3fusion.net CNAME .
@@ -14521,6 +14527,8 @@ kisssub.org CNAME .
 *.kisssub.org CNAME .
 knaben.org CNAME .
 *.knaben.org CNAME .
+kubanmedia.org CNAME .
+*.kubanmedia.org CNAME .
 l33t-raws.org CNAME .
 *.l33t-raws.org CNAME .
 learnbits.org CNAME .
