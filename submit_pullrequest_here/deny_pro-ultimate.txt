@@ -51,6 +51,7 @@ unlock-content.net
 # https://github.com/hagezi/dns-blocklists/issues/2676
 # https://github.com/hagezi/dns-blocklists/issues/2791
 # https://github.com/hagezi/dns-blocklists/issues/2803
+# https://github.com/hagezi/dns-blocklists/issues/3264
 ads.nonprod.webservices.mozgcp.net
 ads.prod.webservices.mozgcp.net
 aggregates.telemetry.mozilla.org
@@ -95,8 +96,10 @@ crashplan.svn.mozilla.org
 crashplan.vpn.mozilla.org
 crashstats.mozilla.com
 dataops.mozgcp.net
+dataservices.mozgcp.net
 dictionary.telemetry.mozilla.org
 docs.telemetry.mozilla.org
+download-stats.r53-2.services.mozilla.com
 firefox-android-home-recommendations.getpocket.com
 fls.merino.services.mozilla.com
 fxos.telemetry.mozilla.org
@@ -112,6 +115,8 @@ mware.socorro.stage.webapp.sjc1.mozilla.com
 normandy-cdn.services.mozilla.com
 normandy-devtools.services.mozilla.com
 normandy.cdn.mozilla.net
+normandy.nonprod.cloudops.mozgcp.net
+normandy.prod.cloudops.mozgcp.net
 normandy.services.mozilla.com
 pocket-proxy.prod.ads.prod.webservices.mozgcp.net
 probeinfo.telemetry.mozilla.org
@@ -121,6 +126,7 @@ public-data.telemetry.mozilla.org
 reports.telemetry.mozilla.org
 snippets-prod.frankfurt.moz.works
 snippets-prod.moz.works
+snippets-prod.oregon-b.moz.works
 snippets-stage.moz.works
 snippets-stage.oregon-b.moz.works
 snippets.allizom.org
@@ -131,10 +137,17 @@ socorro-mware-stage-zlb.webapp.phx1.mozilla.com
 socorro-mware-zlb.webapp.phx1.mozilla.com
 socorro-webapp-allizom.stage.mozaws.net
 socorro-webapp.services.mozilla.com
+socorro.nonprod.webservices.mozgcp.net
+socorro.prod.webservices.mozgcp.net
 socorro.services.mozilla.com
 spocs.getpocket.com
+spocs.getpocket.dev
+spocs.mozilla.net
 sql.telemetry.mozilla.org
 stage.ads.nonprod.webservices.mozgcp.net
+talkback-public.mozilla.org
+talkback-reports.mozilla.org
+talkback.mozilla.org
 telemetry-coverage.mozilla.com
 telemetry-coverage.mozilla.org
 telemetry-coverage.r53-2.services.mozilla.com
