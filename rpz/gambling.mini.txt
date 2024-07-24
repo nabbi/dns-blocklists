@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1721746980 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1721771820 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 23 Jul 2024 15:03 UTC
-; Version: 2024.0723.1503.56
+; Last modified: 23 Jul 2024 21:57 UTC
+; Version: 2024.0723.2157.25
 ; Syntax: RPZ
-; Number of entries: 68410
+; Number of entries: 68428
 ;
 kubet.ac CNAME .
 *.kubet.ac CNAME .
@@ -2949,6 +2949,8 @@ k8.cc CNAME .
 *.k8.cc CNAME .
 k8pg.cc CNAME .
 *.k8pg.cc CNAME .
+kantil.cc CNAME .
+*.kantil.cc CNAME .
 kbkbet.cc CNAME .
 *.kbkbet.cc CNAME .
 kentcasino.cc CNAME .
@@ -4167,6 +4169,8 @@ reiting-casino.club CNAME .
 *.reiting-casino.club CNAME .
 reiting-casinos.club CNAME .
 *.reiting-casinos.club CNAME .
+rmas.club CNAME .
+*.rmas.club CNAME .
 rokscasino.club CNAME .
 *.rokscasino.club CNAME .
 rollriches.club CNAME .
@@ -4755,6 +4759,8 @@ panda8.co CNAME .
 *.panda8.co CNAME .
 pedro4dhub.co CNAME .
 *.pedro4dhub.co CNAME .
+pemudaattogell.co CNAME .
+*.pemudaattogell.co CNAME .
 penaslot001.co CNAME .
 *.penaslot001.co CNAME .
 penaslot007.co CNAME .
@@ -12901,6 +12907,8 @@ bentleyslotku.com CNAME .
 *.bentleyslotku.com CNAME .
 bento4dslot.com CNAME .
 *.bento4dslot.com CNAME .
+bento4dtahu.com CNAME .
+*.bento4dtahu.com CNAME .
 bentoslot805.com CNAME .
 *.bentoslot805.com CNAME .
 benuajitutoto.com CNAME .
@@ -53549,6 +53557,8 @@ psg88.sbs CNAME .
 *.psg88.sbs CNAME .
 rtp7luck.sbs CNAME .
 *.rtp7luck.sbs CNAME .
+rtpmaenyuk.sbs CNAME .
+*.rtpmaenyuk.sbs CNAME .
 semangko.sbs CNAME .
 *.semangko.sbs CNAME .
 sgcwinmax.sbs CNAME .
@@ -61305,6 +61315,10 @@ riobetcasino-oog.top CNAME .
 *.riobetcasino-oog.top CNAME .
 riobetcasino-oor.top CNAME .
 *.riobetcasino-oor.top CNAME .
+riobetcasino-oyx.top CNAME .
+*.riobetcasino-oyx.top CNAME .
+riobetcasino-pdt.top CNAME .
+*.riobetcasino-pdt.top CNAME .
 riobetcasino-pni.top CNAME .
 *.riobetcasino-pni.top CNAME .
 riobetcasino-prq.top CNAME .
@@ -61353,6 +61367,8 @@ riobetcasino-xje.top CNAME .
 *.riobetcasino-xje.top CNAME .
 riobetcasino-xkg.top CNAME .
 *.riobetcasino-xkg.top CNAME .
+riobetcasino-xpt.top CNAME .
+*.riobetcasino-xpt.top CNAME .
 riobetcasino-xsc.top CNAME .
 *.riobetcasino-xsc.top CNAME .
 riobetcasino-xxb.top CNAME .
@@ -61377,6 +61393,8 @@ riobetcasino-zss.top CNAME .
 *.riobetcasino-zss.top CNAME .
 riobetcasino-zsv.top CNAME .
 *.riobetcasino-zsv.top CNAME .
+riobetcasino-zxe.top CNAME .
+*.riobetcasino-zxe.top CNAME .
 riobett-casino-27.top CNAME .
 *.riobett-casino-27.top CNAME .
 riobett-casino-28.top CNAME .

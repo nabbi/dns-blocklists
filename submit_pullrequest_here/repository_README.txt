@@ -762,7 +762,7 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 #### :department_store: ***DNSforge (Germany) - free*** <a name="dnsforge"></a>
 
-*[DNSforge](https://dnsforge.de/) use my Multi Light blocklist in addition to other blocklists.*
+*[DNSforge](https://dnsforge.de/) uses some of my lists in addition to other blocklists.*
 
 #### :department_store: ***OpenBLD.net - free*** <a name="openbld"></a>
 
