@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 19 Jul 2024 05:29 UTC
-# Version: 2024.0719.0529.18
+# Last modified: 24 Jul 2024 22:22 UTC
+# Version: 2024.0724.2222.47
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 694
+# Number of entries: 695
 #
 in.appcenter.ms
 applicationinsights.azure.com
@@ -101,6 +101,7 @@ westus2-2.in.applicationinsights.azure.com
 westus2-4.in.applicationinsights.azure.com
 westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
+westus3.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
 live.applicationinsights.azure.cn
 live.applicationinsights.azure.com
