@@ -4,13 +4,12 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jul 2024 22:37 UTC
-# Version: 2024.0722.2237.52
+# Last modified: 25 Jul 2024 21:47 UTC
+# Version: 2024.0725.2147.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1490
+# Number of entries: 1485
 #
 local=/0000000000000000000000.com/
-local=/0rg.us/
 local=/0x.no/
 local=/100mountain.com/
 local=/10dv.com/
@@ -939,7 +938,6 @@ local=/mh-it.com/
 local=/midjava.com/
 local=/migibts.net/
 local=/mikata.ru/
-local=/mikecartwright.net/
 local=/mil.nf/
 local=/mindhackers.org/
 local=/mine.bz/
@@ -1266,7 +1264,6 @@ local=/sexidude.com/
 local=/sexmistrz.pl/
 local=/sexxxy.biz/
 local=/shacknet.biz/
-local=/shacknet.nu/
 local=/shacknet.us/
 local=/shadir.com/
 local=/shaqnet.nu/
@@ -1347,7 +1344,6 @@ local=/system-ns.com/
 local=/systes.net/
 local=/sytes.net/
 local=/t-online.hu/
-local=/tallison.com/
 local=/tantrum.org/
 local=/tcp4.me/
 local=/tcp64.de/
@@ -1381,7 +1377,6 @@ local=/toshibanetcam.com/
 local=/toythieves.com/
 local=/tpddns.cn/
 local=/traeumtgerade.de/
-local=/trailsendlodge.org/
 local=/trickip.net/
 local=/trickip.org/
 local=/trieditmyself.com/

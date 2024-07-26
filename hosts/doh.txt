@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Jul 2024 10:47 UTC
-# Version: 2024.0725.1047.41
+# Last modified: 25 Jul 2024 21:45 UTC
+# Version: 2024.0725.2145.56
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1214
+# Number of entries: 1202
 #
 0.0.0.0 ns.00dani.me
 0.0.0.0 cdn.0ms.dev
@@ -798,7 +798,6 @@
 0.0.0.0 n0.eu
 0.0.0.0 doh-ca.naftalie.net
 0.0.0.0 www.chungocoai.name.vn
-0.0.0.0 adguard.quydang.name.vn
 0.0.0.0 dns.narl.app
 0.0.0.0 dns.nas-server.ru
 0.0.0.0 nenam.eu
@@ -827,7 +826,6 @@
 0.0.0.0 doh.nic.lv
 0.0.0.0 dnsotls.lab.nic.cl
 0.0.0.0 odvr.nic.cz
-0.0.0.0 dns1.nielsdb.be
 0.0.0.0 dns.ningkelle.id
 0.0.0.0 family.dns.ningkelle.id
 0.0.0.0 dns.nixnet.xyz
@@ -844,7 +842,6 @@
 0.0.0.0 ny1.nixnet.xyz
 0.0.0.0 doh.niyawe.de
 0.0.0.0 dns.njal.la
-0.0.0.0 resolver.noaddns.com
 0.0.0.0 pi1.node15.com
 0.0.0.0 sink.nolo.ltd
 0.0.0.0 paulo.nom.za
@@ -1009,13 +1006,6 @@
 0.0.0.0 dns.rootlab.top
 0.0.0.0 dns.rotunneling.net
 0.0.0.0 o.rsaikat.com
-0.0.0.0 au.rslvr.eu
-0.0.0.0 bg.rslvr.eu
-0.0.0.0 hk.rslvr.eu
-0.0.0.0 jp.rslvr.eu
-0.0.0.0 nl.rslvr.eu
-0.0.0.0 sg.rslvr.eu
-0.0.0.0 us.rslvr.eu
 0.0.0.0 adguard.ruby.ci
 0.0.0.0 dns.rubyfish.cn
 0.0.0.0 ea-dns.rubyfish.cn
@@ -1037,7 +1027,6 @@
 0.0.0.0 dns.scarx.net
 0.0.0.0 dns.schlagheck.berlin
 0.0.0.0 dns.scuola.org
-0.0.0.0 adguard.sealyserver.com
 0.0.0.0 2.dnscrypt-cert.dns.seby.io
 0.0.0.0 doh.seby.io
 0.0.0.0 doh-2.seby.io
@@ -1179,7 +1168,6 @@
 0.0.0.0 wantaquddin.com
 0.0.0.0 dns.wargan.io
 0.0.0.0 abel.waringer-atg.de
-0.0.0.0 dns.warma.me
 0.0.0.0 dns.warpnine.de
 0.0.0.0 doh.this.web.id
 0.0.0.0 dns.wechat.com

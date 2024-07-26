@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Jul 2024 10:47 UTC
-# Version: 2024.0725.1047.41
+# Last modified: 25 Jul 2024 21:45 UTC
+# Version: 2024.0725.2145.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1058
+# Number of entries: 1046
 #
 local=/ns.00dani.me/
 local=/cdn.0ms.dev/
@@ -676,7 +676,6 @@ local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/doh-ca.naftalie.net/
 local=/www.chungocoai.name.vn/
-local=/adguard.quydang.name.vn/
 local=/dns.narl.app/
 local=/dns.nas-server.ru/
 local=/nenam.eu/
@@ -702,7 +701,6 @@ local=/dns.nhtsky.com/
 local=/doh.nic.lv/
 local=/dnsotls.lab.nic.cl/
 local=/odvr.nic.cz/
-local=/dns1.nielsdb.be/
 local=/dns.ningkelle.id/
 local=/dns.nixnet.xyz/
 local=/lux1.nixnet.xyz/
@@ -710,7 +708,6 @@ local=/lv1.nixnet.xyz/
 local=/ny1.nixnet.xyz/
 local=/doh.niyawe.de/
 local=/dns.njal.la/
-local=/resolver.noaddns.com/
 local=/pi1.node15.com/
 local=/sink.nolo.ltd/
 local=/paulo.nom.za/
@@ -868,13 +865,6 @@ local=/dns.ronc.ru/
 local=/dns.rootlab.top/
 local=/dns.rotunneling.net/
 local=/o.rsaikat.com/
-local=/au.rslvr.eu/
-local=/bg.rslvr.eu/
-local=/hk.rslvr.eu/
-local=/jp.rslvr.eu/
-local=/nl.rslvr.eu/
-local=/sg.rslvr.eu/
-local=/us.rslvr.eu/
 local=/adguard.ruby.ci/
 local=/dns.rubyfish.cn/
 local=/ea-dns.rubyfish.cn/
@@ -896,7 +886,6 @@ local=/dns.scapetical.com/
 local=/dns.scarx.net/
 local=/dns.schlagheck.berlin/
 local=/dns.scuola.org/
-local=/adguard.sealyserver.com/
 local=/2.dnscrypt-cert.dns.seby.io/
 local=/doh.seby.io/
 local=/doh-2.seby.io/
@@ -1029,7 +1018,6 @@ local=/dns.wang.art/
 local=/wantaquddin.com/
 local=/dns.wargan.io/
 local=/abel.waringer-atg.de/
-local=/dns.warma.me/
 local=/dns.warpnine.de/
 local=/doh.this.web.id/
 local=/dns.wechat.com/

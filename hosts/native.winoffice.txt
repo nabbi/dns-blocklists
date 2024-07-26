@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 24 Jul 2024 22:22 UTC
-# Version: 2024.0724.2222.47
+# Last modified: 25 Jul 2024 22:22 UTC
+# Version: 2024.0725.2222.30
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 695
+# Number of entries: 696
 #
 0.0.0.0 in.appcenter.ms
 0.0.0.0 applicationinsights.azure.com
@@ -164,6 +164,7 @@
 0.0.0.0 ffc-word-telemetry.officeapps.live.com
 0.0.0.0 frc-visio-telemetry.officeapps.live.com
 0.0.0.0 inc-visio-telemetry.officeapps.live.com
+0.0.0.0 jpc-visio-telemetry.officeapps.live.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 noc-visio-telemetry.officeapps.live.com

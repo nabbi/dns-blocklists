@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1721719500 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1721944080 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 23 Jul 2024 07:25 UTC
-; Version: 2024.0723.0725.58
+; Last modified: 25 Jul 2024 21:48 UTC
+; Version: 2024.0725.2148.04
 ; Syntax: RPZ
-; Number of entries: 3678
+; Number of entries: 3670
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2195,8 +2195,6 @@ cowblog.fr CNAME .
 *.cowblog.fr CNAME .
 eklablog.fr CNAME .
 *.eklablog.fr CNAME .
-fantasyblog.fr CNAME .
-*.fantasyblog.fr CNAME .
 forumactif.fr CNAME .
 *.forumactif.fr CNAME .
 forumpro.fr CNAME .
@@ -2907,8 +2905,6 @@ blog4ever.net CNAME .
 *.blog4ever.net CNAME .
 blog5.net CNAME .
 *.blog5.net CNAME .
-blogator.net CNAME .
-*.blogator.net CNAME .
 blogbright.net CNAME .
 *.blogbright.net CNAME .
 blogdon.net CNAME .
@@ -3291,8 +3287,6 @@ phpnet.org CNAME .
 *.phpnet.org CNAME .
 populus.org CNAME .
 *.populus.org CNAME .
-privateblogs.org CNAME .
-*.privateblogs.org CNAME .
 prohosts.org CNAME .
 *.prohosts.org CNAME .
 rumahweb.org CNAME .
@@ -3403,8 +3397,6 @@ webnode.pt CNAME .
 *.webnode.pt CNAME .
 hostfree.pw CNAME .
 *.hostfree.pw CNAME .
-mybb.pw CNAME .
-*.mybb.pw CNAME .
 webnode.com.py CNAME .
 *.webnode.com.py CNAME .
 blogspot.qa CNAME .
