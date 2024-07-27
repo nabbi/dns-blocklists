@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1721944140 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1722030300 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 25 Jul 2024 21:49 UTC
-; Version: 2024.0725.2149.08
+; Last modified: 26 Jul 2024 21:45 UTC
+; Version: 2024.0726.2145.35
 ; Syntax: RPZ
-; Number of entries: 19772
+; Number of entries: 19768
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -501,8 +501,6 @@ torrentdownloads.be CNAME .
 *.torrentdownloads.be CNAME .
 watchseries-online.be CNAME .
 *.watchseries-online.be CNAME .
-altadefinizione.beauty CNAME .
-*.altadefinizione.beauty CNAME .
 altadefinizione01.beauty CNAME .
 *.altadefinizione01.beauty CNAME .
 casacinema.beauty CNAME .
@@ -2219,8 +2217,6 @@ w4.123moviefree4u.com CNAME .
 *.123tvnow.com CNAME .
 1337x.com CNAME .
 *.1337x.com CNAME .
-1337xproxies.com CNAME .
-*.1337xproxies.com CNAME .
 141jav.com CNAME .
 *.141jav.com CNAME .
 147job.com CNAME .
