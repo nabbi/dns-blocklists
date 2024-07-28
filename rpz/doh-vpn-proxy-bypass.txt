@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1722030060 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1722116400 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 26 Jul 2024 21:41 UTC
-; Version: 2024.0726.2141.16
+; Last modified: 27 Jul 2024 21:40 UTC
+; Version: 2024.0727.2140.58
 ; Syntax: RPZ
-; Number of entries: 6222
+; Number of entries: 6220
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -644,8 +644,6 @@ vpn.azure.com CNAME .
 *.vpn.azure.com CNAME .
 b-ii.com CNAME .
 *.b-ii.com CNAME .
-photography.backriverphotography.com CNAME .
-*.photography.backriverphotography.com CNAME .
 banana-vpn.com CNAME .
 *.banana-vpn.com CNAME .
 bananavpn.com CNAME .
@@ -794,8 +792,6 @@ cactusvpn.com CNAME .
 *.cactusvpn.com CNAME .
 dns.caksono.com CNAME .
 *.dns.caksono.com CNAME .
-us1.cambrianscientific.com CNAME .
-*.us1.cambrianscientific.com CNAME .
 careproxy.com CNAME .
 *.careproxy.com CNAME .
 dns.carson-family.com CNAME .
@@ -982,6 +978,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
+dns.ellichua.com CNAME .
+*.dns.ellichua.com CNAME .
 emban-networks.com CNAME .
 *.emban-networks.com CNAME .
 dns.emiliyan.com CNAME .
@@ -5048,6 +5046,8 @@ krtekvpn.duckdns.org CNAME .
 *.krtekvpn.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
+punono.duckdns.org CNAME .
+*.punono.duckdns.org CNAME .
 tuandns.duckdns.org CNAME .
 *.tuandns.duckdns.org CNAME .
 tungdnsne.duckdns.org CNAME .
@@ -5880,8 +5880,6 @@ justproxy.co.uk CNAME .
 *.justproxy.co.uk CNAME .
 lamnia.co.uk CNAME .
 *.lamnia.co.uk CNAME .
-einstein.lawson-engineers.co.uk CNAME .
-*.einstein.lawson-engineers.co.uk CNAME .
 my-private-network.co.uk CNAME .
 *.my-private-network.co.uk CNAME .
 dns.neilzone.co.uk CNAME .

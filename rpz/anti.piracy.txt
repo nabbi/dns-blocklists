@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1722030300 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1722116700 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 26 Jul 2024 21:45 UTC
-; Version: 2024.0726.2145.35
+; Last modified: 27 Jul 2024 21:45 UTC
+; Version: 2024.0727.2145.18
 ; Syntax: RPZ
-; Number of entries: 19768
+; Number of entries: 19758
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -433,8 +433,6 @@ slnisp.com.bd CNAME .
 *.slnisp.com.bd CNAME .
 tnetwork.com.bd CNAME .
 *.tnetwork.com.bd CNAME .
-triangle.com.bd CNAME .
-*.triangle.com.bd CNAME .
 cnc.net.bd CNAME .
 *.cnc.net.bd CNAME .
 enjoy.net.bd CNAME .
@@ -3271,8 +3269,6 @@ crack-cd.com CNAME .
 *.crack-cd.com CNAME .
 crack4patch.com CNAME .
 *.crack4patch.com CNAME .
-crack4soft.com CNAME .
-*.crack4soft.com CNAME .
 crack55.com CNAME .
 *.crack55.com CNAME .
 crack81.com CNAME .
@@ -10363,8 +10359,6 @@ streamingcommunity.love CNAME .
 *.streamingcommunity.love CNAME .
 yesmovies.love CNAME .
 *.yesmovies.love CNAME .
-cineblog01.lt CNAME .
-*.cineblog01.lt CNAME .
 connection.lt CNAME .
 *.connection.lt CNAME .
 feeder.lt CNAME .
@@ -13167,8 +13161,6 @@ tantifilm.network CNAME .
 *.tantifilm.network CNAME .
 altadefinizione.news CNAME .
 *.altadefinizione.news CNAME .
-casacinema.news CNAME .
-*.casacinema.news CNAME .
 cb01.news CNAME .
 *.cb01.news CNAME .
 guardaserie.news CNAME .
@@ -13775,8 +13767,6 @@ cddownloadfree.org CNAME .
 *.cddownloadfree.org CNAME .
 cestpasbien.org CNAME .
 *.cestpasbien.org CNAME .
-dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org CNAME .
-*.dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org CNAME .
 chdbits.org CNAME .
 *.chdbits.org CNAME .
 chilewarez.org CNAME .
