@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Jul 2024 21:44 UTC
-# Version: 2024.0725.2144.44
+# Last modified: 28 Jul 2024 21:40 UTC
+# Version: 2024.0728.2140.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3113
+# Number of entries: 3101
 #
 local=/ns.00dani.me/
 local=/cdn.0ms.dev/
@@ -49,7 +49,6 @@ local=/123torr.com/
 local=/123ultraproxy.com/
 local=/123unblocked.com/
 local=/12vpx.com/
-local=/16yd.com/
 local=/cloud.198.games/
 local=/1and1-dns.de/
 local=/1clickvpn.net/
@@ -262,7 +261,6 @@ local=/b-dns.se/
 local=/b-ii.com/
 local=/dns.b33.space/
 local=/dns.b612.me/
-local=/photography.backriverphotography.com/
 local=/dns.baishiyuan.cn/
 local=/banana-vpn.com/
 local=/bananavpn.com/
@@ -398,7 +396,6 @@ local=/cactusvpn.com/
 local=/dns.caksono.com/
 local=/calc-web.me/
 local=/callies-online.site/
-local=/us1.cambrianscientific.com/
 local=/canadaproxy.info/
 local=/cantblockthis.org/
 local=/cantfindme.org/
@@ -544,7 +541,6 @@ local=/ag.hostme.co.il/
 local=/insteadvpn.co.cc/
 local=/justproxy.co.uk/
 local=/lamnia.co.uk/
-local=/einstein.lawson-engineers.co.uk/
 local=/my-private-network.co.uk/
 local=/dns.neilzone.co.uk/
 local=/ninjaproxy.co.uk/
@@ -774,8 +770,6 @@ local=/dnsforfamily.com/
 local=/dnsforge.de/
 local=/dns.dnshome.de/
 local=/dnslow.me/
-local=/w.n.dnsmirror.org/
-local=/x.n.dnsmirror.org/
 local=/dns.dnsoverhttps.net/
 local=/dns.dnssilo.top/
 local=/adblock-dot.dnswarden.com/
@@ -848,6 +842,7 @@ local=/adguard.ef67daisuki.club/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
+local=/dns.ellichua.com/
 local=/emban-networks.com/
 local=/dns.emiliyan.com/
 local=/emuby.com/
@@ -950,7 +945,6 @@ local=/dns.flymc.cc/
 local=/flyssh.com/
 local=/flyvpn.com/
 local=/gateway.fomichev.cloud/
-local=/for-privacy.net/
 local=/cranking90s.fortnitebuilder.pro/
 local=/fortniters.info/
 local=/forwardproxie.com/
@@ -1112,9 +1106,6 @@ local=/gowork.info/
 local=/gpreport.us/
 local=/dot.libredns.gr.com/
 local=/gracarno.com/
-local=/k.c.gracemp.org/
-local=/n.c.gracemp.org/
-local=/vp.c.gracemp.org/
 local=/graef.in/
 local=/granules.us/
 local=/gratisproxy.nl/
@@ -1135,9 +1126,6 @@ local=/gumm.org/
 local=/gvirabi.com/
 local=/gztech.me/
 local=/h-vpn.org/
-local=/j.o.h4xxel.org/
-local=/x.o.h4xxel.org/
-local=/x4.o.h4xxel.org/
 local=/dns.hahnjo.de/
 local=/dns.hanahira.dev/
 local=/adguard.haneulo.com/
