@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 28 Jul 2024 21:44 UTC
-# Version: 2024.0728.2144.44
+# Last modified: 29 Jul 2024 13:31 UTC
+# Version: 2024.0729.1331.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9870
+# Number of entries: 9867
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -5230,7 +5230,6 @@ local=/load.to/
 local=/loadbaba.com/
 local=/tracker.loadbt.com/
 local=/tracker.logirl.moe/
-local=/smtp.loki.tel/
 local=/open.lolicon.eu/
 local=/tracker.loligirl.cn/
 local=/lolokino.biz/
@@ -5371,7 +5370,6 @@ local=/maroctorrent.net/
 local=/tracker.marshyonline.net/
 local=/martin-gebhardt.eu/
 local=/massgrave.dev/
-local=/master-prez.com/
 local=/masterani.me/
 local=/masterboot.net/
 local=/masterflix.online/
@@ -5659,7 +5657,6 @@ local=/movies-free.net/
 local=/movies-watch.biz/
 local=/movies123.email/
 local=/movies123.live/
-local=/movies123.pk/
 local=/movies123.top/
 local=/movies123.website/
 local=/vvv.movies123.sbs/
