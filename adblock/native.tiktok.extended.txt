@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 15 Jul 2024 23:04 UTC
-! Version: 2024.0715.2304.59
+! Last modified: 28 Jul 2024 22:25 UTC
+! Version: 2024.0728.2225.55
 ! Syntax: AdBlock
-! Number of entries: 409
+! Number of entries: 413
 !
 ||docs-frontier-sg.byteoversea.com^
 ||frontier.byteoversea.com^
@@ -411,6 +411,10 @@
 ||xlog16-normal-useast8.us.tiktokv.com^
 ||xlog16-platform-useast5.us.tiktokv.com^
 ||webcast-frontier22-alisg.tiktokv.com^
+||webcast-frontier22-normal-alisg.tiktokv.com^
+||webcast-frontier22-normal-useast1a.tiktokv.com^
+||webcast-frontier32-normal-alisg.tiktokv.com^
+||webcast-frontier32-normal-useast1a.tiktokv.com^
 ||xlog.tiktokv.com^
 ||xlog-ru.tiktokv.com^
 ||xlog-va.tiktokv.com^

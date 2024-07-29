@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Jul 2024 21:40 UTC
-# Version: 2024.0727.2140.58
+# Last modified: 28 Jul 2024 21:40 UTC
+# Version: 2024.0728.2140.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3110
+# Number of entries: 3101
 #
 local=/ns.00dani.me/
 local=/cdn.0ms.dev/
@@ -770,8 +770,6 @@ local=/dnsforfamily.com/
 local=/dnsforge.de/
 local=/dns.dnshome.de/
 local=/dnslow.me/
-local=/w.n.dnsmirror.org/
-local=/x.n.dnsmirror.org/
 local=/dns.dnsoverhttps.net/
 local=/dns.dnssilo.top/
 local=/adblock-dot.dnswarden.com/
@@ -947,7 +945,6 @@ local=/dns.flymc.cc/
 local=/flyssh.com/
 local=/flyvpn.com/
 local=/gateway.fomichev.cloud/
-local=/for-privacy.net/
 local=/cranking90s.fortnitebuilder.pro/
 local=/fortniters.info/
 local=/forwardproxie.com/
@@ -1109,9 +1106,6 @@ local=/gowork.info/
 local=/gpreport.us/
 local=/dot.libredns.gr.com/
 local=/gracarno.com/
-local=/k.c.gracemp.org/
-local=/n.c.gracemp.org/
-local=/vp.c.gracemp.org/
 local=/graef.in/
 local=/granules.us/
 local=/gratisproxy.nl/
@@ -1132,9 +1126,6 @@ local=/gumm.org/
 local=/gvirabi.com/
 local=/gztech.me/
 local=/h-vpn.org/
-local=/j.o.h4xxel.org/
-local=/x.o.h4xxel.org/
-local=/x4.o.h4xxel.org/
 local=/dns.hahnjo.de/
 local=/dns.hanahira.dev/
 local=/adguard.haneulo.com/

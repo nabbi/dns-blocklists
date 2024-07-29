@@ -118,6 +118,7 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-f
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
 https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
+https://raw.githubusercontent.com/BrigsLabs/judol/main/judol_domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
 https://raw.githubusercontent.com/cbuijs/ut1/master/cryptojacking/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
