@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1722203040 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1722259860 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 28 Jul 2024 21:44 UTC
-; Version: 2024.0728.2144.44
+; Last modified: 29 Jul 2024 13:31 UTC
+; Version: 2024.0729.1331.30
 ; Syntax: RPZ
-; Number of entries: 19740
+; Number of entries: 19734
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -4919,8 +4919,6 @@ mariumnetwork.com CNAME .
 *.mariumnetwork.com CNAME .
 marketingsoftwaredownloads.com CNAME .
 *.marketingsoftwaredownloads.com CNAME .
-master-prez.com CNAME .
-*.master-prez.com CNAME .
 masterkreatif.com CNAME .
 *.masterkreatif.com CNAME .
 masters-tb.com CNAME .
@@ -15255,8 +15253,6 @@ www.opnsports.com.pk CNAME .
 *.www.opnsports.com.pk CNAME .
 gbapp.pk CNAME .
 *.gbapp.pk CNAME .
-movies123.pk CNAME .
-*.movies123.pk CNAME .
 playit.pk CNAME .
 *.playit.pk CNAME .
 pcd.345.pl CNAME .
@@ -17127,8 +17123,6 @@ eurostreaming.tel CNAME .
 *.eurostreaming.tel CNAME .
 filmpertutti.tel CNAME .
 *.filmpertutti.tel CNAME .
-smtp.loki.tel CNAME .
-*.smtp.loki.tel CNAME .
 streamingcommunity.tel CNAME .
 *.streamingcommunity.tel CNAME .
 voirfilms.tel CNAME .
