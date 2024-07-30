@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Jul 2024 21:42 UTC
-# Version: 2024.0727.2142.07
+# Last modified: 29 Jul 2024 21:41 UTC
+# Version: 2024.0729.2141.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1047
+# Number of entries: 1042
 #
 local=/ns.00dani.me/
 local=/cdn.0ms.dev/
@@ -577,7 +577,6 @@ local=/xray.krnl.eu/
 local=/adguard.kss.ovh/
 local=/dns.kugoapps.com/
 local=/dns.kukal.cz/
-local=/dns.kusoneko.moe/
 local=/dns.l337.site/
 local=/doh.lacontrevoie.fr/
 local=/dns.lars-lehmann.net/
@@ -612,7 +611,6 @@ local=/dns.lvolland.fr/
 local=/orau.lz0724.com/
 local=/addns1.m-it.ro/
 local=/mailkyb.co/
-local=/dns.mandre.dev/
 local=/dns.maolaohei.xyz/
 local=/ag.marschi.de/
 local=/adguard.marto.si/
@@ -639,7 +637,6 @@ local=/minilla.store/
 local=/doh.mmmalia.com/
 local=/dns.mo0on15.com/
 local=/dnstls.mobik.com/
-local=/nue2.moderateinfra.net/
 local=/ps1.modr.club/
 local=/dns.molinero.dev/
 local=/zrh1-ns01.monzoon.net/
@@ -675,7 +672,6 @@ local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/dns.mzrme.cn/
 local=/n0.eu/
-local=/doh-ca.naftalie.net/
 local=/www.chungocoai.name.vn/
 local=/dns.narl.app/
 local=/dns.nas-server.ru/
@@ -773,7 +769,6 @@ local=/1a.ns.ozer.im/
 local=/dns.paesa.es/
 local=/dns.panszelescik.pl/
 local=/dns-ovh.panszelescik.pl/
-local=/doh.gcp.pathofgrace.com/
 local=/dns.pccoach.nl/
 local=/rpz-public-resolver1.rrdns.pch.net/
 local=/fuchur.pentament.de/

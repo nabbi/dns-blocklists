@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Jul 2024 21:42 UTC
-# Version: 2024.0727.2142.07
+# Last modified: 29 Jul 2024 21:41 UTC
+# Version: 2024.0729.2141.50
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1203
+# Number of entries: 1198
 #
 0.0.0.0 ns.00dani.me
 0.0.0.0 cdn.0ms.dev
@@ -689,7 +689,6 @@
 0.0.0.0 adguard.kss.ovh
 0.0.0.0 dns.kugoapps.com
 0.0.0.0 dns.kukal.cz
-0.0.0.0 dns.kusoneko.moe
 0.0.0.0 dns.l337.site
 0.0.0.0 doh.lacontrevoie.fr
 0.0.0.0 dns.lars-lehmann.net
@@ -724,7 +723,6 @@
 0.0.0.0 orau.lz0724.com
 0.0.0.0 addns1.m-it.ro
 0.0.0.0 mailkyb.co
-0.0.0.0 dns.mandre.dev
 0.0.0.0 dns.maolaohei.xyz
 0.0.0.0 ag.marschi.de
 0.0.0.0 adguard.marto.si
@@ -753,7 +751,6 @@
 0.0.0.0 doh.mmmalia.com
 0.0.0.0 dns.mo0on15.com
 0.0.0.0 dnstls.mobik.com
-0.0.0.0 nue2.moderateinfra.net
 0.0.0.0 ps1.modr.club
 0.0.0.0 dns.molinero.dev
 0.0.0.0 zrh1-ns01.monzoon.net
@@ -797,7 +794,6 @@
 0.0.0.0 fwgw.orangepipc.mywire.org
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
-0.0.0.0 doh-ca.naftalie.net
 0.0.0.0 www.chungocoai.name.vn
 0.0.0.0 dns.narl.app
 0.0.0.0 dns.nas-server.ru
@@ -909,7 +905,6 @@
 0.0.0.0 dns.paesa.es
 0.0.0.0 dns.panszelescik.pl
 0.0.0.0 dns-ovh.panszelescik.pl
-0.0.0.0 doh.gcp.pathofgrace.com
 0.0.0.0 dns.pccoach.nl
 0.0.0.0 rpz-public-resolver1.rrdns.pch.net
 0.0.0.0 fuchur.pentament.de

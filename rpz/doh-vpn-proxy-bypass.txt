@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1722202800 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1722289200 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 28 Jul 2024 21:40 UTC
-; Version: 2024.0728.2140.17
+; Last modified: 29 Jul 2024 21:40 UTC
+; Version: 2024.0729.2140.40
 ; Syntax: RPZ
-; Number of entries: 6202
+; Number of entries: 6166
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1446,8 +1446,6 @@ dns2.lezainski.com CNAME .
 *.dns2.lezainski.com CNAME .
 dns.lgprk.com CNAME .
 *.dns.lgprk.com CNAME .
-t.lifestylethailand.com CNAME .
-*.t.lifestylethailand.com CNAME .
 limevpn.com CNAME .
 *.limevpn.com CNAME .
 linkideo.com CNAME .
@@ -1524,8 +1522,6 @@ dns.moonssif.com CNAME .
 *.dns.moonssif.com CNAME .
 morevpn.com CNAME .
 *.morevpn.com CNAME .
-movieproxy.com CNAME .
-*.movieproxy.com CNAME .
 msr177.com CNAME .
 *.msr177.com CNAME .
 ns.mtsoln.com CNAME .
@@ -1562,8 +1558,6 @@ newipnow.com CNAME .
 *.newipnow.com CNAME .
 newshosting.com CNAME .
 *.newshosting.com CNAME .
-meteor.newsofmaricopa.com CNAME .
-*.meteor.newsofmaricopa.com CNAME .
 ngrok.com CNAME .
 *.ngrok.com CNAME .
 dns.nhtsky.com CNAME .
@@ -1688,8 +1682,6 @@ pandashield.com CNAME .
 *.pandashield.com CNAME .
 pandavpnpro.com CNAME .
 *.pandavpnpro.com CNAME .
-doh.gcp.pathofgrace.com CNAME .
-*.doh.gcp.pathofgrace.com CNAME .
 pawxy.com CNAME .
 *.pawxy.com CNAME .
 pc-streaming.com CNAME .
@@ -1782,8 +1774,6 @@ pq7hdf.com CNAME .
 *.pq7hdf.com CNAME .
 pr0xy.com CNAME .
 *.pr0xy.com CNAME .
-workshop.precisewarehousing.com CNAME .
-*.workshop.precisewarehousing.com CNAME .
 dns2.prima-solusindo.com CNAME .
 *.dns2.prima-solusindo.com CNAME .
 privadovpn.com CNAME .
@@ -1958,20 +1948,6 @@ dns.retakecs.com CNAME .
 *.dns.retakecs.com CNAME .
 rethinkdns.com CNAME .
 *.rethinkdns.com CNAME .
-api.cloud.rigaprecast.com CNAME .
-*.api.cloud.rigaprecast.com CNAME .
-app.cloud.rigaprecast.com CNAME .
-*.app.cloud.rigaprecast.com CNAME .
-blog.cloud.rigaprecast.com CNAME .
-*.blog.cloud.rigaprecast.com CNAME .
-demo.cloud.rigaprecast.com CNAME .
-*.demo.cloud.rigaprecast.com CNAME .
-docs.cloud.rigaprecast.com CNAME .
-*.docs.cloud.rigaprecast.com CNAME .
-forum.cloud.rigaprecast.com CNAME .
-*.forum.cloud.rigaprecast.com CNAME .
-support.cloud.rigaprecast.com CNAME .
-*.support.cloud.rigaprecast.com CNAME .
 ringvpn.com CNAME .
 *.ringvpn.com CNAME .
 roodel.com CNAME .
@@ -2952,8 +2928,6 @@ pihole.aws.ketan.dev CNAME .
 *.pihole.aws.ketan.dev CNAME .
 korzhov.dev CNAME .
 *.korzhov.dev CNAME .
-dns.mandre.dev CNAME .
-*.dns.mandre.dev CNAME .
 dns.molinero.dev CNAME .
 *.dns.molinero.dev CNAME .
 dns.mrkaran.dev CNAME .
@@ -3092,6 +3066,8 @@ lastentarvike.fi CNAME .
 *.lastentarvike.fi CNAME .
 lelux.fi CNAME .
 *.lelux.fi CNAME .
+unblockit.foo CNAME .
+*.unblockit.foo CNAME .
 doh.42l.fr CNAME .
 *.doh.42l.fr CNAME .
 dns.aquilenet.fr CNAME .
@@ -3994,6 +3970,8 @@ websurfproxy.me CNAME .
 *.websurfproxy.me CNAME .
 a.zpn.me CNAME .
 *.a.zpn.me CNAME .
+unblockit.meme CNAME .
+*.unblockit.meme CNAME .
 br.servers.legat.ml CNAME .
 *.br.servers.legat.ml CNAME .
 fiberproxy.mobi CNAME .
@@ -4010,8 +3988,6 @@ dns.hugo0.moe CNAME .
 *.dns.hugo0.moe CNAME .
 dns.kosan.moe CNAME .
 *.dns.kosan.moe CNAME .
-dns.kusoneko.moe CNAME .
-*.dns.kusoneko.moe CNAME .
 1.dns.noridev.moe CNAME .
 *.1.dns.noridev.moe CNAME .
 dns.sev.monster CNAME .
@@ -4490,8 +4466,6 @@ securenet.mhsystems.net CNAME .
 *.securenet.mhsystems.net CNAME .
 mobilevpn.net CNAME .
 *.mobilevpn.net CNAME .
-nue2.moderateinfra.net CNAME .
-*.nue2.moderateinfra.net CNAME .
 monthlyssh.net CNAME .
 *.monthlyssh.net CNAME .
 zrh1-ns01.monzoon.net CNAME .
@@ -4506,8 +4480,6 @@ myprivateproxy.net CNAME .
 *.myprivateproxy.net CNAME .
 mywebproxy.net CNAME .
 *.mywebproxy.net CNAME .
-doh-ca.naftalie.net CNAME .
-*.doh-ca.naftalie.net CNAME .
 netscop.net CNAME .
 *.netscop.net CNAME .
 no-block.net CNAME .
@@ -4892,12 +4864,6 @@ vpnhellings.nl CNAME .
 *.vpnhellings.nl CNAME .
 adguard.wirimij.nl CNAME .
 *.adguard.wirimij.nl CNAME .
-r.j0.icom.org.np CNAME .
-*.r.j0.icom.org.np CNAME .
-s.j0.icom.org.np CNAME .
-*.s.j0.icom.org.np CNAME .
-x.j0.icom.org.np CNAME .
-*.x.j0.icom.org.np CNAME .
 bdns.nu CNAME .
 *.bdns.nu CNAME .
 onion.nu CNAME .
@@ -5130,8 +5096,6 @@ doh.phdns4.lonet.org CNAME .
 *.doh.phdns4.lonet.org CNAME .
 doh.phdns5.lonet.org CNAME .
 *.doh.phdns5.lonet.org CNAME .
-mehide.org CNAME .
-*.mehide.org CNAME .
 dns.mikeliu.org CNAME .
 *.dns.mikeliu.org CNAME .
 mitmproxy.org CNAME .
