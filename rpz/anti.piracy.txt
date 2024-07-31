@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1722289500 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1722375960 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 29 Jul 2024 21:45 UTC
-; Version: 2024.0729.2145.05
+; Last modified: 30 Jul 2024 21:46 UTC
+; Version: 2024.0730.2146.34
 ; Syntax: RPZ
-; Number of entries: 19732
+; Number of entries: 19720
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -6343,10 +6343,6 @@ t50.com CNAME .
 *.t50.com CNAME .
 taiwebs.com CNAME .
 *.taiwebs.com CNAME .
-file.tajpata.com CNAME .
-*.file.tajpata.com CNAME .
-tv.tajpata.com CNAME .
-*.tv.tajpata.com CNAME .
 takerhatwifi.com CNAME .
 *.takerhatwifi.com CNAME .
 tangledupintorrents.com CNAME .
@@ -6623,8 +6619,6 @@ torrenthound.com CNAME .
 *.torrenthound.com CNAME .
 torrenthounds.com CNAME .
 *.torrenthounds.com CNAME .
-torrenticity.com CNAME .
-*.torrenticity.com CNAME .
 torrenting.com CNAME .
 *.torrenting.com CNAME .
 tracker1.torrentino.com CNAME .
@@ -7313,8 +7307,6 @@ xn--950bz4kqroyzjblb.com CNAME .
 *.xn--950bz4kqroyzjblb.com CNAME .
 xn--thepratebay-fcb.com CNAME .
 *.xn--thepratebay-fcb.com CNAME .
-xplorenetbd.com CNAME .
-*.xplorenetbd.com CNAME .
 xpreed.com CNAME .
 *.xpreed.com CNAME .
 xrshellbooter.com CNAME .
@@ -10691,10 +10683,6 @@ sharebb.me CNAME .
 *.sharebb.me CNAME .
 tracker.shkinev.me CNAME .
 *.tracker.shkinev.me CNAME .
-torrent.skynetcenter.me CNAME .
-*.torrent.skynetcenter.me CNAME .
-vps.skynetcenter.me CNAME .
-*.vps.skynetcenter.me CNAME .
 tracker.slitopen.me CNAME .
 *.tracker.slitopen.me CNAME .
 solarmoviefree.me CNAME .
@@ -14789,8 +14777,6 @@ suprbay.org CNAME .
 *.suprbay.org CNAME .
 swebits.org CNAME .
 *.swebits.org CNAME .
-swedvdr.org CNAME .
-*.swedvdr.org CNAME .
 swetracker.org CNAME .
 *.swetracker.org CNAME .
 swetv.org CNAME .
@@ -19365,6 +19351,8 @@ pirateproxy.wtf CNAME .
 *.pirateproxy.wtf CNAME .
 silentstress.wtf CNAME .
 *.silentstress.wtf CNAME .
+squid.wtf CNAME .
+*.squid.wtf CNAME .
 sst.wtf CNAME .
 *.sst.wtf CNAME .
 tpb.wtf CNAME .

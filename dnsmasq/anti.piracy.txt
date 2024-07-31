@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 Jul 2024 21:45 UTC
-# Version: 2024.0729.2145.05
+# Last modified: 30 Jul 2024 21:46 UTC
+# Version: 2024.0730.2146.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9866
+# Number of entries: 9860
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -7476,8 +7476,6 @@ local=/skylinectg.com/
 local=/skylinkdhaka.com/
 local=/skyll.net/
 local=/skynetbd.net/
-local=/torrent.skynetcenter.me/
-local=/vps.skynetcenter.me/
 local=/skynetchowmuhani.com/
 local=/tpb.skynetcloud.site/
 local=/tracker.skynetcloud.site/
@@ -7664,6 +7662,7 @@ local=/sportsurge.net/
 local=/sporttorrent.com/
 local=/sportzonline.pw/
 local=/spotnzb.xyz/
+local=/squid.wtf/
 local=/squid-board.org/
 local=/squid-board.ru/
 local=/squirtvideos.tv/
@@ -7958,7 +7957,6 @@ local=/swatchseries.is/
 local=/swatchseries.ru/
 local=/swatchseries.to/
 local=/swebits.org/
-local=/swedvdr.org/
 local=/sweet-paris.com/
 local=/swetracker.org/
 local=/swetv.org/
@@ -7989,8 +7987,6 @@ local=/t411.me/
 local=/t50.com/
 local=/tagmovies.co/
 local=/taiwebs.com/
-local=/file.tajpata.com/
-local=/tv.tajpata.com/
 local=/takeabyte.org/
 local=/takeback.org/
 local=/takemetal.org/
@@ -8533,7 +8529,6 @@ local=/torrenthounds.com/
 local=/torrenthr.org/
 local=/torrential.ws/
 local=/torrentialstorm.net/
-local=/torrenticity.com/
 local=/torrentigruha.ru/
 local=/torrenting.com/
 local=/tracker1.torrentino.com/
@@ -9561,7 +9556,6 @@ local=/tracker.xor.st/
 local=/tterm.xorg.pl/
 local=/xparadise.ru/
 local=/xpau.se/
-local=/xplorenetbd.com/
 local=/xpreed.com/
 local=/xpress.ltd/
 local=/xrel.to/
