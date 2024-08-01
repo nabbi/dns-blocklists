@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 01 Aug 2024 00:02 UTC
-! Version: 2024.0801.0002.17
+! Last modified: 01 Aug 2024 12:55 UTC
+! Version: 2024.0801.1255.30
 ! Syntax: AdBlock
-! Number of entries: 67190
+! Number of entries: 67195
 !
 ||0-02.net^
 ||0008d6ba2e.com^
@@ -132,7 +132,6 @@
 ||0h3uds.com^
 ||0i0i0i0.com^
 ||0ijvby90.skin^
-||0j775d.cn^
 ||0j91h.cyou^
 ||0jcn4veha2oz.top^
 ||0k7wod.cn^
@@ -1036,7 +1035,6 @@
 ||2rmifan7n.de^
 ||2s02keqc1.com^
 ||2s2enegt0.de^
-||2s8s.com^
 ||2site.com^
 ||2smarttracker.com^
 ||2smt6mfgo.de^
@@ -3845,7 +3843,6 @@
 ||mobile-static.adsafeprotected.com^
 ||ordt.adsafeprotected.com^
 ||orfw.adsafeprotected.com^
-||orpixel.adsafeprotected.com^
 ||orvideo.adsafeprotected.com^
 ||sgfw.adsafeprotected.com^
 ||sgpixel.adsafeprotected.com^
@@ -8510,6 +8507,7 @@
 ||fp-cdn.azureedge.net^
 ||g2insights-cdn.azureedge.net^
 ||imgvisilabsnet.azureedge.net^
+||jeeng-api-prod.azureedge.net^
 ||loader-cdn.azureedge.net^
 ||masdpanalytics.azureedge.net^
 ||msadsscale.azureedge.net^
@@ -10581,6 +10579,7 @@
 ||bmcdn6.com^
 ||fpbbdx2.bmcx.com^
 ||bmetrack.com^
+||bmetric.com^
 ||bmfads.com^
 ||bmgipyr.com^
 ||bmhept.xyz^
@@ -14385,7 +14384,6 @@
 ||d1of5w8unlzqtg.cloudfront.net^
 ||d1okyw2ay5msiy.cloudfront.net^
 ||d1ol7fsyj96wwo.cloudfront.net^
-||d1olnfqg9ss9n0.cloudfront.net^
 ||d1on4urq8lvsb1.cloudfront.net^
 ||d1or04kku1mxl9.cloudfront.net^
 ||d1otoma47x30pg.cloudfront.net^
@@ -14701,7 +14699,6 @@
 ||d2lxammzjarx1n.cloudfront.net^
 ||d2lxztepvo7ma1.cloudfront.net^
 ||d2lzu2a5ishr7o.cloudfront.net^
-||d2m54y8a2kdtj1.cloudfront.net^
 ||d2m785nxw66jui.cloudfront.net^
 ||d2mgk3zfd02vd2.cloudfront.net^
 ||d2mic0r0bo3i6z.cloudfront.net^
@@ -15988,6 +15985,7 @@
 ||hits.guardian.co.uk^
 ||api.nextgen.guardianapps.co.uk^
 ||matomo.gulliversfun.co.uk^
+||services.haaretz.co.il^
 ||metrics.halloweencostumes.co.uk^
 ||smetrics.handelsbanken.co.uk^
 ||adservice.hani.co.kr^
@@ -26558,6 +26556,7 @@
 ||flowgo.com^
 ||flowitchdoctrine.com^
 ||ihi.flowplayer.com^
+||pmi.flowplayer.com^
 ||flowpubdom.info^
 ||flowwiththetide.xyz^
 ||floyme.com^
@@ -30082,6 +30081,7 @@
 ||h78xb.pw^
 ||smetrics.ha.com^
 ||ha723.icu^
+||services.haaretz.com^
 ||receiver.habby.mobi^
 ||makroo.haber7.net^
 ||ads.haberler.com^
@@ -44417,6 +44417,7 @@
 ||opamarketplace.com^
 ||opbandit.com^
 ||opchikoritar.com^
+||opclck.com^
 ||opdavplcufic.com^
 ||smetrics.opdivo.com^
 ||opdowvamjv.com^
@@ -49652,6 +49653,7 @@
 ||rapolok.com^
 ||rapt.com^
 ||affiliate-api.raptive.com^
+||affiliate-cdn.raptive.com^
 ||raptorserrano.com^
 ||t.raptorsmartadvisor.com^
 ||raptorssplurge.com^
@@ -51284,6 +51286,7 @@
 ||roseincome.com^
 ||rosemessengeryuri.com^
 ||analytics.rosenthal.de^
+||rosetoys.cc^
 ||rosetua.xyz^
 ||rosolicdalapon.com^
 ||rosseladvertising.be^
@@ -51605,6 +51608,9 @@
 ||rumt-sg.com^
 ||rumt-zh.com^
 ||data-tracker-43ai52v45a-ew.a.run.app^
+||google-server-side-tag-manager-5s5tlofmdq-ew.a.run.app^
+||google-server-side-tag-manager-ben-5s5tlofmdq-ew.a.run.app^
+||google-server-side-tag-manager-simpel-5s5tlofmdq-ew.a.run.app^
 ||impression-tracker-service-5eimuebuhq-lz.a.run.app^
 ||tagging-qadkfoj6ha-as.a.run.app^
 ||tracking-v2-nrl2mwczfq-uc.a.run.app^
@@ -53500,7 +53506,6 @@
 ||analytics.tm.shopifysvc.com^
 ||iss.shopimind.com^
 ||shopkellygaming.vn^
-||shoplienquan.vn^
 ||shoplienquanmienphi.com^
 ||shoplienquanuytin.com^
 ||shopliftingrung.com^
