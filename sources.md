@@ -423,7 +423,6 @@ https://www.i-dont-care-about-cookies.eu/abp/
 https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.talosintelligence.com/documents/ip-blacklist
-https://www.threatsourcing.com/dnall.txt
 https://www.trustedshops.de/fake-shops/
 https://www.usom.gov.tr/url-list.txt
 https://www.verbraucherzentrale-niedersachsen.de/vorsicht-falle

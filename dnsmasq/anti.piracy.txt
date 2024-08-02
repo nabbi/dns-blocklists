@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 01 Aug 2024 15:14 UTC
-# Version: 2024.0801.1514.14
+# Last modified: 01 Aug 2024 22:11 UTC
+# Version: 2024.0801.2211.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9862
+# Number of entries: 9857
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -391,7 +391,6 @@ local=/tr.abir.ga/
 local=/abnctg.net/
 local=/aboutbeautifulgallopinghorsesinthegreenpasture.online/
 local=/abrokegamer.com/
-local=/abtorrents.com/
 local=/abv-media.ru/
 local=/ac-market.org/
 local=/acechanime.com/
@@ -497,7 +496,6 @@ local=/allostreaming.com/
 local=/allotracker.com/
 local=/allpcworld.com/
 local=/allprivatebabes.com/
-local=/allseek.info/
 local=/allseries.co/
 local=/allsports4free.live/
 local=/allsportsflix.xyz/
@@ -517,7 +515,6 @@ local=/aloanime.me/
 local=/alostream.tv/
 local=/alphabetagamer.com/
 local=/alphabroadway.com/
-local=/alphamediazone.com/
 local=/alphaomega.me/
 local=/alpharatio.cc/
 local=/alphastress.com/
@@ -584,7 +581,6 @@ local=/altadefinizione.info/
 local=/altadefinizione.institute/
 local=/altadefinizione.it/
 local=/altadefinizione.kim/
-local=/altadefinizione.kiwi/
 local=/altadefinizione.legal/
 local=/altadefinizione.li/
 local=/altadefinizione.life/
@@ -616,7 +612,6 @@ local=/altadefinizione.ph/
 local=/altadefinizione.pics/
 local=/altadefinizione.pink/
 local=/altadefinizione.pl/
-local=/altadefinizione.pro/
 local=/altadefinizione.promo/
 local=/altadefinizione.re/
 local=/altadefinizione.red/
@@ -682,7 +677,6 @@ local=/altadefinizione01.homes/
 local=/altadefinizione01.icu/
 local=/altadefinizione01.immo/
 local=/altadefinizione01.in/
-local=/altadefinizione01.info/
 local=/altadefinizione01.ink/
 local=/altadefinizione01.it/
 local=/altadefinizione01.life/
@@ -694,7 +688,6 @@ local=/altadefinizione01.one/
 local=/altadefinizione01.online/
 local=/altadefinizione01.page/
 local=/altadefinizione01.photo/
-local=/altadefinizione01.plus/
 local=/altadefinizione01.promo/
 local=/altadefinizione01.recipes/
 local=/altadefinizione01.rocks/
@@ -9504,6 +9497,8 @@ local=/x1337x.ws/
 local=/x264.me/
 local=/x265movies.cc/
 local=/x265movies.co/
+local=/retracker.x2k.ru/
+local=/retracker2.x2k.ru/
 local=/tracker.x4w.co/
 local=/xarcotic.com/
 local=/xatab-repack.net/
