@@ -13,8 +13,34 @@
 
 # https://github.com/hagezi/dns-blocklists/issues/3333
 # Twitch App: causes increased stream buffering, tested on iOS/tvOS
-# Channel points are sometimes not awarded.
+# Channel points are sometimes not awarded
 spade*.twitch.tv
+
+# https://github.com/hagezi/dns-blocklists/issues/3332
+host.fsastore.com
+fsastore.adspeed.net
+
+# https://github.com/hagezi/dns-blocklists/issues/3328
+api-*.outgrow.co
+api-n.outgrow.co
+api-live.outgrow.co
+api-h.outgrow.co
+
+# https://github.com/hagezi/dns-blocklists/issues/3326
+exp.notion.so
+
+# https://github.com/hagezi/dns-blocklists/issues/3313
+1gb.ru
+
+# https://github.com/hagezi/dns-blocklists/issues/3297
+docs.erpnext.com
+
+# https://github.com/hagezi/dns-blocklists/issues/3295
+shibboleth.highwire.org
+openathens-sp.highwire.org
+
+# https://github.com/hagezi/dns-blocklists/issues/3294
+cdn.gladly.com
 
 # https://github.com/hagezi/dns-blocklists/issues/3292
 assets.tidiochat.com
