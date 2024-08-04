@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1722698640 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1722723240 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 03 Aug 2024 15:24 UTC
-; Version: 2024.0803.1524.18
+; Last modified: 03 Aug 2024 22:14 UTC
+; Version: 2024.0803.2214.59
 ; Syntax: RPZ
-; Number of entries: 19656
+; Number of entries: 19650
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -4339,8 +4339,6 @@ hdtor.com CNAME .
 *.hdtor.com CNAME .
 hdtransmission.com CNAME .
 *.hdtransmission.com CNAME .
-hdvidmusic.com CNAME .
-*.hdvidmusic.com CNAME .
 heartofmadness.com CNAME .
 *.heartofmadness.com CNAME .
 hehestreams.com CNAME .
@@ -18005,8 +18003,6 @@ highstream.tv CNAME .
 *.highstream.tv CNAME .
 himovies.tv CNAME .
 *.himovies.tv CNAME .
-hotchicks.tv CNAME .
-*.hotchicks.tv CNAME .
 hpav.tv CNAME .
 *.hpav.tv CNAME .
 hpjav.tv CNAME .
@@ -18843,8 +18839,6 @@ eurostreaming.vote CNAME .
 *.eurostreaming.vote CNAME .
 eurostreaming.voto CNAME .
 *.eurostreaming.voto CNAME .
-ilgeniodellostreaming.voto CNAME .
-*.ilgeniodellostreaming.voto CNAME .
 wiflix.voto CNAME .
 *.wiflix.voto CNAME .
 eurostreaming.voyage CNAME .
