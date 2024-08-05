@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1722723240 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1722809520 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 03 Aug 2024 22:14 UTC
-; Version: 2024.0803.2214.59
+; Last modified: 04 Aug 2024 22:12 UTC
+; Version: 2024.0804.2212.50
 ; Syntax: RPZ
-; Number of entries: 19650
+; Number of entries: 19644
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -121,8 +121,6 @@ filmstreaming.am CNAME .
 *.filmstreaming.am CNAME .
 kat.am CNAME .
 *.kat.am CNAME .
-kinox.am CNAME .
-*.kinox.am CNAME .
 m.mamul.am CNAME .
 *.m.mamul.am CNAME .
 putlockers.am CNAME .
@@ -1153,6 +1151,8 @@ freemp3juices.cc CNAME .
 *.freemp3juices.cc CNAME .
 freshwap.cc CNAME .
 *.freshwap.cc CNAME .
+getmodsapk.cc CNAME .
+*.getmodsapk.cc CNAME .
 gktorrents.cc CNAME .
 *.gktorrents.cc CNAME .
 gload.cc CNAME .
@@ -2551,12 +2551,16 @@ apkmod9.com CNAME .
 *.apkmod9.com CNAME .
 apkmodget.com CNAME .
 *.apkmodget.com CNAME .
+apkmodgo.com CNAME .
+*.apkmodgo.com CNAME .
 apkmody.com CNAME .
 *.apkmody.com CNAME .
 apkmolo.com CNAME .
 *.apkmolo.com CNAME .
 apkneom.com CNAME .
 *.apkneom.com CNAME .
+apkpanda.com CNAME .
+*.apkpanda.com CNAME .
 apkpurew.com CNAME .
 *.apkpurew.com CNAME .
 apkrabi.com CNAME .
@@ -3131,6 +3135,8 @@ threads.canofsocks.com CNAME .
 *.threads.canofsocks.com CNAME .
 torrust.canofsocks.com CNAME .
 *.torrust.canofsocks.com CNAME .
+carparkingmultimod.com CNAME .
+*.carparkingmultimod.com CNAME .
 cartoonhd.com CNAME .
 *.cartoonhd.com CNAME .
 casacinema.com CNAME .
@@ -4897,8 +4903,6 @@ bubu.mapfactor.com CNAME .
 *.bubu.mapfactor.com CNAME .
 mariumnetwork.com CNAME .
 *.mariumnetwork.com CNAME .
-marketingsoftwaredownloads.com CNAME .
-*.marketingsoftwaredownloads.com CNAME .
 masterkreatif.com CNAME .
 *.masterkreatif.com CNAME .
 masters-tb.com CNAME .
@@ -5029,6 +5033,8 @@ moddroid.com CNAME .
 *.moddroid.com CNAME .
 moddude.com CNAME .
 *.moddude.com CNAME .
+moded1.com CNAME .
+*.moded1.com CNAME .
 modfyp.com CNAME .
 *.modfyp.com CNAME .
 modhihe.com CNAME .
@@ -5403,8 +5409,6 @@ ologyyvidss.com CNAME .
 *.ologyyvidss.com CNAME .
 omegastresser.com CNAME .
 *.omegastresser.com CNAME .
-omgflix.com CNAME .
-*.omgflix.com CNAME .
 omgtorrent.com CNAME .
 *.omgtorrent.com CNAME .
 onegaistudios.com CNAME .
@@ -9395,6 +9399,8 @@ buffstream.io CNAME .
 *.buffstream.io CNAME .
 bandito.byterunner.io CNAME .
 *.bandito.byterunner.io CNAME .
+capcutmod.io CNAME .
+*.capcutmod.io CNAME .
 cb01.io CNAME .
 *.cb01.io CNAME .
 cinemahdv2.io CNAME .
@@ -9491,8 +9497,6 @@ lookmovie.io CNAME .
 *.lookmovie.io CNAME .
 mac-torrents.io CNAME .
 *.mac-torrents.io CNAME .
-mactorrents.io CNAME .
-*.mactorrents.io CNAME .
 magnetoo.io CNAME .
 *.magnetoo.io CNAME .
 moddroid.io CNAME .
@@ -9647,8 +9651,6 @@ movie4k.is CNAME .
 *.movie4k.is CNAME .
 movieroom.is CNAME .
 *.movieroom.is CNAME .
-moviewatcher.is CNAME .
-*.moviewatcher.is CNAME .
 mp3juices.is CNAME .
 *.mp3juices.is CNAME .
 myflixer.is CNAME .
@@ -9971,8 +9973,6 @@ hotcamsplays.life CNAME .
 *.hotcamsplays.life CNAME .
 tracker.jiesen.life CNAME .
 *.tracker.jiesen.life CNAME .
-mlwbd.life CNAME .
-*.mlwbd.life CNAME .
 moviesjoy.life CNAME .
 *.moviesjoy.life CNAME .
 piratebay.life CNAME .
@@ -12385,8 +12385,6 @@ psperspective.net CNAME .
 *.psperspective.net CNAME .
 ptanime.net CNAME .
 *.ptanime.net CNAME .
-publictorrent.net CNAME .
-*.publictorrent.net CNAME .
 pubt.net CNAME .
 *.pubt.net CNAME .
 putlocker2021.net CNAME .
@@ -13173,8 +13171,6 @@ nineoneone.nl CNAME .
 *.nineoneone.nl CNAME .
 nzbindex.nl CNAME .
 *.nzbindex.nl CNAME .
-tracker.open-internet.nl CNAME .
-*.tracker.open-internet.nl CNAME .
 piratenproxy.nl CNAME .
 *.piratenproxy.nl CNAME .
 proxytpb.nl CNAME .
@@ -13489,6 +13485,8 @@ filmsenzalimiti.ooo CNAME .
 *.420project.org CNAME .
 4players.org CNAME .
 *.4players.org CNAME .
+5play.org CNAME .
+*.5play.org CNAME .
 60-fps.org CNAME .
 *.60-fps.org CNAME .
 7tor.org CNAME .
@@ -14447,8 +14445,6 @@ peerfect.org CNAME .
 *.peerfect.org CNAME .
 peerportal.org CNAME .
 *.peerportal.org CNAME .
-peersteers.org CNAME .
-*.peersteers.org CNAME .
 pelisplus.org CNAME .
 *.pelisplus.org CNAME .
 phook.org CNAME .
@@ -17679,8 +17675,6 @@ netmap.top CNAME .
 *.netmap.top CNAME .
 piratbit.top CNAME .
 *.piratbit.top CNAME .
-piratebayproxy.top CNAME .
-*.piratebayproxy.top CNAME .
 piratebays.top CNAME .
 *.piratebays.top CNAME .
 piratebayz.top CNAME .
