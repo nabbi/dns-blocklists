@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1722809520 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1722896040 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 04 Aug 2024 22:12 UTC
-; Version: 2024.0804.2212.50
+; Last modified: 05 Aug 2024 22:14 UTC
+; Version: 2024.0805.2214.16
 ; Syntax: RPZ
-; Number of entries: 19644
+; Number of entries: 19624
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -193,8 +193,6 @@ x7x.up.railway.app CNAME .
 *.x7x.up.railway.app CNAME .
 seriesflix.app CNAME .
 *.seriesflix.app CNAME .
-solarmovie.app CNAME .
-*.solarmovie.app CNAME .
 streamingcommunity.app CNAME .
 *.streamingcommunity.app CNAME .
 horriblesubs.theproxy.app CNAME .
@@ -6139,8 +6137,6 @@ soap2day-online.com CNAME .
 *.soap2day-online.com CNAME .
 soap2dayfree.com CNAME .
 *.soap2dayfree.com CNAME .
-soap2dayhd.com CNAME .
-*.soap2dayhd.com CNAME .
 soft-z.com CNAME .
 *.soft-z.com CNAME .
 softasm.com CNAME .
@@ -6485,8 +6481,6 @@ todaum.com CNAME .
 *.todaum.com CNAME .
 todaytvseries6.com CNAME .
 *.todaytvseries6.com CNAME .
-todayvisionbd.com CNAME .
-*.todayvisionbd.com CNAME .
 todotorrents.com CNAME .
 *.todotorrents.com CNAME .
 tokybook.com CNAME .
@@ -6665,8 +6659,6 @@ torrentqq49.com CNAME .
 *.torrentqq49.com CNAME .
 torrentqq50.com CNAME .
 *.torrentqq50.com CNAME .
-torrentqq71.com CNAME .
-*.torrentqq71.com CNAME .
 torrentqq72.com CNAME .
 *.torrentqq72.com CNAME .
 torrentquest.com CNAME .
@@ -7591,8 +7583,6 @@ thepiratebay.cx CNAME .
 *.thepiratebay.cx CNAME .
 videothek.cx CNAME .
 *.videothek.cx CNAME .
-vostfree.cx CNAME .
-*.vostfree.cx CNAME .
 xcine.cx CNAME .
 *.xcine.cx CNAME .
 123moviesc.cyou CNAME .
@@ -8797,8 +8787,6 @@ uid.hu CNAME .
 *.uid.hu CNAME .
 nox.warez.hu CNAME .
 *.nox.warez.hu CNAME .
-xider.hu CNAME .
-*.xider.hu CNAME .
 ztracker.hu CNAME .
 *.ztracker.hu CNAME .
 altadefinizione.icu CNAME .
@@ -12685,8 +12673,6 @@ th3-studio.net CNAME .
 *.th3-studio.net CNAME .
 the-pop-corn-time.net CNAME .
 *.the-pop-corn-time.net CNAME .
-the-potato.net CNAME .
-*.the-potato.net CNAME .
 thecompletewebs.net CNAME .
 *.thecompletewebs.net CNAME .
 torrent.thegreatbeyond.net CNAME .
@@ -13291,8 +13277,6 @@ stream2watch.one CNAME .
 *.stream2watch.one CNAME .
 streamflix.one CNAME .
 *.streamflix.one CNAME .
-streamingcommunity.one CNAME .
-*.streamingcommunity.one CNAME .
 tantifilm.one CNAME .
 *.tantifilm.one CNAME .
 topflix.one CNAME .
@@ -14809,8 +14793,6 @@ thepiratespace.org CNAME .
 *.thepiratespace.org CNAME .
 thepiratesproxy.org CNAME .
 *.thepiratesproxy.org CNAME .
-thepokerbay.org CNAME .
-*.thepokerbay.org CNAME .
 thesurgeons.org CNAME .
 *.thesurgeons.org CNAME .
 thetracker.org CNAME .
@@ -19569,8 +19551,6 @@ warezlover.xyz CNAME .
 *.warezlover.xyz CNAME .
 watch-movies-sinup.xyz CNAME .
 *.watch-movies-sinup.xyz CNAME .
-wawacity.xyz CNAME .
-*.wawacity.xyz CNAME .
 tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .

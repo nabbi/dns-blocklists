@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Aug 2024 22:10 UTC
-# Version: 2024.0803.2210.26
+# Last modified: 05 Aug 2024 22:09 UTC
+# Version: 2024.0805.2209.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3076
+# Number of entries: 3071
 #
 local=/ns.00dani.me/
 local=/cdn.0ms.dev/
@@ -647,7 +647,6 @@ local=/qual.cuprum.ru/
 local=/curd.io/
 local=/dns.cwlys.com/
 local=/cyberghostvpn.com/
-local=/nanopi.cybergroove.net/
 local=/cybersilent.com/
 local=/cyberssh.com/
 local=/buythe.cybertruck.design/
@@ -1595,7 +1594,6 @@ local=/vpn.ncapi.io/
 local=/ne1.ca/
 local=/needunblock.com/
 local=/nenam.eu/
-local=/doh.neowutran.ovh/
 local=/dns.aa.net.uk/
 local=/doh.infotek.net.id/
 local=/doh.max.net.id/
@@ -2326,7 +2324,6 @@ local=/speedyth.com/
 local=/spicevpn.com/
 local=/spidervpn.org/
 local=/dns.spirio.fr/
-local=/sporium.org/
 local=/spys.one/
 local=/spysurfing.com/
 local=/squidproxyserver.com/
@@ -2434,7 +2431,6 @@ local=/dns.syaifullah.com/
 local=/ibksturm.synology.me/
 local=/ihctw.synology.me/
 local=/doh.syshero.org/
-local=/t-application.website/
 local=/t-dz.com/
 local=/dns.t53.de/
 local=/tailscale.com/
@@ -2768,7 +2764,6 @@ local=/galileo.math.unipd.it/
 local=/unknownproxy.com/
 local=/unlimitedvpnapp.com/
 local=/unlocator.com/
-local=/unrestrict.me/
 local=/unrestrictedsurf.com/
 local=/unrestrictor.com/
 local=/resolver.unstoppable.io/
