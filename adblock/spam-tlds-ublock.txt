@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 07 Aug 2024 21:40 UTC
-! Version: 2024.0807.2140.31
+! Last modified: 08 Aug 2024 14:42 UTC
+! Version: 2024.0808.1442.39
 ! Syntax: uBlock
-! Number of latin TLDs: 186 - non-latin TLDs: 151
+! Number of latin TLDs: 185 - non-latin TLDs: 151
 !
 ||africa^$doc
 ||agency^$doc,domain=~baam.agency|~battlefield.agency|~byteful.agency|~robotzebra.agency|~uphotel.agency|~usenet.agency|~ws.agency
@@ -45,7 +45,7 @@
 ||cfd^$doc,domain=~freedium.cfd
 ||charity^$doc
 ||christmas^$doc
-||church^$doc
+||church^$doc,domain=~host.church
 ||city^$doc
 ||claims^$doc
 ||click^$doc,domain=~popcat.click|~popdog.click|~xcine.click
@@ -123,7 +123,6 @@
 ||new^$doc,domain=~git.new
 ||non^$doc
 ||okinawa^$doc
-||onl^$doc
 ||ooo^$doc,domain=~toast.ooo
 ||partners^$doc
 ||parts^$doc
@@ -143,7 +142,7 @@
 ||quest^$doc,domain=~dice.quest|~epochal.quest|~mhn.quest|~mylegendary.quest|~prometheus.quest|~raccoon.quest
 ||realtor^$doc
 ||recipes^$doc
-||red^$doc
+||red^$doc,domain=~bunkr.red
 ||rehab^$doc
 ||rest^$doc,domain=~crystals.rest|~nect.rest
 ||restaurant^$doc
@@ -195,7 +194,7 @@
 ||win^$doc
 ||wine^$doc
 ||work^$doc,domain=~elphago.work|~frame.work|~koding.work|~searx.work
-||world^$doc,domain=~calckey.world|~camhub.world|~lemmy.world|~mastodon.world|~maxwellcat.world|~shitposter.world|~userstyles.world|~wetdry.world
+||world^$doc,domain=~calckey.world|~camhub.world|~lemmy.world|~mastodon.world|~maxwellcat.world|~shitposter.world|~userstyles.world|~wetdry.world|~wiz.world
 ||wtf^$doc,domain=~akko.wtf|~lemmy.wtf|~myip.wtf|~squid.wtf|~tigress.wtf|~wxx.wtf|~xo.wtf
 ||xin^$doc
 ||yachts^$doc,domain=~sinking.yachts
