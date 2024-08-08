@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1722896040 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1723068960 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 05 Aug 2024 22:14 UTC
-; Version: 2024.0805.2214.16
+; Last modified: 07 Aug 2024 22:16 UTC
+; Version: 2024.0807.2216.21
 ; Syntax: RPZ
-; Number of entries: 19624
+; Number of entries: 19648
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2527,10 +2527,14 @@ apk4all.com CNAME .
 *.apk4all.com CNAME .
 apk4fun.com CNAME .
 *.apk4fun.com CNAME .
+apkaward.com CNAME .
+*.apkaward.com CNAME .
 apkcunk.com CNAME .
 *.apkcunk.com CNAME .
 apkdone.com CNAME .
 *.apkdone.com CNAME .
+apkfuture.com CNAME .
+*.apkfuture.com CNAME .
 apkhouse.com CNAME .
 *.apkhouse.com CNAME .
 apkity.com CNAME .
@@ -2547,6 +2551,8 @@ apkmirrorfull.com CNAME .
 *.apkmirrorfull.com CNAME .
 apkmod9.com CNAME .
 *.apkmod9.com CNAME .
+apkmodct.com CNAME .
+*.apkmodct.com CNAME .
 apkmodget.com CNAME .
 *.apkmodget.com CNAME .
 apkmodgo.com CNAME .
@@ -2559,6 +2565,8 @@ apkneom.com CNAME .
 *.apkneom.com CNAME .
 apkpanda.com CNAME .
 *.apkpanda.com CNAME .
+apkpapi.com CNAME .
+*.apkpapi.com CNAME .
 apkpurew.com CNAME .
 *.apkpurew.com CNAME .
 apkrabi.com CNAME .
@@ -4201,6 +4209,8 @@ gigabitwarez.com CNAME .
 *.gigabitwarez.com CNAME .
 gigapeta.com CNAME .
 *.gigapeta.com CNAME .
+gigapurbalinggaa.com CNAME .
+*.gigapurbalinggaa.com CNAME .
 gingadaddy.com CNAME .
 *.gingadaddy.com CNAME .
 girlongirltorrents.com CNAME .
@@ -4255,6 +4265,8 @@ graphicex.com CNAME .
 *.graphicex.com CNAME .
 gratfilm.com CNAME .
 *.gratfilm.com CNAME .
+greatmodapk.com CNAME .
+*.greatmodapk.com CNAME .
 greek-tracker.com CNAME .
 *.greek-tracker.com CNAME .
 greencracks.com CNAME .
@@ -7667,6 +7679,8 @@ allesanddro.de CNAME .
 *.allesanddro.de CNAME .
 allesender.de CNAME .
 *.allesender.de CNAME .
+allmodapk.de CNAME .
+*.allmodapk.de CNAME .
 altadefinizione.de CNAME .
 *.altadefinizione.de CNAME .
 androeed.de CNAME .
@@ -8839,6 +8853,8 @@ warez-bb.icu CNAME .
 *.warez-bb.icu CNAME .
 altadefinizione.id CNAME .
 *.altadefinizione.id CNAME .
+capcutmodapk.id CNAME .
+*.capcutmodapk.id CNAME .
 tracker.fansub.id CNAME .
 *.tracker.fansub.id CNAME .
 flixhq.id CNAME .
@@ -10475,6 +10491,8 @@ goatd.me CNAME .
 *.goatd.me CNAME .
 gofilmes.me CNAME .
 *.gofilmes.me CNAME .
+bittorrent.service.gongt.me CNAME .
+*.bittorrent.service.gongt.me CNAME .
 btt.service.gongt.me CNAME .
 *.btt.service.gongt.me CNAME .
 gounlimited.me CNAME .
@@ -11265,6 +11283,8 @@ anzfile.net CNAME .
 *.anzfile.net CNAME .
 anzix.net CNAME .
 *.anzix.net CNAME .
+apk-mod.net CNAME .
+*.apk-mod.net CNAME .
 apk4free.net CNAME .
 *.apk4free.net CNAME .
 apkgeek.net CNAME .
@@ -14217,6 +14237,8 @@ m4umv.org CNAME .
 *.m4umv.org CNAME .
 macbb.org CNAME .
 *.macbb.org CNAME .
+macfiles.org CNAME .
+*.macfiles.org CNAME .
 magdownload.org CNAME .
 *.magdownload.org CNAME .
 magnetdl.org CNAME .
@@ -15381,6 +15403,8 @@ gtorrent.pro CNAME .
 *.gtorrent.pro CNAME .
 guardaserie.pro CNAME .
 *.guardaserie.pro CNAME .
+happymod.pro CNAME .
+*.happymod.pro CNAME .
 hd-rezka.pro CNAME .
 *.hd-rezka.pro CNAME .
 hesgoal.pro CNAME .
