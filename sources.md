@@ -169,6 +169,7 @@ https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/main/ips.txt
 https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/master/Piracy%20List
 https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt
 https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt
+https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-abp.txt
 https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
 https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
@@ -382,7 +383,6 @@ https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.tx
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
 https://raw.githubusercontent.com/velesila/yhosts/master/hosts
-https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-abp.txt
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_part1.txt
 https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_part2.txt
