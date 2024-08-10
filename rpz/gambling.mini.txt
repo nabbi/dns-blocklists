@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1723239900 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1723300140 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 09 Aug 2024 21:45 UTC
-; Version: 2024.0809.2145.08
+; Last modified: 10 Aug 2024 14:29 UTC
+; Version: 2024.0810.1429.38
 ; Syntax: RPZ
-; Number of entries: 67404
+; Number of entries: 67432
 ;
 kubet.ac CNAME .
 *.kubet.ac CNAME .
@@ -6855,6 +6855,8 @@ bet66-viet.227290wss.com CNAME .
 *.bet66-viet.227290wss.com CNAME .
 ee88-viet.227290wss.com CNAME .
 *.ee88-viet.227290wss.com CNAME .
+s6-viet.227290wss.com CNAME .
+*.s6-viet.227290wss.com CNAME .
 2277003.com CNAME .
 *.2277003.com CNAME .
 2277789.com CNAME .
@@ -11403,6 +11405,8 @@ allsport365.com CNAME .
 *.allsport365.com CNAME .
 allstarslots.com CNAME .
 *.allstarslots.com CNAME .
+img.alltocon.com CNAME .
+*.img.alltocon.com CNAME .
 allwagers247.com CNAME .
 *.allwagers247.com CNAME .
 allwinscasino.com CNAME .
@@ -12135,6 +12139,8 @@ game.baccdn.com CNAME .
 *.game.baccdn.com CNAME .
 sdk.baccdn.com CNAME .
 *.sdk.baccdn.com CNAME .
+bachhoa88.com CNAME .
+*.bachhoa88.com CNAME .
 bacty88.com CNAME .
 *.bacty88.com CNAME .
 bahiscasino444.com CNAME .
@@ -26563,6 +26569,8 @@ levz-casinos.com CNAME .
 *.levz-casinos.com CNAME .
 levzcasinoz.com CNAME .
 *.levzcasinoz.com CNAME .
+cdn.lfastcdn.com CNAME .
+*.cdn.lfastcdn.com CNAME .
 lgcuanmaju.com CNAME .
 *.lgcuanmaju.com CNAME .
 lgogacor-12.com CNAME .
@@ -35755,6 +35763,8 @@ sunc89.com CNAME .
 *.sunc89.com CNAME .
 suncoastcasino.com CNAME .
 *.suncoastcasino.com CNAME .
+sunday188.com CNAME .
+*.sunday188.com CNAME .
 sunday999.com CNAME .
 *.sunday999.com CNAME .
 sundullagi.com CNAME .
@@ -37723,6 +37733,8 @@ vave4.com CNAME .
 *.vave4.com CNAME .
 vavepartners.com CNAME .
 *.vavepartners.com CNAME .
+vb779.com CNAME .
+*.vb779.com CNAME .
 vbay88.com CNAME .
 *.vbay88.com CNAME .
 vbellagio.com CNAME .
@@ -38679,6 +38691,8 @@ wan35668.com CNAME .
 *.wan35668.com CNAME .
 wang368.com CNAME .
 *.wang368.com CNAME .
+wang368wang.com CNAME .
+*.wang368wang.com CNAME .
 wanlotto8.com CNAME .
 *.wanlotto8.com CNAME .
 wargasingapore.com CNAME .
@@ -42189,6 +42203,8 @@ aslirajasloto.icu CNAME .
 *.aslirajasloto.icu CNAME .
 awesomecasino.icu CNAME .
 *.awesomecasino.icu CNAME .
+b5b6x6.icu CNAME .
+*.b5b6x6.icu CNAME .
 betbro.icu CNAME .
 *.betbro.icu CNAME .
 bettinator.icu CNAME .
@@ -44745,6 +44761,12 @@ selector-casino.ltd CNAME .
 *.selector-casino.ltd CNAME .
 sodocasino.ltd CNAME .
 *.sodocasino.ltd CNAME .
+vb777a.ltd CNAME .
+*.vb777a.ltd CNAME .
+vb777b.ltd CNAME .
+*.vb777b.ltd CNAME .
+vb777c.ltd CNAME .
+*.vb777c.ltd CNAME .
 vulkan-casino.ltd CNAME .
 *.vulkan-casino.ltd CNAME .
 8xbet.lu CNAME .
@@ -47559,6 +47581,8 @@ starda-casino.one CNAME .
 *.starda-casino.one CNAME .
 thabet.one CNAME .
 *.thabet.one CNAME .
+thangto.one CNAME .
+*.thangto.one CNAME .
 tipicocasino.one CNAME .
 *.tipicocasino.one CNAME .
 todaybet.one CNAME .
@@ -47953,6 +47977,8 @@ kepopolonia.online CNAME .
 *.kepopolonia.online CNAME .
 klikwin88-link.online CNAME .
 *.klikwin88-link.online CNAME .
+ko66ads3.online CNAME .
+*.ko66ads3.online CNAME .
 kuudappoker.online CNAME .
 *.kuudappoker.online CNAME .
 ladyluckcasinog.online CNAME .
@@ -63513,6 +63539,8 @@ aa.vip CNAME .
 *.aa.vip CNAME .
 abc8bet.vip CNAME .
 *.abc8bet.vip CNAME .
+abc8h5.vip CNAME .
+*.abc8h5.vip CNAME .
 acasino1.vip CNAME .
 *.acasino1.vip CNAME .
 admiral-xxx.vip CNAME .
