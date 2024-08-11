@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1723300140 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1723329960 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 10 Aug 2024 14:29 UTC
-; Version: 2024.0810.1429.38
+; Last modified: 10 Aug 2024 22:46 UTC
+; Version: 2024.0810.2246.16
 ; Syntax: RPZ
-; Number of entries: 67432
+; Number of entries: 67438
 ;
 kubet.ac CNAME .
 *.kubet.ac CNAME .
@@ -29757,6 +29757,8 @@ offtrackbetting.com CNAME .
 *.offtrackbetting.com CNAME .
 og-casino.com CNAME .
 *.og-casino.com CNAME .
+og6666.com CNAME .
+*.og6666.com CNAME .
 oherron.com CNAME .
 *.oherron.com CNAME .
 ohio4d.com CNAME .
@@ -35155,6 +35157,8 @@ spaceonlinecasino.com CNAME .
 *.spaceonlinecasino.com CNAME .
 spacesiege.com CNAME .
 *.spacesiege.com CNAME .
+spainwanderlust.com CNAME .
+*.spainwanderlust.com CNAME .
 spam4db.com CNAME .
 *.spam4db.com CNAME .
 sparesortcasino.com CNAME .
@@ -60575,6 +60579,8 @@ melbet-827074.top CNAME .
 *.melbet-827074.top CNAME .
 melbet-88979.top CNAME .
 *.melbet-88979.top CNAME .
+melbet-91795.top CNAME .
+*.melbet-91795.top CNAME .
 melbet-947165.top CNAME .
 *.melbet-947165.top CNAME .
 melbet-casino.top CNAME .
