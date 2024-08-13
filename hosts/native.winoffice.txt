@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Aug 2024 22:48 UTC
-# Version: 2024.0804.2248.13
+# Last modified: 12 Aug 2024 23:04 UTC
+# Version: 2024.0812.2304.06
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 691
+# Number of entries: 690
 #
 0.0.0.0 in.appcenter.ms
 0.0.0.0 applicationinsights.azure.com
@@ -512,7 +512,6 @@
 0.0.0.0 c.ru.msn.com
 0.0.0.0 sam.msn.com
 0.0.0.0 c.se.msn.com
-0.0.0.0 auto.search.msn.com
 0.0.0.0 c.sg.msn.com
 0.0.0.0 srtb.msn.com
 0.0.0.0 stjjp.msn.com

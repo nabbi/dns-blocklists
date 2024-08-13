@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 11 Aug 2024 20:23 UTC
-! Version: 2024.0811.2023.47
+! Last modified: 13 Aug 2024 03:28 UTC
+! Version: 2024.0813.0328.47
 ! Syntax: uBlock
-! Number of latin TLDs: 185 - non-latin TLDs: 151
+! Number of latin TLDs: 187 - non-latin TLDs: 151
 !
 ||africa^$doc,domain=~nation.africa
 ||agency^$doc,domain=~baam.agency|~battlefield.agency|~byteful.agency|~robotzebra.agency|~uphotel.agency|~usenet.agency|~ws.agency
@@ -106,7 +106,8 @@
 ||loans^$doc
 ||lol^$doc,domain=~broke.lol|~browser.lol|~hubcloud.lol|~io.lol|~kizuki.lol|~lemy.lol|~library.lol|~limetorrents.lol|~nos.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~social.lol|~status.lol|~weblog.lol
 ||love^$doc
-||ltd^$doc
+||ltd^$doc,domain=~homebrew.ltd
+||luxe^$doc
 ||makeup^$doc,domain=~bird.makeup
 ||management^$doc
 ||market^$doc,domain=~digiseller.market|~otto.market|~plati.market|~spotim.market|~warframe.market
@@ -120,7 +121,7 @@
 ||mov^$doc,domain=~david.mov|~spankbang.mov
 ||name^$doc
 ||navy^$doc
-||new^$doc,domain=~git.new
+||new^$doc,domain=~git.new|~postgres.new
 ||non^$doc
 ||okinawa^$doc
 ||ooo^$doc,domain=~toast.ooo
@@ -130,8 +131,9 @@
 ||pet^$doc,domain=~kickthespy.pet|~kuma.pet
 ||pharmacy^$doc,domain=~safe.pharmacy
 ||phd^$doc,domain=~rafael.phd
+||photo^$doc
 ||photos^$doc
-||pics^$doc,domain=~sexhd.pics
+||pics^$doc,domain=~sexhd.pics|~twic.pics
 ||pink^$doc
 ||pizza^$doc,domain=~tux.pizza
 ||place^$doc,domain=~gamedev.place
@@ -174,7 +176,7 @@
 ||tk^$doc,domain=~adistance.tk|~bonzibuddy.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~gotofap.tk|~graph.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
 ||today^$doc,domain=~archive.today|~futurology.today|~lemmy.today|~oldweb.today
 ||tokyo^$doc
-||top^$doc,domain=~1stream.top|~ambr.top|~caitlin.top|~chillx.top|~corriente.top|~mastodon.top|~nfmirrorcdn.top|~pegelinux.top|~pressplay.top|~reminder.top|~shucks.top|~strims.top|~suiten.top|~techblog.top|~thedesk.top|~vsdb.top
+||top^$doc,domain=~1stream.top|~ambr.top|~caitlin.top|~chillx.top|~corriente.top|~doubledouble.top|~mastodon.top|~nfmirrorcdn.top|~pegelinux.top|~pressplay.top|~reminder.top|~shucks.top|~strims.top|~suiten.top|~techblog.top|~thedesk.top|~vsdb.top
 ||trade^$doc,domain=~composer.trade|~kite.trade
 ||trading^$doc
 ||uno^$doc
@@ -190,7 +192,7 @@
 ||webcam^$doc
 ||website^$doc,domain=~acro.website|~bestmotherfucking.website|~eddie.website|~thatsup.website|~tilde.website
 ||wedding^$doc
-||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~datei.wiki|~fallout.wiki|~getindie.wiki|~hollowknight.wiki|~kodi.wiki|~kometa.wiki|~manson.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~namu.wiki|~notifiarr.wiki|~osrs.wiki|~rs.wiki|~runescape.wiki|~w.wiki|~zeppelin.wiki
+||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~datei.wiki|~debrid.wiki|~fallout.wiki|~getindie.wiki|~hollowknight.wiki|~kodi.wiki|~kometa.wiki|~manson.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~namu.wiki|~notifiarr.wiki|~osrs.wiki|~rs.wiki|~runescape.wiki|~w.wiki|~zeppelin.wiki
 ||win^$doc
 ||wine^$doc
 ||work^$doc,domain=~elphago.work|~frame.work|~koding.work|~searx.work
