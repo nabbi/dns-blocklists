@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1723502760 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1723561440 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 12 Aug 2024 22:46 UTC
-; Version: 2024.0812.2246.43
+; Last modified: 13 Aug 2024 15:04 UTC
+; Version: 2024.0813.1504.51
 ; Syntax: RPZ
-; Number of entries: 67320
+; Number of entries: 67328
 ;
 kubet.ac CNAME .
 *.kubet.ac CNAME .
@@ -14863,6 +14863,8 @@ captaincookscasino.com CNAME .
 *.captaincookscasino.com CNAME .
 captainfreecasino.com CNAME .
 *.captainfreecasino.com CNAME .
+captainspins.com CNAME .
+*.captainspins.com CNAME .
 captchor.com CNAME .
 *.captchor.com CNAME .
 carajuara.com CNAME .
@@ -18401,6 +18403,8 @@ doc-cdn.docb18a2.com CNAME .
 *.doc-cdn.docb18a2.com CNAME .
 doctorbetcasino.com CNAME .
 *.doctorbetcasino.com CNAME .
+doctorspins.com CNAME .
+*.doctorspins.com CNAME .
 doge7casino.com CNAME .
 *.doge7casino.com CNAME .
 dogonefunchicago.com CNAME .
@@ -27103,6 +27107,8 @@ luckygran.com CNAME .
 *.luckygran.com CNAME .
 luckygreen.com CNAME .
 *.luckygreen.com CNAME .
+luckyhour.com CNAME .
+*.luckyhour.com CNAME .
 luckyhunter.com CNAME .
 *.luckyhunter.com CNAME .
 luckyjackpot888.com CNAME .
@@ -36851,6 +36857,8 @@ b1.trickyrock.com CNAME .
 *.b1.trickyrock.com CNAME .
 trickz.com CNAME .
 *.trickz.com CNAME .
+trinocasino.com CNAME .
+*.trinocasino.com CNAME .
 triobet.com CNAME .
 *.triobet.com CNAME .
 triple-a-casino.com CNAME .
