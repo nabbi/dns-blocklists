@@ -104,7 +104,6 @@ https://raw.githubusercontent.com/AmnestyTech/investigations/master/2024-05-02_w
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 https://raw.githubusercontent.com/bigdargon/hostsvn/master/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
@@ -120,11 +119,8 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-i
 https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
 https://raw.githubusercontent.com/BrigsLabs/judol/main/judol_domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
-https://raw.githubusercontent.com/cbuijs/ut1/master/cryptojacking/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
-https://raw.githubusercontent.com/cbuijs/ut1/master/malware/domains
-https://raw.githubusercontent.com/cbuijs/ut1/master/phishing/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/publicite/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/stalkerware/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
@@ -178,7 +174,6 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
 https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt
 https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams_light.txt
-https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/jiayiming/jCleanList/master/jCleanList_all.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
@@ -208,15 +203,12 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole
 https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
 https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt
-https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
 https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
-https://raw.githubusercontent.com/MikhailKasimov/validin-phish-feed/main/validin-phish-feed.txt
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
 https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
-https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
 https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-ad-domains.txt
 https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/master/Filters
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
@@ -344,7 +336,6 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynami
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Gambling
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
-https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
@@ -352,10 +343,7 @@ https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
 https://raw.githubusercontent.com/SM443/BDIX-Piracy-Blocklist/main/bdix_piracy_websites_only-domains.txt
 https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt
 https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-websites.txt
-https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
-https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/azorult.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/anonymous_web_proxy.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/blockchain_dns.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/dns_tunneling_service.txt
@@ -367,7 +355,6 @@ https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt
-https://raw.githubusercontent.com/ttc-cert/TTC-CERT_blocklist_recommended/master/domain_blocklist_recommended.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-others.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
@@ -387,8 +374,6 @@ https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_part1.txt
 https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_part2.txt
 https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-phishing-14day.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-phishing-30day_part1.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-phishing-30day_part2.txt
 https://raw.githubusercontent.com/YanFung/Ads/master/Mobile
 https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
