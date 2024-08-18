@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 17 Aug 2024 01:56 UTC
-! Version: 2024.0817.0156.40
+! Last modified: 17 Aug 2024 22:08 UTC
+! Version: 2024.0817.2208.48
 ! Syntax: uBlock
 ! Number of latin TLDs: 187 - non-latin TLDs: 151
 !
@@ -176,7 +176,7 @@
 ||tk^$doc,domain=~adistance.tk|~bonzibuddy.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~gotofap.tk|~graph.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
 ||today^$doc,domain=~archive.today|~futurology.today|~lemmy.today|~oldweb.today
 ||tokyo^$doc
-||top^$doc,domain=~1stream.top|~ambr.top|~caitlin.top|~chillx.top|~corriente.top|~doubledouble.top|~mastodon.top|~nfmirrorcdn.top|~pegelinux.top|~pressplay.top|~reminder.top|~shucks.top|~strims.top|~suiten.top|~techblog.top|~thedesk.top|~vsdb.top
+||top^$doc,domain=~1stream.top|~ambr.top|~arjun.top|~caitlin.top|~chillx.top|~corriente.top|~doubledouble.top|~mastodon.top|~nfmirrorcdn.top|~pegelinux.top|~pressplay.top|~reminder.top|~shucks.top|~strims.top|~suiten.top|~techblog.top|~thedesk.top|~vsdb.top
 ||trade^$doc,domain=~composer.trade|~kite.trade
 ||trading^$doc
 ||uno^$doc
@@ -192,7 +192,7 @@
 ||webcam^$doc
 ||website^$doc,domain=~acro.website|~bestmotherfucking.website|~eddie.website|~thatsup.website|~tilde.website
 ||wedding^$doc
-||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~datei.wiki|~debrid.wiki|~fallout.wiki|~getindie.wiki|~hollowknight.wiki|~kodi.wiki|~kometa.wiki|~manson.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~namu.wiki|~notifiarr.wiki|~osrs.wiki|~rs.wiki|~runescape.wiki|~w.wiki|~zeppelin.wiki
+||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~datei.wiki|~debrid.wiki|~fallout.wiki|~getindie.wiki|~hollowknight.wiki|~kodi.wiki|~kometa.wiki|~manson.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~namu.wiki|~notifiarr.wiki|~osrs.wiki|~rs.wiki|~runescape.wiki|~thehomelab.wiki|~w.wiki|~zeppelin.wiki
 ||win^$doc
 ||wine^$doc
 ||work^$doc,domain=~elphago.work|~frame.work|~koding.work|~searx.work
