@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 08 Aug 2024 05:03 UTC
-! Version: 2024.0808.0503.48
+! Last modified: 18 Aug 2024 23:03 UTC
+! Version: 2024.0818.2303.46
 ! Syntax: AdBlock
-! Number of entries: 95
+! Number of entries: 98
 !
 ||cstat.g.aaplimg.com^
 ||diagassets.g.aaplimg.com^
@@ -33,6 +33,7 @@
 ||iphonesubmissions.apple.com.akadns.net^
 ||radarsubmissions.apple.com.akadns.net^
 ||iad-apple.com.akadns.net^
+||partiality.itunes-apple.com.akadns.net^
 ||xp.itunes-apple.com.akadns.net^
 ||searchads.lb-apple.com.akadns.net^
 ||advertising.apple.com^
@@ -63,6 +64,7 @@
 ||iphonesubmissions.apple.com^
 ||iphonesubmissions-old.apple.com^
 ||autolinkmaker.itunes.apple.com^
+||partiality.itunes.apple.com^
 ||launch.apple.com^
 ||metrics.apple.com^
 ||msc-dct-prod.msc.apple.com^
@@ -96,6 +98,7 @@
 ||experiments.apple.com.edgekey.net^
 ||iadsdk.apple.com.edgekey.net^
 ||linkmaker.itunes.apple.com.edgekey.net^
+||partiality.itunes.apple.com.edgekey.net^
 ||xp.apple.com.edgekey.net^
 ||cstat.apple.com.edgesuite.net^
 ||searchads.apple.com.edgesuite.net^

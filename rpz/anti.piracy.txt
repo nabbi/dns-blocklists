@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1723415760 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1724020800 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 11 Aug 2024 22:36 UTC
-; Version: 2024.0811.2236.14
+; Last modified: 18 Aug 2024 22:40 UTC
+; Version: 2024.0818.2240.07
 ; Syntax: RPZ
-; Number of entries: 19602
+; Number of entries: 19604
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -10813,6 +10813,8 @@ juraganfilm.mobi CNAME .
 *.juraganfilm.mobi CNAME .
 kinox.mobi CNAME .
 *.kinox.mobi CNAME .
+liteapks.mobi CNAME .
+*.liteapks.mobi CNAME .
 lookmovie.mobi CNAME .
 *.lookmovie.mobi CNAME .
 tantifilm.mobi CNAME .
