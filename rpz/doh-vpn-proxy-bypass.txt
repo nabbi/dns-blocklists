@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1724020500 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1724106900 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 18 Aug 2024 22:35 UTC
-; Version: 2024.0818.2235.59
+; Last modified: 19 Aug 2024 22:35 UTC
+; Version: 2024.0819.2235.16
 ; Syntax: RPZ
-; Number of entries: 6774
+; Number of entries: 6800
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -176,6 +176,8 @@ theproxy2.biz CNAME .
 *.theproxy2.biz CNAME .
 torguard.biz CNAME .
 *.torguard.biz CNAME .
+ultraproxy.biz CNAME .
+*.ultraproxy.biz CNAME .
 unblock3d.biz CNAME .
 *.unblock3d.biz CNAME .
 unblockbook.biz CNAME .
@@ -186,6 +188,8 @@ unblocked2.biz CNAME .
 *.unblocked2.biz CNAME .
 unblockedsite.biz CNAME .
 *.unblockedsite.biz CNAME .
+unblocksite.biz CNAME .
+*.unblocksite.biz CNAME .
 unblockweb.biz CNAME .
 *.unblockweb.biz CNAME .
 unblocked.black CNAME .
@@ -284,6 +288,8 @@ seedboxes.cc CNAME .
 *.seedboxes.cc CNAME .
 theproxy.cc CNAME .
 *.theproxy.cc CNAME .
+theproxy2.cc CNAME .
+*.theproxy2.cc CNAME .
 toptip.cc CNAME .
 *.toptip.cc CNAME .
 topvpn.cc CNAME .
@@ -398,6 +404,8 @@ dns.qrtz.club CNAME .
 *.dns.qrtz.club CNAME .
 dns.soldier.terumi.club CNAME .
 *.dns.soldier.terumi.club CNAME .
+theproxy.club CNAME .
+*.theproxy.club CNAME .
 unblock2.club CNAME .
 *.unblock2.club CNAME .
 unblockit.club CNAME .
@@ -512,6 +520,8 @@ dns.tipsy.coffee CNAME .
 *.123unblocked.com CNAME .
 12vpx.com CNAME .
 *.12vpx.com CNAME .
+1banproxy.com CNAME .
+*.1banproxy.com CNAME .
 233py.com CNAME .
 *.233py.com CNAME .
 24tunnel.com CNAME .
@@ -912,8 +922,6 @@ contentabc.com CNAME .
 *.contentabc.com CNAME .
 freedns.controld.com CNAME .
 *.freedns.controld.com CNAME .
-dns.cooluc.com CNAME .
-*.dns.cooluc.com CNAME .
 corecloak.com CNAME .
 *.corecloak.com CNAME .
 coverproxy.com CNAME .
@@ -2334,8 +2342,12 @@ theproxyddl.com CNAME .
 *.theproxyddl.com CNAME .
 theproxyer.com CNAME .
 *.theproxyer.com CNAME .
+theproxyfull.com CNAME .
+*.theproxyfull.com CNAME .
 theproxyguide.com CNAME .
 *.theproxyguide.com CNAME .
+theproxysports.com CNAME .
+*.theproxysports.com CNAME .
 theproxyultra.com CNAME .
 *.theproxyultra.com CNAME .
 therabbitvpn.com CNAME .
@@ -2424,6 +2436,8 @@ uktvproxy.com CNAME .
 *.uktvproxy.com CNAME .
 ultrafastproxy.com CNAME .
 *.ultrafastproxy.com CNAME .
+ultraproxyweb.com CNAME .
+*.ultraproxyweb.com CNAME .
 ultravpn.com CNAME .
 *.ultravpn.com CNAME .
 dns.umbrella.com CNAME .
@@ -2432,6 +2446,8 @@ doh.umbrella.com CNAME .
 *.doh.umbrella.com CNAME .
 unbl0ck3d.com CNAME .
 *.unbl0ck3d.com CNAME .
+unblock-it.com CNAME .
+*.unblock-it.com CNAME .
 unblock-proxy.com CNAME .
 *.unblock-proxy.com CNAME .
 unblock-sites.com CNAME .
@@ -2456,6 +2472,8 @@ unblockanything.com CNAME .
 *.unblockanything.com CNAME .
 unblockdirect.com CNAME .
 *.unblockdirect.com CNAME .
+unblocked4.com CNAME .
+*.unblocked4.com CNAME .
 unblocked5.com CNAME .
 *.unblocked5.com CNAME .
 unblockedarabic.com CNAME .
@@ -2690,6 +2708,8 @@ weboproxy.com CNAME .
 *.weboproxy.com CNAME .
 webproxy.com CNAME .
 *.webproxy.com CNAME .
+webproxyagent.com CNAME .
+*.webproxyagent.com CNAME .
 webproxyinc.com CNAME .
 *.webproxyinc.com CNAME .
 webproxyusa.com CNAME .
@@ -3314,6 +3334,8 @@ adfiltro.fun CNAME .
 *.adfiltro.fun CNAME .
 ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
+cynntex.fun CNAME .
+*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
@@ -3752,6 +3774,8 @@ vpnproxy.info CNAME .
 *.vpnproxy.info CNAME .
 webypass.info CNAME .
 *.webypass.info CNAME .
+wildproxy.info CNAME .
+*.wildproxy.info CNAME .
 ylink.info CNAME .
 *.ylink.info CNAME .
 yourinternetproxy.info CNAME .
@@ -6034,6 +6058,8 @@ proxy.red CNAME .
 *.proxy.red CNAME .
 proxydude.red CNAME .
 *.proxydude.red CNAME .
+theproxy.red CNAME .
+*.theproxy.red CNAME .
 unblocked2.red CNAME .
 *.unblocked2.red CNAME .
 onion.rip CNAME .

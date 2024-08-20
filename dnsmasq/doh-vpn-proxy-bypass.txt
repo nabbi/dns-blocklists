@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 18 Aug 2024 22:35 UTC
-# Version: 2024.0818.2235.59
+# Last modified: 19 Aug 2024 22:35 UTC
+# Version: 2024.0819.2235.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3387
+# Number of entries: 3400
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -54,6 +54,7 @@ local=/123unblocked.com/
 local=/12vpx.com/
 local=/cloud.198.games/
 local=/1and1-dns.de/
+local=/1banproxy.com/
 local=/1clickvpn.net/
 local=/dns.23-4.cn/
 local=/233py.com/
@@ -659,7 +660,6 @@ local=/contentabc.com/
 local=/freedns.controld.com/
 local=/cool-proxy.net/
 local=/coolbits.org/
-local=/dns.cooluc.com/
 local=/corecloak.com/
 local=/doh.cornes.me/
 local=/coverproxy.com/
@@ -707,6 +707,7 @@ local=/cyberghostvpn.com/
 local=/cybersilent.com/
 local=/cyberssh.com/
 local=/buythe.cybertruck.design/
+local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d4d.moe/
 local=/dns.d94.xyz/
@@ -2751,6 +2752,7 @@ local=/dns.thegoodsource.net/
 local=/theproxies.net/
 local=/theproxy.bz/
 local=/theproxy.cc/
+local=/theproxy.club/
 local=/theproxy.dev/
 local=/theproxy.fun/
 local=/theproxy.help/
@@ -2761,9 +2763,11 @@ local=/theproxy.li/
 local=/theproxy.lol/
 local=/theproxy.me/
 local=/theproxy.page/
+local=/theproxy.red/
 local=/theproxy.vip/
 local=/theproxy.work/
 local=/theproxy2.biz/
+local=/theproxy2.cc/
 local=/theproxy2.com/
 local=/theproxy2.info/
 local=/theproxy2.org/
@@ -2772,8 +2776,10 @@ local=/theproxya.net/
 local=/theproxya.org/
 local=/theproxyddl.com/
 local=/theproxyer.com/
+local=/theproxyfull.com/
 local=/theproxyguide.com/
 local=/theproxysite.org/
+local=/theproxysports.com/
 local=/theproxyultra.com/
 local=/therabbitvpn.com/
 local=/dns.theres.one/
@@ -2898,6 +2904,8 @@ local=/ultimatepro.us/
 local=/ultimateproxy.net/
 local=/ultrafastproxy.com/
 local=/ultrafun.net/
+local=/ultraproxy.biz/
+local=/ultraproxyweb.com/
 local=/ultrasurf.es/
 local=/ultrasurf.us/
 local=/ultravpn.com/
@@ -2910,6 +2918,7 @@ local=/unbl4you.lol/
 local=/unblock.pink/
 local=/unblock.soy/
 local=/unblock.ws/
+local=/unblock-it.com/
 local=/unblock-me.org/
 local=/unblock-proxy.com/
 local=/unblock-sites.com/
@@ -2966,6 +2975,7 @@ local=/unblocked2.red/
 local=/unblocked2.space/
 local=/unblocked2.us/
 local=/unblocked2.vip/
+local=/unblocked4.com/
 local=/unblocked4.me/
 local=/unblocked4u.net/
 local=/unblocked4u.org/
@@ -3020,6 +3030,7 @@ local=/unblockproxy.me/
 local=/unblockproxy.us/
 local=/unblockproxy.win/
 local=/unblocks.net/
+local=/unblocksite.biz/
 local=/unblocksite.ch/
 local=/unblocksite.fun/
 local=/unblocksite.id/
@@ -3254,6 +3265,7 @@ local=/webpro.xyz/
 local=/webproxy.com/
 local=/webproxy.online/
 local=/webproxy.to/
+local=/webproxyagent.com/
 local=/webproxyfree.net/
 local=/webproxyinc.com/
 local=/webproxyusa.com/
@@ -3284,6 +3296,7 @@ local=/wikimedia-dns.org/
 local=/wiksa.com/
 local=/dns-1.wil.cloud/
 local=/dns-2.wil.cloud/
+local=/wildproxy.info/
 local=/windscribe.com/
 local=/windscribe.net/
 local=/wireguard.com/
