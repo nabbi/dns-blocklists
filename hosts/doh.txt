@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 19 Aug 2024 22:36 UTC
-# Version: 2024.0819.2236.23
+# Last modified: 20 Aug 2024 22:43 UTC
+# Version: 2024.0820.2243.12
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1518
+# Number of entries: 1531
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -768,7 +768,6 @@
 0.0.0.0 public.dns.iij.jp
 0.0.0.0 ikarosalpha.xyz
 0.0.0.0 dns.ikataruto.com
-0.0.0.0 buc-m2.illmods.com
 0.0.0.0 dns.imaicool.com
 0.0.0.0 noads.imbuffering.com
 0.0.0.0 dns.imchristian.de
@@ -904,6 +903,7 @@
 0.0.0.0 addns1.m-it.ro
 0.0.0.0 mailkyb.co
 0.0.0.0 dns.maitrekuc.fr
+0.0.0.0 dns.mandre.dev
 0.0.0.0 dns.maolaohei.xyz
 0.0.0.0 dns.marasov.id
 0.0.0.0 dns.marbledfennec.net
@@ -922,7 +922,6 @@
 0.0.0.0 testguard.meexx.de
 0.0.0.0 meganerd.nl
 0.0.0.0 httpdns.meituan.com
-0.0.0.0 dns.melalandia.tk
 0.0.0.0 dns.melvin2204.nl
 0.0.0.0 mendozasdelivery.com
 0.0.0.0 testaghome.meshkov.info
@@ -942,6 +941,7 @@
 0.0.0.0 mnrv.trade
 0.0.0.0 dns.mo0on15.com
 0.0.0.0 dnstls.mobik.com
+0.0.0.0 nue2.moderateinfra.net
 0.0.0.0 ps1.modr.club
 0.0.0.0 dns.molinero.dev
 0.0.0.0 naganohara-yoimiya.momokko.moe
@@ -992,8 +992,10 @@
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
+0.0.0.0 doh-ca.naftalie.net
 0.0.0.0 dns.nako.kr
 0.0.0.0 www.chungocoai.name.vn
+0.0.0.0 adguard.quydang.name.vn
 0.0.0.0 dns.narl.app
 0.0.0.0 dns.nas-server.ru
 0.0.0.0 ae-fuj-w-p-1.nashkan.net
@@ -1062,6 +1064,7 @@
 0.0.0.0 odvr.nic.cz
 0.0.0.0 dns.nick-slowinski.de
 0.0.0.0 nicsezcheckfbi.gov
+0.0.0.0 dns1.nielsdb.be
 0.0.0.0 dns.ningkelle.id
 0.0.0.0 family.dns.ningkelle.id
 0.0.0.0 dns.nixnet.xyz
@@ -1269,7 +1272,14 @@
 0.0.0.0 dns.rootlab.top
 0.0.0.0 dns.rotunneling.net
 0.0.0.0 o.rsaikat.com
+0.0.0.0 au.rslvr.eu
+0.0.0.0 bg.rslvr.eu
 0.0.0.0 dns.rslvr.eu
+0.0.0.0 hk.rslvr.eu
+0.0.0.0 jp.rslvr.eu
+0.0.0.0 nl.rslvr.eu
+0.0.0.0 sg.rslvr.eu
+0.0.0.0 us.rslvr.eu
 0.0.0.0 adguard.ruby.ci
 0.0.0.0 dns.rubyfish.cn
 0.0.0.0 ea-dns.rubyfish.cn
@@ -1293,6 +1303,7 @@
 0.0.0.0 dns.schlagheck.berlin
 0.0.0.0 dns.scott-smith.us
 0.0.0.0 dns.scuola.org
+0.0.0.0 adguard.sealyserver.com
 0.0.0.0 2.dnscrypt-cert.dns.seby.io
 0.0.0.0 doh.seby.io
 0.0.0.0 doh-2.seby.io
@@ -1401,6 +1412,7 @@
 0.0.0.0 dns.tipsy.coffee
 0.0.0.0 dns.tls-data.de
 0.0.0.0 tlz.asia
+0.0.0.0 d.toairs.com
 0.0.0.0 dot.tooli.ca
 0.0.0.0 nsc.torgues.net
 0.0.0.0 doh.totoro.pub
@@ -1470,6 +1482,7 @@
 0.0.0.0 wantaquddin.com
 0.0.0.0 dns.wargan.io
 0.0.0.0 abel.waringer-atg.de
+0.0.0.0 dns.warma.me
 0.0.0.0 dns.warpnine.de
 0.0.0.0 dns.engineer.web.id
 0.0.0.0 doh.this.web.id

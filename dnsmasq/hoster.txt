@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 11 Aug 2024 22:35 UTC
-# Version: 2024.0811.2235.12
+# Last modified: 20 Aug 2024 22:45 UTC
+# Version: 2024.0820.2245.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1831
+# Number of entries: 1834
 #
 local=/000a.de/
 local=/000space.com/
@@ -751,7 +751,6 @@ local=/eclub.lv/
 local=/ecomplanet.com/
 local=/ecrater.com/
 local=/editboard.com/
-local=/editmysite.com/
 local=/edublogs.com/
 local=/edublogs.org/
 local=/educationalimpactblog.com/
@@ -1200,6 +1199,7 @@ local=/my1.ru/
 local=/my3gb.com/
 local=/myartsonline.com/
 local=/mybb.im/
+local=/mybb.pw/
 local=/mybb.rocks/
 local=/mybb.ru/
 local=/mybb.social/
@@ -1212,6 +1212,7 @@ local=/myconfinedspace.com/
 local=/mydiscussion.net/
 local=/myeweb.net/
 local=/myfoolmoon.com/
+local=/myfreeforum.org/
 local=/myfreesites.net/
 local=/mygamesonline.org/
 local=/myparisblog.com/
@@ -1577,6 +1578,7 @@ local=/topbloghub.com/
 local=/total-blog.com/
 local=/totalh.net/
 local=/ftp.totallyanonymous.com/
+local=/tr.gp/
 local=/trend.in/
 local=/trexgame.net/
 local=/tribalpages.com/
@@ -1747,6 +1749,7 @@ local=/website.org/
 local=/website-home.ws/
 local=/website2.me/
 local=/websitehostfree.com/
+local=/webspawner.com/
 local=/webstarts.com/
 local=/webuda.com/
 local=/webzdarma.cz/

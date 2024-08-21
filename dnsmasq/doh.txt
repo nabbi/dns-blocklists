@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 19 Aug 2024 22:36 UTC
-# Version: 2024.0819.2236.23
+# Last modified: 20 Aug 2024 22:43 UTC
+# Version: 2024.0820.2243.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1357
+# Number of entries: 1370
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -654,7 +654,6 @@ local=/dns.ihaveacloud.com/
 local=/iij.jp/
 local=/ikarosalpha.xyz/
 local=/dns.ikataruto.com/
-local=/buc-m2.illmods.com/
 local=/dns.imaicool.com/
 local=/noads.imbuffering.com/
 local=/dns.imchristian.de/
@@ -788,6 +787,7 @@ local=/orau.lz0724.com/
 local=/addns1.m-it.ro/
 local=/mailkyb.co/
 local=/dns.maitrekuc.fr/
+local=/dns.mandre.dev/
 local=/dns.maolaohei.xyz/
 local=/dns.marasov.id/
 local=/dns.marbledfennec.net/
@@ -804,7 +804,6 @@ local=/dns.meeo.win/
 local=/testguard.meexx.de/
 local=/meganerd.nl/
 local=/httpdns.meituan.com/
-local=/dns.melalandia.tk/
 local=/dns.melvin2204.nl/
 local=/mendozasdelivery.com/
 local=/testaghome.meshkov.info/
@@ -824,6 +823,7 @@ local=/dns.mnet-online.de/
 local=/mnrv.trade/
 local=/dns.mo0on15.com/
 local=/dnstls.mobik.com/
+local=/nue2.moderateinfra.net/
 local=/ps1.modr.club/
 local=/dns.molinero.dev/
 local=/naganohara-yoimiya.momokko.moe/
@@ -866,8 +866,10 @@ local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
+local=/doh-ca.naftalie.net/
 local=/dns.nako.kr/
 local=/www.chungocoai.name.vn/
+local=/adguard.quydang.name.vn/
 local=/dns.narl.app/
 local=/dns.nas-server.ru/
 local=/ae-fuj-w-p-1.nashkan.net/
@@ -933,6 +935,7 @@ local=/dnsotls.lab.nic.cl/
 local=/odvr.nic.cz/
 local=/dns.nick-slowinski.de/
 local=/nicsezcheckfbi.gov/
+local=/dns1.nielsdb.be/
 local=/dns.ningkelle.id/
 local=/dns.nixnet.xyz/
 local=/lux1.nixnet.xyz/
@@ -1124,7 +1127,14 @@ local=/dns.ronc.ru/
 local=/dns.rootlab.top/
 local=/dns.rotunneling.net/
 local=/o.rsaikat.com/
+local=/au.rslvr.eu/
+local=/bg.rslvr.eu/
 local=/dns.rslvr.eu/
+local=/hk.rslvr.eu/
+local=/jp.rslvr.eu/
+local=/nl.rslvr.eu/
+local=/sg.rslvr.eu/
+local=/us.rslvr.eu/
 local=/adguard.ruby.ci/
 local=/dns.rubyfish.cn/
 local=/ea-dns.rubyfish.cn/
@@ -1148,6 +1158,7 @@ local=/dns.scarx.net/
 local=/dns.schlagheck.berlin/
 local=/dns.scott-smith.us/
 local=/dns.scuola.org/
+local=/adguard.sealyserver.com/
 local=/2.dnscrypt-cert.dns.seby.io/
 local=/doh.seby.io/
 local=/doh-2.seby.io/
@@ -1253,6 +1264,7 @@ local=/timmes.nl/
 local=/dns.tipsy.coffee/
 local=/dns.tls-data.de/
 local=/tlz.asia/
+local=/d.toairs.com/
 local=/dot.tooli.ca/
 local=/nsc.torgues.net/
 local=/doh.totoro.pub/
@@ -1315,6 +1327,7 @@ local=/dns.wang.art/
 local=/wantaquddin.com/
 local=/dns.wargan.io/
 local=/abel.waringer-atg.de/
+local=/dns.warma.me/
 local=/dns.warpnine.de/
 local=/dns.engineer.web.id/
 local=/doh.this.web.id/
