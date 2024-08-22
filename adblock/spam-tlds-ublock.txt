@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 20 Aug 2024 22:15 UTC
-! Version: 2024.0820.2215.57
+! Last modified: 22 Aug 2024 05:16 UTC
+! Version: 2024.0822.0516.55
 ! Syntax: uBlock
 ! Number of latin TLDs: 187 - non-latin TLDs: 151
 !
@@ -78,7 +78,7 @@
 ||fit^$doc,domain=~appetit.fit|~clubb.fit|~justget.fit|~pridegym.fit|~union.fit
 ||foo^$doc,domain=~helloworld.foo
 ||fund^$doc
-||fyi^$doc,domain=~apollo.fyi|~better.fyi|~genderdysphoria.fyi|~iusearchlinux.fyi|~lunar.fyi|~vercel.fyi
+||fyi^$doc,domain=~apollo.fyi|~better.fyi|~genderdysphoria.fyi|~iusearchlinux.fyi|~levels.fyi|~lunar.fyi|~vercel.fyi
 ||gdn^$doc,domain=~cst.gdn|~pss.gdn
 ||gent^$doc
 ||gift^$doc,domain=~discord.gift
@@ -201,7 +201,7 @@
 ||xin^$doc
 ||yachts^$doc,domain=~sinking.yachts
 ||you^$doc
-||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~redecanaistv.zip|~redecanais.zip|~url.zip
+||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~redecanaistv.zip|~redecanais.zip|~uploaded-files.zip|~url.zip
 ||рус^$doc
 ||कॉम^$doc
 ||セール^$doc
