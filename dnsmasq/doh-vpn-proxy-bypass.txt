@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 20 Aug 2024 22:42 UTC
-# Version: 2024.0820.2242.06
+# Last modified: 21 Aug 2024 22:44 UTC
+# Version: 2024.0821.2244.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3433
+# Number of entries: 3431
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -470,7 +470,6 @@ local=/dns.chenu.ch/
 local=/dns.chilimac.net/
 local=/chillglobal.com/
 local=/chinagrows.com/
-local=/dns.chmc.ml/
 local=/dns.christerwaren.fi/
 local=/dns.christian.moe/
 local=/christophbrem.com/
@@ -1455,7 +1454,6 @@ local=/iprovpn.com/
 local=/ipsharkk.com/
 local=/ipunblock.com/
 local=/ipunblocker.com/
-local=/dns.ipv6dns.com/
 local=/ipvanish.com/
 local=/ironsocket.com/
 local=/dns1.irumatech.com/
