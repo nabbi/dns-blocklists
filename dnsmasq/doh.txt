@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 21 Aug 2024 22:45 UTC
-# Version: 2024.0821.2245.42
+# Last modified: 22 Aug 2024 22:37 UTC
+# Version: 2024.0822.2237.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1368
+# Number of entries: 1367
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -84,7 +84,6 @@ local=/ahadns.net/
 local=/blitz.ahadns.com/
 local=/blitz-setup.ahadns.com/
 local=/ahoj.email/
-local=/adguard.ajinga.net/
 local=/dns.albony.xyz/
 local=/dns.alekberg.net/
 local=/dns2.alekberg.net/

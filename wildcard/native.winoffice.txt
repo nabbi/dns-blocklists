@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 20 Aug 2024 23:13 UTC
-# Version: 2024.0820.2313.03
+# Last modified: 22 Aug 2024 23:07 UTC
+# Version: 2024.0822.2307.23
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 337
+# Number of entries: 338
 #
 *.in.appcenter.ms
 *.applicationinsights.azure.com
@@ -319,6 +319,7 @@
 *.analyticsiot-prod-simpad-ehn.servicebus.windows.net
 *.btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 *.btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
+*.chem4wordtelemetry.servicebus.windows.net
 *.citrixanalyticseh.servicebus.windows.net
 *.citrixanalyticseh-alias.servicebus.windows.net
 *.citrixanalyticseh2.servicebus.windows.net

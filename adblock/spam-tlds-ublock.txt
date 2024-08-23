@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 22 Aug 2024 05:16 UTC
-! Version: 2024.0822.0516.55
+! Last modified: 22 Aug 2024 22:10 UTC
+! Version: 2024.0822.2210.07
 ! Syntax: uBlock
 ! Number of latin TLDs: 187 - non-latin TLDs: 151
 !
@@ -88,7 +88,7 @@
 ||gold^$doc
 ||gratis^$doc
 ||green^$doc
-||guide^$doc,domain=~cfw.guide|~hacks.guide|~homebrew.guide|~opensource.guide|~wii.guide
+||guide^$doc,domain=~cfw.guide|~discordjs.guide|~hacks.guide|~homebrew.guide|~opensource.guide|~wii.guide
 ||guru^$doc,domain=~bahn.guru|~base64.guru|~crontab.guru|~greenlight.guru|~jav.guru|~ludwig.guru|~mags.guru|~webcal.guru
 ||hair^$doc
 ||haus^$doc
@@ -113,7 +113,7 @@
 ||market^$doc,domain=~digiseller.market|~otto.market|~plati.market|~spotim.market|~warframe.market
 ||markets^$doc
 ||men^$doc
-||ml^$doc,domain=~aire.ml|~amap.ml|~beatbump.ml|~fmhy.ml|~ghostcloud.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml
+||ml^$doc,domain=~aire.ml|~amap.ml|~fmhy.ml|~ghostcloud.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml
 ||mom^$doc
 ||money^$doc,domain=~flowyour.money
 ||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~vipbj.monster|~yts.monster
@@ -176,7 +176,7 @@
 ||tk^$doc,domain=~adistance.tk|~bonzibuddy.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~gotofap.tk|~graph.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
 ||today^$doc,domain=~archive.today|~futurology.today|~lemmy.today|~oldweb.today
 ||tokyo^$doc
-||top^$doc,domain=~1stream.top|~ambr.top|~arjun.top|~caitlin.top|~chillx.top|~corriente.top|~doubledouble.top|~mastodon.top|~nfmirrorcdn.top|~pegelinux.top|~pressplay.top|~reminder.top|~shucks.top|~strims.top|~suiten.top|~techblog.top|~thedesk.top|~vsdb.top
+||top^$doc,domain=~1stream.top|~ambr.top|~arjun.top|~caitlin.top|~chillx.top|~corriente.top|~doubledouble.top|~mastodon.top|~mianbeian.top|~nfmirrorcdn.top|~pegelinux.top|~pressplay.top|~reminder.top|~shucks.top|~strims.top|~suiten.top|~techblog.top|~thedesk.top|~vsdb.top
 ||trade^$doc,domain=~composer.trade|~kite.trade
 ||trading^$doc
 ||uno^$doc
