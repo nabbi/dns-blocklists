@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 26 Jul 2024 22:18 UTC
-# Version: 2024.0726.2218.02
+# Last modified: 23 Aug 2024 23:03 UTC
+# Version: 2024.0823.2303.51
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 584
+# Number of entries: 588
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -115,8 +115,10 @@
 0.0.0.0 aes.ap-southeast.3px.axp.amazon-adsystem.com
 0.0.0.0 aes-beta.axp.amazon-adsystem.com
 0.0.0.0 aes.eu-west.3px.axp.amazon-adsystem.com
+0.0.0.0 aes.eu-west.ono.axp.amazon-adsystem.com
 0.0.0.0 aes.us-east.3px.axp.amazon-adsystem.com
 0.0.0.0 aes.us-east.live-events.ono.axp.amazon-adsystem.com
+0.0.0.0 aes.us-east.ono.axp.amazon-adsystem.com
 0.0.0.0 aes.us-west.3px.axp.amazon-adsystem.com
 0.0.0.0 aes.us-west.live-events.ono.axp.amazon-adsystem.com
 0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
@@ -245,6 +247,7 @@
 0.0.0.0 eu-west-3-3.telemetry.insights.video.a2z.com
 0.0.0.0 eu-west.3px.axp.amazon-adsystem.com
 0.0.0.0 eu-west.aps.axp.amazon-adsystem.com
+0.0.0.0 eu-west.ono.axp.amazon-adsystem.com
 0.0.0.0 event.mshopbugsnag.irm.amazon.dev
 0.0.0.0 event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 event-na.ads-beta.aps.amazon-adsystem.com
@@ -521,6 +524,7 @@
 0.0.0.0 us-east.3px.axp.amazon-adsystem.com
 0.0.0.0 us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 us-east.live-events.ono.axp.amazon-adsystem.com
+0.0.0.0 us-east.ono.axp.amazon-adsystem.com
 0.0.0.0 us-east.prod.service.minerva.devices.a2z.com
 0.0.0.0 useast.rtb.axp.amazon-adsystem.com
 0.0.0.0 us-e.prod.service.minerva.devices.a2z.com
