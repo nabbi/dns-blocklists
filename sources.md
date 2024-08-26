@@ -400,7 +400,6 @@ https://raw.githubusercontent.com/zakird/crux-top-lists/main/data/global/current
 https://rescure.me/rescure_blacklist.txt
 https://rescure.me/rescure_domain_blacklist.txt
 https://ressources.anj.fr/blocage_sites_illegaux/blocage_sites_illegaux.csv
-https://safe.pharmacy/not-recommended-sites/
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt

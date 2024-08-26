@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1724366160 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1724625960 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Aug 2024 22:36 UTC
-; Version: 2024.0822.2236.32
+; Last modified: 25 Aug 2024 22:46 UTC
+; Version: 2024.0825.2246.37
 ; Syntax: RPZ
-; Number of entries: 6860
+; Number of entries: 6830
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -146,8 +146,6 @@ dns.schlagheck.berlin CNAME .
 *.dns.schlagheck.berlin CNAME .
 croxyproxy.best CNAME .
 *.croxyproxy.best CNAME .
-dns.doh.best CNAME .
-*.dns.doh.best CNAME .
 supervpn.best CNAME .
 *.supervpn.best CNAME .
 vpns.best CNAME .
@@ -222,8 +220,6 @@ ag.ff0x.ca CNAME .
 *.ag.ff0x.ca CNAME .
 adguard.jfchenier.ca CNAME .
 *.adguard.jfchenier.ca CNAME .
-myproxy.ca CNAME .
-*.myproxy.ca CNAME .
 ne1.ca CNAME .
 *.ne1.ca CNAME .
 psiphon.ca CNAME .
@@ -658,8 +654,6 @@ ag.apollohct.com CNAME .
 *.ag.apollohct.com CNAME .
 doh.dns.apple.com CNAME .
 *.doh.dns.apple.com CNAME .
-appleproxy.com CNAME .
-*.appleproxy.com CNAME .
 iron-dot-cobalt-antenna-219709.appspot.com CNAME .
 *.iron-dot-cobalt-antenna-219709.appspot.com CNAME .
 vpn.appsverse.com CNAME .
@@ -1270,8 +1264,6 @@ gotrusted.com CNAME .
 *.gotrusted.com CNAME .
 dot.libredns.gr.com CNAME .
 *.dot.libredns.gr.com CNAME .
-gracarno.com CNAME .
-*.gracarno.com CNAME .
 gratisvpn.com CNAME .
 *.gratisvpn.com CNAME .
 greatestfreeproxy.com CNAME .
@@ -2602,8 +2594,6 @@ vpn-fastest.com CNAME .
 *.vpn-fastest.com CNAME .
 vpn-free.com CNAME .
 *.vpn-free.com CNAME .
-vpn-quick.com CNAME .
-*.vpn-quick.com CNAME .
 vpn4all.com CNAME .
 *.vpn4all.com CNAME .
 vpnaccounts.com CNAME .
@@ -2770,8 +2760,6 @@ workdigi.com CNAME .
 *.workdigi.com CNAME .
 workingvpn.com CNAME .
 *.workingvpn.com CNAME .
-workstudyplay.com CNAME .
-*.workstudyplay.com CNAME .
 worldgravityapp.com CNAME .
 *.worldgravityapp.com CNAME .
 wossow.com CNAME .
@@ -2982,8 +2970,6 @@ dns.hahnjo.de CNAME .
 *.dns.hahnjo.de CNAME .
 dns.hanmey.de CNAME .
 *.dns.hanmey.de CNAME .
-hauxcore.de CNAME .
-*.hauxcore.de CNAME .
 doh.hottis.de CNAME .
 *.doh.hottis.de CNAME .
 i2p-projekt.de CNAME .
@@ -3470,8 +3456,6 @@ howdy.id CNAME .
 *.howdy.id CNAME .
 dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
-doh.morizt.id CNAME .
-*.doh.morizt.id CNAME .
 d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 vpnto.bhadrikais.my.id CNAME .
@@ -3766,8 +3750,6 @@ revko.info CNAME .
 *.revko.info CNAME .
 saoudiproxy.info CNAME .
 *.saoudiproxy.info CNAME .
-shrunkunseeingbacklight.info CNAME .
-*.shrunkunseeingbacklight.info CNAME .
 shyf.info CNAME .
 *.shyf.info CNAME .
 simplevpn.info CNAME .
@@ -3818,8 +3800,6 @@ vpnapp.info CNAME .
 *.vpnapp.info CNAME .
 vpnfree.info CNAME .
 *.vpnfree.info CNAME .
-vpnproxy.info CNAME .
-*.vpnproxy.info CNAME .
 webypass.info CNAME .
 *.webypass.info CNAME .
 wildproxy.info CNAME .
@@ -5186,8 +5166,6 @@ travelvpn.net CNAME .
 *.travelvpn.net CNAME .
 tributh.net CNAME .
 *.tributh.net CNAME .
-tubeunblock.net CNAME .
-*.tubeunblock.net CNAME .
 twoproxy.net CNAME .
 *.twoproxy.net CNAME .
 ultimateproxy.net CNAME .
@@ -5314,8 +5292,6 @@ ns3.bit-trail.nl CNAME .
 *.ns3.bit-trail.nl CNAME .
 dutchproxy.nl CNAME .
 *.dutchproxy.nl CNAME .
-fastproxy.nl CNAME .
-*.fastproxy.nl CNAME .
 freehollandproxy.nl CNAME .
 *.freehollandproxy.nl CNAME .
 dns.ginovs.nl CNAME .
@@ -6136,8 +6112,6 @@ proxy.rocks CNAME .
 *.proxy.rocks CNAME .
 dns.quiet.rocks CNAME .
 *.dns.quiet.rocks CNAME .
-unblockit.rsvp CNAME .
-*.unblockit.rsvp CNAME .
 bi-tree.ru CNAME .
 *.bi-tree.ru CNAME .
 dns.blaze-sk.ru CNAME .
@@ -6496,8 +6470,6 @@ unblockit.uno CNAME .
 *.unblockit.uno CNAME .
 2fastsurfer.us CNAME .
 *.2fastsurfer.us CNAME .
-2proxy.us CNAME .
-*.2proxy.us CNAME .
 46sdzf3zdg1dxg2.us CNAME .
 *.46sdzf3zdg1dxg2.us CNAME .
 appshost.us CNAME .
@@ -6792,8 +6764,6 @@ dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
 *.dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
 mikezhang.xyz CNAME .
 *.mikezhang.xyz CNAME .
-mobrain.xyz CNAME .
-*.mobrain.xyz CNAME .
 ninjaweb.xyz CNAME .
 *.ninjaweb.xyz CNAME .
 dns.nixnet.xyz CNAME .

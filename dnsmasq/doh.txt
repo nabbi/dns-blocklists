@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Aug 2024 22:37 UTC
-# Version: 2024.0822.2237.37
+# Last modified: 25 Aug 2024 22:47 UTC
+# Version: 2024.0825.2247.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1367
+# Number of entries: 1365
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -464,7 +464,6 @@ local=/doh.lv/
 local=/doh.pub/
 local=/doh.sb/
 local=/doh.xyz/
-local=/dns.doh.best/
 local=/doh.domreg.lt/
 local=/takhtakh.domyah.net/
 local=/dns.dooks.uk/
@@ -828,7 +827,6 @@ local=/dns.momou.ch/
 local=/zrh1-ns01.monzoon.net/
 local=/dns.moonssif.com/
 local=/morbitzer.de/
-local=/doh.morizt.id/
 local=/dns.moulticast.net/
 local=/dns.mrkaran.dev/
 local=/msr177.com/
