@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1724625960 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1724729760 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 25 Aug 2024 22:46 UTC
-; Version: 2024.0825.2246.37
+; Last modified: 27 Aug 2024 03:36 UTC
+; Version: 2024.0827.0336.09
 ; Syntax: RPZ
-; Number of entries: 6830
+; Number of entries: 6838
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2892,6 +2892,8 @@ auto-aufladen.de CNAME .
 *.auto-aufladen.de CNAME .
 adguard.bonis.de CNAME .
 *.adguard.bonis.de CNAME .
+tor.ccc.de CNAME .
+*.tor.ccc.de CNAME .
 chaos-system.de CNAME .
 *.chaos-system.de CNAME .
 ciproxy.de CNAME .
@@ -3456,6 +3458,8 @@ howdy.id CNAME .
 *.howdy.id CNAME .
 dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
+doh.morizt.id CNAME .
+*.doh.morizt.id CNAME .
 d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 vpnto.bhadrikais.my.id CNAME .
@@ -5446,6 +5450,8 @@ dns.blokada.org CNAME .
 *.dns.blokada.org CNAME .
 bmetrics.org CNAME .
 *.bmetrics.org CNAME .
+tor.calyxinstitute.org CNAME .
+*.tor.calyxinstitute.org CNAME .
 cantblockthis.org CNAME .
 *.cantblockthis.org CNAME .
 cantfindme.org CNAME .
@@ -5496,6 +5502,8 @@ vpschito.duckdns.org CNAME .
 *.vpschito.duckdns.org CNAME .
 ueni.dyndns.org CNAME .
 *.ueni.dyndns.org CNAME .
+tor.eff.org CNAME .
+*.tor.eff.org CNAME .
 arashi.eu.org CNAME .
 *.arashi.eu.org CNAME .
 armorrush.eu.org CNAME .

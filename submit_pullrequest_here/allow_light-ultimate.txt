@@ -11,6 +11,9 @@
 
 # BEGIN
 
+# Google Wallet - breaks adding PKPASS files
+auditrecording-pa.googleapis.com
+
 # https://github.com/hagezi/dns-blocklists/issues/3330
 signal-collector.gemaltodigitalbankingidcloud.com
 

@@ -34,7 +34,7 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 20. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
 21. [Recommendation](#recommendation) - [Which version of the lists should I use?](#whatshouldiuse)
 22. [Online DNS Services](#dnsservices)
-23. [About](#about) : [Contact](#contact) - [Groups](#groups) - [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support)
+23. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support)
 24. [Statistics](statistics.md) - [Sources](sources.md)
 25. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
 
@@ -800,18 +800,6 @@ The results of a test against the 10000 [whotracks.me](https://whotracks.me/webs
 | **----**     | 299646        | 67888           | 22.66     | -8.24          |
 
 Test them, give feedback and [report blockable or incorrectly blocked](https://github.com/hagezi/dns-blocklists/issues) domains.
-
-#### :email: Contact <a name="contact"></a>
-
-| Mail |
-|:----:|
-| <hagezi@protonmail.com> |
-
-#### :family: Groups <a name="groups"></a>
-
-| Telegram | Discord |
-|:---------:|:------:|
-| [Link](https://t.me/hagezi_g) | [CipherOps' Pi-hole & AdGuard Home](https://discord.gg/jg9CKkhC7M) |
 
 #### :octocat: Repository <a name="repository"></a>
 
