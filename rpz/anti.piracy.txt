@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1724626200 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1724885880 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 25 Aug 2024 22:50 UTC
-; Version: 2024.0825.2250.45
+; Last modified: 28 Aug 2024 22:58 UTC
+; Version: 2024.0828.2258.29
 ; Syntax: RPZ
-; Number of entries: 19754
+; Number of entries: 19750
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2257,8 +2257,6 @@ amerikasimperialism.2ya.com CNAME .
 *.amerikasimperialism.2ya.com CNAME .
 danime.2ya.com CNAME .
 *.danime.2ya.com CNAME .
-tracker.3304399.com CNAME .
-*.tracker.3304399.com CNAME .
 33filmstreaming.com CNAME .
 *.33filmstreaming.com CNAME .
 33rapfr.com CNAME .
@@ -8839,8 +8837,6 @@ ztracker.hu CNAME .
 *.ztracker.hu CNAME .
 altadefinizione.icu CNAME .
 *.altadefinizione.icu CNAME .
-altadefinizione01.icu CNAME .
-*.altadefinizione01.icu CNAME .
 tracker-zhuqiy.dgj055.icu CNAME .
 *.tracker-zhuqiy.dgj055.icu CNAME .
 filmpertutti.icu CNAME .

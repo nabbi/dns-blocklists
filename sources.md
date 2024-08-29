@@ -182,7 +182,6 @@ https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/s
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/jiayiming/jCleanList/master/jCleanList_all.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/adback-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/adkeeper-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/admaven-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/admeasures-domains.txt
@@ -200,7 +199,6 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/propellerads-
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/toradvertising-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/unknown-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/videoadex-domains.txt
-https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/volumedata-domains.txt
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 https://raw.githubusercontent.com/LennyFox/Blocklists/master/Block_non_latin_TLDs.txt
 https://raw.githubusercontent.com/logroid/adaway-hosts/master/hosts.txt
