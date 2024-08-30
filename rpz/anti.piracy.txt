@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1724885880 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1724972280 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 28 Aug 2024 22:58 UTC
-; Version: 2024.0828.2258.29
+; Last modified: 29 Aug 2024 22:58 UTC
+; Version: 2024.0829.2258.52
 ; Syntax: RPZ
-; Number of entries: 19750
+; Number of entries: 19734
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -3081,8 +3081,6 @@ bstgms4y.com CNAME .
 *.bstgms4y.com CNAME .
 bt-chat.com CNAME .
 *.bt-chat.com CNAME .
-tracker.bt-hash.com CNAME .
-*.tracker.bt-hash.com CNAME .
 dht.bt251.com CNAME .
 *.dht.bt251.com CNAME .
 tracker.bt4g.com CNAME .
@@ -3351,8 +3349,6 @@ crackstreams.com CNAME .
 *.crackstreams.com CNAME .
 cracksurl.com CNAME .
 *.cracksurl.com CNAME .
-crackvilla.com CNAME .
-*.crackvilla.com CNAME .
 crackwatch.com CNAME .
 *.crackwatch.com CNAME .
 crackway.com CNAME .
@@ -3499,8 +3495,6 @@ degree-anime.com CNAME .
 *.degree-anime.com CNAME .
 deimonhigh.com CNAME .
 *.deimonhigh.com CNAME .
-dekhobd.com CNAME .
-*.dekhobd.com CNAME .
 dekhvhai.com CNAME .
 *.dekhvhai.com CNAME .
 wap.delmy.com CNAME .
@@ -3629,8 +3623,6 @@ jungleland.dnsalias.com CNAME .
 *.jungleland.dnsalias.com CNAME .
 doctawarez.com CNAME .
 *.doctawarez.com CNAME .
-documentari-streaming-da.com CNAME .
-*.documentari-streaming-da.com CNAME .
 dodear.com CNAME .
 *.dodear.com CNAME .
 donevideo.com CNAME .
@@ -3783,8 +3775,6 @@ empire-stream.com CNAME .
 *.empire-stream.com CNAME .
 empresstorrents.com CNAME .
 *.empresstorrents.com CNAME .
-emtorrent.com CNAME .
-*.emtorrent.com CNAME .
 emule-box.com CNAME .
 *.emule-box.com CNAME .
 bt.endpot.com CNAME .
@@ -7645,8 +7635,6 @@ altadefinizione.cyou CNAME .
 *.altadefinizione.cyou CNAME .
 cineblog01.cyou CNAME .
 *.cineblog01.cyou CNAME .
-eurostreaming.cyou CNAME .
-*.eurostreaming.cyou CNAME .
 filmpertutti.cyou CNAME .
 *.filmpertutti.cyou CNAME .
 limetorrents.cyou CNAME .
@@ -7985,8 +7973,6 @@ streamingcommunity.email CNAME .
 *.streamingcommunity.email CNAME .
 tantifilm.email CNAME .
 *.tantifilm.email CNAME .
-cineblog01.energy CNAME .
-*.cineblog01.energy CNAME .
 tantifilm.energy CNAME .
 *.tantifilm.energy CNAME .
 alldebrid.es CNAME .
@@ -9987,8 +9973,6 @@ altadefinizione.life CNAME .
 *.altadefinizione.life CNAME .
 altadefinizione01.life CNAME .
 *.altadefinizione01.life CNAME .
-casacinema.life CNAME .
-*.casacinema.life CNAME .
 cb01.life CNAME .
 *.cb01.life CNAME .
 cineblog01.life CNAME .
@@ -15493,6 +15477,8 @@ piratebay.pro CNAME .
 *.piratebay.pro CNAME .
 proxybay.pro CNAME .
 *.proxybay.pro CNAME .
+pseudo-flix.pro CNAME .
+*.pseudo-flix.pro CNAME .
 seehd.pro CNAME .
 *.seehd.pro CNAME .
 serien.pro CNAME .
@@ -17813,8 +17799,6 @@ cb01.tours CNAME .
 *.cb01.tours CNAME .
 guardaserie.tours CNAME .
 *.guardaserie.tours CNAME .
-cineblog01.town CNAME .
-*.cineblog01.town CNAME .
 eurostreaming.town CNAME .
 *.eurostreaming.town CNAME .
 guardaserie.town CNAME .

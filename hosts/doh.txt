@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 28 Aug 2024 22:55 UTC
-# Version: 2024.0828.2255.29
+# Last modified: 29 Aug 2024 22:55 UTC
+# Version: 2024.0829.2255.46
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1526
+# Number of entries: 1523
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -244,7 +244,6 @@
 0.0.0.0 dns.busold.ws
 0.0.0.0 c-dns.com
 0.0.0.0 www.c-dns.com
-0.0.0.0 dns.caksono.com
 0.0.0.0 callies-online.site
 0.0.0.0 2.dnscrypt-cert.captnemo.in
 0.0.0.0 doh.captnemo.in
@@ -423,7 +422,6 @@
 0.0.0.0 dns.dns-53.com
 0.0.0.0 dns.dns-53.uk
 0.0.0.0 dns.dns-53.us
-0.0.0.0 dns-free.link
 0.0.0.0 doh.dns-ga.de
 0.0.0.0 secure-dns.dns-ga.de
 0.0.0.0 dns.dns-over-https.com
@@ -676,7 +674,6 @@
 0.0.0.0 cluster-0.gac.edu
 0.0.0.0 cluster-1.gac.edu
 0.0.0.0 dns.gamban.com
-0.0.0.0 adguard.gambini.org
 0.0.0.0 dns.beta.gandi.net
 0.0.0.0 gclouddns.com
 0.0.0.0 adg.geili.me

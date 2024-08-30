@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 28 Aug 2024 22:58 UTC
-# Version: 2024.0828.2258.29
+# Last modified: 29 Aug 2024 22:58 UTC
+# Version: 2024.0829.2258.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9875
+# Number of entries: 9867
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -1486,7 +1486,6 @@ local=/bs.to/
 local=/bstgms4y.com/
 local=/bt-chat.com/
 local=/bt-club.ws/
-local=/tracker.bt-hash.com/
 local=/bt-revolution.net/
 local=/dht.bt251.com/
 local=/bt4g.org/
@@ -1619,7 +1618,6 @@ local=/casacinema.fm/
 local=/casacinema.fyi/
 local=/casacinema.info/
 local=/casacinema.it/
-local=/casacinema.life/
 local=/casacinema.lol/
 local=/casacinema.me/
 local=/casacinema.media/
@@ -1871,7 +1869,6 @@ local=/cineblog01.de/
 local=/cineblog01.dev/
 local=/cineblog01.dog/
 local=/cineblog01.download/
-local=/cineblog01.energy/
 local=/cineblog01.eu/
 local=/cineblog01.faith/
 local=/cineblog01.farm/
@@ -1912,7 +1909,6 @@ local=/cineblog01.taxi/
 local=/cineblog01.team/
 local=/cineblog01.today/
 local=/cineblog01.top/
-local=/cineblog01.town/
 local=/cineblog01.tv/
 local=/cineblog01.vet/
 local=/cineblog01.vg/
@@ -2245,7 +2241,6 @@ local=/crackstreams.com/
 local=/crackstreams.io/
 local=/crackstreams.me/
 local=/cracksurl.com/
-local=/crackvilla.com/
 local=/crackwatch.com/
 local=/crackway.com/
 local=/crackz.ws/
@@ -2453,7 +2448,6 @@ local=/deflix.tv/
 local=/degree-anime.com/
 local=/deimonhigh.com/
 local=/torrents.dekadence.ro/
-local=/dekhobd.com/
 local=/dekhvhai.com/
 local=/deli.sh/
 local=/wap.delmy.com/
@@ -2609,7 +2603,6 @@ local=/doc-doc.ru/
 local=/docspedia.org/
 local=/doctawarez.com/
 local=/documental-torrents.net/
-local=/documentari-streaming-da.com/
 local=/documentaryarea.tv/
 local=/docuwiki.net/
 local=/dodear.com/
@@ -2885,7 +2878,6 @@ local=/empornium.us/
 local=/tracker.empornium.is/
 local=/tracker.empornium.sx/
 local=/empresstorrents.com/
-local=/emtorrent.com/
 local=/emtrek.org/
 local=/torrents.emu-russia.net/
 local=/emulator.games/
@@ -2988,7 +2980,6 @@ local=/eurostreaming.coffee/
 local=/eurostreaming.college/
 local=/eurostreaming.com/
 local=/eurostreaming.credit/
-local=/eurostreaming.cyou/
 local=/eurostreaming.dance/
 local=/eurostreaming.day/
 local=/eurostreaming.de/
@@ -6751,6 +6742,7 @@ local=/ps5pkg.net/
 local=/psa.wf/
 local=/psarips.com/
 local=/psarips.xyz/
+local=/pseudo-flix.pro/
 local=/psperspective.net/
 local=/pspstrana.ru/
 local=/psvitaiso.com/
