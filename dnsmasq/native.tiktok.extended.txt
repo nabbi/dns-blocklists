@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 Aug 2024 23:33 UTC
-# Version: 2024.0829.2333.31
+# Last modified: 30 Aug 2024 23:42 UTC
+# Version: 2024.0830.2342.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 423
+# Number of entries: 424
 #
 local=/docs-frontier-sg.byteoversea.com/
 local=/frontier.byteoversea.com/
@@ -336,6 +336,7 @@ local=/pitaya-task-ru.tiktokv.com/
 local=/pitaya-task-sg.tiktokv.com/
 local=/pitaya-task-va.tiktokv.com/
 local=/pitaya-va.tiktokv.com/
+local=/pitaya16-normal-alisg.tiktokv.com/
 local=/pitaya16-normal-useast1a.tiktokv.com/
 local=/pitaya32-normal-alisg.tiktokv.com/
 local=/pitaya32-normal-useast1a.tiktokv.com/

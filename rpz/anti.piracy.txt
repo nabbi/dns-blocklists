@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1724972280 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1725059220 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 29 Aug 2024 22:58 UTC
-; Version: 2024.0829.2258.52
+; Last modified: 30 Aug 2024 23:07 UTC
+; Version: 2024.0830.2307.40
 ; Syntax: RPZ
-; Number of entries: 19734
+; Number of entries: 19710
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -3959,8 +3959,6 @@ filmsofts.com CNAME .
 *.filmsofts.com CNAME .
 filmstreaming.com CNAME .
 *.filmstreaming.com CNAME .
-filmstreamingx1.com CNAME .
-*.filmstreamingx1.com CNAME .
 filmyone.com CNAME .
 *.filmyone.com CNAME .
 filmzie.com CNAME .
@@ -4479,8 +4477,6 @@ ihackedit.com CNAME .
 *.ihackedit.com CNAME .
 ihavenotv.com CNAME .
 *.ihavenotv.com CNAME .
-ikkyonline.com CNAME .
-*.ikkyonline.com CNAME .
 ilefilms.com CNAME .
 *.ilefilms.com CNAME .
 ilgeniodellostreaming.com CNAME .
@@ -4639,8 +4635,6 @@ tracker.jonaslsa.com CNAME .
 *.tracker.jonaslsa.com CNAME .
 trackerb.jonaslsa.com CNAME .
 *.trackerb.jonaslsa.com CNAME .
-jpdf4share.com CNAME .
-*.jpdf4share.com CNAME .
 js-dt.com CNAME .
 *.js-dt.com CNAME .
 jstorrent.com CNAME .
@@ -7083,6 +7077,8 @@ vostfrstreaming.com CNAME .
 *.vostfrstreaming.com CNAME .
 vpnmentor.com CNAME .
 *.vpnmentor.com CNAME .
+serpb.vpsburti.com CNAME .
+*.serpb.vpsburti.com CNAME .
 tracker.vraphim.com CNAME .
 *.tracker.vraphim.com CNAME .
 vuze.com CNAME .
@@ -8175,8 +8171,6 @@ cb01.expert CNAME .
 *.cb01.expert CNAME .
 eurostreaming.expert CNAME .
 *.eurostreaming.expert CNAME .
-filmpertutti.expert CNAME .
-*.filmpertutti.expert CNAME .
 guardaserie.expert CNAME .
 *.guardaserie.expert CNAME .
 cb01.express CNAME .
@@ -10935,8 +10929,6 @@ kinox.unblockit.mov CNAME .
 *.kinox.unblockit.mov CNAME .
 altadefinizione.movie CNAME .
 *.altadefinizione.movie CNAME .
-juraganfilm.movie CNAME .
-*.juraganfilm.movie CNAME .
 putlockers.movie CNAME .
 *.putlockers.movie CNAME .
 streamingcommunity.movie CNAME .
@@ -11041,8 +11033,6 @@ filmsenzalimiti.name CNAME .
 *.filmsenzalimiti.name CNAME .
 guardaserie.name CNAME .
 *.guardaserie.name CNAME .
-juraganfilm.name CNAME .
-*.juraganfilm.name CNAME .
 keygen.name CNAME .
 *.keygen.name CNAME .
 pirateproxy.name CNAME .
@@ -11833,8 +11823,6 @@ fzmovies.net CNAME .
 *.fzmovies.net CNAME .
 game-files.net CNAME .
 *.game-files.net CNAME .
-uploads.gamecoast.net CNAME .
-*.uploads.gamecoast.net CNAME .
 gamemp3s.net CNAME .
 *.gamemp3s.net CNAME .
 gamerzneeds.net CNAME .
@@ -13113,8 +13101,6 @@ cb01.news CNAME .
 *.cb01.news CNAME .
 eurostreaming.news CNAME .
 *.eurostreaming.news CNAME .
-guardaserie.news CNAME .
-*.guardaserie.news CNAME .
 italia-film.news CNAME .
 *.italia-film.news CNAME .
 warez-mania.fr.nf CNAME .
@@ -13999,8 +13985,6 @@ filmplay.org CNAME .
 *.filmplay.org CNAME .
 films-en-streaming.org CNAME .
 *.films-en-streaming.org CNAME .
-filmsenzalimiti.org CNAME .
-*.filmsenzalimiti.org CNAME .
 filmstreaming.org CNAME .
 *.filmstreaming.org CNAME .
 finbytes.org CNAME .
@@ -15577,20 +15561,12 @@ discord.heihachi.pw CNAME .
 *.discord.heihachi.pw CNAME .
 invalid.pw CNAME .
 *.invalid.pw CNAME .
-ipstresser.pw CNAME .
-*.ipstresser.pw CNAME .
-k-stress.pw CNAME .
-*.k-stress.pw CNAME .
 kaat.pw CNAME .
 *.kaat.pw CNAME .
 kickasstorrents.pw CNAME .
 *.kickasstorrents.pw CNAME .
 home.kray.pw CNAME .
 *.home.kray.pw CNAME .
-kryptonic.pw CNAME .
-*.kryptonic.pw CNAME .
-layarindo21.pw CNAME .
-*.layarindo21.pw CNAME .
 layer7.pw CNAME .
 *.layer7.pw CNAME .
 leechinghell.pw CNAME .
