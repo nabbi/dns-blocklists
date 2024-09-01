@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1725059220 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1725145200 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 30 Aug 2024 23:07 UTC
-; Version: 2024.0830.2307.40
+; Last modified: 31 Aug 2024 23:00 UTC
+; Version: 2024.0831.2300.01
 ; Syntax: RPZ
-; Number of entries: 19710
+; Number of entries: 19684
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -79,8 +79,6 @@ putlockers.ag CNAME .
 *.putlockers.ag CNAME .
 rezka.ag CNAME .
 *.rezka.ag CNAME .
-sockshare.ag CNAME .
-*.sockshare.ag CNAME .
 tvbox.ag CNAME .
 *.tvbox.ag CNAME .
 voirfilms.ag CNAME .
@@ -771,8 +769,6 @@ guardarefilm.boats CNAME .
 *.guardarefilm.boats CNAME .
 streamingcommunity.boats CNAME .
 *.streamingcommunity.boats CNAME .
-tantifilm.boats CNAME .
-*.tantifilm.boats CNAME .
 cineblog01.bond CNAME .
 *.cineblog01.bond CNAME .
 eurostreaming.bond CNAME .
@@ -5693,8 +5689,6 @@ procracksoft.com CNAME .
 *.procracksoft.com CNAME .
 prodesigntools.com CNAME .
 *.prodesigntools.com CNAME .
-prodigem.com CNAME .
-*.prodigem.com CNAME .
 profullcrack.com CNAME .
 *.profullcrack.com CNAME .
 profullversion.com CNAME .
@@ -5731,10 +5725,6 @@ psystation.com CNAME .
 *.psystation.com CNAME .
 tracker.pterclub.com CNAME .
 *.tracker.pterclub.com CNAME .
-bt.ptlsp.com CNAME .
-*.bt.ptlsp.com CNAME .
-trackers.ptlsp.com CNAME .
-*.trackers.ptlsp.com CNAME .
 publicdomaintorrents.com CNAME .
 *.publicdomaintorrents.com CNAME .
 punkoiska.com CNAME .
@@ -6399,8 +6389,6 @@ telechargementmu.com CNAME .
 *.telechargementmu.com CNAME .
 telechargementz.com CNAME .
 *.telechargementz.com CNAME .
-telechargerjeuxtorrent.com CNAME .
-*.telechargerjeuxtorrent.com CNAME .
 tenvoi.com CNAME .
 *.tenvoi.com CNAME .
 tenyardtorrents.com CNAME .
@@ -7947,8 +7935,6 @@ wawacity.ec CNAME .
 *.wawacity.ec CNAME .
 webcast.berkeley.edu CNAME .
 *.webcast.berkeley.edu CNAME .
-diva.sfsu.edu CNAME .
-*.diva.sfsu.edu CNAME .
 guardaserie.education CNAME .
 *.guardaserie.education CNAME .
 isohunt.ee CNAME .
@@ -12755,8 +12741,6 @@ topfilmeonline.net CNAME .
 *.topfilmeonline.net CNAME .
 topmoviesonline.net CNAME .
 *.topmoviesonline.net CNAME .
-torentcrestin.net CNAME .
-*.torentcrestin.net CNAME .
 torfinder.net CNAME .
 *.torfinder.net CNAME .
 torrent-damage.net CNAME .
@@ -13239,8 +13223,6 @@ kisscartoon.nz CNAME .
 *.kisscartoon.nz CNAME .
 mega.nz CNAME .
 *.mega.nz CNAME .
-multicanais.nz CNAME .
-*.multicanais.nz CNAME .
 torrent.nz CNAME .
 *.torrent.nz CNAME .
 torrentz2.nz CNAME .
@@ -14501,8 +14483,6 @@ pitkini.org CNAME .
 *.pitkini.org CNAME .
 planete-bd.org CNAME .
 *.planete-bd.org CNAME .
-plaver.org CNAME .
-*.plaver.org CNAME .
 bt.poletracker.org CNAME .
 *.bt.poletracker.org CNAME .
 polishsource.org CNAME .
@@ -15619,8 +15599,6 @@ full4movies.quest CNAME .
 *.full4movies.quest CNAME .
 ilgeniodellostreaming.quest CNAME .
 *.ilgeniodellostreaming.quest CNAME .
-tantifilm.quest CNAME .
-*.tantifilm.quest CNAME .
 tpb.quest CNAME .
 *.tpb.quest CNAME .
 cb01.racing CNAME .
@@ -16199,8 +16177,6 @@ retracker.omsk.ru CNAME .
 *.retracker.omsk.ru CNAME .
 online-life.ru CNAME .
 *.online-life.ru CNAME .
-rt.optizone.ru CNAME .
-*.rt.optizone.ru CNAME .
 vps02.net.orel.ru CNAME .
 *.vps02.net.orel.ru CNAME .
 tvunderground.org.ru CNAME .
@@ -19011,8 +18987,6 @@ seriesvault.win CNAME .
 *.seriesvault.win CNAME .
 softpilot.win CNAME .
 *.softpilot.win CNAME .
-solarmovies.win CNAME .
-*.solarmovies.win CNAME .
 ssrmovies.win CNAME .
 *.ssrmovies.win CNAME .
 tiny-repacks.win CNAME .
