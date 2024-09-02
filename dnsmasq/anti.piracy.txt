@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 31 Aug 2024 23:00 UTC
-# Version: 2024.0831.2300.01
+# Last modified: 01 Sep 2024 22:57 UTC
+# Version: 2024.0901.2257.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9842
+# Number of entries: 9827
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -2387,6 +2387,7 @@ local=/data-load.in/
 local=/databasegdriveplayer.co/
 local=/databooter.com/
 local=/datafilehost.com/
+local=/dataforai.com/
 local=/datascene.net/
 local=/datenreiter.org/
 local=/datmusic.xyz/
@@ -8764,7 +8765,6 @@ local=/tv-mediatheken.de/
 local=/th11.tv-movieonline.com/
 local=/tracker.tv-vault.me/
 local=/tv-zalukaj.pl/
-local=/tv0800.com/
 local=/tv24bd.com/
 local=/tvbd.live/
 local=/mts.tvbit.co/
@@ -8841,12 +8841,10 @@ local=/uid.hu/
 local=/edu.uifr.ru/
 local=/uj3wazyk5u4hnvtk.online/
 local=/thepiratebay.uk.net/
-local=/uk-pirate.com/
 local=/uk-pirate-bay.com/
 local=/uk-unblock.xyz/
 local=/uknova.com/
 local=/ukpass.co/
-local=/ukpass.fun/
 local=/ukpirate.click/
 local=/ukpirate.co/
 local=/ukpirate.org/
@@ -8863,7 +8861,6 @@ local=/ultracine.net/
 local=/ultracine.vip/
 local=/ultradownloads.com/
 local=/ultramovies.net/
-local=/ultrawarez.eu/
 local=/ummagurau.com/
 local=/unbl0ck.fun/
 local=/unbl0ck.online/
@@ -8903,13 +8900,10 @@ local=/unblockit.id/
 local=/unblockit.llc/
 local=/unblockit.pro/
 local=/unblockit.top/
-local=/1337x.unblockit.rsvp/
-local=/eztv.unblockit.rsvp/
 local=/kinox.unblockit.black/
 local=/kinox.unblockit.day/
 local=/kinox.unblockit.mov/
 local=/kinox.unblockit.ong/
-local=/newalbumreleases.unblockit.app/
 local=/newalbumreleases.unblockit.blue/
 local=/newalbumreleases.unblockit.cat/
 local=/newalbumreleases.unblockit.ch/
@@ -8919,7 +8913,6 @@ local=/newalbumreleases.unblockit.dev/
 local=/newalbumreleases.unblockit.how/
 local=/newalbumreleases.unblockit.ink/
 local=/newalbumreleases.unblockit.kim/
-local=/newalbumreleases.unblockit.li/
 local=/newalbumreleases.unblockit.link/
 local=/newalbumreleases.unblockit.me/
 local=/newalbumreleases.unblockit.name/
@@ -9159,7 +9152,6 @@ local=/voir-seriestreaming.org/
 local=/voirdrama.org/
 local=/voirfilm.vip/
 local=/voirfilms.ag/
-local=/voirfilms.al/
 local=/voirfilms.bz/
 local=/voirfilms.io/
 local=/voirfilms.tel/
@@ -9256,7 +9248,6 @@ local=/warezik.eu/
 local=/warezkeeper.com/
 local=/warezlander.com/
 local=/warezload.net/
-local=/warezlover.xyz/
 local=/warezm.com/
 local=/warezmac.com/
 local=/warezmaster.com/
@@ -9484,8 +9475,6 @@ local=/retracker2.x2k.ru/
 local=/tracker.x4w.co/
 local=/xarcotic.com/
 local=/xatab-repack.net/
-local=/t.xatab-repack.com/
-local=/x5.xatab-repack.com/
 local=/xbins.org/
 local=/xbit.pw/
 local=/xboot.net/
@@ -9619,7 +9608,6 @@ local=/yify.world/
 local=/yify-movie.com/
 local=/yify-movies.net/
 local=/yify-movies.vip/
-local=/yify-movies-torrents.com/
 local=/yify-torrent.cc/
 local=/yify-torrent.org/
 local=/yify-torrents.com/
@@ -9722,9 +9710,7 @@ local=/ytsmovietorrent.com/
 local=/ytsmx.art/
 local=/ytsmx.biz/
 local=/ytsmx.cc/
-local=/ytsmx.lol/
 local=/ytsmx.store/
-local=/ytsmx.wiki/
 local=/ytsmx2.me/
 local=/ytsmxmovies.me/
 local=/ytson.vip/
@@ -9738,7 +9724,6 @@ local=/ytstv.me/
 local=/ytstvmovies.xyz/
 local=/ytsyify.club/
 local=/ytsyify.info/
-local=/ytsyify.one/
 local=/yubraca.net/
 local=/tracker.yuelili.com/
 local=/yugenani.me/

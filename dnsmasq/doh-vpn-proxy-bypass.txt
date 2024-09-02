@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 31 Aug 2024 22:55 UTC
-# Version: 2024.0831.2255.52
+# Last modified: 01 Sep 2024 22:53 UTC
+# Version: 2024.0901.2253.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3411
+# Number of entries: 3410
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -3080,7 +3080,6 @@ local=/unlimitedvpnapp.com/
 local=/unlocator.com/
 local=/unrestrictedsurf.com/
 local=/unrestrictor.com/
-local=/resolver.unstoppable.io/
 local=/untraceable.us/
 local=/untracer.com/
 local=/dns.unx.io/
