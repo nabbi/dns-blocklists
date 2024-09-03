@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 01 Sep 2024 22:54 UTC
-# Version: 2024.0901.2254.44
+# Last modified: 02 Sep 2024 23:03 UTC
+# Version: 2024.0902.2303.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1361
+# Number of entries: 1360
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -841,7 +841,6 @@ local=/d.apemlegit.my.id/
 local=/dns.iki.my.id/
 local=/dns.lista.my.id/
 local=/dns.mikrotikrumahan.my.id/
-local=/dns.pnh.my.id/
 local=/dns.repinger.my.id/
 local=/dns1.server.my.id/
 local=/id.terra.my.id/
