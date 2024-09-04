@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1725318960 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1725404820 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 02 Sep 2024 23:16 UTC
-; Version: 2024.0902.2316.12
+; Last modified: 03 Sep 2024 23:07 UTC
+; Version: 2024.0903.2307.50
 ; Syntax: RPZ
-; Number of entries: 66656
+; Number of entries: 66672
 ;
 blaze.ac CNAME .
 *.blaze.ac CNAME .
@@ -12005,6 +12005,8 @@ asiapacific-lotteries.com CNAME .
 *.asiapacific-lotteries.com CNAME .
 asikselot303a.com CNAME .
 *.asikselot303a.com CNAME .
+asino.com CNAME .
+*.asino.com CNAME .
 ask-casino.com CNAME .
 *.ask-casino.com CNAME .
 askbonus.com CNAME .
@@ -24061,6 +24063,8 @@ iiwin4.com CNAME .
 *.iiwin4.com CNAME .
 iiwin5.com CNAME .
 *.iiwin5.com CNAME .
+ijogo.com CNAME .
+*.ijogo.com CNAME .
 ijogocasino1.com CNAME .
 *.ijogocasino1.com CNAME .
 ikibu.com CNAME .
@@ -31799,6 +31803,8 @@ playfina.com CNAME .
 *.playfina.com CNAME .
 playfina1.com CNAME .
 *.playfina1.com CNAME .
+playfina3.com CNAME .
+*.playfina3.com CNAME .
 playfortuna.com CNAME .
 *.playfortuna.com CNAME .
 playfortuna-casino.com CNAME .
@@ -38821,6 +38827,8 @@ vnfa88.com CNAME .
 *.vnfa88.com CNAME .
 vngoal88.com CNAME .
 *.vngoal88.com CNAME .
+vnkuvideo.com CNAME .
+*.vnkuvideo.com CNAME .
 vnloto.com CNAME .
 *.vnloto.com CNAME .
 vnmx66.com CNAME .
@@ -42293,6 +42301,8 @@ ku89.fun CNAME .
 *.ku89.fun CNAME .
 larisbets303.fun CNAME .
 *.larisbets303.fun CNAME .
+linknayduoc.fun CNAME .
+*.linknayduoc.fun CNAME .
 lucky88.fun CNAME .
 *.lucky88.fun CNAME .
 manclub.fun CNAME .
@@ -46111,6 +46121,8 @@ garuda888link.monster CNAME .
 *.garuda888link.monster CNAME .
 mamibet66hoki.monster CNAME .
 *.mamibet66hoki.monster CNAME .
+system32-cloudfare-356783752985678522.monster CNAME .
+*.system32-cloudfare-356783752985678522.monster CNAME .
 vulcancasino.monster CNAME .
 *.vulcancasino.monster CNAME .
 atlasbet88bet.motorcycles CNAME .
@@ -48747,6 +48759,8 @@ f1casino.online CNAME .
 *.f1casino.online CNAME .
 fastpaycasino.online CNAME .
 *.fastpaycasino.online CNAME .
+fiu3i578qfsfi359ryhtrtjrrrkefddgsw354345.online CNAME .
+*.fiu3i578qfsfi359ryhtrtjrrrkefddgsw354345.online CNAME .
 flokitotogame.online CNAME .
 *.flokitotogame.online CNAME .
 fortunaplaycasino.online CNAME .
@@ -62771,6 +62785,8 @@ mobilecasinorank.com.ve CNAME .
 *.mobilecasinorank.com.ve CNAME .
 nuevocasinorank.com.ve CNAME .
 *.nuevocasinorank.com.ve CNAME .
+xocdia88.video CNAME .
+*.xocdia88.video CNAME .
 14.vin CNAME .
 *.14.vin CNAME .
 6686.vin CNAME .

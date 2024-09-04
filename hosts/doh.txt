@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 02 Sep 2024 23:03 UTC
-# Version: 2024.0902.2303.22
+# Last modified: 03 Sep 2024 22:54 UTC
+# Version: 2024.0903.2254.52
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1521
+# Number of entries: 1518
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -120,9 +120,7 @@
 0.0.0.0 dns2.alekberg.net
 0.0.0.0 dnses.alekberg.net
 0.0.0.0 dnsnl.alekberg.net
-0.0.0.0 dnsnl-noads.alekberg.net
 0.0.0.0 dnsse.alekberg.net
-0.0.0.0 dnsse-noads.alekberg.net
 0.0.0.0 alidns.com
 0.0.0.0 dns.alidns.com
 0.0.0.0 doh.alidns.com
@@ -593,7 +591,6 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
 0.0.0.0 easyhandshake.com
