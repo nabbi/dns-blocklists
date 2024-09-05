@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Sep 2024 22:54 UTC
-# Version: 2024.0903.2254.52
+# Last modified: 04 Sep 2024 22:54 UTC
+# Version: 2024.0904.2254.06
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1518
 #
@@ -120,7 +120,9 @@
 0.0.0.0 dns2.alekberg.net
 0.0.0.0 dnses.alekberg.net
 0.0.0.0 dnsnl.alekberg.net
+0.0.0.0 dnsnl-noads.alekberg.net
 0.0.0.0 dnsse.alekberg.net
+0.0.0.0 dnsse-noads.alekberg.net
 0.0.0.0 alidns.com
 0.0.0.0 dns.alidns.com
 0.0.0.0 doh.alidns.com
@@ -225,7 +227,6 @@
 0.0.0.0 doh.boje8.me
 0.0.0.0 adguard.bonis.de
 0.0.0.0 adguard.bonsirven.eu
-0.0.0.0 adblock.borjalopez.eu
 0.0.0.0 doh.bortzmeyer.fr
 0.0.0.0 cloudns.bosco.ovh
 0.0.0.0 dns.braene.com
@@ -591,6 +592,7 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
+0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
 0.0.0.0 easyhandshake.com
@@ -903,7 +905,6 @@
 0.0.0.0 masters-of-cloud.de
 0.0.0.0 www.masters-of-cloud.de
 0.0.0.0 dns.mateo.ovh
-0.0.0.0 dns.mathewakhil.online
 0.0.0.0 maxfong.cc
 0.0.0.0 www.maxfong.cc
 0.0.0.0 dns.maybe.icu
@@ -1283,7 +1284,6 @@
 0.0.0.0 safeservedns.com
 0.0.0.0 doh.safesurfer.io
 0.0.0.0 cloud.samutz.com
-0.0.0.0 dns.sarak.as
 0.0.0.0 dns.sarakas.net
 0.0.0.0 dns.sarilouis.com
 0.0.0.0 ns1.sc-lezhi.com

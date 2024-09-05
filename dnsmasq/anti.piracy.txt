@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 01 Sep 2024 22:57 UTC
-# Version: 2024.0901.2257.46
+# Last modified: 04 Sep 2024 22:57 UTC
+# Version: 2024.0904.2257.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9827
+# Number of entries: 9826
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -8933,7 +8933,6 @@ local=/unblocktheship.org/
 local=/unblocktorrent.com/
 local=/unblocktpb.com/
 local=/unblockweb.one/
-local=/tracker.unbxdapi.com/
 local=/undeadnetwork.com/
 local=/undercream.com/
 local=/underground-gamer.com/
