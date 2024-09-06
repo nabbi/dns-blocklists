@@ -14,4 +14,4 @@ jobs:
         uses: peter-evans/close-issue@v3
         with:
           issue-number: ${{ github.event.issue.number }}
-          comment: Thank you for your support. The domain(s) has/have been added to the denylist and will be added with the next full release at the latest. A full release is usually performed every 24 hours.
+          comment: Thank you for your support. The domain(s) has/have been added to the denylist and will be added with the next release at the latest.
