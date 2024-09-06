@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 30 Aug 2024 23:42 UTC
-# Version: 2024.0830.2342.11
+# Last modified: 05 Sep 2024 23:13 UTC
+# Version: 2024.0905.2313.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 424
+# Number of entries: 425
 #
 local=/docs-frontier-sg.byteoversea.com/
 local=/frontier.byteoversea.com/
@@ -141,6 +141,7 @@ local=/mcs-va.tiktok.com/
 local=/mssdk-i18n.tiktok.com/
 local=/mssdk-quic-sg.tiktok.com/
 local=/mssdk-sg.tiktok.com/
+local=/ads.us.tiktok.com/
 local=/analytics.us.tiktok.com/
 local=/analytics-exp.us.tiktok.com/
 local=/analytics-ttp2.us.tiktok.com/
