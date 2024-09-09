@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 06 Sep 2024 22:03 UTC
-# Version: 2024.0906.2203.19
+# Last modified: 08 Sep 2024 22:20 UTC
+# Version: 2024.0908.2220.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3406
+# Number of entries: 3405
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -397,7 +397,6 @@ local=/brazilproxy.com/
 local=/brazilproxy.info/
 local=/breakwall.net/
 local=/dns.brembeck.cloud/
-local=/ag.brianlee.fun/
 local=/bright4good.eco/
 local=/brightvpn.com/
 local=/britishproxy.com/
