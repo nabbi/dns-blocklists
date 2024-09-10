@@ -11,6 +11,9 @@
 
 # BEGIN
 
+# Xiaomi app "Widget Feed"
+*.brs.api.intl.miui.com
+
 # https://github.com/hagezi/dns-blocklists/issues/3621
 api.applicationinsights.io
 api.loganalytics.io

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 08 Sep 2024 22:21 UTC
-# Version: 2024.0908.2221.33
+# Last modified: 09 Sep 2024 22:20 UTC
+# Version: 2024.0909.2220.34
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1516
+# Number of entries: 1515
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -662,7 +662,6 @@
 0.0.0.0 dns.freyja.pw
 0.0.0.0 dns.froth.zone
 0.0.0.0 awan.ftp.sh
-0.0.0.0 doh.funil.de
 0.0.0.0 doh.funtopia.tv
 0.0.0.0 dns.furrydns.de
 0.0.0.0 doh.futa.app
@@ -1282,6 +1281,7 @@
 0.0.0.0 safeservedns.com
 0.0.0.0 doh.safesurfer.io
 0.0.0.0 cloud.samutz.com
+0.0.0.0 dns.sarak.as
 0.0.0.0 dns.sarakas.net
 0.0.0.0 dns.sarilouis.com
 0.0.0.0 ns1.sc-lezhi.com
@@ -1488,7 +1488,6 @@
 0.0.0.0 dot.xfinity.com
 0.0.0.0 doh2.gslb2.xfinity.com
 0.0.0.0 agh.xinfeng16m.top
-0.0.0.0 dns.xiumu.org
 0.0.0.0 dns.xlion.tw
 0.0.0.0 xn--durhre-yxa.de
 0.0.0.0 dns.xuming.studio

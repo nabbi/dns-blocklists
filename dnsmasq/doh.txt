@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 08 Sep 2024 22:21 UTC
-# Version: 2024.0908.2221.33
+# Last modified: 09 Sep 2024 22:20 UTC
+# Version: 2024.0909.2220.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1355
+# Number of entries: 1354
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -549,7 +549,6 @@ local=/dns.freopc.fr/
 local=/dns.freyja.pw/
 local=/dns.froth.zone/
 local=/awan.ftp.sh/
-local=/doh.funil.de/
 local=/doh.funtopia.tv/
 local=/dns.furrydns.de/
 local=/doh.futa.app/
@@ -1137,6 +1136,7 @@ local=/dns2.saferbfc.org/
 local=/safeservedns.com/
 local=/doh.safesurfer.io/
 local=/cloud.samutz.com/
+local=/dns.sarak.as/
 local=/dns.sarakas.net/
 local=/dns.sarilouis.com/
 local=/ns1.sc-lezhi.com/
@@ -1333,7 +1333,6 @@ local=/doh.xfinity.com/
 local=/dot.xfinity.com/
 local=/doh2.gslb2.xfinity.com/
 local=/agh.xinfeng16m.top/
-local=/dns.xiumu.org/
 local=/dns.xlion.tw/
 local=/xn--durhre-yxa.de/
 local=/dns.xuming.studio/
