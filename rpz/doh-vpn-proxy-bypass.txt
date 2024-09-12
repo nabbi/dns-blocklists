@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1726006920 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1726093080 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 10 Sep 2024 22:22 UTC
-; Version: 2024.0910.2222.14
+; Last modified: 11 Sep 2024 22:18 UTC
+; Version: 2024.0911.2218.45
 ; Syntax: RPZ
-; Number of entries: 6810
+; Number of entries: 6784
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1240,6 +1240,8 @@ globalchatinc.com CNAME .
 *.globalchatinc.com CNAME .
 globaltrx.com CNAME .
 *.globaltrx.com CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 glype.com CNAME .
 *.glype.com CNAME .
 goaslen.com CNAME .
@@ -1952,8 +1954,6 @@ proxyen.com CNAME .
 *.proxyen.com CNAME .
 proxyfish.com CNAME .
 *.proxyfish.com CNAME .
-proxyfort.com CNAME .
-*.proxyfort.com CNAME .
 proxygate.com CNAME .
 *.proxygate.com CNAME .
 proxygizlen.com CNAME .
@@ -3262,8 +3262,6 @@ usaip.eu CNAME .
 *.usaip.eu CNAME .
 workhost.eu CNAME .
 *.workhost.eu CNAME .
-wtools.eu CNAME .
-*.wtools.eu CNAME .
 zougloub.eu CNAME .
 *.zougloub.eu CNAME .
 dns.expert CNAME .
@@ -3564,8 +3562,6 @@ dns.alloxr.info CNAME .
 *.dns.alloxr.info CNAME .
 vps.alloxr.info CNAME .
 *.vps.alloxr.info CNAME .
-americaproxy.info CNAME .
-*.americaproxy.info CNAME .
 anonymousblog.info CNAME .
 *.anonymousblog.info CNAME .
 anonymousvpn.info CNAME .
@@ -3616,8 +3612,6 @@ fortniters.info CNAME .
 *.fortniters.info CNAME .
 freeplace.info CNAME .
 *.freeplace.info CNAME .
-gang4.info CNAME .
-*.gang4.info CNAME .
 getvpn.info CNAME .
 *.getvpn.info CNAME .
 globalvpn.info CNAME .
@@ -3634,8 +3628,6 @@ gowork.info CNAME .
 *.gowork.info CNAME .
 greenpass.info CNAME .
 *.greenpass.info CNAME .
-happydata.info CNAME .
-*.happydata.info CNAME .
 hiddendigital.info CNAME .
 *.hiddendigital.info CNAME .
 hidemyurl.info CNAME .
@@ -3682,8 +3674,6 @@ myproxy.info CNAME .
 *.myproxy.info CNAME .
 mzhlhrfr8z.info CNAME .
 *.mzhlhrfr8z.info CNAME .
-netgeek.info CNAME .
-*.netgeek.info CNAME .
 njtzzrvg0lwj3bsn.info CNAME .
 *.njtzzrvg0lwj3bsn.info CNAME .
 onconnect.info CNAME .
@@ -3704,8 +3694,6 @@ primeproxy23.info CNAME .
 *.primeproxy23.info CNAME .
 agh.printk.info CNAME .
 *.agh.printk.info CNAME .
-prohome.info CNAME .
-*.prohome.info CNAME .
 prointern.info CNAME .
 *.prointern.info CNAME .
 prontoproxy.info CNAME .
@@ -4064,8 +4052,6 @@ browser.lol CNAME .
 *.browser.lol CNAME .
 myproxy.lol CNAME .
 *.myproxy.lol CNAME .
-proxy.lol CNAME .
-*.proxy.lol CNAME .
 theproxy.lol CNAME .
 *.theproxy.lol CNAME .
 unbl4you.lol CNAME .
@@ -6026,8 +6012,6 @@ bypass.pw CNAME .
 *.bypass.pw CNAME .
 proxy.eti.pw CNAME .
 *.proxy.eti.pw CNAME .
-franceproxy.pw CNAME .
-*.franceproxy.pw CNAME .
 freevpn.pw CNAME .
 *.freevpn.pw CNAME .
 dns.freyja.pw CNAME .
@@ -6058,8 +6042,6 @@ unblockedsite.pw CNAME .
 *.unblockedsite.pw CNAME .
 unblocksite.pw CNAME .
 *.unblocksite.pw CNAME .
-vpnfast.pw CNAME .
-*.vpnfast.pw CNAME .
 vpnproxy.pw CNAME .
 *.vpnproxy.pw CNAME .
 unblocked.racing CNAME .
@@ -6218,8 +6200,6 @@ check.peer2profit.site CNAME .
 *.check.peer2profit.site CNAME .
 proxysite.site CNAME .
 *.proxysite.site CNAME .
-proxyunblock.site CNAME .
-*.proxyunblock.site CNAME .
 rabbithole.site CNAME .
 *.rabbithole.site CNAME .
 starrynight.site CNAME .
@@ -6488,8 +6468,6 @@ frandcomfort.us CNAME .
 *.frandcomfort.us CNAME .
 freevpn.us CNAME .
 *.freevpn.us CNAME .
-freewebproxy.us CNAME .
-*.freewebproxy.us CNAME .
 gifttrees.us CNAME .
 *.gifttrees.us CNAME .
 gpreport.us CNAME .
@@ -6638,8 +6616,6 @@ dns.trust404.win CNAME .
 *.dns.trust404.win CNAME .
 unblockproxy.win CNAME .
 *.unblockproxy.win CNAME .
-dns.youni.win CNAME .
-*.dns.youni.win CNAME .
 dns.huseynov.work CNAME .
 *.dns.huseynov.work CNAME .
 nocensor.work CNAME .
@@ -6770,8 +6746,6 @@ pantavv.xyz CNAME .
 *.pantavv.xyz CNAME .
 pantoto.xyz CNAME .
 *.pantoto.xyz CNAME .
-panyyhh.xyz CNAME .
-*.panyyhh.xyz CNAME .
 panzend.xyz CNAME .
 *.panzend.xyz CNAME .
 dns.propheci.xyz CNAME .
