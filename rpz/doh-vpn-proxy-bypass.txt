@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1726179540 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1726266540 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 12 Sep 2024 22:19 UTC
-; Version: 2024.0912.2219.55
+; Last modified: 13 Sep 2024 22:29 UTC
+; Version: 2024.0913.2229.53
 ; Syntax: RPZ
-; Number of entries: 6774
+; Number of entries: 6780
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -3444,8 +3444,6 @@ howdy.id CNAME .
 *.howdy.id CNAME .
 dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
-doh.morizt.id CNAME .
-*.doh.morizt.id CNAME .
 d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 vpnto.bhadrikais.my.id CNAME .
@@ -4618,6 +4616,8 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 adguard.easez.net CNAME .
@@ -5314,6 +5314,8 @@ dns.bravoc.one CNAME .
 *.dns.bravoc.one CNAME .
 comss.one CNAME .
 *.comss.one CNAME .
+hkname.freecdn.one CNAME .
+*.hkname.freecdn.one CNAME .
 dns.hakim.one CNAME .
 *.dns.hakim.one CNAME .
 dns.karl.one CNAME .
@@ -5448,8 +5450,12 @@ home27.duckdns.org CNAME .
 *.home27.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
 *.jurre-home.duckdns.org CNAME .
+krtekvpn.duckdns.org CNAME .
+*.krtekvpn.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
+punono.duckdns.org CNAME .
+*.punono.duckdns.org CNAME .
 tuandns.duckdns.org CNAME .
 *.tuandns.duckdns.org CNAME .
 tungdnsne.duckdns.org CNAME .

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 12 Sep 2024 22:21 UTC
-# Version: 2024.0912.2221.06
+# Last modified: 13 Sep 2024 22:31 UTC
+# Version: 2024.0913.2231.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1350
+# Number of entries: 1353
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -470,12 +470,15 @@ local=/doh.dscloud.me/
 local=/agh.dshubham.xyz/
 local=/home27.duckdns.org/
 local=/jurre-home.duckdns.org/
+local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
+local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
 local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
+local=/gustamadh.dynv6.net/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
 local=/easyhandshake.com/
@@ -542,6 +545,7 @@ local=/dns.flwagners.com/
 local=/dns.flymc.cc/
 local=/biying.flymlc.com/
 local=/gateway.fomichev.cloud/
+local=/hkname.freecdn.one/
 local=/dns.freopc.fr/
 local=/dns.freyja.pw/
 local=/dns.froth.zone/
@@ -817,7 +821,6 @@ local=/dns.momou.ch/
 local=/zrh1-ns01.monzoon.net/
 local=/dns.moonssif.com/
 local=/morbitzer.de/
-local=/doh.morizt.id/
 local=/dns.moulticast.net/
 local=/dns.mrkaran.dev/
 local=/msr177.com/
