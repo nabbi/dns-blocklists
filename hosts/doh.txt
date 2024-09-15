@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 13 Sep 2024 22:31 UTC
-# Version: 2024.0913.2231.03
+# Last modified: 14 Sep 2024 22:23 UTC
+# Version: 2024.0914.2223.03
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1514
+# Number of entries: 1513
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -672,6 +672,7 @@
 0.0.0.0 cluster-0.gac.edu
 0.0.0.0 cluster-1.gac.edu
 0.0.0.0 dns.gamban.com
+0.0.0.0 adguard.gambini.org
 0.0.0.0 dns.beta.gandi.net
 0.0.0.0 gclouddns.com
 0.0.0.0 adg.geili.me
@@ -690,7 +691,6 @@
 0.0.0.0 dns.api.staging.globuscs.info
 0.0.0.0 dns.api.test.globuscs.info
 0.0.0.0 agh.gloom.nexus
-0.0.0.0 dns.glorydns.com
 0.0.0.0 dns.gnb09.id
 0.0.0.0 privacydns.go6lab.si
 0.0.0.0 dns.goldplate.org
@@ -1492,7 +1492,6 @@
 0.0.0.0 xn--durhre-yxa.de
 0.0.0.0 dns.xuming.studio
 0.0.0.0 dns.xusqui.com
-0.0.0.0 dns.xwdmw.xyz
 0.0.0.0 v2.xx3210766.live
 0.0.0.0 dns.yameenassotally.com
 0.0.0.0 2.dnscrypt-cert.browser.yandex.net

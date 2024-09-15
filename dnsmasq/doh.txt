@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 13 Sep 2024 22:31 UTC
-# Version: 2024.0913.2231.03
+# Last modified: 14 Sep 2024 22:23 UTC
+# Version: 2024.0914.2223.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1353
+# Number of entries: 1352
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -559,6 +559,7 @@ local=/dns.futuredns.me/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
 local=/dns.gamban.com/
+local=/adguard.gambini.org/
 local=/dns.beta.gandi.net/
 local=/gclouddns.com/
 local=/adg.geili.me/
@@ -577,7 +578,6 @@ local=/dns.api.sandbox.globuscs.info/
 local=/dns.api.staging.globuscs.info/
 local=/dns.api.test.globuscs.info/
 local=/agh.gloom.nexus/
-local=/dns.glorydns.com/
 local=/dns.gnb09.id/
 local=/privacydns.go6lab.si/
 local=/dns.goldplate.org/
@@ -1337,7 +1337,6 @@ local=/dns.xlion.tw/
 local=/xn--durhre-yxa.de/
 local=/dns.xuming.studio/
 local=/dns.xusqui.com/
-local=/dns.xwdmw.xyz/
 local=/v2.xx3210766.live/
 local=/dns.yameenassotally.com/
 local=/2.dnscrypt-cert.browser.yandex.net/
