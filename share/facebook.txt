@@ -6,12 +6,14 @@ graph.facebook.com
 graph.fbpigeon.com
 z-m-graph.facebook.com
 
+# Facebook lite app (messages/notifications)
+web.facebook.com
+web-fallback.facebook.com
+
 # Other Facebook functions, unblocking may not be needed
 connect.facebook.com
 connect.facebook.net
 mqtt-mini.facebook.com
-web.facebook.com
-web-fallback.facebook.com
 
 # Unblock if you use Whatsapp avatar creator and helpcenter
 graph.whatsapp.com

@@ -10,6 +10,16 @@
 
 # BEGIN
 
+# https://github.com/hagezi/dns-blocklists/issues/3667
+bbc-reporting-api.app
+featureflagging.warnermediacdn.com
+featureflagging.warnermediacdn.com.edgesuite.net
+featureflags-api.aa.com
+featureflags-api.aa.com.edgekey.net
+report-uri.com
+report-uri.io
+web-security-reports.services.atlassian.com
+
 # https://github.com/hagezi/dns-blocklists/issues/3652
 z.cdp-dev.cnn.com
 

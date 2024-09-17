@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 06 Sep 2024 22:04 UTC
-# Version: 2024.0906.2204.29
+# Last modified: 16 Sep 2024 22:22 UTC
+# Version: 2024.0916.2222.53
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1517
+# Number of entries: 1514
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -236,7 +236,6 @@
 0.0.0.0 free.bravedns.com
 0.0.0.0 dns.bravoc.one
 0.0.0.0 dns.brembeck.cloud
-0.0.0.0 ag.brianlee.fun
 0.0.0.0 doh.bt.com
 0.0.0.0 stratus.bugz.fr
 0.0.0.0 dns.burgas.pro
@@ -592,6 +591,7 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
+0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
 0.0.0.0 easyhandshake.com
@@ -691,6 +691,7 @@
 0.0.0.0 dns.api.staging.globuscs.info
 0.0.0.0 dns.api.test.globuscs.info
 0.0.0.0 agh.gloom.nexus
+0.0.0.0 dns.glorydns.com
 0.0.0.0 dns.gnb09.id
 0.0.0.0 privacydns.go6lab.si
 0.0.0.0 dns.goldplate.org
@@ -940,7 +941,6 @@
 0.0.0.0 dns.moonssif.com
 0.0.0.0 morbitzer.de
 0.0.0.0 www.morbitzer.de
-0.0.0.0 doh.morizt.id
 0.0.0.0 dns.moulticast.net
 0.0.0.0 dns.mrkaran.dev
 0.0.0.0 msr177.com
@@ -1283,6 +1283,7 @@
 0.0.0.0 safeservedns.com
 0.0.0.0 doh.safesurfer.io
 0.0.0.0 cloud.samutz.com
+0.0.0.0 dns.sarak.as
 0.0.0.0 dns.sarakas.net
 0.0.0.0 dns.sarilouis.com
 0.0.0.0 ns1.sc-lezhi.com
@@ -1413,7 +1414,6 @@
 0.0.0.0 dns.trust404.win
 0.0.0.0 truta.org
 0.0.0.0 dns.tryk.app
-0.0.0.0 adg.tshost.no
 0.0.0.0 doh.ibr.cs.tu-bs.de
 0.0.0.0 tuskythehusky.tech
 0.0.0.0 nat64.tuxis.nl
@@ -1489,12 +1489,10 @@
 0.0.0.0 dot.xfinity.com
 0.0.0.0 doh2.gslb2.xfinity.com
 0.0.0.0 agh.xinfeng16m.top
-0.0.0.0 dns.xiumu.org
 0.0.0.0 dns.xlion.tw
 0.0.0.0 xn--durhre-yxa.de
 0.0.0.0 dns.xuming.studio
 0.0.0.0 dns.xusqui.com
-0.0.0.0 dns.xwdmw.xyz
 0.0.0.0 v2.xx3210766.live
 0.0.0.0 dns.yameenassotally.com
 0.0.0.0 2.dnscrypt-cert.browser.yandex.net
@@ -1510,7 +1508,6 @@
 0.0.0.0 dns.yatima.tv
 0.0.0.0 ychen.cf
 0.0.0.0 ychen.gq
-0.0.0.0 dns.youni.win
 0.0.0.0 your-dns.run
 0.0.0.0 yovbak.com
 0.0.0.0 yuvelirtut.website

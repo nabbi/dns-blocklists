@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 06 Sep 2024 22:03 UTC
-! Version: 2024.0906.2203.19
+! Last modified: 16 Sep 2024 22:21 UTC
+! Version: 2024.0916.2221.40
 ! Syntax: AdBlock
-! Number of entries: 3406
+! Number of entries: 3390
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -192,7 +192,6 @@
 ||37er19htfd.execute-api.us-east-1.amazonaws.com^
 ||i4frgxs0s5.execute-api.us-east-1.amazonaws.com^
 ||dsl-app.s3.us-east-2.amazonaws.com^
-||americaproxy.info^
 ||mailer.amlegion.org^
 ||doh.amonsul.net^
 ||ananoos.com^
@@ -398,7 +397,6 @@
 ||brazilproxy.info^
 ||breakwall.net^
 ||dns.brembeck.cloud^
-||ag.brianlee.fun^
 ||bright4good.eco^
 ||brightvpn.com^
 ||britishproxy.com^
@@ -921,6 +919,7 @@
 ||dutchproxy.nl^
 ||dns.dyn1.de^
 ||ueni.dyndns.org^
+||gustamadh.dynv6.net^
 ||vpn.dzarlax.dev^
 ||dzhot.us^
 ||dnscache.e-utp.net^
@@ -1069,7 +1068,6 @@
 ||fortniters.info^
 ||forwardproxie.com^
 ||fproxy.net^
-||franceproxy.pw^
 ||frandcomfort.us^
 ||free-proxy.com^
 ||free-proxy.cz^
@@ -1123,7 +1121,6 @@
 ||freevpnapp.org^
 ||freevpnplanet.com^
 ||freevpnsoftware.net^
-||freewebproxy.us^
 ||freewebproxyserver.net^
 ||freexite.com^
 ||freeyouproxytube.com^
@@ -1150,7 +1147,6 @@
 ||gamers-nor.com^
 ||gamingssh.com^
 ||dns.beta.gandi.net^
-||gang4.info^
 ||gatcha.org^
 ||gclouddns.com^
 ||gecko.fun^
@@ -1211,6 +1207,7 @@
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
 ||agh.gloom.nexus^
+||dns.glorydns.com^
 ||glype.com^
 ||dns.gnb09.id^
 ||privacydns.go6lab.si^
@@ -1263,7 +1260,6 @@
 ||dns.hanmey.de^
 ||hanniel.tech^
 ||happy-vpn.com^
-||happydata.info^
 ||resolver-eu.haringstad.com^
 ||adguard.hartley.cloud^
 ||query.hdns.io^
@@ -1712,7 +1708,6 @@
 ||dns.moonssif.com^
 ||morbitzer.de^
 ||morevpn.com^
-||doh.morizt.id^
 ||dns.moulticast.net^
 ||movieproxy.com^
 ||vpn.mozilla.org^
@@ -1827,7 +1822,6 @@
 ||doh.infotek.net.id^
 ||doh.max.net.id^
 ||netaltr.com^
-||netgeek.info^
 ||netnut.io^
 ||netscop.net^
 ||netvpn.us^
@@ -2045,7 +2039,6 @@
 ||dns-ovh.panszelescik.pl^
 ||pantavv.xyz^
 ||pantoto.xyz^
-||panyyhh.xyz^
 ||panzend.xyz^
 ||papervpn.info^
 ||dns.pari.network^
@@ -2167,7 +2160,6 @@
 ||de.dns.privex.io^
 ||nl.dns.privex.io^
 ||privoxy.org^
-||prohome.info^
 ||prointern.info^
 ||project-evoex.de^
 ||prontoproxy.info^
@@ -2214,7 +2206,6 @@
 ||proxpn.com^
 ||proxssl.com^
 ||proxtube.com^
-||proxy.lol^
 ||proxy.nu^
 ||proxy.org^
 ||proxy.red^
@@ -2263,7 +2254,6 @@
 ||proxyer.net^
 ||proxyfactory.io^
 ||proxyfish.com^
-||proxyfort.com^
 ||proxyfree.org^
 ||proxygate.com^
 ||proxygizlen.com^
@@ -2309,7 +2299,6 @@
 ||proxytime.net^
 ||proxytoplay.com^
 ||proxyturbo.com^
-||proxyunblock.site^
 ||proxyunblocker.org^
 ||proxyunlock.com^
 ||proxyvpn.eu^
@@ -2457,10 +2446,10 @@
 ||cloud.samutz.com^
 ||sandparticles.us^
 ||saoudiproxy.info^
+||dns.sarak.as^
 ||dns.sarakas.net^
 ||dns.sarilouis.com^
 ||saturnvpn.com^
-||savefrom.net^
 ||ns1.sc-lezhi.com^
 ||dns.scapetical.com^
 ||dns.scarx.net^
@@ -2877,7 +2866,6 @@
 ||trustedproxies.com^
 ||truta.org^
 ||dns.tryk.app^
-||adg.tshost.no^
 ||doh.ibr.cs.tu-bs.de^
 ||tubeprox.com^
 ||tubeunblock.me^
@@ -2925,6 +2913,7 @@
 ||unb.how^
 ||unbl0ck3d.com^
 ||unbl4you.lol^
+||unblock.it^
 ||unblock.pink^
 ||unblock.soy^
 ||unblock.ws^
@@ -3180,7 +3169,6 @@
 ||vpndog.com^
 ||proxy.vpner.com^
 ||vpnfan.com^
-||vpnfast.pw^
 ||vpnfree.info^
 ||vpngame.com^
 ||vpngate.net^
@@ -3325,7 +3313,6 @@
 ||worldvpn.net^
 ||wossow.com^
 ||home.wriedts.de^
-||wtools.eu^
 ||proxy.wynd.network^
 ||wyx.cloud^
 ||x9fnzrtl4x8pynsf.com^
@@ -3342,7 +3329,6 @@
 ||xite.ws^
 ||xitenow.com^
 ||xitesite.com^
-||dns.xiumu.org^
 ||dns.xlion.tw^
 ||xn--durhre-yxa.de^
 ||xperienc.com^
@@ -3350,7 +3336,6 @@
 ||dns.xusqui.com^
 ||xvbelink.com^
 ||xvpn.io^
-||dns.xwdmw.xyz^
 ||v2.xx3210766.live^
 ||dns.yameenassotally.com^
 ||2.dnscrypt-cert.browser.yandex.net^
@@ -3368,7 +3353,6 @@
 ||youcanhide.net^
 ||youfreeproxytube.com^
 ||younblocked.com^
-||dns.youni.win^
 ||youproxytube.com^
 ||your-dns.run^
 ||your-freedom.de^

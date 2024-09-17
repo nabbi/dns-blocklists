@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 06 Sep 2024 22:04 UTC
-# Version: 2024.0906.2204.29
+# Last modified: 16 Sep 2024 22:22 UTC
+# Version: 2024.0916.2222.53
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1517
+# Number of entries: 1514
 #
 003153.xyz
 ns.00dani.me
@@ -236,7 +236,6 @@ basic.bravedns.com
 free.bravedns.com
 dns.bravoc.one
 dns.brembeck.cloud
-ag.brianlee.fun
 doh.bt.com
 stratus.bugz.fr
 dns.burgas.pro
@@ -592,6 +591,7 @@ tungdnsne.duckdns.org
 dukun.de
 dns.dyn1.de
 ueni.dyndns.org
+gustamadh.dynv6.net
 dnscache.e-utp.net
 adguard.easez.net
 easyhandshake.com
@@ -691,6 +691,7 @@ dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
 agh.gloom.nexus
+dns.glorydns.com
 dns.gnb09.id
 privacydns.go6lab.si
 dns.goldplate.org
@@ -940,7 +941,6 @@ zrh1-ns01.monzoon.net
 dns.moonssif.com
 morbitzer.de
 www.morbitzer.de
-doh.morizt.id
 dns.moulticast.net
 dns.mrkaran.dev
 msr177.com
@@ -1283,6 +1283,7 @@ dns2.saferbfc.org
 safeservedns.com
 doh.safesurfer.io
 cloud.samutz.com
+dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 ns1.sc-lezhi.com
@@ -1413,7 +1414,6 @@ tributh.net
 dns.trust404.win
 truta.org
 dns.tryk.app
-adg.tshost.no
 doh.ibr.cs.tu-bs.de
 tuskythehusky.tech
 nat64.tuxis.nl
@@ -1489,12 +1489,10 @@ doh.xfinity.com
 dot.xfinity.com
 doh2.gslb2.xfinity.com
 agh.xinfeng16m.top
-dns.xiumu.org
 dns.xlion.tw
 xn--durhre-yxa.de
 dns.xuming.studio
 dns.xusqui.com
-dns.xwdmw.xyz
 v2.xx3210766.live
 dns.yameenassotally.com
 2.dnscrypt-cert.browser.yandex.net
@@ -1510,7 +1508,6 @@ secondary.dns.yandex.ru
 dns.yatima.tv
 ychen.cf
 ychen.gq
-dns.youni.win
 your-dns.run
 yovbak.com
 yuvelirtut.website
