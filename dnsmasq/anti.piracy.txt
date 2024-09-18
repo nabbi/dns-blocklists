@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 17 Sep 2024 22:27 UTC
-# Version: 2024.0917.2227.38
+# Last modified: 18 Sep 2024 15:46 UTC
+# Version: 2024.0918.1546.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9774
+# Number of entries: 9777
 #
 local=/tracker.guguan.000.pe/
 local=/blink-stresser.000webhostapp.com/
@@ -4549,7 +4549,7 @@ local=/instant.io/
 local=/instant-stresser.com/
 local=/intermedio.ro/
 local=/internetowa.tv/
-local=/tracker.internetwarriors.net/
+local=/internetwarriors.net/
 local=/internetzonebd.com/
 local=/interviewfor.red/
 local=/intilo.com/
@@ -4589,6 +4589,7 @@ local=/iptvcanarias.tv/
 local=/iptvonly.tv/
 local=/iptvprova.com/
 local=/iptvsource.com/
+local=/api.ipv4online.uk/
 local=/tracker.ipv6tracker.org/
 local=/tracker.ipv6tracker.ru/
 local=/iraniantorrents.com/
@@ -4937,6 +4938,8 @@ local=/kludd.com/
 local=/kmn-music.de/
 local=/kmnbd.net/
 local=/kmsautoplus.su/
+local=/tracker.kmzs123.com/
+local=/tracker.kmzs123.top/
 local=/knaben.eu/
 local=/knaben.org/
 local=/knaben.ru/
@@ -6566,7 +6569,7 @@ local=/tracker.pomf.se/
 local=/62-210-114-129.rev.poneytelecom.eu/
 local=/popcorn-time.ch/
 local=/popcorn-time.io/
-local=/public.popcorn-tracker.org/
+local=/popcorn-tracker.org/
 local=/popcornflix.com/
 local=/popcornflix.run/
 local=/popcornflix.site/
@@ -8636,7 +8639,7 @@ local=/open.tracker.ink/
 local=/sukebei.tracker.wf/
 local=/tracker810.xyz/
 local=/trackerfix.com/
-local=/open.trackerlist.xyz/
+local=/trackerlist.xyz/
 local=/trackermx.com/
 local=/trackers.run/
 local=/tk1.trackerservers.com/
@@ -9402,7 +9405,7 @@ local=/bt.wrzru.com/
 local=/wsboard.pw/
 local=/wsc-scriptz.org/
 local=/wtfnzb.pw/
-local=/omg.wtftrackr.pw/
+local=/wtftrackr.pw/
 local=/wunza.ws/
 local=/wushare.com/
 local=/wwatchseries.com/
