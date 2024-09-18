@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1726586940 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1726612020 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 17 Sep 2024 15:29 UTC
-; Version: 2024.0917.1529.05
+; Last modified: 17 Sep 2024 22:27 UTC
+; Version: 2024.0917.2227.38
 ; Syntax: RPZ
-; Number of entries: 19554
+; Number of entries: 19548
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1779,8 +1779,6 @@ hdbits.cn CNAME .
 *.hdbits.cn CNAME .
 tracker.hiyj.cn CNAME .
 *.tracker.hiyj.cn CNAME .
-tracker.kmzs123.cn CNAME .
-*.tracker.kmzs123.cn CNAME .
 tracker.loligirl.cn CNAME .
 *.tracker.loligirl.cn CNAME .
 tracker.moeblog.cn CNAME .
@@ -4693,8 +4691,6 @@ klimtthemovie.com CNAME .
 *.klimtthemovie.com CNAME .
 kludd.com CNAME .
 *.kludd.com CNAME .
-tracker.kmzs123.com CNAME .
-*.tracker.kmzs123.com CNAME .
 kodiapps.com CNAME .
 *.kodiapps.com CNAME .
 kolompc.com CNAME .
@@ -17007,8 +17003,6 @@ flixtor.tk CNAME .
 *.flixtor.tk CNAME .
 ilgeniodellostreaming.tk CNAME .
 *.ilgeniodellostreaming.tk CNAME .
-tracker.kmzs123.tk CNAME .
-*.tracker.kmzs123.tk CNAME .
 proxypirate.tk CNAME .
 *.proxypirate.tk CNAME .
 trackerxyz.tk CNAME .
