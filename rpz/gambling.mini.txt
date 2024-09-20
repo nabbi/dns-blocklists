@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1726758360 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1726785480 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 19 Sep 2024 15:06 UTC
-; Version: 2024.0919.1506.45
+; Last modified: 19 Sep 2024 22:38 UTC
+; Version: 2024.0919.2238.37
 ; Syntax: RPZ
-; Number of entries: 70606
+; Number of entries: 70638
 ;
 blaze.ac CNAME .
 *.blaze.ac CNAME .
@@ -5467,6 +5467,8 @@ sobatjp.college CNAME .
 *.056nohu.com CNAME .
 0571jjw.com CNAME .
 *.0571jjw.com CNAME .
+057392.com CNAME .
+*.057392.com CNAME .
 0577777.com CNAME .
 *.0577777.com CNAME .
 057789.com CNAME .
@@ -14333,6 +14335,8 @@ bet90.com CNAME .
 *.bet90.com CNAME .
 bet91casino.com CNAME .
 *.bet91casino.com CNAME .
+bet96933.com CNAME .
+*.bet96933.com CNAME .
 bet97k.com CNAME .
 *.bet97k.com CNAME .
 bet97n.com CNAME .
@@ -14355,6 +14359,8 @@ bet97y.com CNAME .
 *.bet97y.com CNAME .
 bet97z.com CNAME .
 *.bet97z.com CNAME .
+bet99.com CNAME .
+*.bet99.com CNAME .
 bet9988a.com CNAME .
 *.bet9988a.com CNAME .
 bet9ja.com CNAME .
@@ -19965,8 +19971,6 @@ dagatructuyen.com CNAME .
 *.dagatructuyen.com CNAME .
 daily88uu.com CNAME .
 *.daily88uu.com CNAME .
-dailycaller.com CNAME .
-*.dailycaller.com CNAME .
 dailydropswins.com CNAME .
 *.dailydropswins.com CNAME .
 dailyforex.com CNAME .
@@ -29981,6 +29985,8 @@ mangocasino.com CNAME .
 *.mangocasino.com CNAME .
 manhattanslots.com CNAME .
 *.manhattanslots.com CNAME .
+manicurepg.com CNAME .
+*.manicurepg.com CNAME .
 mansion.com CNAME .
 *.mansion.com CNAME .
 mansion66.com CNAME .
@@ -30319,14 +30325,22 @@ melbet-casino-news.com CNAME .
 *.melbet-casino-news.com CNAME .
 melbet-casinos.com CNAME .
 *.melbet-casinos.com CNAME .
+melbet-ci.com CNAME .
+*.melbet-ci.com CNAME .
+melbet-ma.com CNAME .
+*.melbet-ma.com CNAME .
 melbet-mn.com CNAME .
 *.melbet-mn.com CNAME .
+melbet-now.com CNAME .
+*.melbet-now.com CNAME .
 melbet-pe.com CNAME .
 *.melbet-pe.com CNAME .
 melbet-sp.com CNAME .
 *.melbet-sp.com CNAME .
 melbet-th.com CNAME .
 *.melbet-th.com CNAME .
+melbet-tn.com CNAME .
+*.melbet-tn.com CNAME .
 melbet001.com CNAME .
 *.melbet001.com CNAME .
 melbet10.com CNAME .
@@ -30843,6 +30857,8 @@ mostbet-casino-turkiye.com CNAME .
 *.mostbet-casino-turkiye.com CNAME .
 mostbet-casino-uz24.com CNAME .
 *.mostbet-casino-uz24.com CNAME .
+mostbet-in51.com CNAME .
+*.mostbet-in51.com CNAME .
 mostbet-online-casino-ru.com CNAME .
 *.mostbet-online-casino-ru.com CNAME .
 mostbet-slots.com CNAME .
@@ -31425,6 +31441,8 @@ netbet.com CNAME .
 *.netbet.com CNAME .
 netcasinofreespins.com CNAME .
 *.netcasinofreespins.com CNAME .
+netent.com CNAME .
+*.netent.com CNAME .
 netentcasino.com CNAME .
 *.netentcasino.com CNAME .
 netgamecasino.com CNAME .
@@ -33199,6 +33217,8 @@ parimatchwin.com CNAME .
 *.parimatchwin.com CNAME .
 paripartner.com CNAME .
 *.paripartner.com CNAME .
+paripesa.com CNAME .
+*.paripesa.com CNAME .
 paripesapartners.com CNAME .
 *.paripesapartners.com CNAME .
 paripulsebd.com CNAME .
@@ -42419,6 +42439,8 @@ x19989.com CNAME .
 *.x19989.com CNAME .
 x1casino.com CNAME .
 *.x1casino.com CNAME .
+x3000.com CNAME .
+*.x3000.com CNAME .
 x311y.com CNAME .
 *.x311y.com CNAME .
 x33888.com CNAME .
@@ -45675,6 +45697,10 @@ masala777.in CNAME .
 *.masala777.in CNAME .
 mastercardcasino.in CNAME .
 *.mastercardcasino.in CNAME .
+mega-pari.in CNAME .
+*.mega-pari.in CNAME .
+mel-bet.in CNAME .
+*.mel-bet.in CNAME .
 melbetonline.in CNAME .
 *.melbetonline.in CNAME .
 melbets.in CNAME .
@@ -45683,8 +45709,12 @@ melbett.in CNAME .
 *.melbett.in CNAME .
 moonliteco.in CNAME .
 *.moonliteco.in CNAME .
+mostbet.in CNAME .
+*.mostbet.in CNAME .
 mostbet-casino108.in CNAME .
 *.mostbet-casino108.in CNAME .
+mostbet1.in CNAME .
+*.mostbet1.in CNAME .
 mostbetcasino.in CNAME .
 *.mostbetcasino.in CNAME .
 mrbetcasino.in CNAME .
@@ -49703,6 +49733,8 @@ gbzb.net CNAME .
 *.gbzb.net CNAME .
 rehab.genesishouse.net CNAME .
 *.rehab.genesishouse.net CNAME .
+ggbet.net CNAME .
+*.ggbet.net CNAME .
 ggbet-247.net CNAME .
 *.ggbet-247.net CNAME .
 ggbet-online.net CNAME .
