@@ -744,10 +744,6 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 | Pro plus + TIF | `https://dns.dnswarden.com/0000000000000000000000o` | `0000000000000000000000o.dns.dnswarden.com` |
 | Ultimate + TIF | `https://dns.dnswarden.com/0000000000000000000000804` | `0000000000000000000000804.dns.dnswarden.com` |
 
-#### :department_store: **DNSforge (Germany) - free** <a name="dnsforge"></a>
-
-[DNSforge](https://dnsforge.de/) uses some of my lists in addition to other blocklists.
-
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 
 [OpenBLD.net](https://openbld.net) use my Multi Pro blocklist in addition to other blocklists.
