@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 19 Sep 2024 22:23 UTC
-# Version: 2024.0919.2223.04
+# Last modified: 21 Sep 2024 22:21 UTC
+# Version: 2024.0921.2221.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3414
+# Number of entries: 3408
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -304,7 +304,6 @@ local=/beecomf.xyz/
 local=/beepassvpn.com/
 local=/beetvpn.com/
 local=/beevpn.com/
-local=/adguard.beliefanx.cn/
 local=/dns.belnet.be/
 local=/dns.benpro.fr/
 local=/dns.bermeitinger.eu/
@@ -1530,7 +1529,6 @@ local=/dns.kescher.at/
 local=/pihole.aws.ketan.dev/
 local=/dns.keviland.com/
 local=/dns.keweon.center/
-local=/keyvpn.io/
 local=/adg.khon.dev/
 local=/adguard.kiboko.it/
 local=/kickassproxy.com/
@@ -1602,7 +1600,6 @@ local=/linkideo.com/
 local=/linkmefree.net/
 local=/linkmetube.com/
 local=/dns.linkr.ninja/
-local=/doh.linngde.com/
 local=/lionssh.com/
 local=/quickvpn.lipisoft.com/
 local=/africadns1.liquidtelecom.net/
@@ -2002,7 +1999,6 @@ local=/ns3.opennameserver.org/
 local=/ns4.opennameserver.org/
 local=/openproxy.space/
 local=/opentunnel.net/
-local=/openvpn.cc/
 local=/openvpn.com/
 local=/openvpn.net/
 local=/openvpn-ssh.com/
@@ -2323,6 +2319,7 @@ local=/psiphon3.com/
 local=/dns.psociety.de/
 local=/ptoserver.com/
 local=/publicdnsserver.com/
+local=/pukanuragan.ru/
 local=/dns.pumpkinvrar.com/
 local=/pupilproxy.com/
 local=/puredns.org/
@@ -2880,7 +2877,6 @@ local=/trust.zone/
 local=/dns.trust404.win/
 local=/trustedproxies.com/
 local=/truta.org/
-local=/dns.tryk.app/
 local=/doh.ibr.cs.tu-bs.de/
 local=/tubeprox.com/
 local=/tubeunblock.me/
@@ -3268,7 +3264,6 @@ local=/warninglog.com/
 local=/dns.warpnine.de/
 local=/warpproxy.com/
 local=/waselpro.com/
-local=/watchproxy.com/
 local=/watchunblocked.com/
 local=/dns.engineer.web.id/
 local=/doh.this.web.id/
@@ -3284,7 +3279,6 @@ local=/webproxy.us/
 local=/webproxyagent.com/
 local=/webproxyfree.net/
 local=/webproxyinc.com/
-local=/webproxyusa.com/
 local=/webrunnerproxy.com/
 local=/webshare.io/
 local=/janvet.website.pl/

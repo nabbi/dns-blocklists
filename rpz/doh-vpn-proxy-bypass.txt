@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1726784580 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1726957260 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 19 Sep 2024 22:23 UTC
-; Version: 2024.0919.2223.04
+; Last modified: 21 Sep 2024 22:21 UTC
+; Version: 2024.0921.2221.42
 ; Syntax: RPZ
-; Number of entries: 6828
+; Number of entries: 6816
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -58,8 +58,6 @@ dot.tiar.app CNAME .
 *.dot.tiar.app CNAME .
 jp.tiar.app CNAME .
 *.jp.tiar.app CNAME .
-dns.tryk.app CNAME .
-*.dns.tryk.app CNAME .
 unblockit.app CNAME .
 *.unblockit.app CNAME .
 art-class-omg.vercel.app CNAME .
@@ -278,8 +276,6 @@ vm.mytm.cc CNAME .
 *.vm.mytm.cc CNAME .
 secure.onedns.cc CNAME .
 *.secure.onedns.cc CNAME .
-openvpn.cc CNAME .
-*.openvpn.cc CNAME .
 proxify.cc CNAME .
 *.proxify.cc CNAME .
 proxysite.cc CNAME .
@@ -424,8 +420,6 @@ dns.baishiyuan.cn CNAME .
 *.dns.baishiyuan.cn CNAME .
 dns.beardic.cn CNAME .
 *.dns.beardic.cn CNAME .
-adguard.beliefanx.cn CNAME .
-*.adguard.beliefanx.cn CNAME .
 dns.weixin.qq.com.cn CNAME .
 *.dns.weixin.qq.com.cn CNAME .
 dns.tuna.tsinghua.edu.cn CNAME .
@@ -1546,8 +1540,6 @@ linkideo.com CNAME .
 *.linkideo.com CNAME .
 linkmetube.com CNAME .
 *.linkmetube.com CNAME .
-doh.linngde.com CNAME .
-*.doh.linngde.com CNAME .
 lionssh.com CNAME .
 *.lionssh.com CNAME .
 quickvpn.lipisoft.com CNAME .
@@ -2714,8 +2706,6 @@ warpproxy.com CNAME .
 *.warpproxy.com CNAME .
 waselpro.com CNAME .
 *.waselpro.com CNAME .
-watchproxy.com CNAME .
-*.watchproxy.com CNAME .
 watchunblocked.com CNAME .
 *.watchunblocked.com CNAME .
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com CNAME .
@@ -2730,8 +2720,6 @@ webproxyagent.com CNAME .
 *.webproxyagent.com CNAME .
 webproxyinc.com CNAME .
 *.webproxyinc.com CNAME .
-webproxyusa.com CNAME .
-*.webproxyusa.com CNAME .
 webrunnerproxy.com CNAME .
 *.webrunnerproxy.com CNAME .
 websitebypass.com CNAME .
@@ -3850,8 +3838,6 @@ dns.jichi.io CNAME .
 *.dns.jichi.io CNAME .
 k2vpn.io CNAME .
 *.k2vpn.io CNAME .
-keyvpn.io CNAME .
-*.keyvpn.io CNAME .
 doh.kidzonet.io CNAME .
 *.doh.kidzonet.io CNAME .
 lantern.io CNAME .
@@ -6154,6 +6140,8 @@ adguard.oms-ctr.ru CNAME .
 *.adguard.oms-ctr.ru CNAME .
 proxybox.ru CNAME .
 *.proxybox.ru CNAME .
+pukanuragan.ru CNAME .
+*.pukanuragan.ru CNAME .
 dns.ronc.ru CNAME .
 *.dns.ronc.ru CNAME .
 vpn.sakhwow.ru CNAME .
