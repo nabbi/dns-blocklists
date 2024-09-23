@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1726845780 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1727044080 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 20 Sep 2024 15:23 UTC
-; Version: 2024.0920.1523.01
+; Last modified: 22 Sep 2024 22:28 UTC
+; Version: 2024.0922.2228.05
 ; Syntax: RPZ
 ; Number of entries: 19674
 ;
@@ -7017,8 +7017,6 @@ victoriancrapper.com CNAME .
 *.victoriancrapper.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
-videocop.com CNAME .
-*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -17165,6 +17163,8 @@ flixtor.tk CNAME .
 *.flixtor.tk CNAME .
 ilgeniodellostreaming.tk CNAME .
 *.ilgeniodellostreaming.tk CNAME .
+tracker.kmzs123.tk CNAME .
+*.tracker.kmzs123.tk CNAME .
 proxypirate.tk CNAME .
 *.proxypirate.tk CNAME .
 trackerxyz.tk CNAME .
