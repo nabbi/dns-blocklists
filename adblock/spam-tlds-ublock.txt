@@ -10,15 +10,13 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 24 Sep 2024 07:46 UTC
-! Version: 2024.0924.0746.28
+! Last modified: 24 Sep 2024 07:53 UTC
+! Version: 2024.0924.0753.59
 ! Syntax: uBlock
-! Number of latin TLDs: 196 - non-latin TLDs: 151
+! Number of latin TLDs: 192 - non-latin TLDs: 151
 !
-||academy^$doc
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
-||agency^$doc,domain=~apptoro.agency|~baam.agency|~battlefield.agency|~byteful.agency|~robotzebra.agency|~uphotel.agency|~usenet.agency|~ws.agency
 ||army^$doc,domain=~phishing.army
 ||asia^$doc,domain=~amzn.asia|~bandainamcoent.asia|~dbankcloud.asia|~pansci.asia
 ||auction^$doc
@@ -32,7 +30,6 @@
 ||bid^$doc
 ||bike^$doc,domain=~rapido.bike
 ||bingo^$doc
-||bio^$doc
 ||biz^$doc,domain=~anonymurl.biz|~beiniz.biz|~bonial.biz|~cloudns.biz|~cyberciti.biz|~epson.biz|~ette.biz|~gimmeporn.biz|~iimwf.biz|~localise.biz|~luckysbarbershop.biz|~movabletype.biz|~panasonic.biz|~slussen.biz|~wyborcza.biz|~yoox.biz
 ||boats^$doc
 ||bond^$doc
@@ -101,7 +98,6 @@
 ||haus^$doc
 ||health^$doc,domain=~sca.health
 ||healthcare^$doc
-||help^$doc
 ||homes^$doc
 ||icu^$doc,domain=~lunar.icu
 ||ink^$doc,domain=~ishortn.ink|~next.ink|~short.ink|~sumerian.ink|~work.ink

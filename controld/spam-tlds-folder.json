@@ -8,13 +8,6 @@
   },
   "rules": [
     {
-      "PK": "*.academy",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.actor",
       "action": {
         "do": 0,
@@ -23,13 +16,6 @@
     },
     {
       "PK": "*.africa",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "*.agency",
       "action": {
         "do": 0,
         "status": 1
@@ -121,13 +107,6 @@
     },
     {
       "PK": "*.bingo",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "*.bio",
       "action": {
         "do": 0,
         "status": 1
@@ -604,13 +583,6 @@
     },
     {
       "PK": "*.healthcare",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "*.help",
       "action": {
         "do": 0,
         "status": 1
