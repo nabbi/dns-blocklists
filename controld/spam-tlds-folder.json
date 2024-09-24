@@ -8,6 +8,20 @@
   },
   "rules": [
     {
+      "PK": "*.academy",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.actor",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.africa",
       "action": {
         "do": 0,
@@ -36,6 +50,13 @@
       }
     },
     {
+      "PK": "*.auction",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.autos",
       "action": {
         "do": 0,
@@ -44,6 +65,13 @@
     },
     {
       "PK": "*.baby",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.band",
       "action": {
         "do": 0,
         "status": 1
@@ -393,6 +421,13 @@
       }
     },
     {
+      "PK": "*.expert",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.fan",
       "action": {
         "do": 0,
@@ -436,6 +471,20 @@
     },
     {
       "PK": "*.foo",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.forsale",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.foundation",
       "action": {
         "do": 0,
         "status": 1
@@ -555,6 +604,13 @@
     },
     {
       "PK": "*.healthcare",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.help",
       "action": {
         "do": 0,
         "status": 1
@@ -688,6 +744,13 @@
     },
     {
       "PK": "*.men",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.miami",
       "action": {
         "do": 0,
         "status": 1
