@@ -162,6 +162,13 @@
       }
     },
     {
+      "PK": "*.builders",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.buzz",
       "action": {
         "do": 0,
@@ -456,6 +463,13 @@
       }
     },
     {
+      "PK": "*.fitness",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.foo",
       "action": {
         "do": 0,
@@ -534,6 +548,13 @@
     },
     {
       "PK": "*.gold",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.golf",
       "action": {
         "do": 0,
         "status": 1
@@ -968,6 +989,13 @@
     },
     {
       "PK": "*.rehab",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.rent",
       "action": {
         "do": 0,
         "status": 1

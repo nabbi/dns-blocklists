@@ -9,10 +9,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 24 Sep 2024 21:52 UTC
-! Version: 2024.0924.2152.54
+! Last modified: 25 Sep 2024 21:55 UTC
+! Version: 2024.0925.2155.25
 ! Syntax: AdBlock
-! Number of latin TLDs: 103/193
+! Number of latin TLDs: 107/197
 !
 ||actor^
 ||auction^
@@ -27,6 +27,7 @@
 ||boo^
 ||boston^
 ||boutique^
+||builders^
 ||cam^
 ||careers^
 ||cash^
@@ -46,12 +47,14 @@
 ||finance^
 ||financial^
 ||fishing^
+||fitness^
 ||forsale^
 ||fund^
 ||gent^
 ||gives^
 ||giving^
 ||gold^
+||golf^
 ||gratis^
 ||green^
 ||hair^
@@ -87,6 +90,7 @@
 ||realtor^
 ||recipes^
 ||rehab^
+||rent^
 ||restaurant^
 ||review^
 ||rich^

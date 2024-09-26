@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 24 Sep 2024 21:52 UTC
-! Version: 2024.0924.2152.54
+! Last modified: 25 Sep 2024 21:55 UTC
+! Version: 2024.0925.2155.25
 ! Syntax: uBlock
-! Number of latin TLDs: 193 - non-latin TLDs: 151
+! Number of latin TLDs: 197 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -37,6 +37,7 @@
 ||boo^$doc
 ||boston^$doc
 ||boutique^$doc
+||builders^$doc
 ||buzz^$doc,domain=~sideb.buzz
 ||cam^$doc
 ||capital^$doc,domain=~scalable.capital
@@ -79,6 +80,7 @@
 ||financial^$doc
 ||fishing^$doc
 ||fit^$doc,domain=~appetit.fit|~clubb.fit|~justget.fit|~pridegym.fit|~union.fit
+||fitness^$doc
 ||foo^$doc,domain=~helloworld.foo
 ||forsale^$doc
 ||foundation^$doc,domain=~e.foundation|~grapheneos.foundation
@@ -91,6 +93,7 @@
 ||giving^$doc
 ||glass^$doc,domain=~domain.glass
 ||gold^$doc
+||golf^$doc
 ||gratis^$doc
 ||green^$doc
 ||guide^$doc,domain=~cfw.guide|~discordjs.guide|~hacks.guide|~homebrew.guide|~opensource.guide|~wii.guide
@@ -153,6 +156,7 @@
 ||recipes^$doc
 ||red^$doc,domain=~bunkr.red
 ||rehab^$doc
+||rent^$doc
 ||rest^$doc,domain=~crystals.rest|~nect.rest
 ||restaurant^$doc
 ||review^$doc
