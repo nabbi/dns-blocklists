@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1727304000 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1727346840 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 25 Sep 2024 22:40 UTC
-; Version: 2024.0925.2240.04
+; Last modified: 26 Sep 2024 10:34 UTC
+; Version: 2024.0926.1034.12
 ; Syntax: RPZ
-; Number of entries: 70612
+; Number of entries: 70624
 ;
 blaze.ac CNAME .
 *.blaze.ac CNAME .
@@ -117,6 +117,8 @@ sportsbettingonline.ag CNAME .
 *.sportsbettingonline.ag CNAME .
 sportsbook.ag CNAME .
 *.sportsbook.ag CNAME .
+sun22.ag CNAME .
+*.sun22.ag CNAME .
 superbook.ag CNAME .
 *.superbook.ag CNAME .
 superslots.ag CNAME .
@@ -1691,6 +1693,8 @@ td.prism.bet CNAME .
 *.td.prism.bet CNAME .
 punt123.bet CNAME .
 *.punt123.bet CNAME .
+px33ss.bet CNAME .
+*.px33ss.bet CNAME .
 qkk.bet CNAME .
 *.qkk.bet CNAME .
 quick.bet CNAME .
@@ -1709,6 +1713,8 @@ rooster.bet CNAME .
 *.rooster.bet CNAME .
 shi6223.bet CNAME .
 *.shi6223.bet CNAME .
+smartpokies.bet CNAME .
+*.smartpokies.bet CNAME .
 sol-casino.bet CNAME .
 *.sol-casino.bet CNAME .
 sol777.bet CNAME .
@@ -41861,6 +41867,8 @@ winningp2.com CNAME .
 *.winningp2.com CNAME .
 winnings.com CNAME .
 *.winnings.com CNAME .
+winnita.com CNAME .
+*.winnita.com CNAME .
 winny.com CNAME .
 *.winny.com CNAME .
 winolla.com CNAME .
@@ -44381,6 +44389,8 @@ b2idnclub.fun CNAME .
 *.b2idnclub.fun CNAME .
 bandarbola.fun CNAME .
 *.bandarbola.fun CNAME .
+bc.fun CNAME .
+*.bc.fun CNAME .
 best-casino745.fun CNAME .
 *.best-casino745.fun CNAME .
 best-casinos7.fun CNAME .
@@ -66439,6 +66449,8 @@ mobilecasinorank.com.ve CNAME .
 *.mobilecasinorank.com.ve CNAME .
 nuevocasinorank.com.ve CNAME .
 *.nuevocasinorank.com.ve CNAME .
+csgoempire.vegas CNAME .
+*.csgoempire.vegas CNAME .
 xocdia88.video CNAME .
 *.xocdia88.video CNAME .
 14.vin CNAME .

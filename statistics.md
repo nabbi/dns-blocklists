@@ -49,8 +49,9 @@
  18 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  19 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  20 |      99% |   0% |      1% | Native Tracker Xiaomi (Devices)
- 21 |      83% |  10% |      7% | Advanced Extension
- 22 |      64% |  21% |     15% | Denylist Community Advanced
+ 21 |      99% |   0% |      1% | Native Tracker Samsung (Devices)
+ 22 |      83% |  10% |      7% | Advanced Extension
+ 23 |      64% |  21% |     15% | Denylist Community Advanced
 ```
 #### PRO.PLUS
 ```
@@ -74,11 +75,12 @@
  17 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  18 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  19 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
- 20 |      84% |  10% |      6% | Advanced Extension
- 21 |      68% |  21% |     11% | Denylist Community Advanced
- 22 |      73% |  19% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 23 |      76% |  16% |      8% | Aggressive Extension
- 24 |     100% |   0% |      0% | Denylist Community Aggressive
+ 20 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
+ 21 |      84% |  10% |      6% | Advanced Extension
+ 22 |      68% |  21% |     11% | Denylist Community Advanced
+ 23 |      73% |  19% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 24 |      76% |  16% |      8% | Aggressive Extension
+ 25 |     100% |   0% |      0% | Denylist Community Aggressive
 ```
 #### ULTIMATE
 ```
@@ -101,16 +103,17 @@
  16 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  17 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  18 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
- 19 |      86% |  10% |      4% | Advanced Extension
- 20 |      68% |  21% |     11% | Denylist Community Advanced
- 21 |      73% |  19% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 22 |      76% |  16% |      8% | Aggressive Extension
- 23 |     100% |   0% |      0% | Denylist Community Aggressive
- 24 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
- 25 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
- 26 |      85% |   9% |      6% | Ultimate Extension
- 27 |      92% |   4% |      4% | Denylist Aggressive
- 28 |      70% |  28% |      2% | Denylist Community Ultimate
+ 19 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
+ 20 |      86% |  10% |      4% | Advanced Extension
+ 21 |      68% |  21% |     11% | Denylist Community Advanced
+ 22 |      73% |  19% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 23 |      76% |  16% |      8% | Aggressive Extension
+ 24 |     100% |   0% |      0% | Denylist Community Aggressive
+ 25 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
+ 26 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
+ 27 |      85% |   9% |      6% | Ultimate Extension
+ 28 |      92% |   4% |      4% | Denylist Aggressive
+ 29 |      70% |  28% |      2% | Denylist Community Ultimate
 ```
 #### TIF.MINI
 ```
