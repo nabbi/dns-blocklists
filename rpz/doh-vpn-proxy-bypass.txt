@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1727389200 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1727474640 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 26 Sep 2024 22:20 UTC
-; Version: 2024.0926.2220.36
+; Last modified: 27 Sep 2024 22:04 UTC
+; Version: 2024.0927.2204.49
 ; Syntax: RPZ
-; Number of entries: 6814
+; Number of entries: 6816
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -166,8 +166,6 @@ proxies.biz CNAME .
 *.proxies.biz CNAME .
 proxify.biz CNAME .
 *.proxify.biz CNAME .
-adg.rokh.biz CNAME .
-*.adg.rokh.biz CNAME .
 secretsline.biz CNAME .
 *.secretsline.biz CNAME .
 theproxy2.biz CNAME .
@@ -5322,6 +5320,8 @@ dns.anon.no CNAME .
 *.dns.anon.no CNAME .
 doh.serverhost.no CNAME .
 *.doh.serverhost.no CNAME .
+adg.tshost.no CNAME .
+*.adg.tshost.no CNAME .
 bdns.nu CNAME .
 *.bdns.nu CNAME .
 onion.nu CNAME .
@@ -5468,6 +5468,8 @@ ns1.dotls.org CNAME .
 *.ns1.dotls.org CNAME .
 home27.duckdns.org CNAME .
 *.home27.duckdns.org CNAME .
+jurre-home.duckdns.org CNAME .
+*.jurre-home.duckdns.org CNAME .
 krtekvpn.duckdns.org CNAME .
 *.krtekvpn.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
