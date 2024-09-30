@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1727561400 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1727647860 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 28 Sep 2024 22:10 UTC
-; Version: 2024.0928.2210.27
+; Last modified: 29 Sep 2024 22:11 UTC
+; Version: 2024.0929.2211.51
 ; Syntax: RPZ
-; Number of entries: 19662
+; Number of entries: 19640
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1619,8 +1619,6 @@ cb01.club CNAME .
 *.cb01.club CNAME .
 chouchou.club CNAME .
 *.chouchou.club CNAME .
-cineblog01.club CNAME .
-*.cineblog01.club CNAME .
 cpabien.club CNAME .
 *.cpabien.club CNAME .
 tracker.dicmusic.club CNAME .
@@ -1813,8 +1811,6 @@ burningseries.co CNAME .
 *.burningseries.co CNAME .
 c1ne.co CNAME .
 *.c1ne.co CNAME .
-calibrecompanion.co CNAME .
-*.calibrecompanion.co CNAME .
 cb01.co CNAME .
 *.cb01.co CNAME .
 tracker.chdbits.co CNAME .
@@ -2813,8 +2809,6 @@ bitlord.com CNAME .
 *.bitlord.com CNAME .
 bitnation.com CNAME .
 *.bitnation.com CNAME .
-bitnetbd.com CNAME .
-*.bitnetbd.com CNAME .
 bitoogle.com CNAME .
 *.bitoogle.com CNAME .
 bitseduce.com CNAME .
@@ -3433,8 +3427,6 @@ dbzdivx.com CNAME .
 *.dbzdivx.com CNAME .
 dctorrent.com CNAME .
 *.dctorrent.com CNAME .
-ddl2.com CNAME .
-*.ddl2.com CNAME .
 ddlcenter.com CNAME .
 *.ddlcenter.com CNAME .
 ddlicious.com CNAME .
@@ -7011,6 +7003,8 @@ victoriancrapper.com CNAME .
 *.victoriancrapper.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
+videocop.com CNAME .
+*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -8509,8 +8503,6 @@ cb01.gallery CNAME .
 *.cb01.gallery CNAME .
 altadefinizione01.games CNAME .
 *.altadefinizione01.games CNAME .
-emulator.games CNAME .
-*.emulator.games CNAME .
 eurostreaming.games CNAME .
 *.eurostreaming.games CNAME .
 magipack.games CNAME .
@@ -10499,8 +10491,6 @@ bflixto.me CNAME .
 *.bflixto.me CNAME .
 bibliotik.me CNAME .
 *.bibliotik.me CNAME .
-binnews.me CNAME .
-*.binnews.me CNAME .
 brokenstones.me CNAME .
 *.brokenstones.me CNAME .
 buffsports.me CNAME .
@@ -10835,8 +10825,6 @@ zone-telechargement.me CNAME .
 *.zone-telechargement.me CNAME .
 casacinema.media CNAME .
 *.casacinema.media CNAME .
-cb01.media CNAME .
-*.cb01.media CNAME .
 cybercloud.media CNAME .
 *.cybercloud.media CNAME .
 filmpertutti.media CNAME .
@@ -13199,8 +13187,6 @@ cyclingtorrents.nl CNAME .
 *.cyclingtorrents.nl CNAME .
 dbz-media.nl CNAME .
 *.dbz-media.nl CNAME .
-tracker.deadorbit.nl CNAME .
-*.tracker.deadorbit.nl CNAME .
 eddie4.nl CNAME .
 *.eddie4.nl CNAME .
 elitetorrent.nl CNAME .
@@ -16649,8 +16635,6 @@ dramaqu.site CNAME .
 *.dramaqu.site CNAME .
 elamigos.site CNAME .
 *.elamigos.site CNAME .
-eurostreaming.site CNAME .
-*.eurostreaming.site CNAME .
 filmguro.site CNAME .
 *.filmguro.site CNAME .
 filmitorrent-org.site CNAME .
@@ -17637,10 +17621,6 @@ zonetelechargement.to CNAME .
 *.zonetelechargement.to CNAME .
 altadefinizione.today CNAME .
 *.altadefinizione.today CNAME .
-cb01.today CNAME .
-*.cb01.today CNAME .
-cineblog01.today CNAME .
-*.cineblog01.today CNAME .
 eurostreaming.today CNAME .
 *.eurostreaming.today CNAME .
 filmpertutti.today CNAME .
@@ -17659,8 +17639,6 @@ altadefinizione.tokyo CNAME .
 *.altadefinizione.tokyo CNAME .
 indoxxi.tokyo CNAME .
 *.indoxxi.tokyo CNAME .
-cb01.tools CNAME .
-*.cb01.tools CNAME .
 123movies.top CNAME .
 *.123movies.top CNAME .
 1stream.top CNAME .
