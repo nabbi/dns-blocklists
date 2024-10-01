@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 Sep 2024 22:07 UTC
-# Version: 2024.0929.2207.21
+# Last modified: 30 Sep 2024 22:06 UTC
+# Version: 2024.0930.2206.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3401
+# Number of entries: 3402
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -904,10 +904,12 @@ local=/agh.dshubham.xyz/
 local=/duapps.com/
 local=/duba.net/
 local=/home27.duckdns.org/
+local=/jurre-home.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
 local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
+local=/tungdnsne.duckdns.org/
 local=/vpschito.duckdns.org/
 local=/dukun.de/
 local=/dutchproxy.nl/
@@ -1493,7 +1495,6 @@ local=/jsmapper.com/
 local=/dns.jstockley.com/
 local=/judua3rtinpst0s.xyz/
 local=/dns.jundev.org/
-local=/jupitervpn.ninja/
 local=/dns.jupitrdns.com/
 local=/juproxy.com/
 local=/ad.justincounts.com/
@@ -1588,7 +1589,6 @@ local=/doh.libredns.gr/
 local=/dot.libredns.gr/
 local=/dns.lihj.me/
 local=/limevpn.com/
-local=/sby-doh.limotelu.org/
 local=/linkideo.com/
 local=/linkmefree.net/
 local=/linkmetube.com/
@@ -1647,8 +1647,9 @@ local=/masterssh.com/
 local=/dns.mateo.ovh/
 local=/mathhelpnow.site/
 local=/mathlearning.tech/
-local=/mathnotes.help/
 local=/mathnotes.icu/
+local=/learn.mathnotes.help/
+local=/todo.mathnotes.help/
 local=/maxfong.cc/
 local=/maxvpn.info/
 local=/dns.maybe.icu/
