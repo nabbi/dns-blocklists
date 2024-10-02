@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 Sep 2024 22:10 UTC
-# Version: 2024.0929.2210.45
+# Last modified: 01 Oct 2024 22:09 UTC
+# Version: 2024.1001.2209.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1836
+# Number of entries: 1854
 #
 local=/000a.de/
 local=/000space.com/
@@ -82,6 +82,7 @@ local=/1hwy.com/
 local=/1shop.de/
 local=/1sthost.org/
 local=/1sweethost.com/
+local=/1talk.net/
 local=/1tt.net/
 local=/1w3.de/
 local=/1x.biz/
@@ -829,26 +830,39 @@ local=/footeo.com/
 local=/for-ladys.de/
 local=/fora.pl/
 local=/formbuddy.com/
+local=/foroactivo.com/
+local=/foroes.org/
 local=/forum.lc/
 local=/forum2.net/
+local=/forum2jeux.com/
 local=/forum2x2.ru/
 local=/forum7.de/
 local=/forumactif.com/
 local=/forumactif.fr/
 local=/forumactif.org/
+local=/forumarabia.com/
+local=/forumattivo.com/
 local=/forumcommunity.net/
+local=/forumeiros.com/
 local=/forumer.com/
 local=/forumfree.it/
 local=/forumfree.net/
+local=/forumgratuit.org/
+local=/forumgreek.com/
+local=/forumieren.com/
 local=/forumieren.de/
+local=/forumieren.org/
 local=/forumil.com/
 local=/forummotion.com/
 local=/forumno.com/
 local=/forumotion.com/
 local=/forumotion.net/
+local=/forumotion.org/
 local=/forumperso.com/
 local=/forumpro.fr/
 local=/forumps.com/
+local=/forums-actifs.com/
+local=/forumsactifs.com/
 local=/fotos.lc/
 local=/fotosdefrases.com/
 local=/fr.am/
@@ -905,6 +919,7 @@ local=/freewebstore.com/
 local=/freewebtools.com/
 local=/freewha.com/
 local=/freezoka.net/
+local=/frenchboard.com/
 local=/frewwebs.com/
 local=/friendcircles.com/
 local=/fuer-alle.de/
@@ -1033,6 +1048,7 @@ local=/inbox24.net/
 local=/inbox24.org/
 local=/inc5.com/
 local=/indybay.org/
+local=/infinityfree.com/
 local=/infinityfree.net/
 local=/infinityfreeapp.com/
 local=/info.cm/
@@ -1170,6 +1186,7 @@ local=/me.ly/
 local=/medianewsonline.com/
 local=/mee.nu/
 local=/megabyet.net/
+local=/meilleurforum.com/
 local=/memoryislife.com/
 local=/mex.tl/
 local=/mforos.com/
@@ -1405,6 +1422,7 @@ local=/rest7.com/
 local=/review-blogger.com/
 local=/revk.uk/
 local=/rf.gd/
+local=/rigala.net/
 local=/rimmablog.com/
 local=/ro.gp/
 local=/royal-host.com/

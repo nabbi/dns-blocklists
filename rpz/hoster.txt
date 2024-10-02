@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1727647800 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1727820540 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 29 Sep 2024 22:10 UTC
-; Version: 2024.0929.2210.45
+; Last modified: 01 Oct 2024 22:09 UTC
+; Version: 2024.1001.2209.45
 ; Syntax: RPZ
-; Number of entries: 3672
+; Number of entries: 3708
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -937,10 +937,24 @@ footeo.com CNAME .
 *.footeo.com CNAME .
 formbuddy.com CNAME .
 *.formbuddy.com CNAME .
+foroactivo.com CNAME .
+*.foroactivo.com CNAME .
+forum2jeux.com CNAME .
+*.forum2jeux.com CNAME .
 forumactif.com CNAME .
 *.forumactif.com CNAME .
+forumarabia.com CNAME .
+*.forumarabia.com CNAME .
+forumattivo.com CNAME .
+*.forumattivo.com CNAME .
+forumeiros.com CNAME .
+*.forumeiros.com CNAME .
 forumer.com CNAME .
 *.forumer.com CNAME .
+forumgreek.com CNAME .
+*.forumgreek.com CNAME .
+forumieren.com CNAME .
+*.forumieren.com CNAME .
 forumil.com CNAME .
 *.forumil.com CNAME .
 forummotion.com CNAME .
@@ -953,6 +967,10 @@ forumperso.com CNAME .
 *.forumperso.com CNAME .
 forumps.com CNAME .
 *.forumps.com CNAME .
+forums-actifs.com CNAME .
+*.forums-actifs.com CNAME .
+forumsactifs.com CNAME .
+*.forumsactifs.com CNAME .
 fotosdefrases.com CNAME .
 *.fotosdefrases.com CNAME .
 free-blogz.com CNAME .
@@ -1017,6 +1035,8 @@ freewebtools.com CNAME .
 *.freewebtools.com CNAME .
 freewha.com CNAME .
 *.freewha.com CNAME .
+frenchboard.com CNAME .
+*.frenchboard.com CNAME .
 frewwebs.com CNAME .
 *.frewwebs.com CNAME .
 friendcircles.com CNAME .
@@ -1117,6 +1137,8 @@ ilovetoblog.com CNAME .
 *.ilovetoblog.com CNAME .
 inc5.com CNAME .
 *.inc5.com CNAME .
+infinityfree.com CNAME .
+*.infinityfree.com CNAME .
 infinityfreeapp.com CNAME .
 *.infinityfreeapp.com CNAME .
 instantfreesite.com CNAME .
@@ -1219,6 +1241,8 @@ mdkblog.com CNAME .
 *.mdkblog.com CNAME .
 medianewsonline.com CNAME .
 *.medianewsonline.com CNAME .
+meilleurforum.com CNAME .
+*.meilleurforum.com CNAME .
 memoryislife.com CNAME .
 *.memoryislife.com CNAME .
 mforos.com CNAME .
@@ -2873,6 +2897,8 @@ one4u.0lx.net CNAME .
 *.100webspace.net CNAME .
 1fr1.net CNAME .
 *.1fr1.net CNAME .
+1talk.net CNAME .
+*.1talk.net CNAME .
 1tt.net CNAME .
 *.1tt.net CNAME .
 1x.net CNAME .
@@ -3051,6 +3077,8 @@ ql4h.net CNAME .
 *.ql4h.net CNAME .
 recentblog.net CNAME .
 *.recentblog.net CNAME .
+rigala.net CNAME .
+*.rigala.net CNAME .
 scienceontheweb.net CNAME .
 *.scienceontheweb.net CNAME .
 seesaa.net CNAME .
@@ -3229,8 +3257,16 @@ eu5.org CNAME .
 *.eu5.org CNAME .
 fast-page.org CNAME .
 *.fast-page.org CNAME .
+foroes.org CNAME .
+*.foroes.org CNAME .
 forumactif.org CNAME .
 *.forumactif.org CNAME .
+forumgratuit.org CNAME .
+*.forumgratuit.org CNAME .
+forumieren.org CNAME .
+*.forumieren.org CNAME .
+forumotion.org CNAME .
+*.forumotion.org CNAME .
 free-forums.org CNAME .
 *.free-forums.org CNAME .
 freeforums.org CNAME .
