@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 30 Sep 2024 21:37 UTC
-! Version: 2024.0930.2137.00
+! Last modified: 03 Oct 2024 16:06 UTC
+! Version: 2024.1003.1606.37
 ! Syntax: uBlock
-! Number of latin TLDs: 197 - non-latin TLDs: 151
+! Number of latin TLDs: 198 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -178,6 +178,7 @@
 ||sport^$doc
 ||store^$doc,domain=~androeed.store|~cleanmasters.store|~g-h.store|~iqunix.store|~shoplazza.store|~timberjacks.store
 ||style^$doc
+||su^$doc
 ||support^$doc
 ||surf^$doc,domain=~s-wings.surf
 ||tattoo^$doc
