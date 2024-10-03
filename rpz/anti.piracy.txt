@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1727820600 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1727906880 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 01 Oct 2024 22:10 UTC
-; Version: 2024.1001.2210.53
+; Last modified: 02 Oct 2024 22:08 UTC
+; Version: 2024.1002.2208.52
 ; Syntax: RPZ
-; Number of entries: 19552
+; Number of entries: 19542
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -909,8 +909,6 @@ tracker.bz CNAME .
 *.tracker.bz CNAME .
 unblockit.bz CNAME .
 *.unblockit.bz CNAME .
-voirfilms.bz CNAME .
-*.voirfilms.bz CNAME .
 digitalmusicians.ca CNAME .
 *.digitalmusicians.ca CNAME .
 filmstreaming.ca CNAME .
@@ -7107,8 +7105,6 @@ bandhanbd.watchonlinemovies24.com CNAME .
 *.bandhanbd.watchonlinemovies24.com CNAME .
 tv.watchonlinemovies24.com CNAME .
 *.tv.watchonlinemovies24.com CNAME .
-watchordown.com CNAME .
-*.watchordown.com CNAME .
 watchraw.com CNAME .
 *.watchraw.com CNAME .
 watchsomuch.com CNAME .
@@ -7613,6 +7609,8 @@ kinox.unblockit.day CNAME .
 *.kinox.unblockit.day CNAME .
 newalbumreleases.unblockit.day CNAME .
 *.newalbumreleases.unblockit.day CNAME .
+zippyshare.day CNAME .
+*.zippyshare.day CNAME .
 mytoplist.2ix.de CNAME .
 *.mytoplist.2ix.de CNAME .
 2x4u.de CNAME .
@@ -8221,8 +8219,6 @@ tuttostream.fm CNAME .
 *.tuttostream.fm CNAME .
 waffles.fm CNAME .
 *.waffles.fm CNAME .
-xmovies8.fm CNAME .
-*.xmovies8.fm CNAME .
 fmovies.fo CNAME .
 *.fmovies.fo CNAME .
 altadefinizione.forsale CNAME .
@@ -13119,8 +13115,6 @@ putlockers.ninja CNAME .
 *.putlockers.ninja CNAME .
 wawacity.ninja CNAME .
 *.wawacity.ninja CNAME .
-wearethereal.ninja CNAME .
-*.wearethereal.ninja CNAME .
 1movies.nl CNAME .
 *.1movies.nl CNAME .
 altadefinizione.nl CNAME .
@@ -14953,8 +14947,6 @@ voir-seriestreaming.org CNAME .
 *.voir-seriestreaming.org CNAME .
 voirdrama.org CNAME .
 *.voirdrama.org CNAME .
-volno.org CNAME .
-*.volno.org CNAME .
 vortexnetwork.org CNAME .
 *.vortexnetwork.org CNAME .
 lulz.vpndb.org CNAME .
@@ -16241,6 +16233,8 @@ forum.touki.ru CNAME .
 *.forum.touki.ru CNAME .
 open.touki.ru CNAME .
 *.open.touki.ru CNAME .
+tr2.trkb.ru CNAME .
+*.tr2.trkb.ru CNAME .
 tvtokio.ru CNAME .
 *.tvtokio.ru CNAME .
 4rvard-warez.ucoz.ru CNAME .
@@ -16275,8 +16269,6 @@ retracker2.x2k.ru CNAME .
 *.retracker2.x2k.ru CNAME .
 xcine.ru CNAME .
 *.xcine.ru CNAME .
-xmovies8.ru CNAME .
-*.xmovies8.ru CNAME .
 xparadise.ru CNAME .
 *.xparadise.ru CNAME .
 z-torrents.ru CNAME .
@@ -17681,8 +17673,6 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
-tr2.ysagin.top CNAME .
-*.tr2.ysagin.top CNAME .
 ytmp3.top CNAME .
 *.ytmp3.top CNAME .
 altadefinizione.tours CNAME .

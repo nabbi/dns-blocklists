@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 01 Oct 2024 22:10 UTC
-# Version: 2024.1001.2210.53
+# Last modified: 02 Oct 2024 22:08 UTC
+# Version: 2024.1002.2208.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9776
+# Number of entries: 9771
 #
 local=/tracker.guguan.000.pe/
 local=/blink-stresser.000webhostapp.com/
@@ -8578,6 +8578,7 @@ local=/trantor.is/
 local=/tribalmixes.com/
 local=/tricitytorrents.com/
 local=/triptorrents.com/
+local=/tr2.trkb.ru/
 local=/tracker.trojangogogo.site/
 local=/tronott.tv/
 local=/troypoint.com/
@@ -9101,7 +9102,6 @@ local=/voir-seriestreaming.org/
 local=/voirdrama.org/
 local=/voirfilm.vip/
 local=/voirfilms.ag/
-local=/voirfilms.bz/
 local=/voirfilms.io/
 local=/voirfilms.tel/
 local=/voirfilms.ws/
@@ -9111,7 +9111,6 @@ local=/voirseries.com/
 local=/voirseries.life/
 local=/voirseries.rip/
 local=/vww.voirseries.co/
-local=/volno.org/
 local=/volokit.com/
 local=/volokit.tv/
 local=/vootbd.live/
@@ -9259,7 +9258,6 @@ local=/watchmoviesnow.co/
 local=/bandhanbd.watchonlinemovies24.com/
 local=/tv.watchonlinemovies24.com/
 local=/watchonlineseries.eu/
-local=/watchordown.com/
 local=/watchraw.com/
 local=/watchseries.bar/
 local=/watchseries.movie/
@@ -9303,7 +9301,6 @@ local=/wcostream.com/
 local=/wcostream.net/
 local=/wdupload.com/
 local=/weakstreams.com/
-local=/wearethereal.ninja/
 local=/webbul.net/
 local=/megawarez.webcindario.com/
 local=/webfreecounter.com/
@@ -9456,13 +9453,11 @@ local=/dyndns.xionxiii.ovh/
 local=/xlist.ro/
 local=/xmovie8.pro/
 local=/xmovies.ws/
-local=/xmovies8.fm/
 local=/xmovies8.fun/
 local=/xmovies8.io/
 local=/xmovies8.is/
 local=/xmovies8.lol/
 local=/xmovies8.org/
-local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
@@ -9609,7 +9604,6 @@ local=/youtorrent.com/
 local=/youwatch.org/
 local=/ntorrent.yoyo.pl/
 local=/yqzuji.com/
-local=/tr2.ysagin.top/
 local=/yseries.tv/
 local=/yst.ac/
 local=/ytanime.tv/
@@ -9744,6 +9738,7 @@ local=/zipcyber.com/
 local=/ziperto.com/
 local=/zipnetbd.com/
 local=/zippyshare.com/
+local=/zippyshare.day/
 local=/zipwarez.com/
 local=/bt.zlofenix.org/
 local=/zlotracker.org/
