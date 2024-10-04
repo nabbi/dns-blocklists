@@ -1,14 +1,4 @@
 # IPs to be added to the tif IP list.
-#
-# RULES:
-#  - One IP per line
-#  - The IP should not already be included
-#  - If necessary, please leave a comment before the added IPs. Comments must start with #.
-#  - Please insert IPs under the comment BEGIN. 
-#  - Please ensure that there is a blank line before and after the inserted text block.
-
-# BEGIN
-
 100.29.17.61
 103.224.182.10
 103.224.182.253
@@ -684,5 +674,3 @@
 93.123.39.199
 94.156.8.251
 94.242.242.75
-
-# END

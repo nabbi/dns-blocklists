@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 03 Oct 2024 22:06 UTC
-! Version: 2024.1003.2206.29
+! Last modified: 04 Oct 2024 07:06 UTC
+! Version: 2024.1004.0706.03
 ! Syntax: AdBlock
-! Number of entries: 1346
+! Number of entries: 1352
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -109,6 +109,10 @@
 ||doh.apad.pro^
 ||ag.apollohct.com^
 ||doh.dns.apple.com^
+||mask-api.fe.apple-dns.net^
+||mask-api.fe2.apple-dns.net^
+||mask.apple-dns.net^
+||mask-t.apple-dns.net^
 ||dns.applewebkit.dev^
 ||doh.applied-privacy.net^
 ||dot1.applied-privacy.net^
@@ -639,6 +643,8 @@
 ||dns.ian.rocks^
 ||mask.icloud.com^
 ||mask-api.icloud.com^
+||mask-boot.icloud.com^
+||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
 ||tienpham.id.vn^
 ||adguard.shuting.idv.tw^

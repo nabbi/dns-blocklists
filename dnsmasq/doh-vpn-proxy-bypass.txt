@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Oct 2024 22:05 UTC
-# Version: 2024.1003.2205.17
+# Last modified: 04 Oct 2024 07:09 UTC
+# Version: 2024.1004.0709.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3398
+# Number of entries: 3404
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -227,6 +227,10 @@ local=/anyip.io/
 local=/doh.apad.pro/
 local=/ag.apollohct.com/
 local=/doh.dns.apple.com/
+local=/mask-api.fe.apple-dns.net/
+local=/mask-api.fe2.apple-dns.net/
+local=/mask.apple-dns.net/
+local=/mask-t.apple-dns.net/
 local=/appleproxy.com/
 local=/dns.applewebkit.dev/
 local=/doh.applied-privacy.net/
@@ -1383,6 +1387,8 @@ local=/webproxy.ich-war-hier.de/
 local=/icitek.com/
 local=/mask.icloud.com/
 local=/mask-api.icloud.com/
+local=/mask-boot.icloud.com/
+local=/mask-canary.icloud.com/
 local=/mask-h2.icloud.com/
 local=/icpsuawn1zy5amys.com/
 local=/tienpham.id.vn/
