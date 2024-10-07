@@ -1,6 +1,10 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif list.
 
+# Images in mails, unsubscribe from newsletters, referral
+custobar.com
+m-*.custobar.com
+
 # Genie AI app
 api.adapty.io
 api.onesignal.com
