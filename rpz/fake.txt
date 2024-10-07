@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1728169260 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1728255720 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Oct 2024 23:01 UTC
-; Version: 2024.1005.2301.28
+; Last modified: 06 Oct 2024 23:02 UTC
+; Version: 2024.1006.2302.52
 ; Syntax: RPZ
-; Number of entries: 25464
+; Number of entries: 25548
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -475,6 +475,8 @@ mth14.at CNAME .
 *.mth14.at CNAME .
 muckbootsosterreich.at CNAME .
 *.muckbootsosterreich.at CNAME .
+naturinowien.at CNAME .
+*.naturinowien.at CNAME .
 nb-osterreich.at CNAME .
 *.nb-osterreich.at CNAME .
 neu-akku.at CNAME .
@@ -759,6 +761,8 @@ yogabaum.at CNAME .
 *.yogabaum.at CNAME .
 yoshino.at CNAME .
 *.yoshino.at CNAME .
+z-designz.at CNAME .
+*.z-designz.at CNAME .
 mlbshoesaustralia.com.au CNAME .
 *.mlbshoesaustralia.com.au CNAME .
 ozkart.com.au CNAME .
@@ -1363,6 +1367,8 @@ akj-crypto.com CNAME .
 *.akj-crypto.com CNAME .
 akkuschrauber-heinrich.com CNAME .
 *.akkuschrauber-heinrich.com CNAME .
+aktcapitalag.com CNAME .
+*.aktcapitalag.com CNAME .
 alainboucault.com CNAME .
 *.alainboucault.com CNAME .
 alanwaynemyers.com CNAME .
@@ -1573,10 +1579,14 @@ amznde.com CNAME .
 *.amznde.com CNAME .
 amznreturnsale.com CNAME .
 *.amznreturnsale.com CNAME .
+amztechbox.com CNAME .
+*.amztechbox.com CNAME .
 anabolic-power24.com CNAME .
 *.anabolic-power24.com CNAME .
 anabolicaindeutschland.com CNAME .
 *.anabolicaindeutschland.com CNAME .
+anabolikalegale.com CNAME .
+*.anabolikalegale.com CNAME .
 anaisbuffard.com CNAME .
 *.anaisbuffard.com CNAME .
 andecko.com CNAME .
@@ -2423,6 +2433,8 @@ bestgenericpills24.com CNAME .
 *.bestgenericpills24.com CNAME .
 besthunny.com CNAME .
 *.besthunny.com CNAME .
+bestknifeworld.com CNAME .
+*.bestknifeworld.com CNAME .
 bestmarkt24.com CNAME .
 *.bestmarkt24.com CNAME .
 bestmedicineservice.com CNAME .
@@ -2985,6 +2997,8 @@ bremer-reifen.com CNAME .
 *.bremer-reifen.com CNAME .
 bremsenverkauf.com CNAME .
 *.bremsenverkauf.com CNAME .
+brennholz360.com CNAME .
+*.brennholz360.com CNAME .
 brennholzhaus.com CNAME .
 *.brennholzhaus.com CNAME .
 brennholzz.com CNAME .
@@ -3131,6 +3145,8 @@ callitspringshoe.com CNAME .
 *.callitspringshoe.com CNAME .
 camping-de.com CNAME .
 *.camping-de.com CNAME .
+camping-discount-gear.com CNAME .
+*.camping-discount-gear.com CNAME .
 campingandsurf.com CNAME .
 *.campingandsurf.com CNAME .
 campingangebote-de.com CNAME .
@@ -3659,6 +3675,8 @@ clothesvb.com CNAME .
 *.clothesvb.com CNAME .
 clothing-ladies.com CNAME .
 *.clothing-ladies.com CNAME .
+clothingbold.com CNAME .
+*.clothingbold.com CNAME .
 clothingcream.com CNAME .
 *.clothingcream.com CNAME .
 clothingitemus.com CNAME .
@@ -4247,6 +4265,8 @@ deliversafev.com CNAME .
 *.deliversafev.com CNAME .
 deltafaucethome.com CNAME .
 *.deltafaucethome.com CNAME .
+deltaprofit24.com CNAME .
+*.deltaprofit24.com CNAME .
 delyanshop.com CNAME .
 *.delyanshop.com CNAME .
 shop2902.demanovavillage.com CNAME .
@@ -5127,6 +5147,8 @@ euromaxfinance.com CNAME .
 *.euromaxfinance.com CNAME .
 euronixstore.com CNAME .
 *.euronixstore.com CNAME .
+europa-apotek.com CNAME .
+*.europa-apotek.com CNAME .
 europaeisches-treuhandkontor.com CNAME .
 *.europaeisches-treuhandkontor.com CNAME .
 europaischeapotheke.com CNAME .
@@ -6419,6 +6441,8 @@ goodstuffsport.com CNAME .
 *.goodstuffsport.com CNAME .
 goodstufftool.com CNAME .
 *.goodstufftool.com CNAME .
+gopotend.com CNAME .
+*.gopotend.com CNAME .
 gourmandebusy.com CNAME .
 *.gourmandebusy.com CNAME .
 gpt-chatt.com CNAME .
@@ -6973,6 +6997,8 @@ highbtcstock.com CNAME .
 *.highbtcstock.com CNAME .
 highsneakersshop.com CNAME .
 *.highsneakersshop.com CNAME .
+hightqualitywear.com CNAME .
+*.hightqualitywear.com CNAME .
 hikingbivouac.com CNAME .
 *.hikingbivouac.com CNAME .
 hikingtrailfinds.com CNAME .
@@ -7367,6 +7393,8 @@ ibiza-bookingvillas.com CNAME .
 *.ibiza-bookingvillas.com CNAME .
 ibizaholidaysinvest.com CNAME .
 *.ibizaholidaysinvest.com CNAME .
+ibizaprestigevillas.com CNAME .
+*.ibizaprestigevillas.com CNAME .
 ibkulwear.com CNAME .
 *.ibkulwear.com CNAME .
 ibl-markets.com CNAME .
@@ -7551,6 +7579,8 @@ invexplus.com CNAME .
 *.invexplus.com CNAME .
 booking.invitation-rent-longterm.com CNAME .
 *.booking.invitation-rent-longterm.com CNAME .
+inwibeast.com CNAME .
+*.inwibeast.com CNAME .
 iowautotrading.com CNAME .
 *.iowautotrading.com CNAME .
 ipcailud.com CNAME .
@@ -8905,6 +8935,8 @@ marketgiants.com CNAME .
 *.marketgiants.com CNAME .
 marketoptions.com CNAME .
 *.marketoptions.com CNAME .
+marketplacetopshop.com CNAME .
+*.marketplacetopshop.com CNAME .
 markets-capital.com CNAME .
 *.markets-capital.com CNAME .
 marketsbroker.com CNAME .
@@ -9629,6 +9661,8 @@ wolovos.myshopify.com CNAME .
 *.674985034.myshoplaza.com CNAME .
 qf-store.myshoplaza.com CNAME .
 *.qf-store.myshoplaza.com CNAME .
+tcduvshop02.myshoplaza.com CNAME .
+*.tcduvshop02.myshoplaza.com CNAME .
 price.mytestopay.com CNAME .
 *.price.mytestopay.com CNAME .
 sportlife.mytestopay.com CNAME .
@@ -9745,6 +9779,8 @@ neuemotoren.com CNAME .
 *.neuemotoren.com CNAME .
 neueseudokument.com CNAME .
 *.neueseudokument.com CNAME .
+neueskateboardmode.com CNAME .
+*.neueskateboardmode.com CNAME .
 neuespielzeugauto.com CNAME .
 *.neuespielzeugauto.com CNAME .
 neuetierfutter.com CNAME .
@@ -10319,6 +10355,8 @@ openair-haven.com CNAME .
 *.openair-haven.com CNAME .
 openair-zone.com CNAME .
 *.openair-zone.com CNAME .
+opengers.com CNAME .
+*.opengers.com CNAME .
 openmedicine-online.com CNAME .
 *.openmedicine-online.com CNAME .
 openuplongbeach.com CNAME .
@@ -12089,6 +12127,8 @@ salewineglass.com CNAME .
 *.salewineglass.com CNAME .
 saleworkshopequip.com CNAME .
 *.saleworkshopequip.com CNAME .
+salfas.com CNAME .
+*.salfas.com CNAME .
 salmingchile.com CNAME .
 *.salmingchile.com CNAME .
 salmingcolombia.com CNAME .
@@ -12273,6 +12313,8 @@ seafollywear.com CNAME .
 *.seafollywear.com CNAME .
 ildhs.searchhomesforyou.com CNAME .
 *.ildhs.searchhomesforyou.com CNAME .
+sears-de.com CNAME .
+*.sears-de.com CNAME .
 sebagoantwerpen.com CNAME .
 *.sebagoantwerpen.com CNAME .
 sebagobruxelles.com CNAME .
@@ -12673,6 +12715,8 @@ sitevogue-us.com CNAME .
 *.sitevogue-us.com CNAME .
 sitippeb.com CNAME .
 *.sitippeb.com CNAME .
+skate-erlebnis.com CNAME .
+*.skate-erlebnis.com CNAME .
 skateboardhandpick.com CNAME .
 *.skateboardhandpick.com CNAME .
 skateboards-salestore.com CNAME .
@@ -13169,6 +13213,8 @@ storiesfashions.com CNAME .
 *.storiesfashions.com CNAME .
 stoxdc.com CNAME .
 *.stoxdc.com CNAME .
+strahlerdeck.com CNAME .
+*.strahlerdeck.com CNAME .
 straps-shop.com CNAME .
 *.straps-shop.com CNAME .
 strategiessolution.com CNAME .
@@ -13279,6 +13325,8 @@ subttles.com CNAME .
 *.subttles.com CNAME .
 success-broker.com CNAME .
 *.success-broker.com CNAME .
+sucheskateboard.com CNAME .
+*.sucheskateboard.com CNAME .
 sucm.com CNAME .
 *.sucm.com CNAME .
 suekoppel.com CNAME .
@@ -13505,6 +13553,8 @@ taihand.com CNAME .
 *.taihand.com CNAME .
 tailorwears.com CNAME .
 *.tailorwears.com CNAME .
+takeyabottleusa.com CNAME .
+*.takeyabottleusa.com CNAME .
 taktischewelt.com CNAME .
 *.taktischewelt.com CNAME .
 talentharmonyhub-at.com CNAME .
@@ -13673,6 +13723,8 @@ teveodeutschlandde.com CNAME .
 *.teveodeutschlandde.com CNAME .
 textilesdaily.com CNAME .
 *.textilesdaily.com CNAME .
+tez-sonido.com CNAME .
+*.tez-sonido.com CNAME .
 tezelnet.com CNAME .
 *.tezelnet.com CNAME .
 tfipost.com CNAME .
@@ -13843,6 +13895,8 @@ thereplacementparts.com CNAME .
 *.thereplacementparts.com CNAME .
 therickhinderer.com CNAME .
 *.therickhinderer.com CNAME .
+thermoscup-shop.com CNAME .
+*.thermoscup-shop.com CNAME .
 thesafetyequip.com CNAME .
 *.thesafetyequip.com CNAME .
 thescratchbuilding.com CNAME .
@@ -13853,6 +13907,8 @@ thesignaturehardware.com CNAME .
 *.thesignaturehardware.com CNAME .
 thesissystore.com CNAME .
 *.thesissystore.com CNAME .
+thesneakershouse.com CNAME .
+*.thesneakershouse.com CNAME .
 thesportcategory.com CNAME .
 *.thesportcategory.com CNAME .
 thesportsua.com CNAME .
@@ -14541,6 +14597,8 @@ universalbundle.com CNAME .
 *.universalbundle.com CNAME .
 universalcyclinghelmet.com CNAME .
 *.universalcyclinghelmet.com CNAME .
+univragri.com CNAME .
+*.univragri.com CNAME .
 unusualgarment.com CNAME .
 *.unusualgarment.com CNAME .
 unusualsurf.com CNAME .
@@ -14979,6 +15037,8 @@ viking-solutions.com CNAME .
 *.viking-solutions.com CNAME .
 viktoriapieper.com CNAME .
 *.viktoriapieper.com CNAME .
+villaholidaysibiza.com CNAME .
+*.villaholidaysibiza.com CNAME .
 vinsimo.com CNAME .
 *.vinsimo.com CNAME .
 vinsrougesboutique.com CNAME .
@@ -15299,6 +15359,8 @@ wiktoriakmit.com CNAME .
 *.wiktoriakmit.com CNAME .
 wildcatwork.com CNAME .
 *.wildcatwork.com CNAME .
+wildflowercasesphilippines.com CNAME .
+*.wildflowercasesphilippines.com CNAME .
 wildlingshoes-de.com CNAME .
 *.wildlingshoes-de.com CNAME .
 wildlingshoes-germany.com CNAME .
@@ -15953,6 +16015,8 @@ anduni.de CNAME .
 *.anduni.de CNAME .
 anekkesdeutschland.de CNAME .
 *.anekkesdeutschland.de CNAME .
+angeboteschuhe.de CNAME .
+*.angeboteschuhe.de CNAME .
 angela-cosmetics.de CNAME .
 *.angela-cosmetics.de CNAME .
 angelstar-tech.de CNAME .
@@ -16059,6 +16123,8 @@ audery.de CNAME .
 *.audery.de CNAME .
 aufladekarten24.de CNAME .
 *.aufladekarten24.de CNAME .
+auftrag-rezeptfrei.de CNAME .
+*.auftrag-rezeptfrei.de CNAME .
 aupair-mama.de CNAME .
 *.aupair-mama.de CNAME .
 ausdet.de CNAME .
@@ -16143,6 +16209,8 @@ barsin24.de CNAME .
 *.barsin24.de CNAME .
 bartomuk.de CNAME .
 *.bartomuk.de CNAME .
+baseballpromo.de CNAME .
+*.baseballpromo.de CNAME .
 basia-kauf.de CNAME .
 *.basia-kauf.de CNAME .
 bateg24.de CNAME .
@@ -16713,8 +16781,6 @@ cyber-finances.de CNAME .
 *.cyber-finances.de CNAME .
 cyber-haus.de CNAME .
 *.cyber-haus.de CNAME .
-d-apotheke.de CNAME .
-*.d-apotheke.de CNAME .
 d-personensuche.de CNAME .
 *.d-personensuche.de CNAME .
 dach-remscheid.de CNAME .
@@ -16977,6 +17043,8 @@ dronars.de CNAME .
 *.dronars.de CNAME .
 drypulse.de CNAME .
 *.drypulse.de CNAME .
+dubarrydeutschland.de CNAME .
+*.dubarrydeutschland.de CNAME .
 duolaimi-handel.de CNAME .
 *.duolaimi-handel.de CNAME .
 dvaraka24.de CNAME .
@@ -17847,8 +17915,6 @@ hallersens.de CNAME .
 *.hallersens.de CNAME .
 hallobh.de CNAME .
 *.hallobh.de CNAME .
-hallookaffee.de CNAME .
-*.hallookaffee.de CNAME .
 hamburg-modehaus.de CNAME .
 *.hamburg-modehaus.de CNAME .
 hamburger-verzand.de CNAME .
@@ -19153,6 +19219,8 @@ netzteileladen.de CNAME .
 *.netzteileladen.de CNAME .
 neudisney.de CNAME .
 *.neudisney.de CNAME .
+neueara.de CNAME .
+*.neueara.de CNAME .
 neuedamen.de CNAME .
 *.neuedamen.de CNAME .
 neuefahrradteile.de CNAME .
@@ -19577,6 +19645,8 @@ pro-gruenhandel.de CNAME .
 *.pro-gruenhandel.de CNAME .
 pro-koffee.de CNAME .
 *.pro-koffee.de CNAME .
+pro-kreditfinanz.de CNAME .
+*.pro-kreditfinanz.de CNAME .
 probies.de CNAME .
 *.probies.de CNAME .
 processxpert.de CNAME .
@@ -19927,6 +19997,8 @@ scentuelle.de CNAME .
 *.scentuelle.de CNAME .
 schaffelhuberconsulting.de CNAME .
 *.schaffelhuberconsulting.de CNAME .
+scharfemesser.de CNAME .
+*.scharfemesser.de CNAME .
 sche.de CNAME .
 *.sche.de CNAME .
 schirmlampenneu.de CNAME .
@@ -20127,6 +20199,8 @@ smms-finanzberatung.de CNAME .
 *.smms-finanzberatung.de CNAME .
 sneakersberlin.de CNAME .
 *.sneakersberlin.de CNAME .
+sngartenbau.de CNAME .
+*.sngartenbau.de CNAME .
 snowboardk2.de CNAME .
 *.snowboardk2.de CNAME .
 snowhellyhansen.de CNAME .
@@ -20251,8 +20325,6 @@ standpellets.de CNAME .
 *.standpellets.de CNAME .
 startshopfulfillment.de CNAME .
 *.startshopfulfillment.de CNAME .
-stationsparty.de CNAME .
-*.stationsparty.de CNAME .
 staubsaugerhaus.de CNAME .
 *.staubsaugerhaus.de CNAME .
 staubsaugerrabatt.de CNAME .
@@ -21565,6 +21637,8 @@ goodlzflow.life CNAME .
 *.goodlzflow.life CNAME .
 hongyun.life CNAME .
 *.hongyun.life CNAME .
+kidgames.life CNAME .
+*.kidgames.life CNAME .
 marcjacobs.life CNAME .
 *.marcjacobs.life CNAME .
 markt.life CNAME .
@@ -22959,6 +23033,8 @@ alttech.shop CNAME .
 *.alttech.shop CNAME .
 aluproholz.shop CNAME .
 *.aluproholz.shop CNAME .
+amb-gruenesmeer.shop CNAME .
+*.amb-gruenesmeer.shop CNAME .
 aminatakids.shop CNAME .
 *.aminatakids.shop CNAME .
 ancderewelten.shop CNAME .
@@ -22979,6 +23055,8 @@ aobjektif.shop CNAME .
 *.aobjektif.shop CNAME .
 apohealth.shop CNAME .
 *.apohealth.shop CNAME .
+apx-offroad.shop CNAME .
+*.apx-offroad.shop CNAME .
 aqua-fun.shop CNAME .
 *.aqua-fun.shop CNAME .
 arachnoworld.shop CNAME .
@@ -23061,6 +23139,8 @@ babymoovde.shop CNAME .
 *.babymoovde.shop CNAME .
 babysplanetde.shop CNAME .
 *.babysplanetde.shop CNAME .
+badakzente.shop CNAME .
+*.badakzente.shop CNAME .
 balloonsetc.shop CNAME .
 *.balloonsetc.shop CNAME .
 bamelabuy.shop CNAME .
@@ -23249,6 +23329,8 @@ compressor-sourcde.shop CNAME .
 *.compressor-sourcde.shop CNAME .
 corona-testkit.shop CNAME .
 *.corona-testkit.shop CNAME .
+cosmetic-bulang.shop CNAME .
+*.cosmetic-bulang.shop CNAME .
 cotswoldluxde.shop CNAME .
 *.cotswoldluxde.shop CNAME .
 crazyer.shop CNAME .
@@ -24969,6 +25051,8 @@ e-trading.store CNAME .
 *.e-trading.store CNAME .
 edapotheke.store CNAME .
 *.edapotheke.store CNAME .
+elektromarkt.store CNAME .
+*.elektromarkt.store CNAME .
 fashionlink.store CNAME .
 *.fashionlink.store CNAME .
 fjoutlet.store CNAME .
