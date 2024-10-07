@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 16 Sep 2024 21:46 UTC
-# Version: 2024.0916.2146.11
+# Last modified: 06 Oct 2024 21:31 UTC
+# Version: 2024.1006.2131.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 1628
+# Number of entries: 1639
 #
 l.1mp.ru
 t.1und1.de
@@ -539,6 +539,7 @@ adservice.google.ws
 www.googleadservices.com
 gopjn.com
 track.grove.co
+webflow.grsm.io
 creators.gumroad.com
 click.holidayinnclubemail.com
 click.instantink.hpsmart.com
@@ -646,7 +647,6 @@ links.mkt81.net
 mkto-a0236.com
 mkto-a0253.com
 mkto-a0324.com
-mkto-ab010010.com
 mkto-ab010012.com
 mkto-ab010044.com
 mkto-ab010088.com
@@ -654,20 +654,21 @@ mkto-ab010092.com
 mkto-ab010095.com
 mkto-ab010100.com
 mkto-ab010150.com
+mkto-ab010168.com
 mkto-ab020052.com
 mkto-ab020120.com
 mkto-ab020223.com
-mkto-ab020228.com
 mkto-ab020242.com
 mkto-ab030010.com
 mkto-ab030019.com
 mkto-ab030084.com
 mkto-ab030222.com
 mkto-ab030250.com
+mkto-ab040021.com
 mkto-ab040115.com
 mkto-ab040147.com
+mkto-ab050068.com
 mkto-ab050179.com
-mkto-ab060068.com
 mkto-ab060085.com
 mkto-ab060134.com
 mkto-ab060144.com
@@ -703,6 +704,7 @@ mkto-ab120125.com
 mkto-ab120143.com
 mkto-ab120150.com
 mkto-ab130029.com
+mkto-ab130052.com
 mkto-ab130125.com
 mkto-ab130150.com
 mkto-ab130188.com
@@ -750,6 +752,7 @@ mkto-ab240012.com
 mkto-ab240099.com
 mkto-ab240112.com
 mkto-ab240127.com
+mkto-ab240175.com
 mkto-ab240197.com
 mkto-ab240206.com
 mkto-ab250089.com
@@ -820,6 +823,7 @@ mkto-ab350123.com
 mkto-ab350155.com
 mkto-ab350160.com
 mkto-ab390012.com
+mkto-ab390062.com
 mkto-ab390087.com
 mkto-ab390155.com
 mkto-ab390158.com
@@ -951,6 +955,8 @@ mkto-ab630043.com
 mkto-ab630152.com
 mkto-ab640107.com
 mkto-ab690006.com
+mkto-ab690011.com
+mkto-ab690019.com
 mkto-ab690180.com
 mkto-aba0278.com
 mkto-abc0038.com
@@ -961,7 +967,6 @@ mkto-abd0206.com
 mkto-abd0218.com
 mkto-abj0022.com
 mkto-abj0025.com
-mkto-abk0209.com
 mkto-abm0016.com
 mkto-abm0027.com
 mkto-abm0065.com
@@ -970,7 +975,6 @@ mkto-abm0229.com
 mkto-abm0236.com
 mkto-abq0207.com
 mkto-b0067.com
-mkto-b0225.com
 mkto-b0268.com
 mkto-b0304.com
 mkto-b0366.com
@@ -999,6 +1003,7 @@ mkto-g0150.com
 mkto-g0180.com
 mkto-h0035.com
 mkto-h0043-2.com
+mkto-h0125.com
 mkto-h0163.com
 mkto-i0028.com
 mkto-i0106.com
@@ -1014,12 +1019,10 @@ mkto-k0033.com
 mkto-k0051.com
 mkto-k0064.com
 mkto-k0110.com
-mkto-l0094.com
-mkto-l0177.com
 mkto-lon020062.com
-mkto-lon030199.com
 mkto-lon030290.com
 mkto-lon030291.com
+mkto-lon030338.com
 mkto-lon030346.com
 mkto-lon030361.com
 mkto-lon040102.com
@@ -1064,23 +1067,26 @@ mkto-nld1040186.com
 mkto-o0055.com
 mkto-o0058.com
 mkto-o0059.com
-mkto-o0070.com
+mkto-o0129.com
+mkto-o0143.com
 mkto-o0148.com
 mkto-o0153.com
 mkto-p0056.com
 mkto-p0110.com
 mkto-p0136.com
-mkto-p0154.com
 mkto-sj010104.com
 mkto-sj010128.com
 mkto-sj010207.com
 mkto-sj010221.com
 mkto-sj010279.com
 mkto-sj020052.com
+mkto-sj020147.com
 mkto-sj020159.com
 mkto-sj020171.com
 mkto-sj020238.com
+mkto-sj030031.com
 mkto-sj030081.com
+mkto-sj030085.com
 mkto-sj030206.com
 mkto-sj030214.com
 mkto-sj030220.com
@@ -1114,6 +1120,7 @@ mkto-sj090157.com
 mkto-sj100015.com
 mkto-sj100029.com
 mkto-sj100091.com
+mkto-sj100128.com
 mkto-sj100138.com
 mkto-sj110023.com
 mkto-sj110038.com
@@ -1206,6 +1213,7 @@ mkto-sj290197.com
 mkto-sj300004.com
 mkto-sj300017.com
 mkto-sj300019.com
+mkto-sj300044.com
 mkto-sj300120.com
 mkto-sj300121.com
 mkto-sj300165.com
@@ -1217,6 +1225,7 @@ mkto-sj310057.com
 mkto-sj310059.com
 mkto-sj310061.com
 mkto-sj310136.com
+mkto-sj310138.com
 mkto-sj310186.com
 mkto-sj320033.com
 mkto-sj320047.com
@@ -1236,6 +1245,7 @@ mkto-sj360185.com
 mkto-sj360189.com
 mkto-sj360195.com
 mkto-sj370066.com
+mkto-sj370082.com
 mkto-sj370083.com
 mkto-sj370153.com
 mkto-sj370181.com
@@ -1259,14 +1269,12 @@ mkto-sj410004.com
 mkto-sjf0097.com
 mkto-sjf0142.com
 mkto-sjf0196.com
-mkto-sjf0254.com
 mkto-sjg0052.com
 mkto-sjg0056.com
 mkto-sjg0178.com
 mkto-sjg0189.com
 mkto-sjg0233.com
 mkto-sjg0266.com
-mkto-sjg0272.com
 mkto-sjh0178.com
 mkto-sjh0213.com
 mkto-sjh0224.com
@@ -1366,6 +1374,7 @@ track.productsup.io
 click.pstmrk.it
 tracking.publicidees.com
 api.pushwoosh.com
+tracker.pusulapartners6.com
 pxf.io
 qflm.net
 qksrv.net
@@ -1400,6 +1409,7 @@ r88lcbcab.cc.rs6.net
 ra6ofgjab.cc.rs6.net
 ra78rnoab.cc.rs6.net
 ra7jt48ab.cc.rs6.net
+rak7fucab.cc.rs6.net
 rapki9kab.cc.rs6.net
 rayrzagab.cc.rs6.net
 rb6paw8ab.cc.rs6.net
@@ -1625,6 +1635,7 @@ c.webengage.com
 webep1.com
 track.production.webgains.team
 solution.weborama.fr
+webpower.eu
 engage.windows.com
 link.wizzair.com
 engage.xbox.com

@@ -1,14 +1,4 @@
 # Domains to be added only to the pro++ and ultimate list.
-#
-# RULES:
-#  - One domain per line
-#  - The domain should not already be included
-#  - The domain should not be dead 
-#  - If necessary, please leave a comment before the added domains. Comments must start with #.
-#  - Please insert domains under the comment BEGIN. 
-#  - Please ensure that there is a blank line before and after the inserted text block.
-
-# BEGIN
 
 # https://github.com/hagezi/dns-blocklists/issues/3667
 bbc-reporting-api.app
@@ -466,7 +456,8 @@ pageadgooglesyndication.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2900
 growth-pa.googleapis.com
-geller-pa.googleapis.com
+# Needed for additional Assistant downloads on Android
+# geller-pa.googleapis.com
 # https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2179314278
 admob.googleapis.com
 adsense.googleapis.com
@@ -525,5 +516,3 @@ argo.svcmot.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2300
 tracker.testbook.com
-
-# END

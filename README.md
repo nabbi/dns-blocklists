@@ -21,7 +21,7 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 7. [Fake](#fake) - Protects against internet scams, traps & fakes!
 8. [Pop-Up Ads](#popupads) - Protects against annoying and malicious pop-up ads!
 9. [Threat Intelligence Feeds](#tif) - Increases security significantly! (Recommended) : [Full](#tif) - [Medium](#tifmedium) - [Mini](#tifmini) - [IPs](#tifips)
-10. [Newly Registered Domains](#nrd) - Favoured by threat actors to launch malicious campaigns! : [14 days](#nrd14) - [30 days](#nrd30)
+10. [Newly Registered Domains](#nrd) - Favoured by threat actors to launch malicious campaigns!
 11. [DoH/VPN/TOR/Proxy Bypass](#bypass) - Prevent methods to bypass your DNS! : [Full](#bypass_all) - [DoH only](#bypass_dns) - [DoH IPs](#bypass_ips)
 12. [Safesearch not supported](#safesearch) - Prevent the use of search engines that do not support Safesearch!
 13. [Dynamic DNS](#dyndns) - Protects against the malicious use of dynamic DNS services!
@@ -48,11 +48,11 @@ See also: [Which sources are used for the lists and how are the lists compiled o
 
 | Version | Entries | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Nat<br>ive](#native) | [PopUp<br>Ads](#popupads) | Bug<br>Tracker |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----:|:----:|
-| :green_book:[Light](#light)             | 136590<br>69556     |  |   |   | :green_circle:  |  | |  :yellow_square: | | |
-| :blue_book:[Normal](#normal)       | 452551<br>148969     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
-| :ledger:[Pro](#pro)              | 517501<br>168202         |  | :green_circle: | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
-| :orange_book:[Pro++](#proplus)    | 621145<br>192970 | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |:yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
-| :closed_book:[Ultimate](#ultimate)    | 668123<br>206361 | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  | :yellow_square: | :green_circle: | :yellow_square: | :green_circle: |
+| :green_book:[Light](#light)             | 139526<br>69540     |  |   |   | :green_circle:  |  | |  :yellow_square: | | |
+| :blue_book:[Normal](#normal)       | 464870<br>148665     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
+| :ledger:[Pro](#pro)              | 539463<br>169140         |  | :green_circle: | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
+| :orange_book:[Pro++](#proplus)    | 642252<br>193824 | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |:yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
+| :closed_book:[Ultimate](#ultimate)    | 701692<br>207915 | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  | :yellow_square: | :green_circle: | :yellow_square: | :green_circle: |
 
 :green_circle: contains the list named in the column caption
 :yellow_square: partially contains the list named in the column caption
@@ -79,7 +79,7 @@ Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking
 > [!NOTE]
 > Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.
 
-**Entries:** 136590 domains/hosts - 69556 compressed domains
+**Entries:** 139526 domains/hosts - 69540 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -99,7 +99,7 @@ Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tr
 > [!NOTE]
 > Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.
 
-**Entries:** 452551 domains/hosts - 148969 compressed domains
+**Entries:** 464870 domains/hosts - 148665 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -115,7 +115,7 @@ Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tr
 
 Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".
 
-**Entries:** 517501 domains/hosts - 168202 compressed domains
+**Entries:** 539463 domains/hosts - 169140 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -131,7 +131,7 @@ Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate
 
 Size-optimised version for DNS/Browser adblockers. This list only contains domains from the Pro full that have been found on Top 1M lists (Umbrella, Cloudflare, Tranco, Chrome, ...) in the last 12 months.
 
-**Entries:** 84928 compressed domains
+**Entries:** 85465 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -148,7 +148,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 > [!NOTE]
 > More aggressive version of the Multi PRO blocklist. It may contain a few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!
 
-**Entries:** 621145 domains/hosts - 192970 compressed domains
+**Entries:** 642252 domains/hosts - 193824 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -164,7 +164,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 
 Size-optimised version for DNS/Browser adblockers. This list only contains domains from the Pro++ full that have been found on Top 1M lists (Umbrella, Cloudflare, Tranco, Chrome, ...) in the last 12 months.
 
-**Entries:** 100106 compressed domains
+**Entries:** 100767 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -184,7 +184,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 > [!WARNING]
 > META trackers are blocked in Ultimate. This restricts the use of Facebook and Facebook Messenger apps. Furthermore, the Whatsapp graph trackers are blocked, which leads to restrictions when creating avatars and using the in-app helpcenter. Otherwise, blocking has no effect on Whatsapp functionalities. To use META apps with Ultimate, unblock the following domains if necessary: [META Tracker](share/facebook.txt)
 
-**Entries:** 668123 domains/hosts - 206361 compressed domains
+**Entries:** 701692 domains/hosts - 207915 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -200,7 +200,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 
 Size-optimised version for DNS/Browser adblockers. This list only contains domains from the Ultimate full that have been found on Top 1M lists (Umbrella, Cloudflare, Tranco, Chrome, ...) in the last 12 months.
 
-**Entries:** 108045 compressed domains
+**Entries:** 108708 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -224,7 +224,7 @@ A blocklist for blocking fake stores, -streaming, rip-offs, cost traps and co.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 12664 compressed domains
+**Entries:** 12774 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -251,7 +251,7 @@ A blocklist for annoying and malicious blocking pop-up ads.
 > [!NOTE]
 > In the combination of the Pro or higher and additionally the Threat Intelligence Feeds (TIF) Medium or Full, all domains from the Pop-Up Ads list are included. This means that if you use the Pro or higher and also the TIF medium or full, you no longer need to add this list separately.
 
-**Entries:** 80377 compressed domains
+**Entries:** 81931 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -275,7 +275,7 @@ A blocklist for blocking malware, cryptojacking, scam, spam and phishing. Blocks
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 992754 domains/hosts - 552791 compressed domains
+**Entries:** 1045119 domains/hosts - 591692 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -297,7 +297,7 @@ A medium version of the Threat Intelligence Feeds list. Designed for Adblockers 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 155176 compressed domains
+**Entries:** 166841 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -317,7 +317,7 @@ A size-optimised version of the Threat Intelligence Feeds Medium list. Designed 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 74172 compressed domains
+**Entries:** 83251 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -344,40 +344,9 @@ IPv4 lists in [plain IP format](https://raw.githubusercontent.com/hagezi/dns-blo
 A blocklist for blocking domains registered in the last 14 or 30 days. These domains are known to be favoured by threat actors to launch malicious campaigns.
 
 > [!IMPORTANT]
-> This is an external list that is created and maintained by [@xRuffKez](https://github.com/xRuffKez). Please address requests directly to the maintainer in the [corresponding repository](https://github.com/xRuffKez/NRD).
+> This is an external list that is created and maintained by [@xRuffKez](https://github.com/xRuffKez).
 
-> [!NOTE]
-> It may contain a few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains.
-
-|             | Light           | Normal          | Pro             | Pro++           | Ultimate        | TIF   |
-|:-----------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:| :---: |
-| Included in | :x: | :x: | :x: | :x: | :x: | :yellow_square: |
-
-:green_circle: yes :yellow_square: partially :x: no
-
-#### :new: **Domains registered in the last 14 days** <a name="nrd14"></a>
-
-| Format | Links | Should be used for |
-|:-------|:-----|:----------------|
-| Adblock | [Link](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-14day_adblock.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-14day_wildcard.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-14day.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
-
-#### :new: **Domains registered in the last 30 days** <a name="nrd30"></a>
-
-> [!IMPORTANT]
-> The 30-day list has been divided into two parts in order not to exceed the maximum size for files on Github. Both parts must be used.
-
-> [!WARNING]
-> The total size of the list can lead to problems in some Adblockers. If this is the case, use the 14-day version of the list.
-
-| Format | Links | Should be used for |
-|:-------|:-----|:----------------|
-| Adblock | [Part1](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_adblock_part1.txt) [Part2](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_adblock_part2.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home (can lead to problems due to the size!), eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam |
-| Wildcard<br>Asterisk | [Part1](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_wildcard_part1.txt) [Part2](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_wildcard_part2.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Part1](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_part1.txt) [Part2](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_part2.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
-
-**Expires:** 24 hours (update frequency)
+**For the lists and further details visit the [corresponding repository](https://github.com/xRuffKez/NRD).**
 
 ---
 
@@ -398,7 +367,7 @@ Prevent methods to bypass your DNS.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 3390 compressed domains
+**Entries:** 3335 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -418,7 +387,7 @@ Prevent methods to bypass your DNS.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 1514 domains/hosts - 1353 compressed domains
+**Entries:** 1507 domains/hosts - 1335 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -454,7 +423,7 @@ A blocklist for blocking search engines that do not support Safesearch.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 225 compressed domains
+**Entries:** 224 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -478,7 +447,7 @@ A blocklist for blocking dynamic DNS services to protect against malicious use i
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 1481 compressed domains
+**Entries:** 1479 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -502,7 +471,7 @@ A blocklist for blocking known free hosters that also host badware via user cont
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 1830 compressed domains
+**Entries:** 1854 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -551,7 +520,7 @@ Blocks websites and services that are mainly used for the illegal distribution o
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 9774 compressed domains
+**Entries:** 9968 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -575,7 +544,7 @@ Blocks gambling content.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 382520 compressed domains
+**Entries:** 436930 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -595,7 +564,7 @@ A medium version of the Gambling list. Designed for Adblockers that have problem
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 163734 compressed domains
+**Entries:** 167047 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -615,7 +584,7 @@ A size-optimised version of the Gambling Medium list. This list only contains do
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 33037 compressed domains
+**Entries:** 34339 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -645,6 +614,7 @@ Blocks native broadband tracker from devices, services and operating systems tha
 | Apple (iOS, macOS, tvOS) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.apple.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/native.apple.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/native.apple.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/native.apple.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.apple.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/native.apple.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/native.apple.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.apple.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/native.apple.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.apple.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.apple.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.apple-onlydomains.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.apple-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/native.apple.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/native.apple.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/native.apple.txt) |
 | Huawei (Devices) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.huawei.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.huawei.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/native.huawei.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/native.huawei.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.huawei.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/native.huawei.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.huawei.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/native.huawei.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/native.huawei.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.huawei.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/native.huawei.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.huawei.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.huawei.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.huawei-onlydomains.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.huawei-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/native.huawei.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/native.huawei.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/native.huawei.txt) |
 | Microsoft (Windows, Office, MSN) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.winoffice.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/native.winoffice.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/native.winoffice.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.winoffice.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/native.winoffice.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.winoffice.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/native.winoffice.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/native.winoffice.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.winoffice.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/native.winoffice.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.winoffice.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.winoffice.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.winoffice-onlydomains.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.winoffice-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/native.winoffice.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/native.winoffice.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/native.winoffice.txt) |
+| Samsung | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.samsung.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.samsung.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/native.samsung.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/native.samsung.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.samsung.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/native.samsung.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.samsung.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/native.samsung.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/native.samsung.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.samsung.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/native.samsung.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.samsung.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.samsung.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.samsung.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.samsung-onlydomains.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.samsung-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.samsung-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/native.samsung.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/native.samsung.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/native.samsung.txt) |
 | TikTok (Fingerprinting) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/native.tiktok.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/native.tiktok.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.tiktok.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/native.tiktok.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/native.tiktok.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/native.tiktok.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.tiktok.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/native.tiktok.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.tiktok.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.tiktok.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.tiktok-onlydomains.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.tiktok-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/native.tiktok.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/native.tiktok.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/native.tiktok.txt) |
 | TikTok (Fingerprinting) Aggressive | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.extended.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/native.tiktok.extended.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/native.tiktok.extended.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.tiktok.extended.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/native.tiktok.extended.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.extended.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.extended.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/native.tiktok.extended.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/native.tiktok.extended.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.tiktok.extended.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/native.tiktok.extended.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.tiktok.extended.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.extended.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.tiktok.extended.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.tiktok.extended-onlydomains.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.extended-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.tiktok.extended-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/native.tiktok.extended.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/native.tiktok.extended.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/native.tiktok.extended.txt) |
 | LG webOS | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.lgwebos.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.lgwebos.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/native.lgwebos.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/native.lgwebos.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.lgwebos.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/native.lgwebos.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.lgwebos.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.lgwebos.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/native.lgwebos.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/native.lgwebos.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.lgwebos.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/native.lgwebos.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.lgwebos.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.lgwebos.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.lgwebos.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.lgwebos-onlydomains.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.lgwebos-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/native.lgwebos-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/native.lgwebos.txt) [Mirror](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/native.lgwebos.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/native.lgwebos.txt) |
@@ -743,10 +713,6 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 | Pro + TIF  | `https://dns.dnswarden.com/00000000000000000000018` | `00000000000000000000018.dns.dnswarden.com` |
 | Pro plus + TIF | `https://dns.dnswarden.com/0000000000000000000000o` | `0000000000000000000000o.dns.dnswarden.com` |
 | Ultimate + TIF | `https://dns.dnswarden.com/0000000000000000000000804` | `0000000000000000000000804.dns.dnswarden.com` |
-
-#### :department_store: **DNSforge (Germany) - free** <a name="dnsforge"></a>
-
-[DNSforge](https://dnsforge.de/) uses some of my lists in addition to other blocklists.
 
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 

@@ -170,7 +170,6 @@ https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/master/Piracy%20Li
 https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt
 https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt
 https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-abp.txt
-https://raw.githubusercontent.com/gardenfence/blocklist/main/gardenfence.txt
 https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
 https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
@@ -385,8 +384,8 @@ https://raw.githubusercontent.com/velesila/yhosts/master/hosts
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_part1.txt
 https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_part2.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-phishing-14day.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-phishing-30day.txt
+https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/14-day_phishing/domains-only/nrd-phishing-14day.txt
+https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt
 https://raw.githubusercontent.com/YanFung/Ads/master/Mobile
 https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt

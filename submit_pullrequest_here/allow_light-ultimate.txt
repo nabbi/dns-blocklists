@@ -1,15 +1,15 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif list.
-#
-# RULES:
-#  - One domain per line. Wildcard patterns are allowed, e.g. *.example.org / aa-*.example.com / example.*
-#  - The domain/pattern should not already be included
-#  - If necessary, please leave a comment before the added domains/pattern. Comments must start with #.
-#  - If this fixes an issue, please refer to the corresponding issue (issue URL) in the comment.
-#  - Please insert domains/pattern under the comment BEGIN. 
-#  - Please ensure that there is a blank line before and after the inserted text block.
 
-# BEGIN
+# Genie AI app
+api.adapty.io
+api.onesignal.com
+
+# Xiaomi App Vault uses it to display the widget's center
+*.t14.market.xiaomi.com
+
+# Needed for additional Assistant downloads on Android
+geller-pa.googleapis.com
 
 # Xiaomi app "Widget Feed"
 *.brs.api.intl.miui.com
@@ -20,6 +20,7 @@ api.loganalytics.io
 
 # https://github.com/hagezi/dns-blocklists/issues/3620
 uobsoe.com
+benelph.de
 
 # https://github.com/hagezi/dns-blocklists/issues/3576
 hubspotlinks.com
@@ -924,5 +925,3 @@ search.minghui.org
 searchb5.minghui.org
 vn.minghui.org
 zhoubao.minghui.org
-
-# END

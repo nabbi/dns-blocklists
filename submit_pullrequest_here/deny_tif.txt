@@ -1,41 +1,152 @@
 # Domains to be added to the threat intelligence feeds list.
-#
-# RULES:
-#  - One domain per line
-#  - The domain should not already be included
-#  - The domain should not be dead 
-#  - If necessary, please leave a comment before the added domains. Comments must start with #.
-#  - Please insert domains under the comment BEGIN. 
-#  - Please ensure that there is a blank line before and after the inserted text block.
 
-# BEGIN
+# Netflix phishing
+aktivierung-info.com
 
-max0001.top
-min0001.top
-rap194.top
-yeqbx.top
+# Credit Card Skimmer Domain in TLS SNI
+techtnee.com
+
+# Phishing [sub]domains: https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/
+6627c220b5daa507c6cca1c5--votedme.netlify.app
+automaticgiveaway.000webhostapp.com
+climbing-green-botany.glitch.me
+dev-cdn370.pantheonsite.io
+facebookbusiness0078.blogspot.be
+ff-rewards-redeem-codes-org.github.io
+free-fire-reward-garena-bd-nepazl.epizy.com
+freefirefff.github.io
+instagram-cutequeen57.netlify.app
+pro.riccardomalisano.com
+pubg-tournament-official.github.io
+raviral.com
+sniperdz.com
+v0tingsystem.github.io
+
+# https://infosec.exchange/@divested/113226945978043050
+bromite.org
 
 # Misc
 
+hapdw.gdsdsgskd8.com
+xxxi.porn
+dhlgvcot.top
+accountconfirm-managerpage-requestreview-verifynow.pages.dev
+aderisci-ora02.com
 bitegifts.com
-marugroup.net
+business.help-privacy-center-com.com
 edigitalsurvey.com
-kebeckirgon.net
-secu100.net
-indlapost.one
-indlapost.net
-myaxbk.in
 g-site.site
 g-site.store
+hairma.cc
+help-privacy-center-com.com
 hott.lat
+indlapost.net
+indlapost.one
+kebeckirgon.net
 l.ead.me
 localmeets.link
 loginmycard.in
+marugroup.net
+max0001.top
 mein-ind.world
+min0001.top
+myaxbk.in
+rap194.top
 safesystemfile3.site
+secu100.net
 teiegram.org-cc.org
 telegram.fans
 tempisite.com
+yeqbx.top
+
+# https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF
+acqv.w8510.com
+aewreiuicajo.w8510.com
+apdfhhjcxcb.w8510.com
+asdvxzzxvza.w8510.com
+awbpxtpi.w8510.com
+bzbatflwb.w8510.com
+cansqra.w8510.com
+canwtrow.w8510.com
+cccasdqawer.w8510.com
+ccccasdasdq.w8510.com
+cccvbsdfsdf.w8510.com
+ccmmkmnkna.w8510.com
+cpooooim.w8510.com
+dftiscasdwe.w8510.com
+dvasrdftqgqg.w8510.com
+iiiiopasdfcasd.w8510.com
+iikljhg.w8510.com
+iuyrdfvv.w8510.com
+iyasdasfda.w8510.com
+kliscjaisdjhi.w8510.com
+lkljjhidjaiwd.w8510.com
+lkopiyut.w8510.com
+lyblqwesfawe.w8510.com
+mjiudwajhkf.w8510.com
+mmjkjiu.w8510.com
+mmnajsdh.w8510.com
+mnbghjj.w8510.com
+ocmnusdjdik.w8510.com
+oiuiasdads.w8510.com
+plllkkoasdko.w8510.com
+poiaqqrjk.w8510.com
+pojkkaka.w8510.com
+poooooiioasd.w8510.com
+ppppoiiua.w8510.com
+qacassdfawemp.w8510.com
+qmmklou.w8510.com
+qwertdvvaaz.w8510.com
+ssacawfafwa.w8510.com
+testate.w8510.com
+testateone.w8510.com
+tuisasdcxzd.w8510.com
+uqooapp.w8510.com
+uuiyiyasd.w8510.com
+wmllxwkg.w8510.com
+zasdfgasd.w8510.com
+zda4g4.w8510.com
+zda896.w8510.com
+zda9ol.w8510.com
+zdaaac.w8510.com
+zdaasdafq.w8510.com
+zdabnv.w8510.com
+zdacasc.w8510.com
+zdacasdc.w8510.com
+zdacawca.w8510.com
+zdacccz.w8510.com
+zdacppao.w8510.com
+zdacscswc.w8510.com
+zdacvb.w8510.com
+zdacvbzzs.w8510.com
+zdacwaca.w8510.com
+zdacwrf.w8510.com
+zdacx46.w8510.com
+zdacxdawdas.w8510.com
+zdacxzd.w8510.com
+zdaczcaaw.w8510.com
+zdaczcvs1.w8510.com
+zdaczsc.w8510.com
+zdaczvs.w8510.com
+zdaczxc1.w8510.com
+zdafaa.w8510.com
+zdamkl.w8510.com
+zdaplm.w8510.com
+zdapoi.w8510.com
+zdapoq.w8510.com
+zdaqggh.w8510.com
+zdaqwfasf.w8510.com
+zdavva.w8510.com
+zdaxcxzc.w8510.com
+zdazzz.w8510.com
+zdcacaw.w8510.com
+zdcawca.w8510.com
+zdpoa.w8510.com
+zdpog.w8510.com
+zdqqqqwe.w8510.com
+zdzvbs.w8510.com
+zzxnjiq.w8510.com
+zzzcmsq.w8510.com
 
 # https://github.com/hagezi/dns-blocklists/issues/3740
 bsnwritingservices.com
@@ -1028,5 +1139,3 @@ choicecreditrepair.life
 swagbucks.com
 americanunsecured.com
 grantsreach.com
-
-# END

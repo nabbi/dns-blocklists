@@ -21,7 +21,7 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 7. [Fake](#fake) - Protects against internet scams, traps & fakes!
 8. [Pop-Up Ads](#popupads) - Protects against annoying and malicious pop-up ads!
 9. [Threat Intelligence Feeds](#tif) - Increases security significantly! (Recommended) : [Full](#tif) - [Medium](#tifmedium) - [Mini](#tifmini) - [IPs](#tifips)
-10. [Newly Registered Domains](#nrd) - Favoured by threat actors to launch malicious campaigns! : [14 days](#nrd14) - [30 days](#nrd30)
+10. [Newly Registered Domains](#nrd) - Favoured by threat actors to launch malicious campaigns!
 11. [DoH/VPN/TOR/Proxy Bypass](#bypass) - Prevent methods to bypass your DNS! : [Full](#bypass_all) - [DoH only](#bypass_dns) - [DoH IPs](#bypass_ips)
 12. [Safesearch not supported](#safesearch) - Prevent the use of search engines that do not support Safesearch!
 13. [Dynamic DNS](#dyndns) - Protects against the malicious use of dynamic DNS services!
@@ -344,40 +344,9 @@ IPv4 lists in [plain IP format](https://raw.githubusercontent.com/hagezi/dns-blo
 A blocklist for blocking domains registered in the last 14 or 30 days. These domains are known to be favoured by threat actors to launch malicious campaigns.
 
 > [!IMPORTANT]
-> This is an external list that is created and maintained by [@xRuffKez](https://github.com/xRuffKez). Please address requests directly to the maintainer in the [corresponding repository](https://github.com/xRuffKez/NRD).
+> This is an external list that is created and maintained by [@xRuffKez](https://github.com/xRuffKez).
 
-> [!NOTE]
-> It may contain a few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains.
-
-|             | Light           | Normal          | Pro             | Pro++           | Ultimate        | TIF   |
-|:-----------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:| :---: |
-| Included in | :x: | :x: | :x: | :x: | :x: | :yellow_square: |
-
-:green_circle: yes :yellow_square: partially :x: no
-
-#### :new: **Domains registered in the last 14 days** <a name="nrd14"></a>
-
-| Format | Links | Should be used for |
-|:-------|:-----|:----------------|
-| Adblock | [Link](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-14day_adblock.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-14day_wildcard.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-14day.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
-
-#### :new: **Domains registered in the last 30 days** <a name="nrd30"></a>
-
-> [!IMPORTANT]
-> The 30-day list has been divided into two parts in order not to exceed the maximum size for files on Github. Both parts must be used.
-
-> [!WARNING]
-> The total size of the list can lead to problems in some Adblockers. If this is the case, use the 14-day version of the list.
-
-| Format | Links | Should be used for |
-|:-------|:-----|:----------------|
-| Adblock | [Part1](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_adblock_part1.txt) [Part2](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_adblock_part2.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home (can lead to problems due to the size!), eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam |
-| Wildcard<br>Asterisk | [Part1](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_wildcard_part1.txt) [Part2](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_wildcard_part2.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Part1](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_part1.txt) [Part2](https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-30day_part2.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
-
-**Expires:** 24 hours (update frequency)
+**For the lists and further details visit the [corresponding repository](https://github.com/xRuffKez/NRD).**
 
 ---
 
@@ -645,6 +614,7 @@ Blocks native broadband tracker from devices, services and operating systems tha
 | Apple (iOS, macOS, tvOS) | [Link](lnkgh_d/native.apple.txt) [Mirror](lnkgl_d/native.apple.txt) [Mirror](lnkjd_d/native.apple.txt) | [Link](lnkgh_h/native.apple.txt) [Mirror](lnkgl_h/native.apple.txt) [Mirror](lnkjd_h/native.apple.txt) | [Link](lnkgh_a/native.apple.txt) [Mirror](lnkgl_a/native.apple.txt) [Mirror](lnkjd_a/native.apple.txt) | [Link](lnkgh_m/native.apple.txt) [Mirror](lnkgl_m/native.apple.txt) [Mirror](lnkjd_m/native.apple.txt) | [Link](lnkgh_w/native.apple.txt) [Mirror](lnkgl_w/native.apple.txt) [Mirror](lnkjd_w/native.apple.txt) | [Link](lnkgh_w/native.apple-onlydomains.txt) [Mirror](lnkgl_w/native.apple-onlydomains.txt) [Mirror](lnkjd_w/native.apple-onlydomains.txt) | [Link](lnkgh_r/native.apple.txt) [Mirror](lnkgl_r/native.apple.txt) [Mirror](lnkjd_r/native.apple.txt) |
 | Huawei (Devices) | [Link](lnkgh_d/native.huawei.txt) [Mirror](lnkgl_d/native.huawei.txt) [Mirror](lnkjd_d/native.huawei.txt) | [Link](lnkgh_h/native.huawei.txt) [Mirror](lnkgl_h/native.huawei.txt) [Mirror](lnkjd_h/native.huawei.txt) | [Link](lnkgh_a/native.huawei.txt) [Mirror](lnkgl_a/native.huawei.txt) [Mirror](lnkjd_a/native.huawei.txt) | [Link](lnkgh_m/native.huawei.txt) [Mirror](lnkgl_m/native.huawei.txt) [Mirror](lnkjd_m/native.huawei.txt) | [Link](lnkgh_w/native.huawei.txt) [Mirror](lnkgl_w/native.huawei.txt) [Mirror](lnkjd_w/native.huawei.txt) | [Link](lnkgh_w/native.huawei-onlydomains.txt) [Mirror](lnkgl_w/native.huawei-onlydomains.txt) [Mirror](lnkjd_w/native.huawei-onlydomains.txt) | [Link](lnkgh_r/native.huawei.txt) [Mirror](lnkgl_r/native.huawei.txt) [Mirror](lnkjd_r/native.huawei.txt) |
 | Microsoft (Windows, Office, MSN) | [Link](lnkgh_d/native.winoffice.txt) [Mirror](lnkgl_d/native.winoffice.txt) [Mirror](lnkjd_d/native.winoffice.txt) | [Link](lnkgh_h/native.winoffice.txt) [Mirror](lnkgl_h/native.winoffice.txt) [Mirror](lnkjd_h/native.winoffice.txt) | [Link](lnkgh_a/native.winoffice.txt) [Mirror](lnkgl_a/native.winoffice.txt) [Mirror](lnkjd_a/native.winoffice.txt) | [Link](lnkgh_m/native.winoffice.txt) [Mirror](lnkgl_m/native.winoffice.txt) [Mirror](lnkjd_m/native.winoffice.txt) | [Link](lnkgh_w/native.winoffice.txt) [Mirror](lnkgl_w/native.winoffice.txt) [Mirror](lnkjd_w/native.winoffice.txt) | [Link](lnkgh_w/native.winoffice-onlydomains.txt) [Mirror](lnkgl_w/native.winoffice-onlydomains.txt) [Mirror](lnkjd_w/native.winoffice-onlydomains.txt) | [Link](lnkgh_r/native.winoffice.txt) [Mirror](lnkgl_r/native.winoffice.txt) [Mirror](lnkjd_r/native.winoffice.txt) |
+| Samsung | [Link](lnkgh_d/native.samsung.txt) [Mirror](lnkgl_d/native.samsung.txt) [Mirror](lnkjd_d/native.samsung.txt) | [Link](lnkgh_h/native.samsung.txt) [Mirror](lnkgl_h/native.samsung.txt) [Mirror](lnkjd_h/native.samsung.txt) | [Link](lnkgh_a/native.samsung.txt) [Mirror](lnkgl_a/native.samsung.txt) [Mirror](lnkjd_a/native.samsung.txt) | [Link](lnkgh_m/native.samsung.txt) [Mirror](lnkgl_m/native.samsung.txt) [Mirror](lnkjd_m/native.samsung.txt) | [Link](lnkgh_w/native.samsung.txt) [Mirror](lnkgl_w/native.samsung.txt) [Mirror](lnkjd_w/native.samsung.txt) | [Link](lnkgh_w/native.samsung-onlydomains.txt) [Mirror](lnkgl_w/native.samsung-onlydomains.txt) [Mirror](lnkjd_w/native.samsung-onlydomains.txt) | [Link](lnkgh_r/native.samsung.txt) [Mirror](lnkgl_r/native.samsung.txt) [Mirror](lnkjd_r/native.samsung.txt) |
 | TikTok (Fingerprinting) | [Link](lnkgh_d/native.tiktok.txt) [Mirror](lnkgl_d/native.tiktok.txt) [Mirror](lnkjd_d/native.tiktok.txt) | [Link](lnkgh_h/native.tiktok.txt) [Mirror](lnkgl_h/native.tiktok.txt) [Mirror](lnkjd_h/native.tiktok.txt) | [Link](lnkgh_a/native.tiktok.txt) [Mirror](lnkgl_a/native.tiktok.txt) [Mirror](lnkjd_a/native.tiktok.txt) | [Link](lnkgh_m/native.tiktok.txt) [Mirror](lnkgl_m/native.tiktok.txt) [Mirror](lnkjd_m/native.tiktok.txt) | [Link](lnkgh_w/native.tiktok.txt) [Mirror](lnkgl_w/native.tiktok.txt) [Mirror](lnkjd_w/native.tiktok.txt) | [Link](lnkgh_w/native.tiktok-onlydomains.txt) [Mirror](lnkgl_w/native.tiktok-onlydomains.txt) [Mirror](lnkjd_w/native.tiktok-onlydomains.txt) | [Link](lnkgh_r/native.tiktok.txt) [Mirror](lnkgl_r/native.tiktok.txt) [Mirror](lnkjd_r/native.tiktok.txt) |
 | TikTok (Fingerprinting) Aggressive | [Link](lnkgh_d/native.tiktok.extended.txt) [Mirror](lnkgl_d/native.tiktok.extended.txt) [Mirror](lnkjd_d/native.tiktok.extended.txt) | [Link](lnkgh_h/native.tiktok.extended.txt) [Mirror](lnkgl_h/native.tiktok.extended.txt) [Mirror](lnkjd_h/native.tiktok.extended.txt) | [Link](lnkgh_a/native.tiktok.extended.txt) [Mirror](lnkgl_a/native.tiktok.extended.txt) [Mirror](lnkjd_a/native.tiktok.extended.txt) | [Link](lnkgh_m/native.tiktok.extended.txt) [Mirror](lnkgl_m/native.tiktok.extended.txt) [Mirror](lnkjd_m/native.tiktok.extended.txt) | [Link](lnkgh_w/native.tiktok.extended.txt) [Mirror](lnkgl_w/native.tiktok.extended.txt) [Mirror](lnkjd_w/native.tiktok.extended.txt) | [Link](lnkgh_w/native.tiktok.extended-onlydomains.txt) [Mirror](lnkgl_w/native.tiktok.extended-onlydomains.txt) [Mirror](lnkjd_w/native.tiktok.extended-onlydomains.txt) | [Link](lnkgh_r/native.tiktok.extended.txt) [Mirror](lnkgl_r/native.tiktok.extended.txt) [Mirror](lnkjd_r/native.tiktok.extended.txt) |
 | LG webOS | [Link](lnkgh_d/native.lgwebos.txt) [Mirror](lnkgl_d/native.lgwebos.txt) [Mirror](lnkjd_d/native.lgwebos.txt) | [Link](lnkgh_h/native.lgwebos.txt) [Mirror](lnkgl_h/native.lgwebos.txt) [Mirror](lnkjd_h/native.lgwebos.txt) | [Link](lnkgh_a/native.lgwebos.txt) [Mirror](lnkgl_a/native.lgwebos.txt) [Mirror](lnkjd_a/native.lgwebos.txt) | [Link](lnkgh_m/native.lgwebos.txt) [Mirror](lnkgl_m/native.lgwebos.txt) [Mirror](lnkjd_m/native.lgwebos.txt) | [Link](lnkgh_w/native.lgwebos.txt) [Mirror](lnkgl_w/native.lgwebos.txt) [Mirror](lnkjd_w/native.lgwebos.txt) | [Link](lnkgh_w/native.lgwebos-onlydomains.txt) [Mirror](lnkgl_w/native.lgwebos-onlydomains.txt) [Mirror](lnkjd_w/native.lgwebos-onlydomains.txt) | [Link](lnkgh_r/native.lgwebos.txt) [Mirror](lnkgl_r/native.lgwebos.txt) [Mirror](lnkjd_r/native.lgwebos.txt) |
@@ -743,10 +713,6 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 | Pro + TIF  | `https://dns.dnswarden.com/00000000000000000000018` | `00000000000000000000018.dns.dnswarden.com` |
 | Pro plus + TIF | `https://dns.dnswarden.com/0000000000000000000000o` | `0000000000000000000000o.dns.dnswarden.com` |
 | Ultimate + TIF | `https://dns.dnswarden.com/0000000000000000000000804` | `0000000000000000000000804.dns.dnswarden.com` |
-
-#### :department_store: **DNSforge (Germany) - free** <a name="dnsforge"></a>
-
-[DNSforge](https://dnsforge.de/) uses some of my lists in addition to other blocklists.
 
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 

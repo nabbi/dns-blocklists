@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1726093260 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1728252600 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 11 Sep 2024 22:21 UTC
-; Version: 2024.0911.2221.00
+; Last modified: 06 Oct 2024 22:10 UTC
+; Version: 2024.1006.2210.20
 ; Syntax: RPZ
-; Number of entries: 2962
+; Number of entries: 2958
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -27,8 +27,6 @@ img.com.ar CNAME .
 *.img.com.ar CNAME .
 dns.army CNAME .
 *.dns.army CNAME .
-v6.army CNAME .
-*.v6.army CNAME .
 notici.as CNAME .
 *.notici.as CNAME .
 cloudns.asia CNAME .
@@ -1227,8 +1225,6 @@ robot-armies.com CNAME .
 *.robot-armies.com CNAME .
 rockingwranchinc.com CNAME .
 *.rockingwranchinc.com CNAME .
-rundis.com CNAME .
-*.rundis.com CNAME .
 russkoeumea.com CNAME .
 *.russkoeumea.com CNAME .
 rwbcode.com CNAME .
@@ -1485,6 +1481,8 @@ ath.cx CNAME .
 *.ath.cx CNAME .
 cloudns.cx CNAME .
 *.cloudns.cx CNAME .
+dyns.cx CNAME .
+*.dyns.cx CNAME .
 it.cx CNAME .
 *.it.cx CNAME .
 cpsnet.cz CNAME .
@@ -1651,8 +1649,6 @@ icg.hk CNAME .
 *.icg.hk CNAME .
 ismoke.hk CNAME .
 *.ismoke.hk CNAME .
-sleepless.hk CNAME .
-*.sleepless.hk CNAME .
 portmap.host CNAME .
 *.portmap.host CNAME .
 digikabel.hu CNAME .
@@ -1809,8 +1805,12 @@ home.kg CNAME .
 *.home.kg CNAME .
 kyrgyzstan.kg CNAME .
 *.kyrgyzstan.kg CNAME .
+surak.kz CNAME .
+*.surak.kz CNAME .
 allez.la CNAME .
 *.allez.la CNAME .
+wha.la CNAME .
+*.wha.la CNAME .
 project.li CNAME .
 *.project.li CNAME .
 ax.lt CNAME .
@@ -2045,8 +2045,6 @@ ham-radio-op.net CNAME .
 *.ham-radio-op.net CNAME .
 hbmc.net CNAME .
 *.hbmc.net CNAME .
-herodias.net CNAME .
-*.herodias.net CNAME .
 hicam.net CNAME .
 *.hicam.net CNAME .
 homeftp.net CNAME .
@@ -2315,8 +2313,6 @@ authorizeddns.org CNAME .
 *.authorizeddns.org CNAME .
 awiki.org CNAME .
 *.awiki.org CNAME .
-bagus.org CNAME .
-*.bagus.org CNAME .
 barbaforte.org CNAME .
 *.barbaforte.org CNAME .
 birdriver.org CNAME .
@@ -2421,6 +2417,8 @@ enemyterritory.org CNAME .
 *.enemyterritory.org CNAME .
 entrydns.org CNAME .
 *.entrydns.org CNAME .
+epicgamer.org CNAME .
+*.epicgamer.org CNAME .
 essexregional.org CNAME .
 *.essexregional.org CNAME .
 etowns.org CNAME .
@@ -2625,8 +2623,6 @@ sumibi.org CNAME .
 *.sumibi.org CNAME .
 tantrum.org CNAME .
 *.tantrum.org CNAME .
-theblacklist.org CNAME .
-*.theblacklist.org CNAME .
 themcmillans.org CNAME .
 *.themcmillans.org CNAME .
 thenest.org CNAME .
@@ -2859,8 +2855,6 @@ ics.tw CNAME .
 *.ics.tw CNAME .
 4040.idv.tw CNAME .
 *.4040.idv.tw CNAME .
-linkin.tw CNAME .
-*.linkin.tw CNAME .
 sino.tw CNAME .
 *.sino.tw CNAME .
 skies.tw CNAME .
@@ -2945,6 +2939,8 @@ onmypc.us CNAME .
 *.onmypc.us CNAME .
 pointto.us CNAME .
 *.pointto.us CNAME .
+possessed.us CNAME .
+*.possessed.us CNAME .
 punked.us CNAME .
 *.punked.us CNAME .
 shacknet.us CNAME .

@@ -8,6 +8,13 @@
   },
   "rules": [
     {
+      "PK": "*.actor",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.africa",
       "action": {
         "do": 0,
@@ -36,6 +43,13 @@
       }
     },
     {
+      "PK": "*.auction",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.autos",
       "action": {
         "do": 0,
@@ -44,6 +58,13 @@
     },
     {
       "PK": "*.baby",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.band",
       "action": {
         "do": 0,
         "status": 1
@@ -99,13 +120,6 @@
       }
     },
     {
-      "PK": "*.bio",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.biz",
       "action": {
         "do": 0,
@@ -142,6 +156,13 @@
     },
     {
       "PK": "*.boutique",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.builders",
       "action": {
         "do": 0,
         "status": 1
@@ -393,6 +414,13 @@
       }
     },
     {
+      "PK": "*.expert",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.fan",
       "action": {
         "do": 0,
@@ -435,7 +463,28 @@
       }
     },
     {
+      "PK": "*.fitness",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.foo",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.forsale",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.foundation",
       "action": {
         "do": 0,
         "status": 1
@@ -499,6 +548,13 @@
     },
     {
       "PK": "*.gold",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.golf",
       "action": {
         "do": 0,
         "status": 1
@@ -688,6 +744,13 @@
     },
     {
       "PK": "*.men",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.miami",
       "action": {
         "do": 0,
         "status": 1
@@ -932,6 +995,13 @@
       }
     },
     {
+      "PK": "*.rent",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.rest",
       "action": {
         "do": 0,
@@ -1073,6 +1143,13 @@
     },
     {
       "PK": "*.style",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.su",
       "action": {
         "do": 0,
         "status": 1

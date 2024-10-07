@@ -1,15 +1,4 @@
 # Domains to be added to the doh and doh-vpn-proxy-bypass bypass list.
-#
-# RULES:
-#  - One domain per line
-#  - The domain should not already be included
-#  - The domain should not be dead 
-#  - If necessary, please leave a comment before the added domains. Comments must start with #.
-#  - Please insert domains under the comment BEGIN. 
-#  - Please ensure that there is a blank line before and after the inserted text block.
-
-# BEGIN
-
 1.dns.noridev.moe
 1and1-dns.de
 1dot1dot1dot1.cloudflare-dns.com
@@ -643,5 +632,3 @@ xray.krnl.eu
 yarp.lefolgoc.net
 yunyun.is.my.waifu.cz
 zero.dns0.eu
-
-# END

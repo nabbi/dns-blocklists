@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 05 Sep 2024 02:07 UTC
-! Version: 2024.0905.0207.56
+! Last modified: 02 Oct 2024 22:39 UTC
+! Version: 2024.1002.2239.52
 ! Syntax: AdBlock
-! Number of entries: 339
+! Number of entries: 337
 !
 ||in.appcenter.ms^
 ||applicationinsights.azure.com^
@@ -310,11 +310,9 @@
 ||cache.datamart.windows.com^
 ||sa.windows.com^
 ||adsdktelemetry-prod.servicebus.windows.net^
-||ams-aase-1-bus-analytics-1-1.servicebus.windows.net^
 ||ams-euno-1-bus-analytics-1-1.servicebus.windows.net^
 ||ams-usea-1-bus-analytics-1-1.servicebus.windows.net^
 ||ams-usso-1-bus-analytics-1-1.servicebus.windows.net^
-||ams-uswe-1-bus-analytics-1-1.servicebus.windows.net^
 ||analytics-dev-lleap-events.servicebus.windows.net^
 ||analytics-dev-simpad-events.servicebus.windows.net^
 ||analyticsehnwe.servicebus.windows.net^
